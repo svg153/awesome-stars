@@ -1,0 +1,6 @@
+{
+  "name": "svg153-awesome-stars",
+  "dependencies": {
+    "stargazed": "github:abhijithvijayan/stargazed"
+  }
+}
