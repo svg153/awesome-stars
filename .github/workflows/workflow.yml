@@ -32,4 +32,4 @@ jobs:
             --token "${GITHUB_TOKEN}" \
             --repository "${REPO_NAME}" \
             --message "${MESSAGE}" \
-            --sort'
+            --sort
