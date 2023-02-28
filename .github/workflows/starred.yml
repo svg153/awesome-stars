@@ -50,7 +50,7 @@ jobs:
           --repository "${REPOSITORY}" \
           --sort \
           --token "${TOKEN}" \
-          --message "${MESSAGE}"" \
+          --message "${MESSAGE}" \
           --topic \
           --topic_limit 500 \
           --filename topics.md
