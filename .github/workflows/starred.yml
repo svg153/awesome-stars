@@ -33,11 +33,11 @@ jobs:
         REPOSITORY: ${{ env.REPOSITORY_NAME }}
       run: |
         starred \
-          --username ${USERNAME} \
-          --repository ${REPOSITORY} \
+          --username "${USERNAME}" \
+          --repository "${REPOSITORY}" \
           --sort \
-          --token ${TOKEN} \
-          --message ${MESSAGE} \
+          --token "${TOKEN}" \
+          --message "${MESSAGE}" \
           --filename stars.md
     - name: update repo category by topic
       env:
@@ -46,11 +46,11 @@ jobs:
         REPOSITORY: ${{ env.REPOSITORY_NAME }}
       run: |
         starred \
-          --username ${USERNAME} \
-          --repository ${REPOSITORY} \
+          --username "${USERNAME}" \
+          --repository "${REPOSITORY}" \
           --sort \
-          --token ${TOKEN} \
-          --message ${MESSAGE} \
+          --token "${TOKEN}" \
+          --message "${MESSAGE}"" \
           --topic \
           --topic_limit 500 \
           --filename topics.md
