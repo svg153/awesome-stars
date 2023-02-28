@@ -29,8 +29,8 @@ jobs:
     - name: update repo category by language
       env:
         TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        REPOSITORY: ${{ env.REPOSITORY_NAME }}
         USERNAME: ${{ github.repository_owner }}
+        REPOSITORY: ${{ env.REPOSITORY_NAME }}
       run: |
         starred \
           --username ${USERNAME} \
@@ -42,8 +42,8 @@ jobs:
     - name: update repo category by topic
       env:
         TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        REPOSITORY: ${{ env.REPOSITORY_NAME }}
         USERNAME: ${{ github.repository_owner }}
+        REPOSITORY: ${{ env.REPOSITORY_NAME }}
       run: |
         starred \
           --username ${USERNAME} \

@@ -1,5 +1,5 @@
 name: '🌟 update'
-# This workflow runs at 00:30 everyday
+
 on:
   schedule:
     - cron: '30 0 * * *'
@@ -9,30 +9,31 @@ permissions:
   contents: write
 
 env:
-  USERNAME: 'svg153'
-  REPO_NAME: 'awesome-stars'
   MESSAGE: '🌟 update'
 
 jobs:
   README:
     runs-on: ubuntu-latest
     steps:
-      - name: 'Use GitHub Actions'
-        uses: actions/checkout@v3
-      - name: 'Use Node.js 16.x'
+      - uses: actions/checkout@v3
+      - name: Use Node.js 16.x
         uses: actions/setup-node@v3
         with:
           node-version: 16.x
-      - name: 'Install Package'
+      - name: Install Package
         run: 'npm install'
-      - name: 'Update Repo'
+      - name: Get repository name
+        run: echo "REPOSITORY_NAME=${GITHUB_REPOSITORY#*/}" >> $GITHUB_ENV
+      - name: Update Repo
         env:
-          GITHUB_TOKEN: '${{ secrets.GITHUB_TOKEN }}'
+          TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          REPOSITORY: ${{ env.REPOSITORY_NAME }}
         run: |
           npx stargazed \
-            --username  "${USERNAME}" \
-            --token "${GITHUB_TOKEN}" \
-            --repository "${REPO_NAME}" \
+            --username "${USERNAME}" \
+            --token "${TOKEN}" \
+            --repository "${REPOSITORY}" \
             --message "${MESSAGE}" \
             --sort
   
