@@ -764,6 +764,7 @@
 
 ## cli 
 
+- [folke/devmoji](https://github.com/folke/devmoji) - :robot: :rocket: :sparkles: Emojify your conventional commits with Devmoji
 - [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line interface (CLI) productivity tool powered by OpenAI's GPT-3 models, will help you accomplish your tasks faster and more efficiently.
 - [multiprocessio/dsq](https://github.com/multiprocessio/dsq) - Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
 - [klaudiosinani/taskbook](https://github.com/klaudiosinani/taskbook) - Tasks, boards & notes for the command-line habitat
@@ -1309,6 +1310,7 @@
 
 ## emoji 
 
+- [folke/devmoji](https://github.com/folke/devmoji) - :robot: :rocket: :sparkles: Emojify your conventional commits with Devmoji
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 
 ## emulator 
