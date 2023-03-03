@@ -203,6 +203,7 @@
 - [vim](#vim)
 - [visual-studio-code](#visual-studio-code)
 - [vue](#vue)
+- [vuejs](#vuejs)
 - [web](#web)
 - [web-components](#web-components)
 - [webapp](#webapp)
@@ -642,7 +643,7 @@
 
 ## bash 
 
-- [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line interface (CLI) productivity tool powered by OpenAI's GPT-3 models, will help you accomplish your tasks faster and more efficiently.
+- [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by ChatGPT, will help you accomplish your tasks faster and more efficiently.
 - [CodelyTV/awesome-bash-challenges](https://github.com/CodelyTV/awesome-bash-challenges) - Awesome Bash Challenges
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
 - [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and sim
@@ -765,7 +766,7 @@
 ## cli 
 
 - [folke/devmoji](https://github.com/folke/devmoji) - :robot: :rocket: :sparkles: Emojify your conventional commits with Devmoji
-- [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line interface (CLI) productivity tool powered by OpenAI's GPT-3 models, will help you accomplish your tasks faster and more efficiently.
+- [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by ChatGPT, will help you accomplish your tasks faster and more efficiently.
 - [multiprocessio/dsq](https://github.com/multiprocessio/dsq) - Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
 - [klaudiosinani/taskbook](https://github.com/klaudiosinani/taskbook) - Tasks, boards & notes for the command-line habitat
 - [toolleeo/cli-apps](https://github.com/toolleeo/cli-apps) - The largest Awesome Curated list of CLI/TUI applications with source data organized into CSV files
@@ -1770,6 +1771,7 @@
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
 - [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud 
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
+- [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An Open Source Financial Switch to make Payments fast, reliable and affordable
 - [pnp/cli-microsoft365](https://github.com/pnp/cli-microsoft365) - Manage Microsoft 365 and SharePoint Framework projects on any platform
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
@@ -2689,6 +2691,7 @@
 
 ## others 
 
+- [microsoft/Codex-CLI](https://github.com/microsoft/Codex-CLI) - CLI tool that uses Codex to turn natural language commands into their Bash/ZShell/PowerShell equivalents
 - [GoogleCloudPlatform/software-delivery-blueprint](https://github.com/GoogleCloudPlatform/software-delivery-blueprint) - 
 - [alibaba/lowcode-engine](https://github.com/alibaba/lowcode-engine) - An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系
 - [Clouxart/dependabot-cli](https://github.com/Clouxart/dependabot-cli) - It is a command line tool to help you generate Github's dependabot.yml based on your project.
@@ -3189,7 +3192,7 @@
 - [appunite/docker](https://github.com/appunite/docker) - Dockerfile's for building Android
 - [dynodroid/dynodroid](https://github.com/dynodroid/dynodroid) - Automatic Input Generation System for Android Apps
 - [AndrewZcc/mobiGUITAR](https://github.com/AndrewZcc/mobiGUITAR) - Android Test Generation Tools MobiGUITAR[MG] (MacOSX version)
-- [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
+- [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [bitrise-io/android](https://github.com/bitrise-io/android) - ARCHIVE: This repository is sunsetted. The new image's repository will be made available later. | Android Docker image
 - [barryclark/jekyll-now](https://github.com/barryclark/jekyll-now) - Build a Jekyll blog in minutes, without touching the command line.
 - [k88hudson/git-flight-rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git
@@ -3853,7 +3856,7 @@
 
 ## shell 
 
-- [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line interface (CLI) productivity tool powered by OpenAI's GPT-3 models, will help you accomplish your tasks faster and more efficiently.
+- [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by ChatGPT, will help you accomplish your tasks faster and more efficiently.
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history
@@ -4190,6 +4193,16 @@
 - [InterviewMap/CS-Interview-Knowledge-Map](https://github.com/InterviewMap/CS-Interview-Knowledge-Map) - Build the best interview map. The current content includes JS, network, browser related, performance optimization, security, framework, Git, data structure, algorithm, etc.
 - [salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever) - :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
 - [Molunerfinn/node-github-profile-summary](https://github.com/Molunerfinn/node-github-profile-summary) - [Temporarily unavailable]:octocat:The node version of github-profile-summary with GraphQL
+
+## vuejs 
+
+- [zinclabs/zincsearch](https://github.com/zinclabs/zincsearch) - ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
+- [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
+- [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
+- [remoteinterview/zero](https://github.com/remoteinterview/zero) - Zero is a web server to simplify web development.
+- [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
+- [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
+- [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
 
 ## web 
 
