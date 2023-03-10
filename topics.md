@@ -2712,6 +2712,7 @@
 
 ## others 
 
+- [ServiceWeaver/weaver](https://github.com/ServiceWeaver/weaver) - Programming framework for writing and deploying cloud applications.
 - [awslabs/smithy](https://github.com/awslabs/smithy) - Smithy is a protocol-agnostic interface definition language and set of tools for generating clients, servers, and documentation for any programming language.
 - [Nutlope/roomGPT](https://github.com/Nutlope/roomGPT) - Upload a photo of your room to generate your dream room with AI.
 - [microsoft/Codex-CLI](https://github.com/microsoft/Codex-CLI) - CLI tool that uses Codex to turn natural language commands into their Bash/ZShell/PowerShell equivalents
@@ -3770,6 +3771,7 @@
 - [gyscos/cursive](https://github.com/gyscos/cursive) - A Text User Interface library for the Rust programming language
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
+- [Spotifyd/spotifyd](https://github.com/Spotifyd/spotifyd) - A spotify daemon
 - [sharkdp/pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors
 - [p-e-w/ternimal](https://github.com/p-e-w/ternimal) - Simulate a lifeform in the terminal
 - [alejandrogallo/rooki](https://github.com/alejandrogallo/rooki) - A stupid simple script runner supporting c, c++, rust, haskell and virtually anything
