@@ -1812,6 +1812,7 @@
 
 ## TypeScript 
 
+- [planetscale/issues-calendar-for-github-projects](https://github.com/planetscale/issues-calendar-for-github-projects) - A tool to view GitHub Project Issues in a calendar view.
 - [Nutlope/roomGPT](https://github.com/Nutlope/roomGPT) - Upload a photo of your room to generate your dream room with AI.
 - [folke/devmoji](https://github.com/folke/devmoji) - :robot: :rocket: :sparkles: Emojify your conventional commits with Devmoji
 - [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging and more.
