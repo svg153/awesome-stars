@@ -1289,6 +1289,7 @@
 
 ## Python 
 
+- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is an Open Source Security tool for AWS, Azure and GCP to perform Cloud Security best practices assessments, audits, incident response, compliance, continuous monitoring, hardening and forensi
 - [GerevAI/gerev](https://github.com/GerevAI/gerev) - 🧠 AI-powered search engine for your organization 🔎
 - [acheong08/EdgeGPT](https://github.com/acheong08/EdgeGPT) - Reverse engineered API of Microsoft's Bing Chat AI
 - [microsoft/Codex-CLI](https://github.com/microsoft/Codex-CLI) - CLI tool that uses Codex to turn natural language commands into their Bash/ZShell/PowerShell equivalents
@@ -1529,7 +1530,7 @@
 
 ## Ruby 
 
-- [cncf/gitdm](https://github.com/cncf/gitdm) - 📜Fork for tracking CNCF projects
+- [cncf/gitdm.archive](https://github.com/cncf/gitdm.archive) - 📜Fork for tracking CNCF projects
 - [alphagov/govuk-saas-config](https://github.com/alphagov/govuk-saas-config) - Configuration for GitHub, Sentry and Logit
 - [github/explore](https://github.com/github/explore) - Community-curated topic and collection pages on GitHub
 - [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything
