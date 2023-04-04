@@ -1644,6 +1644,7 @@
 
 ## Shell 
 
+- [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing
 - [CodelyTV/awesome-bash-challenges](https://github.com/CodelyTV/awesome-bash-challenges) - Awesome Bash Challenges
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
 - [open-cluster-management-io/policy-collection](https://github.com/open-cluster-management-io/policy-collection) - A collection of policy examples for Open Cluster Management
