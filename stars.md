@@ -265,7 +265,7 @@
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [kubenav/kubenav](https://github.com/kubenav/kubenav) - kubenav is the navigator for your Kubernetes clusters right in your pocket.
 - [mitesh77/Best-Flutter-UI-Templates](https://github.com/mitesh77/Best-Flutter-UI-Templates) - completely free for everyone. Its build-in Flutter Dart.
-- [lambiengcode/analog_clock](https://github.com/lambiengcode/analog_clock) - This application alarm using flutter and android_alarm_manager pub to develop
+- [lambiengcode/analog-clock](https://github.com/lambiengcode/analog-clock) - This application alarm using flutter and android_alarm_manager pub to develop
 - [stasgora/round-spot](https://github.com/stasgora/round-spot) - Customizable heat map interface analysis library
 - [gskinnerTeam/flokk](https://github.com/gskinnerTeam/flokk) - A fresh and modern Google Contacts manager that integrates with GitHub and Twitter.
 - [iampawan/FlutterExampleApps](https://github.com/iampawan/FlutterExampleApps) - [Example APPS] Basic Flutter apps, for flutter devs.
@@ -1323,7 +1323,7 @@
 - [rodriguezst/telethon_downloader](https://github.com/rodriguezst/telethon_downloader) - Telegram Bot on a Telethon client that auto downloads incoming media files.
 - [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
 - [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh.
-- [localstack/localstack](https://github.com/localstack/localstack) - 💻  A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!
+- [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [PlanTL-GOB-ES/lm-spanish](https://github.com/PlanTL-GOB-ES/lm-spanish) - Official source for spanish Language Models and resources made @ BSC-TEMU within the "Plan de las Tecnologías del Lenguaje" (Plan-TL).
 - [jorisroovers/gitlint](https://github.com/jorisroovers/gitlint) - Linting for your git commit messages
 - [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen) - Create committing rules for projects :rocket: auto bump versions :arrow_up: and auto changelog generation :open_file_folder:
@@ -1651,7 +1651,7 @@
 - [JoseFilipeFerreira/toolbelt](https://github.com/JoseFilipeFerreira/toolbelt) - ⚙️ dotfiles, scripts & more
 - [reviewdog/action-languagetool](https://github.com/reviewdog/action-languagetool) - Run languagetool with reviewdog :dog:
 - [reviewdog/action-suggester](https://github.com/reviewdog/action-suggester) - :dog: Suggests any code changes based on diff through GitHub Multi-line code suggestions by using reviewdog
-- [BretFisher/docker-ci-automation](https://github.com/BretFisher/docker-ci-automation) - GitHub Actions automation examples with Docker
+- [BretFisher/docker-ci-automation](https://github.com/BretFisher/docker-ci-automation) - GitHub Actions automation examples with Docker's official actions
 - [webinstall/webi-installers](https://github.com/webinstall/webi-installers) - Primary and community-submitted packages for webinstall.dev
 - [eliasnorrby/dotfiles](https://github.com/eliasnorrby/dotfiles) - :computer: Dotfiles for development on MacOS and Manjaro
 - [jfagoagas/dotFiles](https://github.com/jfagoagas/dotFiles) - My terminal's configuration :D
