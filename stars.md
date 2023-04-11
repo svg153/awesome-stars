@@ -1287,6 +1287,7 @@
 
 ## Python 
 
+- [Dineshkarthik/telegram_media_downloader](https://github.com/Dineshkarthik/telegram_media_downloader) - Download media files from a telegram conversation/chat/channel up to 2GiB per file
 - [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - The release repo for "Vicuna: An Open Chatbot Impressing GPT-4"
 - [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is an Open Source Security tool for AWS, Azure and GCP to perform Cloud Security best practices assessments, audits, incident response, compliance, continuous monitoring, hardening and forensi
 - [GerevAI/gerev](https://github.com/GerevAI/gerev) - 🧠 AI-powered search engine for your organization 🔎
@@ -1320,7 +1321,7 @@
 - [Cloud-Architects/cloudiscovery](https://github.com/Cloud-Architects/cloudiscovery) - The tool to help you discover resources in the cloud environment
 - [pyscaffold/pyscaffold](https://github.com/pyscaffold/pyscaffold) - 🛠 Python project template generator with batteries included
 - [conbench/conbench](https://github.com/conbench/conbench) - Language-independent Continuous Benchmarking (CB) Framework
-- [custom-components/ble_monitor](https://github.com/custom-components/ble_monitor) - BLE monitor passively monitors BLE sensors (Xiaomi, Qingping, ATC, BlueMaestro, Brifit, Govee, Kegtron, Moat, Inkbird, iNode, Yeelight, RuuviTag, SensorPush, Teltonika, Thermoplus and Thermopro)
+- [custom-components/ble_monitor](https://github.com/custom-components/ble_monitor) - BLE monitor for passive BLE sensors
 - [vEnhance/dotfiles](https://github.com/vEnhance/dotfiles) - Dot files for Evan Chen (Arch Linux on i3)
 - [rodriguezst/telethon_downloader](https://github.com/rodriguezst/telethon_downloader) - Telegram Bot on a Telethon client that auto downloads incoming media files.
 - [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
