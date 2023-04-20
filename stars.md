@@ -334,6 +334,7 @@
 
 ## Go 
 
+- [env0/terratag](https://github.com/env0/terratag) - Terratag is a CLI tool that enables users of Terraform to automatically create and maintain tags across their entire set of AWS, Azure, and GCP resources
 - [cycloidio/terracost](https://github.com/cycloidio/terracost) - Cloud cost estimation for Terraform in your CLI
 - [ddosify/ddosify](https://github.com/ddosify/ddosify) - High-performance load testing tool, written in Golang. For distributed and Geo-targeted load testing: Ddosify Cloud - https://ddosify.com 🚀
 - [stakater/Forecastle](https://github.com/stakater/Forecastle) - Forecastle is a control panel which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes  – [✩Star] if you're using it!
@@ -577,7 +578,6 @@
 
 ## HCL 
 
-- [env0/terratag](https://github.com/env0/terratag) - Terratag is a CLI tool that enables users of Terraform to automatically create and maintain tags across their entire set of AWS, Azure, and GCP resources
 - [finos/compliant-financial-infrastructure](https://github.com/finos/compliant-financial-infrastructure) - Compliant Financial Infrastructure accelerates the development, deployment and adoption of services provided for AWS, Azure and Google in a way that meets existing regulatory and internal security con
 - [finos/terraform-azurerm-cfi-aks](https://github.com/finos/terraform-azurerm-cfi-aks) - Terraform child module deploying compliant AKS instance.
 - [CodelyTV/terraform-course](https://github.com/CodelyTV/terraform-course) - Terraform Codely course examples
@@ -1832,7 +1832,6 @@
 
 ## TypeScript 
 
-- [TaxyAI/browser-extension](https://github.com/TaxyAI/browser-extension) - Automate your browser with GPT-4
 - [hocus-dev/hocus](https://github.com/hocus-dev/hocus) - 🪄 Spin up ready-to-code, disposable dev environments on your own servers. Self-hosted alternative to Gitpod and Github Codespaces.
 - [BloopAI/bloop](https://github.com/BloopAI/bloop) - bloop is a fast code search engine written in Rust.
 - [dorny/test-reporter](https://github.com/dorny/test-reporter) - Displays test results from popular testing frameworks directly in GitHub
