@@ -578,7 +578,6 @@
 
 ## HCL 
 
-- [finos/compliant-financial-infrastructure](https://github.com/finos/compliant-financial-infrastructure) - Compliant Financial Infrastructure accelerates the development, deployment and adoption of services provided for AWS, Azure and Google in a way that meets existing regulatory and internal security con
 - [finos/terraform-azurerm-cfi-aks](https://github.com/finos/terraform-azurerm-cfi-aks) - Terraform child module deploying compliant AKS instance.
 - [CodelyTV/terraform-course](https://github.com/CodelyTV/terraform-course) - Terraform Codely course examples
 - [GoogleCloudPlatform/software-delivery-blueprint](https://github.com/GoogleCloudPlatform/software-delivery-blueprint) - 
@@ -1022,6 +1021,7 @@
 
 - [GerevAI/awesome-chatgpt-plugins](https://github.com/GerevAI/awesome-chatgpt-plugins) - An up-to-date collection of ChatGPT plugins and evolvements
 - [TeamTopologies/TeamAPI-As-Code](https://github.com/TeamTopologies/TeamAPI-As-Code) - The TeamAPI specification allows you to create machine-readable definitions of your team APIs.
+- [finos/compliant-financial-infrastructure](https://github.com/finos/compliant-financial-infrastructure) - Compliant Financial Infrastructure accelerates the development, deployment and adoption of services provided for AWS, Azure and Google in a way that meets existing regulatory and internal security con
 - [techiescamp/kubernetes-learning-path](https://github.com/techiescamp/kubernetes-learning-path) - A roadmap to learn Kubernetes from scratch (Beginner to Advanced level)
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [bregman-arie/sre-checklist](https://github.com/bregman-arie/sre-checklist) - A checklist of anyone practicing Site Reliability Engineering
