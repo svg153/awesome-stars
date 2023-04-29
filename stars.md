@@ -225,7 +225,7 @@
 ## CSS 
 
 - [narakeet/examples](https://github.com/narakeet/examples) - Samples and examples for Narakeet scripts
-- [sethcottle/littlelink](https://github.com/sethcottle/littlelink) - A lightweight DIY alternative to services like Linktree and many.link.
+- [sethcottle/littlelink](https://github.com/sethcottle/littlelink) - A lightweight DIY alternative to services like Linktree.
 - [sharu725/online-cv](https://github.com/sharu725/online-cv) - A minimal Jekyll Theme to host your resume (CV)
 - [cncf/landscape](https://github.com/cncf/landscape) - 🌄 The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding or market cap, first and last commits, contributor count
 - [rekihattori/awesome-programmers](https://github.com/rekihattori/awesome-programmers) - A list of history's greatest software engineers and tech pioneers
@@ -1350,7 +1350,7 @@
 - [ansible-community/ara](https://github.com/ansible-community/ara) - ARA Records Ansible and makes it easier to understand and troubleshoot.
 - [speedyg0nz/MagInkCal](https://github.com/speedyg0nz/MagInkCal) - E-Ink Magic Calendar that automatically syncs to Google Calendar and runs off a battery powered Raspberry Pi Zero
 - [ceddlyburge/docs-from-tests-example](https://github.com/ceddlyburge/docs-from-tests-example) - This is a demonstration repo, showing how to use the docs-from-tests python package.
-- [andresaco/pycones21-documenta-escriba](https://github.com/andresaco/pycones21-documenta-escriba) - Repositorio para la sesión de la PyConES 2021 - Documenta sin ser un escriba
+- [andresaco/talk-pycones21-documenta-escriba](https://github.com/andresaco/talk-pycones21-documenta-escriba) - Repositorio para la sesión de la PyConES 2021 - Documenta sin ser un escriba
 - [EvanLi/Github-Ranking](https://github.com/EvanLi/Github-Ranking) - :star:Github Ranking:star: Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily. | Github仓库排名，每日自动更新
 - [pyinvoke/invoke](https://github.com/pyinvoke/invoke) - Pythonic task management & command execution.
 - [openstack/bashate](https://github.com/openstack/bashate) - Code style enforcement for bash programs. Mirror of code maintained at opendev.org.
