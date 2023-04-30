@@ -977,6 +977,7 @@
 ## Lua 
 
 - [nicknisi/dotfiles](https://github.com/nicknisi/dotfiles) - vim, zsh, git, homebrew, neovim - my whole world
+- [fatih/dotfiles](https://github.com/fatih/dotfiles) - My personal dotfiles
 - [niallmcl/Deep-Android-Malware-Detection](https://github.com/niallmcl/Deep-Android-Malware-Detection) - Code for Deep Android Malware Detection paper
 
 ## Makefile 
@@ -1965,7 +1966,6 @@
 - [mattkenney/dotfiles](https://github.com/mattkenney/dotfiles) - Ubuntu + macOS dotfiles
 - [swapkats/dotfiles](https://github.com/swapkats/dotfiles) - NeoVim + tmux + zsh config
 - [wellle/tmux-complete.vim](https://github.com/wellle/tmux-complete.vim) - Vim plugin for insert mode completion of words in adjacent tmux panes
-- [fatih/dotfiles](https://github.com/fatih/dotfiles) - My personal dotfiles
 - [easymotion/vim-easymotion](https://github.com/easymotion/vim-easymotion) - Vim motions on speed!
 - [Netherdrake/Dotfiles](https://github.com/Netherdrake/Dotfiles) - My [NeoVim + Tmux + Fish Shell] Setup /w install scripts
 - [superkojiman/pwnbox](https://github.com/superkojiman/pwnbox) - Docker container with tools for binary reverse engineering and exploitation.
