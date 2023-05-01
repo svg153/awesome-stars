@@ -588,7 +588,7 @@
 - [aztfmod/terraform-azurerm-caf](https://github.com/aztfmod/terraform-azurerm-caf) - Terraform supermodule for the Terraform platform engineering for Azure
 - [Azure/caf-terraform-landingzones](https://github.com/Azure/caf-terraform-landingzones) - Cloud Adoption Framework for Azure - Terraform landing zones
 - [Azure/caf-terraform-landingzones-accelerator](https://github.com/Azure/caf-terraform-landingzones-accelerator) - Starter project for Applications (level 4) Cloud Adoption Framework for Azure landing zones on Terraform
-- [opszero/terraform-aws-kubespot](https://github.com/opszero/terraform-aws-kubespot) - AWS EKS Configured for SOC2, HIPAA, and PCI
+- [opszero/terraform-aws-kubespot](https://github.com/opszero/terraform-aws-kubespot) - 
 - [iacsecurity/tool-compare](https://github.com/iacsecurity/tool-compare) - 
 
 ## HTML 
