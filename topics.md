@@ -1435,7 +1435,7 @@
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [kubenav/kubenav](https://github.com/kubenav/kubenav) - kubenav is the navigator for your Kubernetes clusters right in your pocket.
 - [mitesh77/Best-Flutter-UI-Templates](https://github.com/mitesh77/Best-Flutter-UI-Templates) - completely free for everyone. Its build-in Flutter Dart.
-- [lambiengcode/analog-clock](https://github.com/lambiengcode/analog-clock) - :rabbit2: Analog clock built with Flutter. Simple, elegant and customizable. Enhance your app with this beautiful clock widget.
+- [lambiengcode/analog-clock](https://github.com/lambiengcode/analog-clock) - :rabbit2: Analog clock built with Flutter. Simple, elegant and customizable. Enhance your app with this beautiful clock widget. :alarm_clock:
 - [stasgora/round-spot](https://github.com/stasgora/round-spot) - Customizable heat map interface analysis library
 - [iampawan/FlutterExampleApps](https://github.com/iampawan/FlutterExampleApps) - [Example APPS] Basic Flutter apps, for flutter devs.
 - [brianegan/flutter_architecture_samples](https://github.com/brianegan/flutter_architecture_samples) - TodoMVC for Flutter
@@ -2807,6 +2807,8 @@
 
 ## others 
 
+- [peter-evans/kdef](https://github.com/peter-evans/kdef) - Declarative resource management for Kafka
+- [ps-actions-sandbox/ActionsFundamentals](https://github.com/ps-actions-sandbox/ActionsFundamentals) - Repo for the GitHub Actions Fundamentals training.
 - [cncf/people](https://github.com/cncf/people) - Stores the data that will populate the various people listings on cncf.io
 - [electron/sheriff](https://github.com/electron/sheriff) - Controls and monitors organization permissions across GitHub, Slack and GSuite. Built with ❤️ by The Electron Team
 - [rocky/remake](https://github.com/rocky/remake) - Enhanced GNU Make - tracing, error reporting, debugging, profiling and more
