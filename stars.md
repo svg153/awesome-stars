@@ -154,6 +154,7 @@
 
 ## C++ 
 
+- [GothenburgBitFactory/taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) - Taskwarrior - Command line Task Management
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [stone-payments/Code2PlantUML](https://github.com/stone-payments/Code2PlantUML) - Generates Plant UML files based on a Ctags capable project file structure.
 - [apache/arrow](https://github.com/apache/arrow) - Apache Arrow is a multi-language toolbox for accelerated data interchange and in-memory processing
@@ -924,7 +925,7 @@
 
 ## Jinja 
 
-- [onedr0p/flux-cluster-template](https://github.com/onedr0p/flux-cluster-template) - A community opinionated template for deploying a single Kubernetes cluster with Ansible and Terraform backed by Flux, SOPS, GitHub Actions, Renovate and more!
+- [onedr0p/flux-cluster-template](https://github.com/onedr0p/flux-cluster-template) - A community opinionated template for deploying a single Kubernetes (k3s) cluster with Ansible backed by Flux, SOPS, GitHub Actions, Renovate and more!
 
 ## Jsonnet 
 
@@ -1304,7 +1305,7 @@
 
 - [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [Dineshkarthik/telegram_media_downloader](https://github.com/Dineshkarthik/telegram_media_downloader) - Download media files from a telegram conversation/chat/channel up to 2GiB per file
-- [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - The release repo for "Vicuna: An Open Chatbot Impressing GPT-4"
+- [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large languages. Release repo for Vicuna and FastChat-T5.
 - [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is an Open Source Security tool for AWS, Azure and GCP to perform Cloud Security best practices assessments, audits, incident response, compliance, continuous monitoring, hardening and forensi
 - [GerevAI/gerev](https://github.com/GerevAI/gerev) - 🧠 AI-powered search engine for workplaces 🔎
 - [acheong08/EdgeGPT](https://github.com/acheong08/EdgeGPT) - Reverse engineered API of Microsoft's Bing Chat AI
