@@ -379,6 +379,7 @@
 
 ## automation 
 
+- [mergeability/mergeable](https://github.com/mergeability/mergeable) - 🤖 All the missing GitHub automation 🙂 🙌
 - [lindell/multi-gitter](https://github.com/lindell/multi-gitter) - Update multiple repositories in with one command
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - An automation tool / Workflow automation tool / Enterprise automation tool / Business automation tool / Zapier clone ❤️
 - [bregman-arie/sre-checklist](https://github.com/bregman-arie/sre-checklist) - A checklist of anyone practicing Site Reliability Engineering
@@ -1460,7 +1461,7 @@
 
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [nasa/fprime](https://github.com/nasa/fprime) - F' - A flight software and embedded systems framework
-- [earthly/earthly](https://github.com/earthly/earthly) - Super simple CI/CD framework with repeatable builds that you write once and run anywhere – laptop, remote, or any CI
+- [earthly/earthly](https://github.com/earthly/earthly) - Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby.
 - [kracejic/cleanCppProject](https://github.com/kracejic/cleanCppProject) - Clean C++ project for you to use. Features: Modern CMake, CPack, Doxygen, PlantUML, Catch Unit testing, static analysis
 - [atinfo/awesome-test-automation](https://github.com/atinfo/awesome-test-automation) - A curated list of awesome test automation frameworks, tools, libraries, and software for different programming languages. Sponsored by http://sdclabs.com
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
@@ -1919,7 +1920,7 @@
 - [dynaconf/dynaconf](https://github.com/dynaconf/dynaconf) - Configuration Management for Python ⚙
 - [itsnitinr/vscode-portfolio](https://github.com/itsnitinr/vscode-portfolio) - A VSCode themed developer portfolio built using Next.js
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
-- [earthly/earthly](https://github.com/earthly/earthly) - Super simple CI/CD framework with repeatable builds that you write once and run anywhere – laptop, remote, or any CI
+- [earthly/earthly](https://github.com/earthly/earthly) - Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby.
 - [druids/developers-chamber](https://github.com/druids/developers-chamber) - 
 - [grafana/pyroscope](https://github.com/grafana/pyroscope) - Continuous Profiling Platform. Debug performance issues down to a single line of code
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
@@ -2818,6 +2819,7 @@
 
 ## others 
 
+- [extenda/actions](https://github.com/extenda/actions) - GitHub Actions by Extenda Retail
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 - [github/codespaces-actions-playground](https://github.com/github/codespaces-actions-playground) - 
 - [peter-evans/kdef](https://github.com/peter-evans/kdef) - Declarative resource management for Kafka
@@ -2881,7 +2883,7 @@
 - [HotThoughts/provider-jet-github](https://github.com/HotThoughts/provider-jet-github) - Working in progress
 - [Azure/AKS](https://github.com/Azure/AKS) - Azure Kubernetes Service
 - [rhysd/actionlint](https://github.com/rhysd/actionlint) - :octocat: Static checker for GitHub Actions workflow files
-- [stateful/runme](https://github.com/stateful/runme) - Execute commands directly from a README.
+- [stateful/runme](https://github.com/stateful/runme) - Next-gen runner for dev workflows & environments
 - [stateful/vscode-marquee](https://github.com/stateful/vscode-marquee) - 💡 The missing VS Code homescreen that helps you to stay organized with minimal context switches
 - [stone-payments/Code2PlantUML](https://github.com/stone-payments/Code2PlantUML) - Generates Plant UML files based on a Ctags capable project file structure.
 - [stone-payments/crossplane-provider-github](https://github.com/stone-payments/crossplane-provider-github) - Crossplane Provider for GitHub
