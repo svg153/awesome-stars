@@ -284,7 +284,7 @@
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, WireGuard, Automation, Ho
 - [Piotr1215/debug](https://github.com/Piotr1215/debug) - my debug container image
 - [alvr/alpine-android](https://github.com/alvr/alpine-android) - 🐋 Small docker image for building & testing Android applications.
-- [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 Mega-Linter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or loc
+- [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or loca
 - [ociotec/docker_rats](https://github.com/ociotec/docker_rats) - Docker RATS source code analyzer
 - [PacktPublishing/Android-Continuous-Integration-with-Docker-and-Jenkins](https://github.com/PacktPublishing/Android-Continuous-Integration-with-Docker-and-Jenkins) - Android Continuous Integration with Docker and Jenkins, published by Packt
 - [Conhea/docker-android-build-box](https://github.com/Conhea/docker-android-build-box) - An optimized docker image that supplies an Android build environment.
