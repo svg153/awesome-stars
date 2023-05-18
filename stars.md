@@ -1861,7 +1861,7 @@
 - [VirtoCommerce/vc-github-actions](https://github.com/VirtoCommerce/vc-github-actions) - 
 - [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - OneUptime is an open-source complete observability platform.
 - [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast.
-- [qunash/chatgpt-advanced](https://github.com/qunash/chatgpt-advanced) - WebChatGPT: A browser extension that augments your ChatGPT prompts with web results.
+- [interstellard/chatgpt-advanced](https://github.com/interstellard/chatgpt-advanced) - WebChatGPT: A browser extension that augments your ChatGPT prompts with web results.
 - [pnp/cli-microsoft365](https://github.com/pnp/cli-microsoft365) - Manage Microsoft 365 and SharePoint Framework projects on any platform
 - [microsoft/typespec](https://github.com/microsoft/typespec) - 
 - [step-security/wait-for-secrets](https://github.com/step-security/wait-for-secrets) - Publish from GitHub Actions using multi-factor authentication
