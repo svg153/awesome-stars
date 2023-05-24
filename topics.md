@@ -379,6 +379,7 @@
 
 ## automation 
 
+- [hashicorp/learn-terraform-github-actions](https://github.com/hashicorp/learn-terraform-github-actions) - 
 - [mergeability/mergeable](https://github.com/mergeability/mergeable) - 🤖 All the missing GitHub automation 🙂 🙌
 - [lindell/multi-gitter](https://github.com/lindell/multi-gitter) - Update multiple repositories in with one command
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - An automation tool / Workflow automation tool / Enterprise automation tool / Business automation tool / Zapier clone ❤️
@@ -2823,6 +2824,7 @@
 
 ## others 
 
+- [nobl9/sloctl](https://github.com/nobl9/sloctl) - A small command line tool to cast SLO spells
 - [microsoft/vscode-copilot-release](https://github.com/microsoft/vscode-copilot-release) - Feedback on GitHub Copilot Chat UX in Visual Studio Code.
 - [thoughtworks/metrik](https://github.com/thoughtworks/metrik) - An easy-to-use, cross-platform measurement tool that pulls data out of CD pipelines and analysis the four key metrics for you.
 - [extenda/actions](https://github.com/extenda/actions) - GitHub Actions by Extenda Retail
@@ -4215,6 +4217,7 @@
 
 ## terraform 
 
+- [hashicorp/learn-terraform-github-actions](https://github.com/hashicorp/learn-terraform-github-actions) - 
 - [klothoplatform/klotho](https://github.com/klothoplatform/klotho) - Klotho - write AWS applications at lightning speed
 - [env0/terratag](https://github.com/env0/terratag) - Terratag is a CLI tool that enables users of Terraform to automatically create and maintain tags across their entire set of AWS, Azure, and GCP resources
 - [cycloidio/terracost](https://github.com/cycloidio/terracost) - Cloud cost estimation for Terraform in your CLI
