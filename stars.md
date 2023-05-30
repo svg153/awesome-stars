@@ -933,7 +933,7 @@
 
 ## Jinja 
 
-- [onedr0p/flux-cluster-template](https://github.com/onedr0p/flux-cluster-template) - A community opinionated template for deploying a single Kubernetes (k3s) cluster with Ansible backed by Flux, SOPS, GitHub Actions, Renovate and more!
+- [onedr0p/flux-cluster-template](https://github.com/onedr0p/flux-cluster-template) - A community opinionated template for deploying a single Kubernetes cluster with Ansible backed by Flux, SOPS, GitHub Actions, Renovate, Cilium and more!
 
 ## Jsonnet 
 
@@ -1768,7 +1768,6 @@
 - [petervanderdoes/gitflow-avh](https://github.com/petervanderdoes/gitflow-avh) - AVH Edition of the git extensions to provide high-level repository operations for Vincent Driessen's branching model
 - [ianblenke/docker-kvm](https://github.com/ianblenke/docker-kvm) - Docker and CoreOS files for running qemu
 - [softsam/docker-android-automator](https://github.com/softsam/docker-android-automator) - Automator to run tests on android applications
-- [medisafe/run-android-tests](https://github.com/medisafe/run-android-tests) - Running Android UI Tests - Collect logs, record a video, dump db, preferences and more. Clear data, run by tags and with params. Run in parallel. Easy extendable.
 - [turkenh/ansible-interactive-tutorial](https://github.com/turkenh/ansible-interactive-tutorial) - Interactive Ansible tutorials with dead simple setup via Docker
 - [thyrlian/AndroidSDK](https://github.com/thyrlian/AndroidSDK) - 🐳 Full-fledged Android SDK Docker Image
 - [appunite/docker](https://github.com/appunite/docker) - Dockerfile's for building Android
