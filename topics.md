@@ -301,7 +301,6 @@
 - [Ramotion/folding-cell-android](https://github.com/Ramotion/folding-cell-android) - :octocat: 📃  FoldingCell is a material design expanding content cell inspired by folding paper material made by @Ramotion
 - [sensepost/objection](https://github.com/sensepost/objection) - 📱 objection - runtime mobile exploration
 - [android/android-ktx](https://github.com/android/android-ktx) - A set of Kotlin extensions for Android app development.
-- [medisafe/run-android-tests](https://github.com/medisafe/run-android-tests) - Running Android UI Tests - Collect logs, record a video, dump db, preferences and more. Clear data, run by tags and with params. Run in parallel. Easy extendable.
 - [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files
 - [thyrlian/AndroidSDK](https://github.com/thyrlian/AndroidSDK) - 🐳 Full-fledged Android SDK Docker Image
 - [mzlogin/awesome-adb](https://github.com/mzlogin/awesome-adb) - ADB Usage Complete / ADB 用法大全
@@ -336,7 +335,7 @@
 
 - [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud 
 - [megabyte-labs/Gas-Station](https://github.com/megabyte-labs/Gas-Station) - 🎉 An  Ansible  playbook that provisions your network with software from GitHub Awesome lists, developed with disaster recovery in mind ⛽🔥🤤 🐴
-- [onedr0p/flux-cluster-template](https://github.com/onedr0p/flux-cluster-template) - A community opinionated template for deploying a single Kubernetes (k3s) cluster with Ansible backed by Flux, SOPS, GitHub Actions, Renovate and more!
+- [onedr0p/flux-cluster-template](https://github.com/onedr0p/flux-cluster-template) - A community opinionated template for deploying a single Kubernetes cluster with Ansible backed by Flux, SOPS, GitHub Actions, Renovate, Cilium and more!
 - [eliasnorrby/dotfiles](https://github.com/eliasnorrby/dotfiles) - :computer: Dotfiles for development on MacOS and Manjaro
 - [techno-tim/techno-tim.github.io](https://github.com/techno-tim/techno-tim.github.io) - Open Source, Community Driven, Documentation for Techno Tim YouTube Videos/  Complete with examples for all your copy pasta needs!
 - [ansible-community/ara](https://github.com/ansible-community/ara) - ARA Records Ansible and makes it easier to understand and troubleshoot.
@@ -2333,7 +2332,7 @@
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [nicolastakashi/gitana](https://github.com/nicolastakashi/gitana) - Gitana is a lightweight dashboard sync
 - [joseadanof/awesome-cloudnative-trainings](https://github.com/joseadanof/awesome-cloudnative-trainings) - Awesome Trainings from Cloud Native Computing Foundation Projects and Kubernetes related software
-- [onedr0p/flux-cluster-template](https://github.com/onedr0p/flux-cluster-template) - A community opinionated template for deploying a single Kubernetes (k3s) cluster with Ansible backed by Flux, SOPS, GitHub Actions, Renovate and more!
+- [onedr0p/flux-cluster-template](https://github.com/onedr0p/flux-cluster-template) - A community opinionated template for deploying a single Kubernetes cluster with Ansible backed by Flux, SOPS, GitHub Actions, Renovate, Cilium and more!
 - [stefanprodan/podinfo](https://github.com/stefanprodan/podinfo) - Go microservice template for Kubernetes
 - [crossplane/terrajet](https://github.com/crossplane/terrajet) - Generate Crossplane Providers from any Terraform Provider
 - [openshift-pipelines/pipelines-as-code](https://github.com/openshift-pipelines/pipelines-as-code) - Pipelines as Code flow on Tekton
@@ -4276,7 +4275,6 @@
 - [mhmdio/terraform-templates-base](https://github.com/mhmdio/terraform-templates-base) - Terraform Templates Base - monoRepo
 - [dineshba/tf-summarize](https://github.com/dineshba/tf-summarize) - A command-line utility to print the summary of the terraform plan
 - [aztfmod/terraform-azurerm-caf](https://github.com/aztfmod/terraform-azurerm-caf) - Terraform supermodule for the Terraform platform engineering for Azure
-- [onedr0p/flux-cluster-template](https://github.com/onedr0p/flux-cluster-template) - A community opinionated template for deploying a single Kubernetes (k3s) cluster with Ansible backed by Flux, SOPS, GitHub Actions, Renovate and more!
 - [crossplane/terrajet](https://github.com/crossplane/terrajet) - Generate Crossplane Providers from any Terraform Provider
 - [GoogleCloudPlatform/terraformer](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
 - [runatlantis/atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
