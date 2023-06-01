@@ -3051,7 +3051,7 @@
 - [shutter-project/shutter](https://github.com/shutter-project/shutter) - Screenshot tool for Linux
 - [jonhoo/griddle](https://github.com/jonhoo/griddle) - A HashMap variant that spreads resize load across inserts
 - [tj/robo](https://github.com/tj/robo) - Simple Go / YAML-based task runner for the team.
-- [wireviz/WireViz](https://github.com/wireviz/WireViz) - Easily document cables and wiring harnesses
+- [wireviz/WireViz](https://github.com/wireviz/WireViz) - Easily document cables and wiring harnesses.
 - [behave/behave](https://github.com/behave/behave) - BDD, Python style.
 - [mozilla/grcov](https://github.com/mozilla/grcov) - Rust tool to collect and aggregate code coverage data for multiple source files
 - [microsoft/GW-BASIC](https://github.com/microsoft/GW-BASIC) - The original source code of Microsoft GW-BASIC from 1983
