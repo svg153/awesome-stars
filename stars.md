@@ -8,6 +8,7 @@
 - [Arduino](#arduino)
 - [Assembly](#assembly)
 - [AutoHotkey](#autohotkey)
+- [Blade](#blade)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -82,6 +83,10 @@
 
 - [sdias/win-10-virtual-desktop-enhancer](https://github.com/sdias/win-10-virtual-desktop-enhancer) - An application that enhances the Windows 10 multiple desktops feature by adding additional keyboard shortcuts and support for multiple wallpapers.
 - [fuhsjr00/bug.n](https://github.com/fuhsjr00/bug.n) - Tiling Window Manager for Windows
+
+## Blade 
+
+- [openchatai/OpenChat](https://github.com/openchatai/OpenChat) - Run and create custom ChatGPT-like bots with OpenChat, embed and share these bots anywhere, the open-source chatbot console.
 
 ## C 
 
@@ -601,6 +606,7 @@
 
 ## HTML 
 
+- [cncf/tag-app-delivery](https://github.com/cncf/tag-app-delivery) - 📨🚚CNCF App Delivery TAG
 - [warrensbox/terraform-switcher](https://github.com/warrensbox/terraform-switcher) - A command line tool to switch between different versions of terraform  (install with homebrew and more)
 - [github/codespaces-actions-playground](https://github.com/github/codespaces-actions-playground) - 
 - [chromium/badssl.com](https://github.com/chromium/badssl.com) - :lock: Memorable site for testing clients against bad SSL configs.
