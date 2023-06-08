@@ -86,7 +86,7 @@
 
 ## Blade 
 
-- [openchatai/OpenChat](https://github.com/openchatai/OpenChat) - Run and create custom ChatGPT-like bots with OpenChat, embed and share these bots anywhere, the open-source chatbot console.
+- [openchatai/OpenChat](https://github.com/openchatai/OpenChat) - LLMs custom-chatbots console ⚡
 
 ## C 
 
