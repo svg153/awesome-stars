@@ -759,6 +759,7 @@
 
 ## JavaScript 
 
+- [replicate/zoo](https://github.com/replicate/zoo) - 🦓 Zoo — Image Playground
 - [mergeability/mergeable](https://github.com/mergeability/mergeable) - 🤖 All the missing GitHub automation 🙂 🙌
 - [extenda/actions](https://github.com/extenda/actions) - GitHub Actions by Extenda Retail
 - [Macro-Deck-App/Macro-Deck-Client](https://github.com/Macro-Deck-App/Macro-Deck-Client) - Companion app for Macro Deck 2
