@@ -655,6 +655,7 @@
 - [dergachev/gdocs-export](https://github.com/dergachev/gdocs-export) - Programatically download a Google Doc and convert it to LaTeX
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
+- [school-scout/pentaho-kettle-docker](https://github.com/school-scout/pentaho-kettle-docker) - Docker images for Pentaho Kettle and Spoon
 - [wnm/resume_template](https://github.com/wnm/resume_template) - Portfolio/Résumé/CV jekyll template for software developers
 - [VikramTiwari/vikramtiwari.github.com](https://github.com/VikramTiwari/vikramtiwari.github.com) - Simple one pager website for your profile. Hosted with :heart: on GitHub Pages
 - [shd101wyy/markdown-preview-enhanced](https://github.com/shd101wyy/markdown-preview-enhanced) - One of the 'BEST' markdown preview extensions for Atom editor!
@@ -1800,7 +1801,6 @@
 - [kvz/bash3boilerplate](https://github.com/kvz/bash3boilerplate) - Templates to write better Bash scripts
 - [phusion/baseimage-docker](https://github.com/phusion/baseimage-docker) - A minimal Ubuntu base image modified for Docker-friendliness
 - [jpetazzo/nsenter](https://github.com/jpetazzo/nsenter) - 
-- [school-scout/pentaho-kettle-docker](https://github.com/school-scout/pentaho-kettle-docker) - Docker images for Pentaho Kettle and Spoon
 - [kelvinlawson/dockerfile-android-studio](https://github.com/kelvinlawson/dockerfile-android-studio) - Dockerfile for Android Studio Development Environment
 - [sivaramsk/docker-kvm](https://github.com/sivaramsk/docker-kvm) - Run qemu/kvm vm's inside a docker container
 - [Ulexus/docker-qemu](https://github.com/Ulexus/docker-qemu) - Docker and CoreOS files for running qemu
