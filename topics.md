@@ -3337,7 +3337,7 @@
 - [matthieudelaro/nut](https://github.com/matthieudelaro/nut) - Nut: the development environment, containerized.
 - [f0rb1dd3n/Reptile](https://github.com/f0rb1dd3n/Reptile) - LKM Linux rootkit
 - [p-e-w/maybe](https://github.com/p-e-w/maybe) - :open_file_folder: :rabbit2: :tophat: See what a program does before deciding whether you really want it to happen (NO LONGER MAINTAINED)
-- [hashtopolis/server](https://github.com/hashtopolis/server) - Hashtopolis - A Hashcat wrapper for distributed hashcracking
+- [hashtopolis/server](https://github.com/hashtopolis/server) - Hashtopolis - A Hashcat wrapper for distributed password recovery
 - [blacklabelops/volumerize](https://github.com/blacklabelops/volumerize) - Docker Volume Backups Multiple Backends
 - [docker-captains/dockerbythecaptains](https://github.com/docker-captains/dockerbythecaptains) - Docker by the Captains - a book covering all aspects of Docker, written by the world's leading experts
 - [acmfi/awesome-acmupm-dotfiles](https://github.com/acmfi/awesome-acmupm-dotfiles) - A curated list of ACM UPM dotfiles
