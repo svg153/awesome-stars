@@ -614,6 +614,7 @@
 - [chromium/badssl.com](https://github.com/chromium/badssl.com) - :lock: Memorable site for testing clients against bad SSL configs.
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [mark-when/markwhen](https://github.com/mark-when/markwhen) - Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more.
+- [lukevella/rallly](https://github.com/lukevella/rallly) - Rallly is an open-source scheduling and collaboration tool designed to make organizing events and meetings easier.
 - [getmanfred/dev-story-scraper](https://github.com/getmanfred/dev-story-scraper) - Scraper to download the profile information from a Stack Overflow Dev Story
 - [iesgn/curso_kubernetes_cep](https://github.com/iesgn/curso_kubernetes_cep) - 
 - [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules
@@ -1884,7 +1885,7 @@
 - [folke/devmoji](https://github.com/folke/devmoji) - :robot: :rocket: :sparkles: Emojify your conventional commits with Devmoji
 - [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging and more.
 - [alibaba/lowcode-engine](https://github.com/alibaba/lowcode-engine) - An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系
-- [activepieces/activepieces](https://github.com/activepieces/activepieces) - An automation tool / Workflow automation tool / Enterprise automation tool / Business automation tool / Zapier clone ❤️
+- [activepieces/activepieces](https://github.com/activepieces/activepieces) - An automation tool / Workflow automation tool / Enterprise automation tool / Business automation tool / Zapier Alternative  ❤️
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 - [VirtoCommerce/vc-github-actions](https://github.com/VirtoCommerce/vc-github-actions) - 
 - [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - OneUptime is an open-source complete observability platform.
@@ -1906,7 +1907,6 @@
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure with fully functional embedded notification center
 - [stateful/vscode-marquee](https://github.com/stateful/vscode-marquee) - 💡 The missing VS Code homescreen that helps you to stay organized with minimal context switches
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows.
-- [lukevella/rallly](https://github.com/lukevella/rallly) - Rallly is an open-source scheduling and collaboration tool designed to make organizing events and meetings easier.
 - [garden-io/garden](https://github.com/garden-io/garden) - Automation for Kubernetes development and testing. Spin up production-like environments for development, testing, and CI on demand. Use the same configuration and workflows at every step of the proces
 - [crazy-max/ghaction-container-scan](https://github.com/crazy-max/ghaction-container-scan) - GitHub Action to check for vulnerabilities in your container image
 - [getmanfred/mac](https://github.com/getmanfred/mac) - Manfred Awesomic CV
