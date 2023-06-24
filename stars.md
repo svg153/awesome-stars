@@ -1330,6 +1330,7 @@
 
 ## Python 
 
+- [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [github/issue-metrics](https://github.com/github/issue-metrics) - Gather metrics on issue such as time to first response, count of issues opened, closed, etc.
 - [dora-metrics/pelorus](https://github.com/dora-metrics/pelorus) - Automate the measurement of organizational behavior
 - [robusta-dev/krr](https://github.com/robusta-dev/krr) - Prometheus-based Kubernetes Resource Recommendations
