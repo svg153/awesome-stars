@@ -783,7 +783,7 @@
 - [BetaHuhn/repo-file-sync-action](https://github.com/BetaHuhn/repo-file-sync-action) - 🔄 GitHub Action to keep files like Action workflows or entire directories in sync between multiple repositories.
 - [external-secrets/kubernetes-external-secrets](https://github.com/external-secrets/kubernetes-external-secrets) - Integrate external secret management systems with Kubernetes
 - [hacksalot/HackMyResume](https://github.com/hacksalot/HackMyResume) - Generate polished résumés and CVs in HTML, Markdown, LaTeX, MS Word, PDF, plain text, JSON, XML, YAML, smoke signal, and carrier pigeon.
-- [taskcluster/taskcluster](https://github.com/taskcluster/taskcluster) - CI for Engineers
+- [taskcluster/taskcluster](https://github.com/taskcluster/taskcluster) - CI at scale
 - [useful-forks/useful-forks.github.io](https://github.com/useful-forks/useful-forks.github.io) - Improving GitHub's Forks list discoverability through automatic filtering. The project offers an online tool and a Chrome extension.
 - [ivankatliarchuk/.github](https://github.com/ivankatliarchuk/.github) - :octocat: Github community heatlh files
 - [github/safe-settings](https://github.com/github/safe-settings) - 
