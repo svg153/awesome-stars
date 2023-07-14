@@ -1485,7 +1485,7 @@
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [kubenav/kubenav](https://github.com/kubenav/kubenav) - kubenav is the navigator for your Kubernetes clusters right in your pocket.
 - [mitesh77/Best-Flutter-UI-Templates](https://github.com/mitesh77/Best-Flutter-UI-Templates) - completely free for everyone. Its build-in Flutter Dart.
-- [lambiengcode/analog-clock](https://github.com/lambiengcode/analog-clock) - :rabbit2: Analog clock built with Flutter. Simple, elegant and customizable. Enhance your app with this beautiful clock widget. :alarm_clock:
+- [lambiengcode/analog-clock](https://github.com/lambiengcode/analog-clock) - :rabbit2: Analog clock built with Flutter. Simple, elegant and customizable. Enhance your app with this beautiful clock widget. 使用 Flutter 构建的模拟时钟。简单、优雅且可定制。使用这个漂亮的时钟小部件增强您的应用程序。:alarm_clock:
 - [stasgora/round-spot](https://github.com/stasgora/round-spot) - Customizable heat map interface analysis library
 - [iampawan/FlutterExampleApps](https://github.com/iampawan/FlutterExampleApps) - [Example APPS] Basic Flutter apps, for flutter devs.
 - [brianegan/flutter_architecture_samples](https://github.com/brianegan/flutter_architecture_samples) - TodoMVC for Flutter
