@@ -823,6 +823,7 @@
 - [pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching) - An interactive git visualization and tutorial. Aspiring students of git can use this app to educate and challenge themselves towards mastery of git!
 - [thesandlord/Istio101](https://github.com/thesandlord/Istio101) - ⚡ Lightning-Talk Style Demo of Istio and OpenCensus⚡
 - [rauchg/blog](https://github.com/rauchg/blog) - 
+- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [homeferences/list](https://github.com/homeferences/list) - List of Homeferences
 - [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [VGraupera/1on1-questions](https://github.com/VGraupera/1on1-questions) - Mega list of 1 on 1 meeting questions compiled from a variety to sources
@@ -1436,7 +1437,6 @@
 - [Baekalfen/PyBoy](https://github.com/Baekalfen/PyBoy) - Game Boy emulator written in Python
 - [alievk/avatarify-python](https://github.com/alievk/avatarify-python) - Avatars for Zoom, Skype and other video-conferencing apps.
 - [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
-- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [gcovr/gcovr](https://github.com/gcovr/gcovr) - generate code coverage reports with gcc/gcov
 - [mherrmann/selenium-python-helium](https://github.com/mherrmann/selenium-python-helium) - Selenium-python but lighter: Helium is the best Python library for web automation.
 - [Telefonica/toolium](https://github.com/Telefonica/toolium) - Wrapper tool of Selenium and Appium libraries to test web and mobile applications in a single project
