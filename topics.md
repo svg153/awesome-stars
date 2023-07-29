@@ -3175,7 +3175,7 @@
 - [gcc-mirror/gcc](https://github.com/gcc-mirror/gcc) - 
 - [in28minutes/campus-interview-guide](https://github.com/in28minutes/campus-interview-guide) - 60 Day Learning Challenges for Campus Interviews
 - [lastpass/lastpass-cli](https://github.com/lastpass/lastpass-cli) - LastPass command line interface tool
-- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 200 supported car makes and models.
+- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for 250+ supported car makes and models.
 - [aureliojargas/clitest](https://github.com/aureliojargas/clitest) - Command Line Tester
 - [ggerganov/imtui](https://github.com/ggerganov/imtui) - ImTui: Immediate Mode Text-based User Interface C++ Library
 - [facebookresearch/demucs](https://github.com/facebookresearch/demucs) - Code for the paper Hybrid Spectrogram and Waveform Source Separation
@@ -3475,7 +3475,7 @@
 - [fgrehm/docker-android-studio](https://github.com/fgrehm/docker-android-studio) - Android Studio in a container
 - [gaoxiang9430/Android-Related-Paper](https://github.com/gaoxiang9430/Android-Related-Paper) - 
 - [ravidsrk/android-testing-guide](https://github.com/ravidsrk/android-testing-guide) - [Examples] Complete reference for Android Testing with examples.
-- [Enalean/tuleap](https://github.com/Enalean/tuleap) - Tuleap is a Free & Open Source Suite to improve management of software developments and collaboration. With a single web-based solution, project managers, developers & quality managers can easily buil
+- [Enalean/tuleap](https://github.com/Enalean/tuleap) - Tuleap is an Open Source Suite to improve management of software developments and collaboration. With a single web-based solution, project managers, developers & quality managers can easily build, dep
 - [impillar/AndroidReferences](https://github.com/impillar/AndroidReferences) - Research papers and tools on Android
 - [Simone3/Thesis](https://github.com/Simone3/Thesis) - My master thesis, Politecnico di Milano, 2015/2016
 - [honeynet/droidbot](https://github.com/honeynet/droidbot) - A lightweight test input generator for Android. Similar to Monkey, but with more intelligence and cool features!
