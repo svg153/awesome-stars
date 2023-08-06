@@ -3530,7 +3530,7 @@
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [mikeplus64/fun.sh](https://github.com/mikeplus64/fun.sh) - Functional /bin/sh
 - [recalbox/recalbox-os](https://github.com/recalbox/recalbox-os) - The recalbox repository moved to https://gitlab.com/recalbox/recalbox
-- [ClusterM/hakchi2](https://github.com/ClusterM/hakchi2) - Tool that allows you to add more games to your NES/SNES Classic Mini
+- [ClusterM/hakchi2](https://github.com/ClusterM/hakchi2) - Tool that allows you to add more games to your NES/SNES Classic Mini. WARNING: hakchi2 is no longer supported. Please use hakchi2 CE.
 - [santinic/how2](https://github.com/santinic/how2) - AI for the Command Line
 - [dsys/match](https://github.com/dsys/match) - :crystal_ball: Scalable reverse image search built on Kubernetes and Elasticsearch
 - [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea!
