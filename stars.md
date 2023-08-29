@@ -907,7 +907,7 @@
 - [thedevs-network/the-guard-bot](https://github.com/thedevs-network/the-guard-bot) - The Guard, a Telegram bot to moderate groups.
 - [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
 - [bafolts/plantuml-code-generator](https://github.com/bafolts/plantuml-code-generator) - Provides a node utility to generate code in various languages given a plantuml class diagram.
-- [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The fastest frontend for the headless web. Build modern websites with React.
+- [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The best React-based framework with performance, scalability and security built in.
 - [atashbahar/ecardcanvas](https://github.com/atashbahar/ecardcanvas) - HTML5 Canvas eCard Editor
 - [jorgebucaran/hyperapp](https://github.com/jorgebucaran/hyperapp) - 1kB-ish JavaScript framework for building hypertext applications
 - [Azure-Samples/raspberry-pi-web-simulator](https://github.com/Azure-Samples/raspberry-pi-web-simulator) - Raspberry Pi web simulator. Demo address:
@@ -963,7 +963,7 @@
 
 - [mshumer/gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer) - 
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
-- [jupyter-naas/awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks) - Ready to use data & AI templates, organized by tools to jumpstart your projects and data products in minutes.
+- [jupyter-naas/awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks) - Ready to use data & AI Notebook templates, organized by tools to jumpstart your projects and data products in minutes.
 - [microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) - 10 Weeks, 20 Lessons, Data Science for All!
 - [AkashSingh3031/The-Complete-FAANG-Preparation](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation) - This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Love Babbar Bhaiya, FAANG Questions), Technical Subjects (OS + DBMS + SQL + CN + OOPs) Theory+Questions, FAANG Interview q
 - [bhavul/JIRA-Similar-Issue-Finder-App](https://github.com/bhavul/JIRA-Similar-Issue-Finder-App) - Classical NLP Algorithms based JIRA Bot that can train a machine learning model and comment related JIRA IDs on a list of JIRA issues.
