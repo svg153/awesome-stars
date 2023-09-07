@@ -964,6 +964,7 @@
 ## Jupyter Notebook 
 
 - [mshumer/gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer) - 
+- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [jupyter-naas/awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks) - A catalog of ready to use data & AI Notebook templates, organized by tools to jumpstart your projects and data products in minutes.
 - [microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) - 10 Weeks, 20 Lessons, Data Science for All!
@@ -1191,11 +1192,9 @@
 - [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
 - [layer5io/istio-service-mesh-workshop](https://github.com/layer5io/istio-service-mesh-workshop) - Using Istio Workshop
 - [korfuri/awesome-monorepo](https://github.com/korfuri/awesome-monorepo) - A curated list of awesome Monorepo tools, software and architectures.
-- [aherranz/cc](https://github.com/aherranz/cc) - Material didáctico del profesor Herranz para la asignatura de Concurrencia  en UPM
 - [WaterByWind/grafana-dashboards](https://github.com/WaterByWind/grafana-dashboards) - Grafana Dashboards
 - [ForrestKnight/open-source-cs](https://github.com/ForrestKnight/open-source-cs) - Video discussing this curriculum:
 - [rShetty/awesome-podcasts](https://github.com/rShetty/awesome-podcasts) - Collection of awesome podcasts
-- [aherranz/p2](https://github.com/aherranz/p2) - Material didáctico del profesor Herranz para la asignatura de Programación 2
 - [kkemple/awesome-pair-programming](https://github.com/kkemple/awesome-pair-programming) - :sparkles: Awesome pair programming resources :sparkles:
 - [jorgebucaran/awsm.fish](https://github.com/jorgebucaran/awsm.fish) - A curation of prompts, plugins & other Fish treasures 🐚💎
 - [mdx-js/awesome](https://github.com/mdx-js/awesome) - A curated list of awesome MDX resources
@@ -1352,7 +1351,6 @@
 - [github/issue-metrics](https://github.com/github/issue-metrics) - Gather metrics on issues/prs/discussions such as time to first response, count of issues opened, closed, etc.
 - [dora-metrics/pelorus](https://github.com/dora-metrics/pelorus) - Automate the measurement of organizational behavior
 - [robusta-dev/krr](https://github.com/robusta-dev/krr) - Prometheus-based Kubernetes Resource Recommendations
-- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [Dineshkarthik/telegram_media_downloader](https://github.com/Dineshkarthik/telegram_media_downloader) - Download media files from a telegram conversation/chat/channel up to 2GiB per file
 - [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.
 - [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is an Open Source Security tool for AWS, Azure and GCP to perform Cloud Security best practices assessments, audits, incident response, compliance, continuous monitoring, hardening and forensi
@@ -1557,7 +1555,6 @@
 - [gitpitch/gitpitch](https://github.com/gitpitch/gitpitch) - Markdown Presentations for Tech Conferences, Training, Developer Advocates, and Educators.
 - [Ironjanowar/OpenLibraSpam_bot](https://github.com/Ironjanowar/OpenLibraSpam_bot) - Bot que spamea al canal de openlibra ACM Books (o algo así)
 - [donnemartin/interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - 120+ interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards.
-- [juliangaal/python-cheat-sheet](https://github.com/juliangaal/python-cheat-sheet) - Python Cheat Sheet NumPy, Matplotlib
 - [okfn/bibserver](https://github.com/okfn/bibserver) - BibServer is open-source software what makes it easy to publish, manage and find bibliographies. BibServer is RESTful and web-friendly.
 - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
@@ -1797,7 +1794,7 @@
 - [dockcross/dockcross](https://github.com/dockcross/dockcross) - Cross compiling toolchains in Docker images
 - [niieani/bash-oo-framework](https://github.com/niieani/bash-oo-framework) - Bash Infinity is a modern standard library / framework / boilerplate for Bash
 - [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - :rocket::star: Minimalistic, powerful and extremely customizable Zsh prompt
-- [rootless-containers/usernetes](https://github.com/rootless-containers/usernetes) - Kubernetes installable under $HOME, without the root privileges
+- [rootless-containers/usernetes](https://github.com/rootless-containers/usernetes) - Kubernetes without the root privileges
 - [awslabs/git-secrets](https://github.com/awslabs/git-secrets) - Prevents you from committing secrets and credentials into git repositories
 - [DominicBreuker/stego-toolkit](https://github.com/DominicBreuker/stego-toolkit) - Collection of steganography tools - helps with CTF challenges
 - [ekalinin/github-markdown-toc](https://github.com/ekalinin/github-markdown-toc) - Easy TOC creation for GitHub README.md
@@ -1905,7 +1902,7 @@
 
 - [CodelyTV/vscode-awesome-settings](https://github.com/CodelyTV/vscode-awesome-settings) - Awesome Settings for VSCode
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
-- [fern-api/fern](https://github.com/fern-api/fern) - Generate SDKs and Documentation for your API
+- [fern-api/fern](https://github.com/fern-api/fern) - SDKs and Documentation for your API
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks.
 - [HiDeoo/issue-form-block](https://github.com/HiDeoo/issue-form-block) - GitHub Block to preview and edit issue forms as a custom file renderer in GitHub
 - [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote) - A "Notion-style" block-based extensible text editor built on top of Prosemirror and Tiptap.
