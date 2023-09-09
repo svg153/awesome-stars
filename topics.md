@@ -1887,6 +1887,7 @@
 - [mkchoi212/fac](https://github.com/mkchoi212/fac) - Easy-to-use CUI for fixing git conflicts
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [ro31337/libretaxi](https://github.com/ro31337/libretaxi) - Open source Uber #deleteuber
+- [moby/moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [requilence/integram](https://github.com/requilence/integram) - Integrate Telegram into your workflow – Trello, Gitlab, Bitbucket and other bots
 
 ## good-first-issue 
@@ -3484,7 +3485,7 @@
 - [jenkinsci/android-emulator-plugin](https://github.com/jenkinsci/android-emulator-plugin) - Android Emulator plugin for Jenkins
 - [lewagon/dotfiles](https://github.com/lewagon/dotfiles) - Default configuration for Le Wagon's students
 - [tcnksm/dockerfile-centos-ruby](https://github.com/tcnksm/dockerfile-centos-ruby) - Docker CentOS Image packaging for Ruby
-- [bafolts/plantuml-code-generator](https://github.com/bafolts/plantuml-code-generator) - Provides a node utility to generate code in various languages given a plantuml class diagram.
+- [bafolts/plantcode](https://github.com/bafolts/plantcode) - Provides a javascript utility to generate code in various languages given a plantuml class diagram.
 - [android/android-test](https://github.com/android/android-test) - An extensive framework for testing Android apps
 - [n4xh4ck5/wh01p](https://github.com/n4xh4ck5/wh01p) - Tool to obtain information about IP or domain: Geolocation, network, whois and opened ports.
 - [yongjhih/kotlin-extensions](https://github.com/yongjhih/kotlin-extensions) - kotlin-android-extensions
