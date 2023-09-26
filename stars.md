@@ -555,7 +555,7 @@
 - [martinraison/ascii-tv](https://github.com/martinraison/ascii-tv) - Stream ASCII movies over HTTP
 - [go-micro/go-micro](https://github.com/go-micro/go-micro) - A Go microservices framework
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
-- [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, most secure way to access infrastructure.
+- [gravitational/teleport](https://github.com/gravitational/teleport) - Protect access to all of your infrastructure.
 - [isacikgoz/tldr](https://github.com/isacikgoz/tldr) - fast and interactive tldr client written with  go
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
 - [justone/dockviz](https://github.com/justone/dockviz) - Visualizing Docker data
@@ -605,6 +605,7 @@
 
 ## HCL 
 
+- [mineiros-io/terraform-github-organization](https://github.com/mineiros-io/terraform-github-organization) - A Terraform module to manage GitHub Organizations. https://github.com/
 - [Azure/terraform-azurerm-virtual-machine](https://github.com/Azure/terraform-azurerm-virtual-machine) - Terraform Azure RM Virtual Machine Module
 - [ishioni/homelab-ops](https://github.com/ishioni/homelab-ops) - 
 - [Azure-Samples/terraform-github-actions](https://github.com/Azure-Samples/terraform-github-actions) - A reference implementation of using GitHub Actions to deploy infrastructure to Azure using Terraform
@@ -1351,7 +1352,7 @@
 - [github/innovationgraph](https://github.com/github/innovationgraph) - GitHub Innovation Graph
 - [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - Dev tool that writes scalable apps from scratch while the developer oversees the implementation
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
-- [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Open Source Free ATS Tool to compare Resumes with Job Descriptions and create a score to rank them.
+- [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Resume Matcher is an open source, free tool to improve your resume. It works by using language models to compare and rank resumes with job descriptions.  Your gateway to the next tech job.
 - [Codium-ai/pr-agent](https://github.com/Codium-ai/pr-agent) - 🚀CodiumAI PR-Agent: An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
 - [joshpxyne/gpt-migrate](https://github.com/joshpxyne/gpt-migrate) - Easily migrate your codebase from one framework or language to another.
 - [clovaai/donut](https://github.com/clovaai/donut) - Official Implementation of OCR-free Document Understanding Transformer (Donut) and Synthetic Document Generator (SynthDoG), ECCV 2022
