@@ -778,6 +778,7 @@
 
 ## JavaScript 
 
+- [brunosimon/my-room-in-3d](https://github.com/brunosimon/my-room-in-3d) - 
 - [Condla/web-shop-o11y-demo](https://github.com/Condla/web-shop-o11y-demo) - 
 - [replicate/zoo](https://github.com/replicate/zoo) - 🦓 Zoo — Image Playground
 - [mergeability/mergeable](https://github.com/mergeability/mergeable) - 🤖 All the missing GitHub automation 🙂 🙌
@@ -1641,7 +1642,7 @@
 - [Hyde46/hoard](https://github.com/Hyde46/hoard) - cli command organizer written in rust
 - [imsnif/diskonaut](https://github.com/imsnif/diskonaut) - Terminal disk space navigator 🔭
 - [ArroyoSystems/arroyo](https://github.com/ArroyoSystems/arroyo) - Distributed stream processing engine in Rust
-- [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An Open Source Financial Switch to make Payments fast, reliable and affordable
+- [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
 - [enso-org/enso](https://github.com/enso-org/enso) - Hybrid visual and textual functional programming.
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, and grep output
