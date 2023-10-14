@@ -428,6 +428,7 @@
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [toolleeo/cli-apps](https://github.com/toolleeo/cli-apps) - The largest Awesome Curated list of CLI/TUI applications with source data organized into CSV files
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
+- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [jupyter-naas/awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks) - A catalog of ready to use data & AI Notebook templates, organized by tools to jumpstart your projects and data products in minutes.
 - [lukemurraynz/awesome-azure-architecture](https://github.com/lukemurraynz/awesome-azure-architecture) - AWESOME-Azure-Architecture - https://aka.ms/AwesomeAzureArchitecture
@@ -3003,6 +3004,7 @@
 
 ## others 
 
+- [dependabot/cli](https://github.com/dependabot/cli) - A tool for testing and debugging Dependabot update jobs.
 - [jsonresume/resume-schema](https://github.com/jsonresume/resume-schema) - JSON-Schema is used here to define and validate our proposed resume json
 - [octoherd/octoherd](https://github.com/octoherd/octoherd) - Manage multiple repository updates all at once.
 - [brunosimon/my-room-in-3d](https://github.com/brunosimon/my-room-in-3d) - 
@@ -3255,7 +3257,7 @@
 - [jenkinsci/pipeline-examples](https://github.com/jenkinsci/pipeline-examples) - A collection of examples, tips and tricks and snippets of scripting for the Jenkins Pipeline plugin
 - [rogalmic/vscode-bash-debug](https://github.com/rogalmic/vscode-bash-debug) - Bash shell debugger extension for VSCode (based on bashdb)
 - [VGraupera/1on1-questions](https://github.com/VGraupera/1on1-questions) - Mega list of 1 on 1 meeting questions compiled from a variety to sources
-- [docker/for-linux](https://github.com/docker/for-linux) - Docker for Linux
+- [docker/for-linux](https://github.com/docker/for-linux) - Docker Engine for Linux
 - [M-T3K/M88K](https://github.com/M-T3K/M88K) - Visual Studio Code Extension that aims to be a fully fledged IDE for Motorola 88110 Microprocessor assembly.
 - [Telefonica/toolium](https://github.com/Telefonica/toolium) - Wrapper tool of Selenium and Appium libraries to test web and mobile applications in a single project
 - [google/leveldb](https://github.com/google/leveldb) - LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
