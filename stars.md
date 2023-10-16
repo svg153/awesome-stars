@@ -707,7 +707,7 @@
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services
 - [vramperez/java_puzzlers](https://github.com/vramperez/java_puzzlers) - 
 - [JacORB/JacORB](https://github.com/JacORB/JacORB) - JacORB ORB
-- [yuliskov/SmartTubeNext](https://github.com/yuliskov/SmartTubeNext) - SmartTube - an advanced player for set-top boxes and tv running Android OS
+- [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - SmartTube - an advanced player for set-top boxes and tv running Android OS
 - [thingsboard/thingsboard](https://github.com/thingsboard/thingsboard) - Open-source IoT Platform - Device management, data collection, processing and visualization.
 - [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java) - All Algorithms implemented in Java
 - [walkmod/walkmod-core](https://github.com/walkmod/walkmod-core) - walkmod: an open source tool to fix coding style issues
