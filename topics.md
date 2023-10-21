@@ -395,6 +395,7 @@
 
 ## automation 
 
+- [peter-evans/slash-command-dispatch](https://github.com/peter-evans/slash-command-dispatch) - A GitHub action that facilitates "ChatOps" by creating repository dispatch events for slash commands
 - [gruntwork-io/git-xargs](https://github.com/gruntwork-io/git-xargs) - git-xargs is a command-line tool (CLI) for making updates across multiple Github repositories with a single command.
 - [hashicorp/learn-terraform-github-actions](https://github.com/hashicorp/learn-terraform-github-actions) - 
 - [mergeability/mergeable](https://github.com/mergeability/mergeable) - 🤖 All the missing GitHub automation 🙂 🙌
@@ -3011,6 +3012,8 @@
 
 ## others 
 
+- [peter-evans/find-comment](https://github.com/peter-evans/find-comment) - A GitHub action to find an issue or pull request comment
+- [CasperWA/push-protected](https://github.com/CasperWA/push-protected) - GitHub Action to push newly created commit(s) to a protected branch, waiting for status checks to succeed
 - [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - Identity infrastructure, simplified for you.
 - [cloudogu/gitops-patterns](https://github.com/cloudogu/gitops-patterns) - Collection of patterns, examples and resources for GitOps process design, GitOps repository structures, etc
 - [dependabot/cli](https://github.com/dependabot/cli) - A tool for testing and debugging Dependabot update jobs.
