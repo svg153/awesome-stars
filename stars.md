@@ -342,6 +342,7 @@
 
 ## Go 
 
+- [coopnorge/provider-github](https://github.com/coopnorge/provider-github) - 
 - [Azure/azqr](https://github.com/Azure/azqr) - Azure Quick Review
 - [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - Identity infrastructure, simplified for you.
 - [dependabot/cli](https://github.com/dependabot/cli) - A tool for testing and debugging Dependabot update jobs.
@@ -440,7 +441,7 @@
 - [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller) - Kubernetes controller for GitHub Actions self-hosted runners
 - [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
 - [kubeshop/kusk-gen](https://github.com/kubeshop/kusk-gen) - Kusk Gen generates Ingress-controller configurations from your OpenAPI definition
-- [open-policy-agent/opa](https://github.com/open-policy-agent/opa) - An open source, general-purpose policy engine.
+- [open-policy-agent/opa](https://github.com/open-policy-agent/opa) - Open Policy Agent (OPA) is an open source, general-purpose policy engine.
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
 - [docker/go-events](https://github.com/docker/go-events) - Composable event distribution for Go
 - [datastack-net/dockerized](https://github.com/datastack-net/dockerized) - Run popular commandline tools within docker
@@ -509,6 +510,7 @@
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [mergestat/mergestat-lite](https://github.com/mergestat/mergestat-lite) - Query git repositories with SQL. Generate reports, perform status checks, analyze codebases. 🔍 📊
 - [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Love your cloud bill!
+- [redpanda-data/console](https://github.com/redpanda-data/console) - Redpanda Console is a developer-friendly UI for managing your Kafka/Redpanda workloads. Console gives you a simple, interactive approach for gaining visibility into your topics, masking data, managing
 - [augmentable-dev/tickgit](https://github.com/augmentable-dev/tickgit) - Manage your repository's TODOs, tickets and checklists as config in your codebase.
 - [streamdal/plumber](https://github.com/streamdal/plumber) - A swiss army knife CLI tool for interacting with Kafka, RabbitMQ and other messaging systems.
 - [docker-archive/ecs-plugin](https://github.com/docker-archive/ecs-plugin) - See http://github.com/docker/compose-cli
@@ -1990,7 +1992,6 @@
 - [apptension/saas-boilerplate](https://github.com/apptension/saas-boilerplate) - SaaS Boilerplate - Open Source and free SaaS stack that lets you build SaaS products faster in React, Django and AWS. Focus on essential business logic instead of coding repeatable features!
 - [microsoft/vscode-cmake-tools](https://github.com/microsoft/vscode-cmake-tools) - CMake integration in Visual Studio Code
 - [sqlectron/sqlectron-gui](https://github.com/sqlectron/sqlectron-gui) - A simple and lightweight SQL client desktop with cross database and platform support.
-- [redpanda-data/console](https://github.com/redpanda-data/console) - Redpanda Console is a developer-friendly UI for managing your Kafka/Redpanda workloads. Console gives you a simple, interactive approach for gaining visibility into your topics, masking data, managing
 - [geeks-r-us/mqtt-panel](https://github.com/geeks-r-us/mqtt-panel) - Simple Grafana panel that allows to communicate with a mqtt server
 - [diego3g/rocketredis](https://github.com/diego3g/rocketredis) - A beautiful Redis GUI :fire: (under development)
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
