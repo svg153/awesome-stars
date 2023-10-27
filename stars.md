@@ -884,7 +884,7 @@
 - [Chalarangelo/30-seconds-of-interviews](https://github.com/Chalarangelo/30-seconds-of-interviews) - A curated collection of common interview questions to help you prepare for your next interview.
 - [skidding/jobs-done](https://github.com/skidding/jobs-done) - Ritual app for ending the work day inspired by Deep Work
 - [BretFisher/udemy-docker-mastery](https://github.com/BretFisher/udemy-docker-mastery) - Docker Mastery Udemy course to build, compose, deploy, and manage containers from local development to high-availability in the cloud
-- [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short code snippets for all your development needs
+- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
 - [uds-se/stf](https://github.com/uds-se/stf) - Control and manage Android devices from your browser.
 - [typicode/husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
