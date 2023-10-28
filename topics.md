@@ -38,6 +38,7 @@
 - [code-review](#code-review)
 - [coding](#coding)
 - [compiler](#compiler)
+- [computer-science](#computer-science)
 - [computer-vision](#computer-vision)
 - [config](#config)
 - [continuous-integration](#continuous-integration)
@@ -983,6 +984,23 @@
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The best React-based framework with performance, scalability and security built in.
 - [aalhour/awesome-compilers](https://github.com/aalhour/awesome-compilers) - :sunglasses: Curated list of awesome resources on Compilers, Interpreters and Runtimes
 
+## computer-science 
+
+- [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
+- [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
+- [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
+- [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
+- [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
+- [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus) - Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.
+- [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
+- [ForrestKnight/open-source-cs](https://github.com/ForrestKnight/open-source-cs) - Video discussing this curriculum:
+- [P1xt/p1xt-guides](https://github.com/P1xt/p1xt-guides) - Programming curricula
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+- [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - An ultra-simplified explanation to design patterns
+- [emeryberger/CSrankings](https://github.com/emeryberger/CSrankings) - A web app for ranking computer science departments according to their research output in selective venues, and for finding active faculty across a wide range of areas.
+- [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
+- [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
+
 ## computer-vision 
 
 - [clovaai/donut](https://github.com/clovaai/donut) - Official Implementation of OCR-free Document Understanding Transformer (Donut) and Synthetic Document Generator (SynthDoG), ECCV 2022
@@ -999,7 +1017,7 @@
 ## continuous-integration 
 
 - [concourse/concourse](https://github.com/concourse/concourse) - Concourse is a container-based continuous thing-doer written in Go.
-- [dagger/dagger](https://github.com/dagger/dagger) - A programmable CI/CD engine that runs your pipelines in containers
+- [dagger/dagger](https://github.com/dagger/dagger) - Dagger is an integrated platform to orchestrate the delivery of applications
 - [taskcluster/taskcluster](https://github.com/taskcluster/taskcluster) - CI at Scale
 - [stepchowfun/toast](https://github.com/stepchowfun/toast) - Containerize your development and continuous integration environments. 🥂
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
@@ -1178,7 +1196,7 @@
 
 - [jetpack-io/launchpad](https://github.com/jetpack-io/launchpad) - From Code to Kubernetes in One Step.
 - [github/branch-deploy](https://github.com/github/branch-deploy) - Enabling Branch Deployments through IssueOps with GitHub Actions - If you find this project useful, give it a star! ⭐️
-- [dagger/dagger](https://github.com/dagger/dagger) - A programmable CI/CD engine that runs your pipelines in containers
+- [dagger/dagger](https://github.com/dagger/dagger) - Dagger is an integrated platform to orchestrate the delivery of applications
 - [devtron-labs/devtron](https://github.com/devtron-labs/devtron) - Tool integration platform for Kubernetes
 - [manuparra/PracticasCC](https://github.com/manuparra/PracticasCC) - Guión de prácticas de Cloud Computing -  Máster en Ingeniería Informática - www.ugr.es
 - [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
@@ -1214,7 +1232,7 @@
 - [joseadanof/awesome-cloudnative-trainings](https://github.com/joseadanof/awesome-cloudnative-trainings) - Awesome Trainings from Cloud Native Computing Foundation Projects and Kubernetes related software
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
-- [dagger/dagger](https://github.com/dagger/dagger) - A programmable CI/CD engine that runs your pipelines in containers
+- [dagger/dagger](https://github.com/dagger/dagger) - Dagger is an integrated platform to orchestrate the delivery of applications
 - [BretFisher/docker-ci-automation](https://github.com/BretFisher/docker-ci-automation) - GitHub Actions automation examples with Docker's official actions
 - [runatlantis/atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
 - [shuaibiyy/awesome-terraform](https://github.com/shuaibiyy/awesome-terraform) - Curated list of resources on HashiCorp's Terraform
@@ -1292,7 +1310,7 @@
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
 - [crazy-max/ghaction-container-scan](https://github.com/crazy-max/ghaction-container-scan) - GitHub Action to check for vulnerabilities in your container image
-- [dagger/dagger](https://github.com/dagger/dagger) - A programmable CI/CD engine that runs your pipelines in containers
+- [dagger/dagger](https://github.com/dagger/dagger) - Dagger is an integrated platform to orchestrate the delivery of applications
 - [BretFisher/docker-ci-automation](https://github.com/BretFisher/docker-ci-automation) - GitHub Actions automation examples with Docker's official actions
 - [Piotr1215/dca-prep-kit](https://github.com/Piotr1215/dca-prep-kit) - Preparation notes and tips & tricks for cloud an IT certifications
 - [devspace-sh/devspace](https://github.com/devspace-sh/devspace) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
@@ -2844,7 +2862,7 @@
 - [prymitive/karma](https://github.com/prymitive/karma) - Alert dashboard for Prometheus Alertmanager
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
-- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source website change detection, restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites ha
+- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source website change detection, watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which w
 - [dastergon/awesome-sre](https://github.com/dastergon/awesome-sre) - A curated list of Site Reliability and Production Engineering resources.
 - [algenty/grafana-flowcharting](https://github.com/algenty/grafana-flowcharting) - Flowcharting, plugin for Grafana to create complexe visio's draws style like technical architectures, floorplan, diagrams, hierarchical schema based on draw.io
 - [grafana/pyroscope](https://github.com/grafana/pyroscope) - Continuous Profiling Platform. Debug performance issues down to a single line of code
@@ -3069,7 +3087,6 @@
 - [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor
 - [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast.
 - [JuanCrg90/Clean-Code-Notes](https://github.com/JuanCrg90/Clean-Code-Notes) - My notes of Clean Code book
-- [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
 - [open-pdf-sign/open-pdf-sign](https://github.com/open-pdf-sign/open-pdf-sign) - Digitally sign PDF files from your commandline
 - [microsoft/typespec](https://github.com/microsoft/typespec) - 
 - [lyz-code/blue-book](https://github.com/lyz-code/blue-book) - My personal knowledge repository
@@ -3381,7 +3398,6 @@
 - [spectector/spectector](https://github.com/spectector/spectector) - Automatic detection of speculative information flows
 - [Gururaj26/ssh-generator](https://github.com/Gururaj26/ssh-generator) - Simple tool to generate ssh keys with ease of CLI.
 - [elastic/stack-docker](https://github.com/elastic/stack-docker) - Project no longer maintained.
-- [ForrestKnight/open-source-cs](https://github.com/ForrestKnight/open-source-cs) - Video discussing this curriculum:
 - [Netflix/Hystrix](https://github.com/Netflix/Hystrix) - Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distr
 - [rajayogan/flutterui-chefprofile](https://github.com/rajayogan/flutterui-chefprofile) - Code for the Chef Profile flutter screen
 - [Nilhcem/home-monitoring-grafana](https://github.com/Nilhcem/home-monitoring-grafana) - Home sensor data monitoring with MQTT, InfluxDB and Grafana
@@ -3634,7 +3650,6 @@
 - [AndrewBelt/hack.chat](https://github.com/AndrewBelt/hack.chat) - a minimal, distraction-free chat application
 - [tracer0tong/android-emulator](https://github.com/tracer0tong/android-emulator) - Yet another Docker container with Android SDK and Android emulator
 - [softsam/docker-android-emulator](https://github.com/softsam/docker-android-emulator) - Docker files for android emulators
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [mikeplus64/fun.sh](https://github.com/mikeplus64/fun.sh) - Functional /bin/sh
 - [recalbox/recalbox-os](https://github.com/recalbox/recalbox-os) - The recalbox repository moved to https://gitlab.com/recalbox/recalbox
 - [ClusterM/hakchi2](https://github.com/ClusterM/hakchi2) - Tool that allows you to add more games to your NES/SNES Classic Mini. WARNING: hakchi2 is no longer supported. Please use hakchi2 CE.
@@ -3644,13 +3659,11 @@
 - [jannikweichert/stackoverflow-41747843](https://github.com/jannikweichert/stackoverflow-41747843) - Demo for Stackoverflow Question http://stackoverflow.com/questions/41747843/pass-environment-variables-from-docker-compose-to-container-at-build-stage
 - [cmatsuoka/figlet](https://github.com/cmatsuoka/figlet) - Claudio's FIGlet tree
 - [exacs/liqen-practicum-blog](https://github.com/exacs/liqen-practicum-blog) - Bitácora semanal del trabajo realizado en la asignatura Prácticum
-- [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - An ultra-simplified explanation to design patterns
 - [Aseman-Land/Cutegram](https://github.com/Aseman-Land/Cutegram) - Cutegram is a telegram client by Aseman Land. It's forked from sigram.
 - [acmfi/cursogit2016-2017](https://github.com/acmfi/cursogit2016-2017) - 
 - [jankovicsandras/imagetracerjs](https://github.com/jankovicsandras/imagetracerjs) - Simple raster image tracer and vectorizer written in JavaScript.
 - [nypl-spacetime/map-vectorizer](https://github.com/nypl-spacetime/map-vectorizer) - An open-source map vectorizer
 - [bameda/postcss-andalusian-stylesheets](https://github.com/bameda/postcss-andalusian-stylesheets) - Postcss plugin for writing Andalusian Stylesheets.
-- [emeryberger/CSrankings](https://github.com/emeryberger/CSrankings) - A web app for ranking computer science departments according to their research output in selective venues, and for finding active faculty across a wide range of areas.
 - [sorccu/docker-adb](https://github.com/sorccu/docker-adb) - Dockerfile and instructions for ADB.
 - [secmobi/wiki.secmobi.com](https://github.com/secmobi/wiki.secmobi.com) - SecMobi Wiki is a collection of mobile security resources.
 - [saswatanand/acteve](https://github.com/saswatanand/acteve) - Dynamic Symbolic Execution of Android Apps
@@ -4257,7 +4270,7 @@
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
-- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source website change detection, restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites ha
+- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source website change detection, watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which w
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [kanboard/kanboard](https://github.com/kanboard/kanboard) - Kanban project management software
 
