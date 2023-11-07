@@ -637,6 +637,7 @@
 - [finos/compliant-financial-infrastructure](https://github.com/finos/compliant-financial-infrastructure) - Compliant Financial Infrastructure accelerates the development, deployment and adoption of services provided for AWS, Azure and Google in a way that meets existing regulatory and internal security con
 - [cycloidio/terracognita](https://github.com/cycloidio/terracognita) - Reads from existing public and private cloud providers (reverse Terraform) and generates your infrastructure as code on Terraform configuration
 - [opencost/opencost](https://github.com/opencost/opencost) - Cost monitoring for Kubernetes workload and cloud costs
+- [esnet/gdg](https://github.com/esnet/gdg) - Grafana Dashboard Manager
 - [bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources) - DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP
 - [bytebase/dbcost](https://github.com/bytebase/dbcost) - The simple pricing calculator and comparison tool for the cloud databases.
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
@@ -1218,6 +1219,7 @@
 
 ## devops 
 
+- [idoavrah/terraform-tui](https://github.com/idoavrah/terraform-tui) - Terraform textual UI
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
 - [jetpack-io/launchpad](https://github.com/jetpack-io/launchpad) - From Code to Kubernetes in One Step.
 - [kluctl/kluctl](https://github.com/kluctl/kluctl) - The missing glue to put together large Kubernetes deployments, composed of multiple smaller parts (Helm/Kustomize/...)  in a manageable and unified way.
@@ -1301,6 +1303,7 @@
 
 ## docker 
 
+- [oversizedhat/plantuml-watcher](https://github.com/oversizedhat/plantuml-watcher) - Small productivity util that watches for changes in plantuml files and (re)draws diagrams
 - [JesusMtnez/homelab](https://github.com/JesusMtnez/homelab) - my home infrastructure and Kubernetes cluster
 - [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more!
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
@@ -2389,7 +2392,7 @@
 - [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io) - :blue_book: Home Assistant User documentation
 - [shahednasser/awesome-resources](https://github.com/shahednasser/awesome-resources) - :sunglasses: List of helpful resources added by the community for the community!
 - [minvws/nl-covid19-notification-app-website](https://github.com/minvws/nl-covid19-notification-app-website) - Project website
-- [sharu725/online-cv](https://github.com/sharu725/online-cv) - A minimal Jekyll Theme to host your resume (CV)
+- [sharu725/online-cv](https://github.com/sharu725/online-cv) - A minimal Jekyll Theme to host your resume (CV) on GitHub with few clicks.
 - [victorvoid/space-jekyll-template](https://github.com/victorvoid/space-jekyll-template) - A simple spacemacs template on jekyll. https://victorvoid.github.io/space-jekyll-template/
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [alexcarpenter/material-jekyll-theme](https://github.com/alexcarpenter/material-jekyll-theme) - Material Design inspired Jekyll Theme
@@ -2401,7 +2404,7 @@
 
 ## jekyll-theme 
 
-- [sharu725/online-cv](https://github.com/sharu725/online-cv) - A minimal Jekyll Theme to host your resume (CV)
+- [sharu725/online-cv](https://github.com/sharu725/online-cv) - A minimal Jekyll Theme to host your resume (CV) on GitHub with few clicks.
 - [alexcarpenter/material-jekyll-theme](https://github.com/alexcarpenter/material-jekyll-theme) - Material Design inspired Jekyll Theme
 - [wnm/resume_template](https://github.com/wnm/resume_template) - Portfolio/Résumé/CV jekyll template for software developers
 - [jarrekk/Jalpc](https://github.com/jarrekk/Jalpc) - 🍎Jalpc -- A flexible Jekyll theme, 3 steps to build your website.
@@ -3043,6 +3046,7 @@
 
 ## others 
 
+- [primer/design](https://github.com/primer/design) - Primer Design Guidelines
 - [jwyckoff/github-certification-preparation-guide-main](https://github.com/jwyckoff/github-certification-preparation-guide-main) - Study guide to prepare the different GitHub certifications
 - [coopnorge/provider-github](https://github.com/coopnorge/provider-github) - 
 - [peter-evans/find-comment](https://github.com/peter-evans/find-comment) - A GitHub action to find an issue or pull request comment
@@ -3108,7 +3112,6 @@
 - [chainguard-dev/darkfiles](https://github.com/chainguard-dev/darkfiles) - Darkfiles finds orphaned files in container images and makes them to bad deeds
 - [containers/skopeo](https://github.com/containers/skopeo) - Work with remote images registries - retrieving information, images, signing content
 - [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments
-- [esnet/gdg](https://github.com/esnet/gdg) - Grafana Dashboard Manager
 - [open-cluster-management-io/policy-collection](https://github.com/open-cluster-management-io/policy-collection) - A collection of policy examples for Open Cluster Management
 - [upbound/provider-azure](https://github.com/upbound/provider-azure) - Official Azure Provider for Crossplane by Upbound.
 - [upbound/provider-aws](https://github.com/upbound/provider-aws) - Official AWS Provider for Crossplane by Upbound.
@@ -4520,6 +4523,7 @@
 
 ## terraform 
 
+- [idoavrah/terraform-tui](https://github.com/idoavrah/terraform-tui) - Terraform textual UI
 - [minamijoyo/tfmigrate](https://github.com/minamijoyo/tfmigrate) - A Terraform state migration tool for GitOps
 - [mineiros-io/terraform-github-organization](https://github.com/mineiros-io/terraform-github-organization) - A Terraform module to manage GitHub Organizations. https://github.com/
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
