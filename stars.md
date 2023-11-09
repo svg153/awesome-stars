@@ -343,6 +343,7 @@
 
 ## Go 
 
+- [grafana/quickpizza](https://github.com/grafana/quickpizza) - Pizza, pizza, pizza!
 - [minamijoyo/tfmigrate](https://github.com/minamijoyo/tfmigrate) - A Terraform state migration tool for GitOps
 - [coopnorge/provider-github](https://github.com/coopnorge/provider-github) - 
 - [Azure/azqr](https://github.com/Azure/azqr) - Azure Quick Review
@@ -390,7 +391,7 @@
 - [thangchung/go-coffeeshop](https://github.com/thangchung/go-coffeeshop) - ☕ A practical event-driven microservices demo built with Golang. Nomad, Consul Connect, Vault, and Terraform for deployment
 - [cycloidio/terracognita](https://github.com/cycloidio/terracognita) - Reads from existing public and private cloud providers (reverse Terraform) and generates your infrastructure as code on Terraform configuration
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
-- [opencost/opencost](https://github.com/opencost/opencost) - Cost monitoring for Kubernetes workload and cloud costs
+- [opencost/opencost](https://github.com/opencost/opencost) - Cost monitoring for Kubernetes workloads and cloud costs
 - [crossplane/upjet](https://github.com/crossplane/upjet) - A code generation framework and runtime for Crossplane providers
 - [chainguard-dev/darkfiles](https://github.com/chainguard-dev/darkfiles) - Darkfiles finds orphaned files in container images and makes them to bad deeds
 - [containers/skopeo](https://github.com/containers/skopeo) - Work with remote images registries - retrieving information, images, signing content
@@ -783,6 +784,7 @@
 
 ## JavaScript 
 
+- [grafana/k6-learn](https://github.com/grafana/k6-learn) - 
 - [oversizedhat/plantuml-watcher](https://github.com/oversizedhat/plantuml-watcher) - Small productivity util that watches for changes in plantuml files and (re)draws diagrams
 - [jsonresume/resume-schema](https://github.com/jsonresume/resume-schema) - JSON-Schema is used here to define and validate our proposed resume json
 - [brunosimon/my-room-in-3d](https://github.com/brunosimon/my-room-in-3d) - 
@@ -842,7 +844,6 @@
 - [pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching) - An interactive git visualization and tutorial. Aspiring students of git can use this app to educate and challenge themselves towards mastery of git!
 - [thesandlord/Istio101](https://github.com/thesandlord/Istio101) - ⚡ Lightning-Talk Style Demo of Istio and OpenCensus⚡
 - [homeferences/list](https://github.com/homeferences/list) - List of Homeferences
-- [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [VGraupera/1on1-questions](https://github.com/VGraupera/1on1-questions) - Mega list of 1 on 1 meeting questions compiled from a variety to sources
 - [anvaka/city-roads](https://github.com/anvaka/city-roads) - Visualization of all roads within any city
 - [FredrikNoren/ungit](https://github.com/FredrikNoren/ungit) - The easiest way to use git. On any platform. Anywhere.
@@ -1470,6 +1471,7 @@
 - [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
 - [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [gcovr/gcovr](https://github.com/gcovr/gcovr) - generate code coverage reports with gcc/gcov
+- [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [mherrmann/selenium-python-helium](https://github.com/mherrmann/selenium-python-helium) - Selenium-python but lighter: Helium is the best Python library for web automation.
 - [Telefonica/toolium](https://github.com/Telefonica/toolium) - Wrapper tool of Selenium and Appium libraries to test web and mobile applications in a single project
 - [idank/explainshell](https://github.com/idank/explainshell) - match command-line arguments to their help text
