@@ -343,6 +343,7 @@
 
 ## Go 
 
+- [yonahd/kor](https://github.com/yonahd/kor) - A Golang Tool to discover unused Kubernetes Resources
 - [grafana/quickpizza](https://github.com/grafana/quickpizza) - Pizza, pizza, pizza!
 - [minamijoyo/tfmigrate](https://github.com/minamijoyo/tfmigrate) - A Terraform state migration tool for GitOps
 - [coopnorge/provider-github](https://github.com/coopnorge/provider-github) - 
@@ -416,7 +417,7 @@
 - [nicolastakashi/gitana](https://github.com/nicolastakashi/gitana) - Gitana is a lightweight dashboard sync
 - [kakengloh/tsk](https://github.com/kakengloh/tsk) - Lightweight terminal task app written in Go (Golang)
 - [rhysd/actionlint](https://github.com/rhysd/actionlint) - :octocat: Static checker for GitHub Actions workflow files
-- [stateful/runme](https://github.com/stateful/runme) - Execute commands inside your runbooks, docs, and READMEs.
+- [stateful/runme](https://github.com/stateful/runme) - Execute your runbooks, docs, and READMEs.
 - [stone-payments/crossplane-provider-github](https://github.com/stone-payments/crossplane-provider-github) - Crossplane Provider for GitHub
 - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project.
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
