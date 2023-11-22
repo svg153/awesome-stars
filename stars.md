@@ -1633,7 +1633,7 @@
 
 - [adamcooke/staytus](https://github.com/adamcooke/staytus) - 💡 An open source solution for publishing the status of your services
 - [cncf/gitdm.archive](https://github.com/cncf/gitdm.archive) - 📜Fork for tracking CNCF projects
-- [alphagov/govuk-saas-config](https://github.com/alphagov/govuk-saas-config) - Configuration for GitHub, Sentry and Logit
+- [alphagov/govuk-saas-config](https://github.com/alphagov/govuk-saas-config) - Configuration for GitHub and Logit
 - [github/explore](https://github.com/github/explore) - Community-curated topic and collection pages on GitHub
 - [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything
 - [DannyBen/bashly](https://github.com/DannyBen/bashly) - Bash command line framework and CLI generator
