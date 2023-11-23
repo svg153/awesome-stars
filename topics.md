@@ -1645,6 +1645,7 @@
 
 ## git 
 
+- [CodelyTV/dotfiles](https://github.com/CodelyTV/dotfiles) - 🐢 💨 Speedup your MacOS setup with this fine tuning settings
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
 - [gruntwork-io/git-xargs](https://github.com/gruntwork-io/git-xargs) - git-xargs is a command-line tool (CLI) for making updates across multiple Github repositories with a single command.
 - [lindell/multi-gitter](https://github.com/lindell/multi-gitter) - Update multiple repositories in with one command
@@ -2750,6 +2751,7 @@
 
 ## macos 
 
+- [CodelyTV/dotfiles](https://github.com/CodelyTV/dotfiles) - 🐢 💨 Speedup your MacOS setup with this fine tuning settings
 - [megabyte-labs/Gas-Station](https://github.com/megabyte-labs/Gas-Station) - 🎉 An  Ansible  playbook that provisions your network with software from GitHub Awesome lists, developed with disaster recovery in mind ⛽🔥🤤 🐴
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [donnemartin/gitsome](https://github.com/donnemartin/gitsome) - A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise: https://github.com/works-with/category/desktop-tools
