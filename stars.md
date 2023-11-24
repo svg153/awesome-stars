@@ -791,7 +791,7 @@
 - [replicate/zoo](https://github.com/replicate/zoo) - 🦓 Zoo — Image Playground
 - [mergeability/mergeable](https://github.com/mergeability/mergeable) - 🤖 All the missing GitHub automation 🙂 🙌
 - [extenda/actions](https://github.com/extenda/actions) - GitHub Actions by Extenda Retail
-- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
+- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [Macro-Deck-App/Macro-Deck-Client](https://github.com/Macro-Deck-App/Macro-Deck-Client) - Companion app for Macro Deck 2
 - [Clouxart/dependabot-cli](https://github.com/Clouxart/dependabot-cli) - It is a command line tool to help you generate Github's dependabot.yml based on your project.
 - [Makeshift/generate-dependabot-glob-action](https://github.com/Makeshift/generate-dependabot-glob-action) - Generates a `dependabot.yml` and PRs it against your repo if it needs updating to include a new directory or package-ecosystem, with globs/wildcards
