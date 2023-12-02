@@ -2089,7 +2089,6 @@
 - [ZupIT/horusec](https://github.com/ZupIT/horusec) - Horusec is an open source tool that improves identification of vulnerabilities in your project with just one command.
 - [hashicorp/boundary](https://github.com/hashicorp/boundary) - Boundary enables identity-based access management for dynamic infrastructure.
 - [shahednasser/awesome-resources](https://github.com/shahednasser/awesome-resources) - :sunglasses: List of helpful resources added by the community for the community!
-- [sharkdp/binocle](https://github.com/sharkdp/binocle) - a graphical tool to visualize binary data
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [AkashSingh3031/The-Complete-FAANG-Preparation](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation) - This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Love Babbar Bhaiya, FAANG Questions), Technical Subjects (OS + DBMS + SQL + CN + OOPs) Theory+Questions, FAANG Interview q
 - [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.
@@ -3058,6 +3057,8 @@
 
 ## others 
 
+- [ipdxco/unified-github-workflows](https://github.com/ipdxco/unified-github-workflows) - Automatically distribute GitHub Actions workflow across repositories.
+- [ipdxco/github-as-code](https://github.com/ipdxco/github-as-code) - GitHub Configuration as Code
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [jessfraz/jessfraz](https://github.com/jessfraz/jessfraz) - 
 - [grafana/k6-learn](https://github.com/grafana/k6-learn) - 
