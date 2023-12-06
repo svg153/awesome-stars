@@ -1081,6 +1081,7 @@
 
 ## Others 
 
+- [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) - A curated list of free courses & certifications.
 - [github/gh-copilot](https://github.com/github/gh-copilot) - Ask for assistance right in your terminal.
 - [ai-boost/Awesome-GPTs](https://github.com/ai-boost/Awesome-GPTs) - Curated list of awesome GPTs 👍.
 - [jessfraz/jessfraz](https://github.com/jessfraz/jessfraz) - 
