@@ -1082,6 +1082,8 @@
 
 ## Others 
 
+- [HumanAIGC/OutfitAnyone](https://github.com/HumanAIGC/OutfitAnyone) - Outfit Anyone: Ultra-high quality virtual try-on for Any Clothing and Any Person
+- [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs
 - [githubnext/blocks](https://github.com/githubnext/blocks) - A set of files to use as input for Blocks.
 - [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) - A curated list of free courses & certifications.
 - [github/gh-copilot](https://github.com/github/gh-copilot) - Ask for assistance right in your terminal.
