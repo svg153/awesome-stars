@@ -3076,6 +3076,8 @@
 
 ## others 
 
+- [HumanAIGC/OutfitAnyone](https://github.com/HumanAIGC/OutfitAnyone) - Outfit Anyone: Ultra-high quality virtual try-on for Any Clothing and Any Person
+- [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs
 - [githubnext/blocks](https://github.com/githubnext/blocks) - A set of files to use as input for Blocks.
 - [Lemoncode/manfred-export-app](https://github.com/Lemoncode/manfred-export-app) - 
 - [MorrowShore/Prism](https://github.com/MorrowShore/Prism) - Prism is a self-hosted multistreaming solution.
