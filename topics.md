@@ -237,7 +237,7 @@
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 12 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
 - [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - Dev tool that writes scalable apps from scratch while the developer oversees the implementation
 - [steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) - A curated list of modern Generative Artificial Intelligence projects and services
-- [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
+- [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
 - [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) - Giving Kubernetes Superpowers to everyone
 - [microsoft/vscode-copilot-release](https://github.com/microsoft/vscode-copilot-release) - Feedback on GitHub Copilot Chat UX in Visual Studio Code.
@@ -1064,6 +1064,7 @@
 - [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 - [MattPD/cpplinks](https://github.com/MattPD/cpplinks) - A categorized list of C++ resources.
 - [tip-of-the-week/cpp](https://github.com/tip-of-the-week/cpp) - C++ Tip Of The Week
+- [fmtlib/fmt](https://github.com/fmtlib/fmt) - A modern formatting library
 - [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus) - Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.
 - [conan-io/conan](https://github.com/conan-io/conan) - Conan - The open-source C and C++ package manager
 - [joakim-brannstrom/dextool](https://github.com/joakim-brannstrom/dextool) - Suite of C/C++ tooling built on LLVM/Clang
@@ -3076,6 +3077,12 @@
 
 ## others 
 
+- [githubocto/flat](https://github.com/githubocto/flat) - The GitHub Action which powers Flat
+- [githubocto/flat-viewer](https://github.com/githubocto/flat-viewer) - Data viewer for Flat repos
+- [githubocto/repo-visualizer](https://github.com/githubocto/repo-visualizer) - 
+- [githubocto/flat-demo-bitcoin-price](https://github.com/githubocto/flat-demo-bitcoin-price) - A Flat Data GitHub Action demo repo
+- [githubocto/flat-editor](https://github.com/githubocto/flat-editor) - A VSCode extension to create Flat GitHub Actions
+- [techiescamp/kubernetes-projects](https://github.com/techiescamp/kubernetes-projects) - Practical real-world hands-on projects to practice and learn Kubernetes implementations
 - [JamiltonQuintero/EntrevistadorInteligente](https://github.com/JamiltonQuintero/EntrevistadorInteligente) - 
 - [HumanAIGC/OutfitAnyone](https://github.com/HumanAIGC/OutfitAnyone) - Outfit Anyone: Ultra-high quality virtual try-on for Any Clothing and Any Person
 - [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs
@@ -3298,7 +3305,6 @@
 - [plantuml-stdlib/C4-PlantUML](https://github.com/plantuml-stdlib/C4-PlantUML) - C4-PlantUML combines the benefits of PlantUML and the C4 model for providing a simple way of describing and communicate software architectures
 - [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
 - [kigster/cmake-project-template](https://github.com/kigster/cmake-project-template) - This project is aimed at jump-starting a C/C++ project that can build libraries, binaries and have a working unit test suite. It uses CMake build system and is deliberately completely minimal.
-- [fmtlib/fmt](https://github.com/fmtlib/fmt) - A modern formatting library
 - [andrewseidl/githook-clang-format](https://github.com/andrewseidl/githook-clang-format) - Pre-commit hook for running clang-format. Don't use this.
 - [JJ/curso-tdd](https://github.com/JJ/curso-tdd) - Curso de desarrollo para asegurar la calidad del software
 - [pr0g/cmake-examples](https://github.com/pr0g/cmake-examples) - A collection of as simple as possible, modern CMake projects
@@ -3909,7 +3915,7 @@
 - [tweag/FawltyDeps](https://github.com/tweag/FawltyDeps) - Python dependency checker
 - [mouredev/one-day-one-language](https://github.com/mouredev/one-day-one-language) - Cómo dar en un día tus primeros pasos en cada lenguaje de programación. Introducción, configuración e instalación, usos habituales, fundamentos, sintaxis y próximos pasos.
 - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Resume Matcher is an open source, free tool to improve your resume. It works by using language models to compare and rank resumes with job descriptions.
-- [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
+- [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [github/issue-metrics](https://github.com/github/issue-metrics) - Gather metrics on issues/prs/discussions such as time to first response, count of issues opened, closed, etc.
 - [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
