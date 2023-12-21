@@ -3095,7 +3095,7 @@
 - [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)
 - [ipdxco/unified-github-workflows](https://github.com/ipdxco/unified-github-workflows) - Automatically distribute GitHub Actions workflow across repositories.
 - [ipdxco/github-as-code](https://github.com/ipdxco/github-as-code) - GitHub Configuration as Code
-- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
+- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React)
 - [jessfraz/jessfraz](https://github.com/jessfraz/jessfraz) - 
 - [grafana/k6-learn](https://github.com/grafana/k6-learn) - 
 - [grafana/quickpizza](https://github.com/grafana/quickpizza) - Pizza, pizza, pizza!
