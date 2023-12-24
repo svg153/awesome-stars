@@ -490,7 +490,7 @@
 - [korfuri/awesome-monorepo](https://github.com/korfuri/awesome-monorepo) - A curated list of awesome Monorepo tools, software and architectures.
 - [rShetty/awesome-podcasts](https://github.com/rShetty/awesome-podcasts) - Collection of awesome podcasts
 - [rekihattori/awesome-programmers](https://github.com/rekihattori/awesome-programmers) - A list of history's greatest software engineers and tech pioneers
-- [foldmap/awsm.fish](https://github.com/foldmap/awsm.fish) - A curation of prompts, plugins & other Fish treasures 🐚💎
+- [joxji/awsm.fish](https://github.com/joxji/awsm.fish) - A curation of prompts, plugins & other Fish treasures 🐚💎
 - [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV) - :page_facing_up: Awesome CV is LaTeX template for your outstanding job application
 - [mdx-js/awesome](https://github.com/mdx-js/awesome) - A curated list of awesome MDX resources
 - [bnb/awesome-developer-streams](https://github.com/bnb/awesome-developer-streams) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻 Awesome Developers, Streaming
@@ -1603,7 +1603,7 @@
 - [niieani/bash-oo-framework](https://github.com/niieani/bash-oo-framework) - Bash Infinity is a modern standard library / framework / boilerplate for Bash
 - [owtf/owtf](https://github.com/owtf/owtf) - Offensive Web Testing Framework (OWTF), is a framework which tries to unite great tools and make pen testing more efficient http://owtf.org https://twitter.com/owtfp
 - [sensepost/objection](https://github.com/sensepost/objection) - 📱 objection - runtime mobile exploration
-- [foldmap/hyperapp](https://github.com/foldmap/hyperapp) - 1kB-ish JavaScript framework for building hypertext applications
+- [joxji/hyperapp](https://github.com/joxji/hyperapp) - 1kB-ish JavaScript framework for building hypertext applications
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [cryptii/cryptii](https://github.com/cryptii/cryptii) - Web app and framework offering modular conversion, encoding and encryption
 
@@ -2076,7 +2076,7 @@
 - [seachicken/gh-poi](https://github.com/seachicken/gh-poi) - ✨ Safely clean up your local branches
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
 - [jupyter-naas/awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks) - A powerful data & AI notebook templates catalog: prompts, plugins, models, workflow automation, analytics, code snippets - following the IMO framework to be searchable and reusable in any context.
-- [bloomberg/memray](https://github.com/bloomberg/memray) - The endgame Python memory profiler
+- [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
 - [kedacore/keda](https://github.com/kedacore/keda) - KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
 - [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
@@ -2399,7 +2399,7 @@
 - [pa11y/pa11y](https://github.com/pa11y/pa11y) - Pa11y is your automated accessibility testing pal
 - [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
 - [atashbahar/ecardcanvas](https://github.com/atashbahar/ecardcanvas) - HTML5 Canvas eCard Editor
-- [foldmap/hyperapp](https://github.com/foldmap/hyperapp) - 1kB-ish JavaScript framework for building hypertext applications
+- [joxji/hyperapp](https://github.com/joxji/hyperapp) - 1kB-ish JavaScript framework for building hypertext applications
 - [jsonresume/resume-cli](https://github.com/jsonresume/resume-cli) - CLI tool to easily setup a new resume 📑
 - [substance/substance](https://github.com/substance/substance) - A JavaScript library for web-based content editing.
 - [RyanFitzgerald/devportfolio](https://github.com/RyanFitzgerald/devportfolio) - A lightweight, customizable single-page personal portfolio website template built with JavaScript and Sass
@@ -3940,7 +3940,7 @@
 - [bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources) - DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP
 - [satellite-image-deep-learning/techniques](https://github.com/satellite-image-deep-learning/techniques) - Techniques for deep learning with satellite & aerial imagery
 - [jupyter-naas/awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks) - A powerful data & AI notebook templates catalog: prompts, plugins, models, workflow automation, analytics, code snippets - following the IMO framework to be searchable and reusable in any context.
-- [bloomberg/memray](https://github.com/bloomberg/memray) - The endgame Python memory profiler
+- [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [donnemartin/gitsome](https://github.com/donnemartin/gitsome) - A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise: https://github.com/works-with/category/desktop-tools
 - [wting/autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line
@@ -4060,7 +4060,7 @@
 - [Dineshkarthik/telegram_media_downloader](https://github.com/Dineshkarthik/telegram_media_downloader) - Download media files from a telegram conversation/chat/channel up to 2GiB per file
 - [initialcommit-com/git-sim](https://github.com/initialcommit-com/git-sim) - Visually simulate Git operations in your own repos with a single terminal command.
 - [SCons/scons](https://github.com/SCons/scons) - SCons - a software construction tool
-- [bloomberg/memray](https://github.com/bloomberg/memray) - The endgame Python memory profiler
+- [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
 - [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen) - Create committing rules for projects :rocket: auto bump versions :arrow_up: and auto changelog generation :open_file_folder:
 - [codingforentrepreneurs/FastAPI-Microservice-for-Django](https://github.com/codingforentrepreneurs/FastAPI-Microservice-for-Django) - Deploy a microservice REST API endpoint for our Try Django 3.2 https://cfe.sh/projects/try-django-3-2 project using FastAPI, pytesseract, Docker, & DigitalOcean App Platform.
 - [opsdroid/opsdroid](https://github.com/opsdroid/opsdroid) - 🤖 An open source chat-ops bot framework
@@ -4804,7 +4804,7 @@
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
 - [qazbnm456/awesome-web-security](https://github.com/qazbnm456/awesome-web-security) - 🐶 A curated list of Web Security materials and resources.
 - [webcatalog/webcatalog-legacy](https://github.com/webcatalog/webcatalog-legacy) - Legacy code of the WebCatalog app.
-- [foldmap/hyperapp](https://github.com/foldmap/hyperapp) - 1kB-ish JavaScript framework for building hypertext applications
+- [joxji/hyperapp](https://github.com/joxji/hyperapp) - 1kB-ish JavaScript framework for building hypertext applications
 - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [material-components/material-components-web](https://github.com/material-components/material-components-web) - Modular and customizable Material Design UI components for the web
