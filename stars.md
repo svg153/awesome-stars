@@ -979,6 +979,7 @@
 
 ## Jinja 
 
+- [JesusMtnez/homelab](https://github.com/JesusMtnez/homelab) - my home infrastructure and Kubernetes cluster
 - [onedr0p/flux-cluster-template](https://github.com/onedr0p/flux-cluster-template) - A community opinionated template for deploying a single Kubernetes cluster with Ansible backed by Flux, SOPS, GitHub Actions, Renovate, Cilium and more!
 
 ## Jsonnet 
@@ -1068,7 +1069,6 @@
 
 ## Nix 
 
-- [JesusMtnez/homelab](https://github.com/JesusMtnez/homelab) - my home infrastructure and Kubernetes cluster
 - [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
 
@@ -1086,6 +1086,7 @@
 
 ## Others 
 
+- [keesvv/my-octocat](https://github.com/keesvv/my-octocat) - My octocat created at https://myoctocat.com/build-your-octocat/
 - [JamiltonQuintero/EntrevistadorInteligente](https://github.com/JamiltonQuintero/EntrevistadorInteligente) - 
 - [HumanAIGC/OutfitAnyone](https://github.com/HumanAIGC/OutfitAnyone) - Outfit Anyone: Ultra-high quality virtual try-on for Any Clothing and Any Person
 - [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs
