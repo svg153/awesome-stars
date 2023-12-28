@@ -826,7 +826,7 @@
 - [node-red/node-red](https://github.com/node-red/node-red) - Low-code programming for event-driven applications
 - [grucloud/grucloud](https://github.com/grucloud/grucloud) - Generate code and diagrams from cloud infrastructures: AWS, Azure, GCP, Kubernetes
 - [duo-labs/cloudmapper](https://github.com/duo-labs/cloudmapper) - CloudMapper helps you analyze your Amazon Web Services (AWS) environments.
-- [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The most powerful screen recorder & annotation tool for Chrome 🎥
+- [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
 - [imfunniee/gitfolio](https://github.com/imfunniee/gitfolio) - :octocat: personal website + blog  for every github user
 - [abhijithvijayan/stargazed](https://github.com/abhijithvijayan/stargazed) - 📋 Creating your own Awesome List of GitHub stars!
 - [lucky-sideburn/kubeinvaders](https://github.com/lucky-sideburn/kubeinvaders) - Gamified Chaos Engineering Tool for Kubernetes
