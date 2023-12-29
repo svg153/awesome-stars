@@ -591,7 +591,7 @@
 - [matthieudelaro/nut](https://github.com/matthieudelaro/nut) - Nut: the development environment, containerized.
 - [stelligent/mu](https://github.com/stelligent/mu) - A full-stack DevOps on AWS framework
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
-- [minio/minio](https://github.com/minio/minio) - High Performance Object Storage for AI
+- [minio/minio](https://github.com/minio/minio) - The Object Store for AI Data Infrastructure
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Protect and discover secrets using Gitleaks 🔑
 - [esimov/caire](https://github.com/esimov/caire) - Content aware image resize library
 - [mkchoi212/fac](https://github.com/mkchoi212/fac) - Easy-to-use CUI for fixing git conflicts
@@ -979,7 +979,6 @@
 
 ## Jinja 
 
-- [JesusMtnez/homelab](https://github.com/JesusMtnez/homelab) - my home infrastructure and Kubernetes cluster
 - [onedr0p/flux-cluster-template](https://github.com/onedr0p/flux-cluster-template) - A community opinionated template for deploying a single Kubernetes cluster with Ansible backed by Flux, SOPS, GitHub Actions, Renovate, Cilium and more!
 
 ## Jsonnet 
@@ -1069,6 +1068,7 @@
 
 ## Nix 
 
+- [JesusMtnez/homelab](https://github.com/JesusMtnez/homelab) - my home infrastructure and Kubernetes cluster
 - [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
 
