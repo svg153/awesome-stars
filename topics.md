@@ -835,7 +835,7 @@
 - [AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) - Data-Centric FinGPT.  Open-source for open finance!  Revolutionize 🔥    We release the trained model on HuggingFace.
 - [ai-boost/Awesome-GPTs](https://github.com/ai-boost/Awesome-GPTs) - Curated list of awesome GPTs 👍.
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 12 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
-- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally
+- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - A natural language interface for computers
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
 - [knight42/kopilot](https://github.com/knight42/kopilot) - Your AI Kubernetes Expert
 - [avsthiago/kopylot](https://github.com/avsthiago/kopylot) - An AI-Powered assistant for Kubernetes developers
@@ -1058,6 +1058,7 @@
 
 ## cpp 
 
+- [onelang/OneLang](https://github.com/onelang/OneLang) - 
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [parca-dev/parca](https://github.com/parca-dev/parca) - Continuous profiling for analysis of CPU and memory usage, down to the line number and throughout time. Saving infrastructure cost, improving performance, and increasing reliability.
@@ -1091,6 +1092,7 @@
 
 ## csharp 
 
+- [onelang/OneLang](https://github.com/onelang/OneLang) - 
 - [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of file
 - [mouredev/one-day-one-language](https://github.com/mouredev/one-day-one-language) - Cómo dar en un día tus primeros pasos en cada lenguaje de programación. Introducción, configuración e instalación, usos habituales, fundamentos, sintaxis y próximos pasos.
 - [veler/DevToys](https://github.com/veler/DevToys) - A Swiss Army knife for developers.
@@ -1238,6 +1240,7 @@
 
 ## devops 
 
+- [Qovery/Torii](https://github.com/Qovery/Torii) - Torii ⛩️ is a simple, powerful and extensible open-source Internal Developer Portal
 - [techiescamp/devops-projects](https://github.com/techiescamp/devops-projects) - DevOps Real World Projects for Aspiring DevOps Engineers [Beginner to Advanced]
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams. The GitLab/GitHub for database DevOps.
 - [idoavrah/terraform-tui](https://github.com/idoavrah/terraform-tui) - Terraform textual UI
@@ -1882,6 +1885,7 @@
 
 ## golang 
 
+- [onelang/OneLang](https://github.com/onelang/OneLang) - 
 - [yonahd/kor](https://github.com/yonahd/kor) - A Golang Tool to discover unused Kubernetes Resources
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
 - [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It's completely configurable and 100% cross-pl
@@ -2305,6 +2309,7 @@
 
 ## java 
 
+- [onelang/OneLang](https://github.com/onelang/OneLang) - 
 - [mouredev/one-day-one-language](https://github.com/mouredev/one-day-one-language) - Cómo dar en un día tus primeros pasos en cada lenguaje de programación. Introducción, configuración e instalación, usos habituales, fundamentos, sintaxis y próximos pasos.
 - [keyval-dev/odigos](https://github.com/keyval-dev/odigos) - Distributed tracing without code changes. 🚀 Instantly monitor any application using OpenTelemetry and eBPF
 - [uber/cadence](https://github.com/uber/cadence) - Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
@@ -2355,8 +2360,9 @@
 
 ## javascript 
 
+- [onelang/OneLang](https://github.com/onelang/OneLang) - 
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
-- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally
+- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - A natural language interface for computers
 - [mouredev/one-day-one-language](https://github.com/mouredev/one-day-one-language) - Cómo dar en un día tus primeros pasos en cada lenguaje de programación. Introducción, configuración e instalación, usos habituales, fundamentos, sintaxis y próximos pasos.
 - [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote) - A "Notion-style" block-based extensible text editor built on top of Prosemirror and Tiptap.
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
@@ -2622,6 +2628,7 @@
 
 ## language 
 
+- [onelang/OneLang](https://github.com/onelang/OneLang) - 
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [enso-org/enso](https://github.com/enso-org/enso) - Hybrid visual and textual functional programming.
 - [vdaubry/github-awards](https://github.com/vdaubry/github-awards) - Discover your ranking on github :
@@ -3003,7 +3010,7 @@
 
 ## nodejs 
 
-- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally
+- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - A natural language interface for computers
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
 - [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀
 - [abhijithvijayan/stargazed](https://github.com/abhijithvijayan/stargazed) - 📋 Creating your own Awesome List of GitHub stars!
@@ -3095,6 +3102,7 @@
 
 ## others 
 
+- [ChristianLempa/homelab](https://github.com/ChristianLempa/homelab) - This is my entire homelab documentation files. Here you'll find notes, setups, and configurations for infrastructure, applications, networking, and more.
 - [microsoft/Mastering-GitHub-Copilot-for-Paired-Programming](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming) - A 6 Lesson course teaching everything you need to know about harnessing GitHub Copilot and an AI Paired Programing resource.
 - [fbaptiste/python-deepdive](https://github.com/fbaptiste/python-deepdive) - Python Deep Dive Course - Accompanying Materials
 - [kentaro-m/auto-assign-action](https://github.com/kentaro-m/auto-assign-action) - An action which adds reviewers to the pull request when the pull request is opened.
@@ -3107,7 +3115,7 @@
 - [githubocto/flat-demo-bitcoin-price](https://github.com/githubocto/flat-demo-bitcoin-price) - A Flat Data GitHub Action demo repo
 - [githubocto/flat-editor](https://github.com/githubocto/flat-editor) - A VSCode extension to create Flat GitHub Actions
 - [techiescamp/kubernetes-projects](https://github.com/techiescamp/kubernetes-projects) - Practical real-world hands-on projects to practice and learn Kubernetes implementations
-- [JamiltonQuintero/EntrevistadorInteligente](https://github.com/JamiltonQuintero/EntrevistadorInteligente) - 
+- [EntrevistadorInteligente/EntrevistadorInteligente](https://github.com/EntrevistadorInteligente/EntrevistadorInteligente) - 
 - [HumanAIGC/OutfitAnyone](https://github.com/HumanAIGC/OutfitAnyone) - Outfit Anyone: Ultra-high quality virtual try-on for Any Clothing and Any Person
 - [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs
 - [githubnext/blocks](https://github.com/githubnext/blocks) - A set of files to use as input for Blocks.
@@ -3848,12 +3856,14 @@
 
 ## perl 
 
+- [onelang/OneLang](https://github.com/onelang/OneLang) - 
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
 - [security-cheatsheet/reverse-shell-cheatsheet](https://github.com/security-cheatsheet/reverse-shell-cheatsheet) - 🙃 Reverse Shell Cheat Sheet 🙃
 - [hacktoolspack/hack-tools](https://github.com/hacktoolspack/hack-tools) - hack tools
 
 ## php 
 
+- [onelang/OneLang](https://github.com/onelang/OneLang) - 
 - [mouredev/one-day-one-language](https://github.com/mouredev/one-day-one-language) - Cómo dar en un día tus primeros pasos en cada lenguaje de programación. Introducción, configuración e instalación, usos habituales, fundamentos, sintaxis y próximos pasos.
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
 - [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything
@@ -3934,7 +3944,8 @@
 
 ## python 
 
-- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally
+- [onelang/OneLang](https://github.com/onelang/OneLang) - 
+- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - A natural language interface for computers
 - [ministryofjustice/operations-engineering](https://github.com/ministryofjustice/operations-engineering) - This repository is home to the Operations Engineering's tools and utilities for managing, monitoring, and optimising software development processes at the Ministry of Justice.
 - [d0c-s4vage/lookatme](https://github.com/d0c-s4vage/lookatme) - An interactive, terminal-based markdown presenter
 - [tweag/FawltyDeps](https://github.com/tweag/FawltyDeps) - Python dependency checker
@@ -4229,6 +4240,7 @@
 
 ## ruby 
 
+- [onelang/OneLang](https://github.com/onelang/OneLang) - 
 - [Exafunction/codeium.vim](https://github.com/Exafunction/codeium.vim) - Free, ultrafast Copilot alternative for Vim and Neovim
 - [parca-dev/parca](https://github.com/parca-dev/parca) - Continuous profiling for analysis of CPU and memory usage, down to the line number and throughout time. Saving infrastructure cost, improving performance, and increasing reliability.
 - [DannyBen/bashly](https://github.com/DannyBen/bashly) - Bash command line framework and CLI generator
@@ -4523,6 +4535,7 @@
 
 ## swift 
 
+- [onelang/OneLang](https://github.com/onelang/OneLang) - 
 - [mouredev/one-day-one-language](https://github.com/mouredev/one-day-one-language) - Cómo dar en un día tus primeros pasos en cada lenguaje de programación. Introducción, configuración e instalación, usos habituales, fundamentos, sintaxis y próximos pasos.
 - [codota/TabNine](https://github.com/codota/TabNine) - AI Code Completions
 
@@ -4624,6 +4637,7 @@
 
 ## terraform 
 
+- [dflook/terraform-github-actions](https://github.com/dflook/terraform-github-actions) - GitHub actions for terraform
 - [idoavrah/terraform-tui](https://github.com/idoavrah/terraform-tui) - Terraform textual UI
 - [minamijoyo/tfmigrate](https://github.com/minamijoyo/tfmigrate) - A Terraform state migration tool for GitOps
 - [mineiros-io/terraform-github-organization](https://github.com/mineiros-io/terraform-github-organization) - A Terraform module to manage GitHub Organizations. https://github.com/
@@ -4706,6 +4720,7 @@
 
 ## typescript 
 
+- [onelang/OneLang](https://github.com/onelang/OneLang) - 
 - [SawyerHood/draw-a-ui](https://github.com/SawyerHood/draw-a-ui) - Draw a mockup and generate html for it
 - [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure.
 - [xitanggg/open-resume](https://github.com/xitanggg/open-resume) - OpenResume is a powerful open-source resume builder and resume parser. https://open-resume.com/
