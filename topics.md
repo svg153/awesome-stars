@@ -425,6 +425,7 @@
 - [kigster/bashmatic](https://github.com/kigster/bashmatic) - Optimized for humans, 500+ BASH functions for all walks of life. Über Toölkit for über geeks and UNIX command line power users.
 - [robotframework/robotframework](https://github.com/robotframework/robotframework) - Generic automation framework for acceptance testing and RPA
 - [CompSciLauren/awesome-git-hooks](https://github.com/CompSciLauren/awesome-git-hooks) - :anchor: A curated list of awesome git hooks
+- [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [dtmilano/AndroidViewClient](https://github.com/dtmilano/AndroidViewClient) - Android ViewServer and ADB client
 - [scmanjarrez/imdea-controls-cli](https://github.com/scmanjarrez/imdea-controls-cli) - Script to modify IMDEA building automation parameters. Moving to intern gitlab...
@@ -1155,6 +1156,7 @@
 - [microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) - 10 Weeks, 20 Lessons, Data Science for All!
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
 - [virgili0/Virgilio](https://github.com/virgili0/Virgilio) - Your new Mentor for Data Science E-Learning.
+- [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 
 ## data-structures 
@@ -2777,6 +2779,7 @@
 - [iperov/DeepFaceLab](https://github.com/iperov/DeepFaceLab) - DeepFaceLab is the leading software for creating deepfakes.
 - [src-d/hercules](https://github.com/src-d/hercules) - Gaining advanced insights from Git repository history.
 - [virgili0/Virgilio](https://github.com/virgili0/Virgilio) - Your new Mentor for Data Science E-Learning.
+- [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [cperales/foucluster](https://github.com/cperales/foucluster) - FouCluster compute distance among songs in frequency domains, and operate with clusters
 - [Avik-Jain/100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) - 100 Days of ML Coding
 - [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada:
