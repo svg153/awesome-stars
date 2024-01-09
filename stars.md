@@ -794,6 +794,7 @@
 
 ## JavaScript 
 
+- [navicore/azuml](https://github.com/navicore/azuml) - Diagram Generator for Azure Subnets and NSGs
 - [githubocto/repo-visualizer](https://github.com/githubocto/repo-visualizer) - 
 - [githubocto/flat-demo-bitcoin-price](https://github.com/githubocto/flat-demo-bitcoin-price) - A Flat Data GitHub Action demo repo
 - [grafana/k6-learn](https://github.com/grafana/k6-learn) - 
@@ -1974,7 +1975,7 @@
 - [remotion-dev/github-unwrapped-2023](https://github.com/remotion-dev/github-unwrapped-2023) - Your coding year in review
 - [Lemoncode/manfred-export-app](https://github.com/Lemoncode/manfred-export-app) - 
 - [ipdxco/github-as-code](https://github.com/ipdxco/github-as-code) - GitHub Configuration as Code
-- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React)
+- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [SawyerHood/draw-a-ui](https://github.com/SawyerHood/draw-a-ui) - Draw a mockup and generate html for it
 - [inception-health/otel-export-trace-action](https://github.com/inception-health/otel-export-trace-action) - 
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
