@@ -778,7 +778,7 @@
 - [wtchoi/SwiftHand](https://github.com/wtchoi/SwiftHand) - Automated Testing Tool for Android Applications.
 - [routerkeygen/routerkeygenAndroid](https://github.com/routerkeygen/routerkeygenAndroid) - Router Keygen generate default WPA/WEP keys for several routers.
 - [spotify/dockerfile-maven](https://github.com/spotify/dockerfile-maven) - MATURE: A set of Maven tools for dealing with Dockerfiles
-- [OneBusAway/onebusaway-android](https://github.com/OneBusAway/onebusaway-android) - The official Android/Fire Phone app for OneBusAway
+- [OneBusAway/onebusaway-android](https://github.com/OneBusAway/onebusaway-android) - The official Android app for OneBusAway
 - [android10/Android-CleanArchitecture](https://github.com/android10/Android-CleanArchitecture) - This is a sample app that is part of a series of blog posts I have written about how to architect an android application using Uncle Bob's clean architecture approach.
 - [ravidsrk/android-testing-guide](https://github.com/ravidsrk/android-testing-guide) - [Examples] Complete reference for Android Testing with examples.
 - [ericmaxwell2003/ticTacToe](https://github.com/ericmaxwell2003/ticTacToe) - A simple tic tac toe app, to illustrate the use of MVC, MVP, and MVVM architectures to organize the application.
@@ -987,7 +987,7 @@
 
 ## Jinja 
 
-- [onedr0p/flux-cluster-template](https://github.com/onedr0p/flux-cluster-template) - A community opinionated template for deploying a single Kubernetes cluster with Ansible backed by Flux, SOPS, GitHub Actions, Renovate, Cilium and more!
+- [onedr0p/flux-cluster-template](https://github.com/onedr0p/flux-cluster-template) - A community opinionated template for deploying a Kubernetes cluster backed by Flux, SOPS, GitHub Actions, Renovate, Cilium and more!
 
 ## Jsonnet 
 
