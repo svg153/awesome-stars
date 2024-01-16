@@ -139,6 +139,7 @@
 - [material-design](#material-design)
 - [matlab](#matlab)
 - [maven](#maven)
+- [microsoft](#microsoft)
 - [mobile](#mobile)
 - [mongodb](#mongodb)
 - [monitoring](#monitoring)
@@ -326,7 +327,7 @@
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 - [codepath/android_guides](https://github.com/codepath/android_guides) - Extensive Open-Source Guides for Android Developers
 - [dtmilano/AndroidViewClient](https://github.com/dtmilano/AndroidViewClient) - Android ViewServer and ADB client
-- [OneBusAway/onebusaway-android](https://github.com/OneBusAway/onebusaway-android) - The official Android/Fire Phone app for OneBusAway
+- [OneBusAway/onebusaway-android](https://github.com/OneBusAway/onebusaway-android) - The official Android app for OneBusAway
 - [android10/Android-CleanArchitecture](https://github.com/android10/Android-CleanArchitecture) - This is a sample app that is part of a series of blog posts I have written about how to architect an android application using Uncle Bob's clean architecture approach.
 - [android/architecture-samples](https://github.com/android/architecture-samples) - A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.
 - [appium/appium-docker-android](https://github.com/appium/appium-docker-android) - Appium Server setup to automate android testing on real devices
@@ -355,7 +356,7 @@
 - [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - I am using this repository to document my journey learning about DevOps. I began this process on January 1, 2022, and plan to continue until March 31. I will be dedicating one hour each day, including
 - [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud 
 - [megabyte-labs/Gas-Station](https://github.com/megabyte-labs/Gas-Station) - 🎉 An  Ansible  playbook that provisions your network with software from GitHub Awesome lists, developed with disaster recovery in mind ⛽🔥🤤 🐴
-- [onedr0p/flux-cluster-template](https://github.com/onedr0p/flux-cluster-template) - A community opinionated template for deploying a single Kubernetes cluster with Ansible backed by Flux, SOPS, GitHub Actions, Renovate, Cilium and more!
+- [onedr0p/flux-cluster-template](https://github.com/onedr0p/flux-cluster-template) - A community opinionated template for deploying a Kubernetes cluster backed by Flux, SOPS, GitHub Actions, Renovate, Cilium and more!
 - [eliasnorrby/dotfiles](https://github.com/eliasnorrby/dotfiles) - :computer: Dotfiles for development on MacOS and Manjaro
 - [techno-tim/techno-tim.github.io](https://github.com/techno-tim/techno-tim.github.io) - Open Source, Community Driven, Documentation for Techno Tim YouTube Videos/  Complete with examples for all your copy pasta needs!
 - [ansible-community/ara](https://github.com/ansible-community/ara) - ARA Records Ansible and makes it easier to understand and troubleshoot.
@@ -733,6 +734,7 @@
 
 ## bash 
 
+- [basherpm/basher](https://github.com/basherpm/basher) - A package manager for shell scripts.
 - [Hyde46/hoard](https://github.com/Hyde46/hoard) - cli command organizer written in rust
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
 - [gruntwork-io/bash-commons](https://github.com/gruntwork-io/bash-commons) - A collection of reusable Bash functions for handling common tasks such as logging, assertions, string manipulation, and more
@@ -880,6 +882,7 @@
 
 ## cli 
 
+- [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
 - [ratatui-org/ratatui](https://github.com/ratatui-org/ratatui) - Rust library that's all about cooking up terminal user interfaces (TUIs)
 - [joshjohanning/github-misc-scripts](https://github.com/joshjohanning/github-misc-scripts) - GitHub script samples for automation
 - [Hyde46/hoard](https://github.com/Hyde46/hoard) - cli command organizer written in rust
@@ -973,6 +976,7 @@
 
 ## code 
 
+- [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - Infinite canvas SDK.
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [Bogdan-Lyashenko/codecrumbs](https://github.com/Bogdan-Lyashenko/codecrumbs) - Learn, design or document codebase by putting breadcrumbs in source code. Live updates, multi-language support and more.
@@ -1129,6 +1133,7 @@
 
 ## dart 
 
+- [mouredev/roadmap-retos-programacion](https://github.com/mouredev/roadmap-retos-programacion) - Ruta de estudio basada en ejercicios de código semanales en 2024 de la comunidad MoureDev para aprender y practicar lógica usando cualquier lenguaje de programación.
 - [mouredev/one-day-one-language](https://github.com/mouredev/one-day-one-language) - Cómo dar en un día tus primeros pasos en cada lenguaje de programación. Introducción, configuración e instalación, usos habituales, fundamentos, sintaxis y próximos pasos.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
 - [iampawan/FlutterExampleApps](https://github.com/iampawan/FlutterExampleApps) - [Example APPS] Basic Flutter apps, for flutter devs.
@@ -1803,6 +1808,7 @@
 
 ## go 
 
+- [mouredev/roadmap-retos-programacion](https://github.com/mouredev/roadmap-retos-programacion) - Ruta de estudio basada en ejercicios de código semanales en 2024 de la comunidad MoureDev para aprender y practicar lógica usando cualquier lenguaje de programación.
 - [yonahd/kor](https://github.com/yonahd/kor) - A Golang Tool to discover unused Kubernetes Resources
 - [minamijoyo/tfmigrate](https://github.com/minamijoyo/tfmigrate) - A Terraform / OpenTofu state migration tool for GitOps
 - [mouredev/one-day-one-language](https://github.com/mouredev/one-day-one-language) - Cómo dar en un día tus primeros pasos en cada lenguaje de programación. Introducción, configuración e instalación, usos habituales, fundamentos, sintaxis y próximos pasos.
@@ -1892,6 +1898,7 @@
 
 ## golang 
 
+- [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
 - [onelang/OneLang](https://github.com/onelang/OneLang) - 
 - [yonahd/kor](https://github.com/yonahd/kor) - A Golang Tool to discover unused Kubernetes Resources
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
@@ -1993,6 +2000,7 @@
 
 ## good-first-issue 
 
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 
 ## google 
@@ -2022,6 +2030,7 @@
 
 ## graphql 
 
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [joshjohanning/github-misc-scripts](https://github.com/joshjohanning/github-misc-scripts) - GitHub script samples for automation
 - [wundergraph/wundergraph](https://github.com/wundergraph/wundergraph) - WunderGraph is a Backend for Frontend Framework to optimize frontend, fullstack and backend developer workflows through API Composition.
 - [cloudgraphdev/cli](https://github.com/cloudgraphdev/cli) - The universal GraphQL API and CSPM tool for AWS, Azure, GCP, K8s, and tencent.
@@ -2315,6 +2324,7 @@
 
 ## java 
 
+- [mouredev/roadmap-retos-programacion](https://github.com/mouredev/roadmap-retos-programacion) - Ruta de estudio basada en ejercicios de código semanales en 2024 de la comunidad MoureDev para aprender y practicar lógica usando cualquier lenguaje de programación.
 - [onelang/OneLang](https://github.com/onelang/OneLang) - 
 - [mouredev/one-day-one-language](https://github.com/mouredev/one-day-one-language) - Cómo dar en un día tus primeros pasos en cada lenguaje de programación. Introducción, configuración e instalación, usos habituales, fundamentos, sintaxis y próximos pasos.
 - [keyval-dev/odigos](https://github.com/keyval-dev/odigos) - Distributed tracing without code changes. 🚀 Instantly monitor any application using OpenTelemetry and eBPF
@@ -2357,7 +2367,7 @@
 - [hacktoolspack/hack-tools](https://github.com/hacktoolspack/hack-tools) - hack tools
 - [facebook/infer](https://github.com/facebook/infer) - A static analyzer for Java, C, C++, and Objective-C
 - [spotify/dockerfile-maven](https://github.com/spotify/dockerfile-maven) - MATURE: A set of Maven tools for dealing with Dockerfiles
-- [OneBusAway/onebusaway-android](https://github.com/OneBusAway/onebusaway-android) - The official Android/Fire Phone app for OneBusAway
+- [OneBusAway/onebusaway-android](https://github.com/OneBusAway/onebusaway-android) - The official Android app for OneBusAway
 - [android10/Android-CleanArchitecture](https://github.com/android10/Android-CleanArchitecture) - This is a sample app that is part of a series of blog posts I have written about how to architect an android application using Uncle Bob's clean architecture approach.
 
 ## javafx 
@@ -2366,6 +2376,7 @@
 
 ## javascript 
 
+- [mouredev/roadmap-retos-programacion](https://github.com/mouredev/roadmap-retos-programacion) - Ruta de estudio basada en ejercicios de código semanales en 2024 de la comunidad MoureDev para aprender y practicar lógica usando cualquier lenguaje de programación.
 - [onelang/OneLang](https://github.com/onelang/OneLang) - 
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
 - [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - A natural language interface for computers
@@ -2487,6 +2498,7 @@
 
 ## kotlin 
 
+- [mouredev/roadmap-retos-programacion](https://github.com/mouredev/roadmap-retos-programacion) - Ruta de estudio basada en ejercicios de código semanales en 2024 de la comunidad MoureDev para aprender y practicar lógica usando cualquier lenguaje de programación.
 - [mouredev/one-day-one-language](https://github.com/mouredev/one-day-one-language) - Cómo dar en un día tus primeros pasos en cada lenguaje de programación. Introducción, configuración e instalación, usos habituales, fundamentos, sintaxis y próximos pasos.
 - [Ivy-Apps/ivy-wallet](https://github.com/Ivy-Apps/ivy-wallet) - Ivy Wallet is an open-source money manager app for android that you can either build or download from Google Play.
 - [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or loca
@@ -2548,7 +2560,7 @@
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [nicolastakashi/gitana](https://github.com/nicolastakashi/gitana) - Gitana is a lightweight dashboard sync
 - [joseadanof/awesome-cloudnative-trainings](https://github.com/joseadanof/awesome-cloudnative-trainings) - Awesome Trainings from Cloud Native Computing Foundation Projects and Kubernetes related software
-- [onedr0p/flux-cluster-template](https://github.com/onedr0p/flux-cluster-template) - A community opinionated template for deploying a single Kubernetes cluster with Ansible backed by Flux, SOPS, GitHub Actions, Renovate, Cilium and more!
+- [onedr0p/flux-cluster-template](https://github.com/onedr0p/flux-cluster-template) - A community opinionated template for deploying a Kubernetes cluster backed by Flux, SOPS, GitHub Actions, Renovate, Cilium and more!
 - [stefanprodan/podinfo](https://github.com/stefanprodan/podinfo) - Go microservice template for Kubernetes
 - [crossplane/terrajet](https://github.com/crossplane/terrajet) - Generate Crossplane Providers from any Terraform Provider
 - [openshift-pipelines/pipelines-as-code](https://github.com/openshift-pipelines/pipelines-as-code) - Pipelines-as-Code for Tekton
@@ -2683,6 +2695,7 @@
 
 ## linux 
 
+- [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
 - [gruntwork-io/bash-commons](https://github.com/gruntwork-io/bash-commons) - A collection of reusable Bash functions for handling common tasks such as logging, assertions, string manipulation, and more
@@ -2797,6 +2810,7 @@
 
 ## macos 
 
+- [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
 - [CodelyTV/dotfiles](https://github.com/CodelyTV/dotfiles) - 🐢 💨 Speedup your MacOS setup with this fine tuning settings
 - [megabyte-labs/Gas-Station](https://github.com/megabyte-labs/Gas-Station) - 🎉 An  Ansible  playbook that provisions your network with software from GitHub Awesome lists, developed with disaster recovery in mind ⛽🔥🤤 🐴
@@ -2885,6 +2899,13 @@
 - [GoogleContainerTools/jib](https://github.com/GoogleContainerTools/jib) - 🏗 Build container images for your Java applications.
 - [IanDarwin/Android-Cookbook-Examples](https://github.com/IanDarwin/Android-Cookbook-Examples) - Contributed code examples from O'Reilly Android Cookbook. See #user-content-table README below!
 - [spotify/dockerfile-maven](https://github.com/spotify/dockerfile-maven) - MATURE: A set of Maven tools for dealing with Dockerfiles
+
+## microsoft 
+
+- [pnp/cli-microsoft365](https://github.com/pnp/cli-microsoft365) - Manage Microsoft 365 and SharePoint Framework projects on any platform
+- [lukemurraynz/awesome-azure-architecture](https://github.com/lukemurraynz/awesome-azure-architecture) - AWESOME-Azure-Architecture - https://aka.ms/AwesomeAzureArchitecture
+- [ether/etherpad-lite](https://github.com/ether/etherpad-lite) - Etherpad: A modern really-real-time collaborative document editor.
+- [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 
 ## mobile 
 
@@ -3062,6 +3083,7 @@
 
 ## open-source 
 
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure.
 - [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source monitoring platform with incident management  🏓
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
@@ -3111,6 +3133,7 @@
 
 ## others 
 
+- [datenlord/datenlord](https://github.com/datenlord/datenlord) - DatenLord, Computing Defined Storage, an application-orientated, cloud-native distributed storage system
 - [XXXLutz/crossplane-local-example](https://github.com/XXXLutz/crossplane-local-example) - A lightweight setup for local Kubernetes and Crossplane, including the Github provider and some example resources.
 - [coop-scratchpad/helm-github-repos](https://github.com/coop-scratchpad/helm-github-repos) - Helm Chart for creating github repos using Crossplane compositions via crossplane and the github provider.....
 - [vfarcic/crossplane-github](https://github.com/vfarcic/crossplane-github) - 
@@ -3283,7 +3306,7 @@
 - [benchmark-action/github-action-benchmark](https://github.com/benchmark-action/github-action-benchmark) - GitHub Action for continuous benchmarking to keep performance
 - [earthly/awesome-earthly](https://github.com/earthly/awesome-earthly) - 
 - [cicdops/awesome-ciandcd](https://github.com/cicdops/awesome-ciandcd) - continuous integration and continuous delivery
-- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Free uptime monitor and status page powered by GitHub
+- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 - [vEnhance/dotfiles](https://github.com/vEnhance/dotfiles) - Dot files for Evan Chen (Arch Linux on i3)
 - [rodriguezst/telethon_downloader](https://github.com/rodriguezst/telethon_downloader) - Telegram Bot on a Telethon client that auto downloads incoming media files.
 - [mattkenney/dotfiles](https://github.com/mattkenney/dotfiles) - Ubuntu + macOS dotfiles
@@ -3314,7 +3337,6 @@
 - [facebook/watchman](https://github.com/facebook/watchman) - Watches files and records, or triggers actions, when they change.
 - [cncf/curriculum](https://github.com/cncf/curriculum) - 📚Open Source Curriculum for CNCF Certification Courses
 - [felHR85/Entrevista-inversa](https://github.com/felHR85/Entrevista-inversa) - 
-- [ether/etherpad-lite](https://github.com/ether/etherpad-lite) - Etherpad: A modern really-real-time collaborative document editor.
 - [trekhleb/promote-your-next-startup](https://github.com/trekhleb/promote-your-next-startup) - 🚀 Free resources you may use to promote your next startup
 - [notiondog/notion.dog](https://github.com/notiondog/notion.dog) - The easiest way to build simple, powerful websites with nothing but Notion.
 - [microsoft/azure-pipelines-tasks](https://github.com/microsoft/azure-pipelines-tasks) - Tasks for Azure Pipelines
@@ -3837,6 +3859,7 @@
 
 ## package-manager 
 
+- [basherpm/basher](https://github.com/basherpm/basher) - A package manager for shell scripts.
 - [stefanprodan/timoni](https://github.com/stefanprodan/timoni) - Timoni is a package manager for Kubernetes, powered by CUE and inspired by Helm.
 - [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) - “run anything” from the creator of `brew`
 - [filipdutescu/modern-cpp-template](https://github.com/filipdutescu/modern-cpp-template) - A template for modern C++ projects using CMake, Clang-Format, CI, unit testing and more, with support for downstream inclusion.
@@ -3878,6 +3901,7 @@
 
 ## php 
 
+- [mouredev/roadmap-retos-programacion](https://github.com/mouredev/roadmap-retos-programacion) - Ruta de estudio basada en ejercicios de código semanales en 2024 de la comunidad MoureDev para aprender y practicar lógica usando cualquier lenguaje de programación.
 - [onelang/OneLang](https://github.com/onelang/OneLang) - 
 - [mouredev/one-day-one-language](https://github.com/mouredev/one-day-one-language) - Cómo dar en un día tus primeros pasos en cada lenguaje de programación. Introducción, configuración e instalación, usos habituales, fundamentos, sintaxis y próximos pasos.
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
@@ -3894,6 +3918,7 @@
 
 ## postgresql 
 
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams. The GitLab/GitHub for database DevOps.
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
@@ -3959,6 +3984,7 @@
 
 ## python 
 
+- [mouredev/roadmap-retos-programacion](https://github.com/mouredev/roadmap-retos-programacion) - Ruta de estudio basada en ejercicios de código semanales en 2024 de la comunidad MoureDev para aprender y practicar lógica usando cualquier lenguaje de programación.
 - [onelang/OneLang](https://github.com/onelang/OneLang) - 
 - [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - A natural language interface for computers
 - [ministryofjustice/operations-engineering](https://github.com/ministryofjustice/operations-engineering) - This repository is home to the Operations Engineering's tools and utilities for managing, monitoring, and optimising software development processes at the Ministry of Justice.
@@ -4164,6 +4190,7 @@
 
 ## react 
 
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
 - [SawyerHood/draw-a-ui](https://github.com/SawyerHood/draw-a-ui) - Draw a mockup and generate html for it
 - [xitanggg/open-resume](https://github.com/xitanggg/open-resume) - OpenResume is a powerful open-source resume builder and resume parser. https://open-resume.com/
@@ -4212,6 +4239,7 @@
 
 ## reactjs 
 
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [chrisvdev/obs-chat](https://github.com/chrisvdev/obs-chat) - Also known as CVTalk is a Twitch chat viewer made with React for use in OBS or any streaming software capable of using a browser as a source including TTS and other cool features.
 - [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀
 - [ugglr/Remote-Developer-jobs-directory](https://github.com/ugglr/Remote-Developer-jobs-directory) - Document all things for remote developer positions.
@@ -4258,6 +4286,7 @@
 
 ## ruby 
 
+- [mouredev/roadmap-retos-programacion](https://github.com/mouredev/roadmap-retos-programacion) - Ruta de estudio basada en ejercicios de código semanales en 2024 de la comunidad MoureDev para aprender y practicar lógica usando cualquier lenguaje de programación.
 - [onelang/OneLang](https://github.com/onelang/OneLang) - 
 - [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics
 - [Exafunction/codeium.vim](https://github.com/Exafunction/codeium.vim) - Free, ultrafast Copilot alternative for Vim and Neovim
@@ -4283,6 +4312,7 @@
 
 ## rust 
 
+- [mouredev/roadmap-retos-programacion](https://github.com/mouredev/roadmap-retos-programacion) - Ruta de estudio basada en ejercicios de código semanales en 2024 de la comunidad MoureDev para aprender y practicar lógica usando cualquier lenguaje de programación.
 - [ratatui-org/ratatui](https://github.com/ratatui-org/ratatui) - Rust library that's all about cooking up terminal user interfaces (TUIs)
 - [Hyde46/hoard](https://github.com/Hyde46/hoard) - cli command organizer written in rust
 - [mouredev/one-day-one-language](https://github.com/mouredev/one-day-one-language) - Cómo dar en un día tus primeros pasos en cada lenguaje de programación. Introducción, configuración e instalación, usos habituales, fundamentos, sintaxis y próximos pasos.
@@ -4446,6 +4476,7 @@
 
 ## shell 
 
+- [basherpm/basher](https://github.com/basherpm/basher) - A package manager for shell scripts.
 - [binpash/try](https://github.com/binpash/try) - Inspect a command's effects before modifying your live system
 - [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 - [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by AI large language models like GPT-4, will help you accomplish your tasks faster and more efficiently.
@@ -4545,6 +4576,7 @@
 
 ## statistics 
 
+- [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
 - [arzzen/git-quick-stats](https://github.com/arzzen/git-quick-stats) - ▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository.
 - [IonicaBizau/git-stats](https://github.com/IonicaBizau/git-stats) - 🍀 Local git statistics including GitHub-like contributions calendars.
 - [virgili0/Virgilio](https://github.com/virgili0/Virgilio) - Your new Mentor for Data Science E-Learning.
@@ -4555,6 +4587,7 @@
 
 ## swift 
 
+- [mouredev/roadmap-retos-programacion](https://github.com/mouredev/roadmap-retos-programacion) - Ruta de estudio basada en ejercicios de código semanales en 2024 de la comunidad MoureDev para aprender y practicar lógica usando cualquier lenguaje de programación.
 - [onelang/OneLang](https://github.com/onelang/OneLang) - 
 - [mouredev/one-day-one-language](https://github.com/mouredev/one-day-one-language) - Cómo dar en un día tus primeros pasos en cada lenguaje de programación. Introducción, configuración e instalación, usos habituales, fundamentos, sintaxis y próximos pasos.
 - [codota/TabNine](https://github.com/codota/TabNine) - AI Code Completions
@@ -4740,6 +4773,8 @@
 
 ## typescript 
 
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
+- [mouredev/roadmap-retos-programacion](https://github.com/mouredev/roadmap-retos-programacion) - Ruta de estudio basada en ejercicios de código semanales en 2024 de la comunidad MoureDev para aprender y practicar lógica usando cualquier lenguaje de programación.
 - [onelang/OneLang](https://github.com/onelang/OneLang) - 
 - [SawyerHood/draw-a-ui](https://github.com/SawyerHood/draw-a-ui) - Draw a mockup and generate html for it
 - [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure.
@@ -4856,6 +4891,7 @@
 
 ## web 
 
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [devhubapp/devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
@@ -4895,6 +4931,7 @@
 
 ## windows 
 
+- [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
 - [megabyte-labs/Gas-Station](https://github.com/megabyte-labs/Gas-Station) - 🎉 An  Ansible  playbook that provisions your network with software from GitHub Awesome lists, developed with disaster recovery in mind ⛽🔥🤤 🐴
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
