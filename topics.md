@@ -374,7 +374,7 @@
 - [joshjohanning/github-misc-scripts](https://github.com/joshjohanning/github-misc-scripts) - GitHub script samples for automation
 - [occ-ai/obs-urlsource](https://github.com/occ-ai/obs-urlsource) - OBS plugin to fetch data from a URL or file, connect to an API or AI service, parse responses and display text, image or audio on scene
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
-- [fern-api/fern](https://github.com/fern-api/fern) - SDKs and Docs for your API
+- [fern-api/fern](https://github.com/fern-api/fern) - 🌿 Deliver Stripe-level SDKs and Docs for your API
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 - [wundergraph/wundergraph](https://github.com/wundergraph/wundergraph) - WunderGraph is a Backend for Frontend Framework to optimize frontend, fullstack and backend developer workflows through API Composition.
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
@@ -1737,6 +1737,7 @@
 
 ## github 
 
+- [cdktf/cdktf-provider-github](https://github.com/cdktf/cdktf-provider-github) - Prebuilt Terraform CDK (cdktf) provider for github.
 - [FidelusAleksander/githubcertified](https://github.com/FidelusAleksander/githubcertified) - Prepare for GitHub Certification exams!
 - [LadyKerr/github-certification-guide](https://github.com/LadyKerr/github-certification-guide) - Resources to help you get GitHub certified ✨
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams. The GitLab/GitHub for database DevOps.
@@ -2066,6 +2067,7 @@
 
 ## hacktoberfest 
 
+- [rlespinasse/drawio-export-action](https://github.com/rlespinasse/drawio-export-action) - GitHub Action To Export Draw.io Files
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
 - [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) - A curated list of free courses & certifications.
 - [inception-health/otel-export-trace-action](https://github.com/inception-health/otel-export-trace-action) - 
@@ -3133,6 +3135,11 @@
 
 ## others 
 
+- [pulumi/pulumi-github](https://github.com/pulumi/pulumi-github) - A Pulumi package to facilitate interacting with GitHub
+- [exercism/website](https://github.com/exercism/website) - The codebase for Exercism's website.
+- [form3tech-oss/terraform-provider-githubfile](https://github.com/form3tech-oss/terraform-provider-githubfile) - A Terraform provider for managing files in GitHub repositories.
+- [form3tech-oss/terraform-provider-codeowners](https://github.com/form3tech-oss/terraform-provider-codeowners) - A terraform provider for your GitHub CODEOWNERS files
+- [github/dev](https://github.com/github/dev) - Press the . key on any repo
 - [datenlord/datenlord](https://github.com/datenlord/datenlord) - DatenLord, Computing Defined Storage, an application-orientated, cloud-native distributed storage system
 - [XXXLutz/crossplane-local-example](https://github.com/XXXLutz/crossplane-local-example) - A lightweight setup for local Kubernetes and Crossplane, including the Github provider and some example resources.
 - [coop-scratchpad/helm-github-repos](https://github.com/coop-scratchpad/helm-github-repos) - Helm Chart for creating github repos using Crossplane compositions via crossplane and the github provider.....
@@ -4690,6 +4697,7 @@
 
 ## terraform 
 
+- [cdktf/cdktf-provider-github](https://github.com/cdktf/cdktf-provider-github) - Prebuilt Terraform CDK (cdktf) provider for github.
 - [dflook/terraform-github-actions](https://github.com/dflook/terraform-github-actions) - GitHub actions for terraform
 - [idoavrah/terraform-tui](https://github.com/idoavrah/terraform-tui) - Terraform textual UI
 - [minamijoyo/tfmigrate](https://github.com/minamijoyo/tfmigrate) - A Terraform / OpenTofu state migration tool for GitOps
