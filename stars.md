@@ -640,7 +640,7 @@
 
 ## HTML 
 
-- [FidelusAleksander/githubcertified](https://github.com/FidelusAleksander/githubcertified) - Prepare for GitHub Certification exams!
+- [FidelusAleksander/ghcertified](https://github.com/FidelusAleksander/ghcertified) - Prepare for GitHub Certification exams!
 - [u8views/go-u8views](https://github.com/u8views/go-u8views) - Profile views stats
 - [noeal-dac/Animated-Lower-Thirds](https://github.com/noeal-dac/Animated-Lower-Thirds) - Animated Lower Thirds with dockable Control Panel - OBS Tool
 - [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more!
