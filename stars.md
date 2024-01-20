@@ -345,6 +345,7 @@
 
 ## Go 
 
+- [theMagicalKarp/kube-janitor](https://github.com/theMagicalKarp/kube-janitor) - Kubernetes Job Cleaner
 - [pulumi/pulumi-github](https://github.com/pulumi/pulumi-github) - A Pulumi package to facilitate interacting with GitHub
 - [form3tech-oss/terraform-provider-githubfile](https://github.com/form3tech-oss/terraform-provider-githubfile) - A Terraform provider for managing files in GitHub repositories.
 - [form3tech-oss/terraform-provider-codeowners](https://github.com/form3tech-oss/terraform-provider-codeowners) - A terraform provider for your GitHub CODEOWNERS files
@@ -624,7 +625,7 @@
 - [ministryofjustice/modernisation-platform](https://github.com/ministryofjustice/modernisation-platform) - A place for the core work of the Modernisation Platform • This repository is defined and managed in Terraform
 - [mineiros-io/terraform-github-organization](https://github.com/mineiros-io/terraform-github-organization) - A Terraform module to manage GitHub Organizations. https://github.com/
 - [Azure/terraform-azurerm-virtual-machine](https://github.com/Azure/terraform-azurerm-virtual-machine) - Terraform Azure RM Virtual Machine Module
-- [ishioni/homelab-ops](https://github.com/ishioni/homelab-ops) - 
+- [ishioni/homelab-ops](https://github.com/ishioni/homelab-ops) - Wife approved HomeOps driven by Kubernetes and GitOps using Flux
 - [Azure-Samples/terraform-github-actions](https://github.com/Azure-Samples/terraform-github-actions) - A reference implementation of using GitHub Actions to deploy infrastructure to Azure using Terraform
 - [brikis98/terraform-up-and-running-code](https://github.com/brikis98/terraform-up-and-running-code) - Code samples for the book "Terraform: Up & Running" by Yevgeniy Brikman
 - [gruntwork-io/intro-to-terraform](https://github.com/gruntwork-io/intro-to-terraform) - Sample code for the blog post series "A Comprehensive Guide to Terraform."
@@ -798,6 +799,7 @@
 
 ## JavaScript 
 
+- [upgundecha/howtheysre](https://github.com/upgundecha/howtheysre) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
 - [chrisvdev/obs-chat](https://github.com/chrisvdev/obs-chat) - Also known as CVTalk is a Twitch chat viewer made with React for use in OBS or any streaming software capable of using a browser as a source including TTS and other cool features.
 - [steveseguin/vdo.ninja](https://github.com/steveseguin/vdo.ninja) - VDO.Ninja is a powerful tool that lets you bring remote video feeds into OBS or other studio software via WebRTC.
 - [navicore/azuml](https://github.com/navicore/azuml) - Diagram Generator for Azure Subnets and NSGs
@@ -1054,6 +1056,7 @@
 
 ## MDX 
 
+- [achamorro-dev/eventoswiki](https://github.com/achamorro-dev/eventoswiki) - 
 - [primer/design](https://github.com/primer/design) - Primer Design Guidelines
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
