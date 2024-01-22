@@ -31,7 +31,6 @@
 - [Haskell](#haskell)
 - [Java](#java)
 - [JavaScript](#javascript)
-- [Jinja](#jinja)
 - [Jsonnet](#jsonnet)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
@@ -368,7 +367,7 @@
 - [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It's completely configurable and 100% cross-pl
 - [gruntwork-io/git-xargs](https://github.com/gruntwork-io/git-xargs) - git-xargs is a command-line tool (CLI) for making updates across multiple Github repositories with a single command.
 - [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) - Giving Kubernetes Superpowers to everyone
-- [nobl9/sloctl](https://github.com/nobl9/sloctl) - A small command line tool to cast SLO spells
+- [nobl9/sloctl](https://github.com/nobl9/sloctl) - A command line tool to cast SLO spells
 - [klothoplatform/klotho](https://github.com/klothoplatform/klotho) - Klotho - write AWS applications at lightning speed
 - [stefanprodan/timoni](https://github.com/stefanprodan/timoni) - Timoni is a package manager for Kubernetes, powered by CUE and inspired by Helm.
 - [peter-evans/kdef](https://github.com/peter-evans/kdef) - Declarative resource management for Kafka
@@ -799,6 +798,7 @@
 
 ## JavaScript 
 
+- [steveseguin/social_stream](https://github.com/steveseguin/social_stream) - Consolidate your live social messaging streams and much more
 - [upgundecha/howtheysre](https://github.com/upgundecha/howtheysre) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
 - [chrisvdev/obs-chat](https://github.com/chrisvdev/obs-chat) - Also known as CVTalk is a Twitch chat viewer made with React for use in OBS or any streaming software capable of using a browser as a source including TTS and other cool features.
 - [steveseguin/vdo.ninja](https://github.com/steveseguin/vdo.ninja) - VDO.Ninja is a powerful tool that lets you bring remote video feeds into OBS or other studio software via WebRTC.
@@ -989,10 +989,6 @@
 - [amark/gun](https://github.com/amark/gun) - An open source cybersecurity protocol for syncing decentralized graph data.
 - [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
 - [atstp/wasabi](https://github.com/atstp/wasabi) - maintainable, intuitive directory-structure documentation
-
-## Jinja 
-
-- [onedr0p/flux-cluster-template](https://github.com/onedr0p/flux-cluster-template) - A community opinionated template for deploying a Kubernetes cluster backed by Flux, SOPS, GitHub Actions, Renovate, Cilium and more!
 
 ## Jsonnet 
 
@@ -1420,6 +1416,7 @@
 - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Resume Matcher is an open source, free tool to improve your resume. It works by using language models to compare and rank resumes with job descriptions.
 - [Codium-ai/pr-agent](https://github.com/Codium-ai/pr-agent) - 🚀CodiumAI PR-Agent: An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
 - [joshpxyne/gpt-migrate](https://github.com/joshpxyne/gpt-migrate) - Easily migrate your codebase from one framework or language to another.
+- [fern-api/fern](https://github.com/fern-api/fern) - 🌿 Deliver Stripe-level SDKs and Docs for your API
 - [clovaai/donut](https://github.com/clovaai/donut) - Official Implementation of OCR-free Document Understanding Transformer (Donut) and Synthetic Document Generator (SynthDoG), ECCV 2022
 - [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [github/issue-metrics](https://github.com/github/issue-metrics) - Gather metrics on issues/prs/discussions such as time to first response, count of issues opened, closed, etc.
@@ -1447,6 +1444,7 @@
 - [SCons/scons](https://github.com/SCons/scons) - SCons - a software construction tool
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) - Kubernetes observability and automation, with an awesome Prometheus integration
 - [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) - FauxPilot - an open-source alternative to GitHub Copilot server
+- [onedr0p/flux-cluster-template](https://github.com/onedr0p/flux-cluster-template) - A community opinionated template for deploying a Kubernetes cluster backed by Flux, SOPS, GitHub Actions, Renovate, Cilium and more!
 - [3rd-party-integrations/github-team-sync](https://github.com/3rd-party-integrations/github-team-sync) - Sync GitHub teams to groups in Active Directory, LDAP, Okta, OneLogin or AzureAD when using any authentication method for GitHub.
 - [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and de
 - [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
@@ -2015,7 +2013,6 @@
 - [xitanggg/open-resume](https://github.com/xitanggg/open-resume) - OpenResume is a powerful open-source resume builder and resume parser. https://open-resume.com/
 - [CodelyTV/vscode-awesome-settings](https://github.com/CodelyTV/vscode-awesome-settings) - Awesome Settings for VSCode
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
-- [fern-api/fern](https://github.com/fern-api/fern) - 🌿 Deliver Stripe-level SDKs and Docs for your API
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
 - [HiDeoo/issue-form-block](https://github.com/HiDeoo/issue-form-block) - GitHub Block to preview and edit issue forms as a custom file renderer in GitHub
 - [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote) - A "Notion-style" block-based extensible text editor built on top of Prosemirror and Tiptap.
@@ -2040,7 +2037,7 @@
 - [microsoft/typespec](https://github.com/microsoft/typespec) - 
 - [step-security/wait-for-secrets](https://github.com/step-security/wait-for-secrets) - Publish from GitHub Actions using multi-factor authentication
 - [openblocks-dev/openblocks](https://github.com/openblocks-dev/openblocks) - 🔥 🔥 🔥 The Open Source Retool Alternative
-- [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) - “run anything” from the creator of `brew`
+- [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) - the last thing you’ll install
 - [wundergraph/wundergraph](https://github.com/wundergraph/wundergraph) - WunderGraph is a Backend for Frontend Framework to optimize frontend, fullstack and backend developer workflows through API Composition.
 - [Azure/k8s-bake](https://github.com/Azure/k8s-bake) - GitHub Action creating Kubernetes manifest files with Helm, Kustomize, or Kompose
 - [dendronhq/dendron](https://github.com/dendronhq/dendron) - The personal knowledge management (PKM) tool that grows as you do!
