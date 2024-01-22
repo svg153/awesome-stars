@@ -890,6 +890,7 @@
 - [imsnif/diskonaut](https://github.com/imsnif/diskonaut) - Terminal disk space navigator 🔭
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
 - [gruntwork-io/git-xargs](https://github.com/gruntwork-io/git-xargs) - git-xargs is a command-line tool (CLI) for making updates across multiple Github repositories with a single command.
+- [nobl9/sloctl](https://github.com/nobl9/sloctl) - A command line tool to cast SLO spells
 - [GothenburgBitFactory/taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) - Taskwarrior - Command line Task Management
 - [lindell/multi-gitter](https://github.com/lindell/multi-gitter) - Update multiple repositories in with one command
 - [mivano/azure-cost-cli](https://github.com/mivano/azure-cost-cli) - CLI tool to perform cost analysis on your Azure subscription
@@ -1827,6 +1828,7 @@
 - [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The open source high performance data integration platform built for developers.
 - [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It's completely configurable and 100% cross-pl
 - [warrensbox/terraform-switcher](https://github.com/warrensbox/terraform-switcher) - A command line tool to switch between different versions of terraform  (install with homebrew and more)
+- [nobl9/sloctl](https://github.com/nobl9/sloctl) - A command line tool to cast SLO spells
 - [lindell/multi-gitter](https://github.com/lindell/multi-gitter) - Update multiple repositories in with one command
 - [ddosify/ddosify](https://github.com/ddosify/ddosify) - Effortless Kubernetes Monitoring and Performance Testing. Available on CLI, Self-Hosted, and Cloud
 - [future-architect/tftarget](https://github.com/future-architect/tftarget) - 🎯tftarget is a CLI tool for Terraform ( plan | apply | destroy ) with target option. You can interactivity select resource to ( plan | apply | destroy )  with target option.
@@ -1917,6 +1919,7 @@
 - [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It's completely configurable and 100% cross-pl
 - [gruntwork-io/git-xargs](https://github.com/gruntwork-io/git-xargs) - git-xargs is a command-line tool (CLI) for making updates across multiple Github repositories with a single command.
 - [warrensbox/terraform-switcher](https://github.com/warrensbox/terraform-switcher) - A command line tool to switch between different versions of terraform  (install with homebrew and more)
+- [nobl9/sloctl](https://github.com/nobl9/sloctl) - A command line tool to cast SLO spells
 - [lindell/multi-gitter](https://github.com/lindell/multi-gitter) - Update multiple repositories in with one command
 - [ddosify/ddosify](https://github.com/ddosify/ddosify) - Effortless Kubernetes Monitoring and Performance Testing. Available on CLI, Self-Hosted, and Cloud
 - [joerdav/xc](https://github.com/joerdav/xc) - Markdown defined task runner.
@@ -3150,6 +3153,7 @@
 
 ## others 
 
+- [steveseguin/social_stream](https://github.com/steveseguin/social_stream) - Consolidate your live social messaging streams and much more
 - [achamorro-dev/eventoswiki](https://github.com/achamorro-dev/eventoswiki) - 
 - [pulumi/pulumi-github](https://github.com/pulumi/pulumi-github) - A Pulumi package to facilitate interacting with GitHub
 - [exercism/website](https://github.com/exercism/website) - The codebase for Exercism's website.
@@ -3218,7 +3222,6 @@
 - [openchatai/OpenChat](https://github.com/openchatai/OpenChat) - LLMs custom-chatbots console ⚡
 - [cncf/tag-app-delivery](https://github.com/cncf/tag-app-delivery) - CNCF TAG App Delivery 🚚📦
 - [Azure-Samples/terraform-github-actions](https://github.com/Azure-Samples/terraform-github-actions) - A reference implementation of using GitHub Actions to deploy infrastructure to Azure using Terraform
-- [nobl9/sloctl](https://github.com/nobl9/sloctl) - A small command line tool to cast SLO spells
 - [thoughtworks/metrik](https://github.com/thoughtworks/metrik) - An easy-to-use, cross-platform measurement tool that pulls data out of CD pipelines and analysis the four key metrics for you.
 - [extenda/actions](https://github.com/extenda/actions) - GitHub Actions by Extenda Retail
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
@@ -3884,7 +3887,7 @@
 
 - [basherpm/basher](https://github.com/basherpm/basher) - A package manager for shell scripts.
 - [stefanprodan/timoni](https://github.com/stefanprodan/timoni) - Timoni is a package manager for Kubernetes, powered by CUE and inspired by Helm.
-- [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) - “run anything” from the creator of `brew`
+- [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) - the last thing you’ll install
 - [filipdutescu/modern-cpp-template](https://github.com/filipdutescu/modern-cpp-template) - A template for modern C++ projects using CMake, Clang-Format, CI, unit testing and more, with support for downstream inclusion.
 - [conan-io/conan](https://github.com/conan-io/conan) - Conan - The open-source C and C++ package manager
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
