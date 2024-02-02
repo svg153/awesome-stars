@@ -107,7 +107,6 @@
 - [distcc/distcc](https://github.com/distcc/distcc) - distributed builds for C, C++ and Objective C
 - [koute/bytehound](https://github.com/koute/bytehound) - A memory profiler for Linux.
 - [davatorium/rofi](https://github.com/davatorium/rofi) - Rofi: A window switcher, application launcher and dmenu replacement
-- [gcc-mirror/gcc](https://github.com/gcc-mirror/gcc) - 
 - [lastpass/lastpass-cli](https://github.com/lastpass/lastpass-cli) - LastPass command line interface tool
 - [metacall/core](https://github.com/metacall/core) - MetaCall: The ultimate polyglot programming experience.
 - [jhawthorn/fzy](https://github.com/jhawthorn/fzy) - :mag: A simple, fast fuzzy finder for the terminal
@@ -625,6 +624,7 @@
 
 ## HCL 
 
+- [intelygenz/the-real-devops-challenge](https://github.com/intelygenz/the-real-devops-challenge) - This challenge was designed to look for your DevOps skills. This repository contains challenges to demostrates your knowledge.
 - [ChristianLempa/homelab](https://github.com/ChristianLempa/homelab) - This is my entire homelab documentation files. Here you'll find notes, setups, and configurations for infrastructure, applications, networking, and more.
 - [techiescamp/devops-projects](https://github.com/techiescamp/devops-projects) - DevOps Real World Projects for Aspiring DevOps Engineers [Beginner to Advanced]
 - [techiescamp/kubernetes-projects](https://github.com/techiescamp/kubernetes-projects) - Practical real-world hands-on projects to practice and learn Kubernetes implementations
@@ -1227,6 +1227,7 @@
 - [docker/roadmap](https://github.com/docker/roadmap) - Welcome to the Public Roadmap for All Things Docker! We welcome your ideas.
 - [docker/for-linux](https://github.com/docker/for-linux) - Docker Engine for Linux
 - [teivah/algodeck](https://github.com/teivah/algodeck) - An Open-Source Collection of 200+ Flash Cards to Help You Preparing Your Algorithms & Data Structures Interview 💯
+- [gcc-mirror/gcc](https://github.com/gcc-mirror/gcc) - 
 - [vaib25vicky/awesome-mobile-security](https://github.com/vaib25vicky/awesome-mobile-security) - An effort to build a single place for all useful android and iOS security related stuff. All references and tools belong to their respective owners. I'm just maintaining it.
 - [in28minutes/campus-interview-guide](https://github.com/in28minutes/campus-interview-guide) - 60 Day Learning Challenges for Campus Interviews
 - [maddiestone/AndroidAppRE](https://github.com/maddiestone/AndroidAppRE) - Android App Reverse Engineering Workshop
@@ -1997,6 +1998,8 @@
 
 ## TypeScript 
 
+- [Niv3K-El-Pato/ElPatoDraw](https://github.com/Niv3K-El-Pato/ElPatoDraw) - A excalidraw implementation with multiple file support and sync
+- [Niv3K-El-Pato/TwitchControlsMyCode](https://github.com/Niv3K-El-Pato/TwitchControlsMyCode) - Allows twitch chat to control your vscode - what can go wrong?
 - [kucherenko/jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for programming source code.
 - [github/forgoodfirstissue](https://github.com/github/forgoodfirstissue) - Find your first issue for good to contribute to
 - [cdktf/cdktf-provider-github](https://github.com/cdktf/cdktf-provider-github) - Prebuilt Terraform CDK (cdktf) provider for github.
@@ -2019,8 +2022,8 @@
 - [suzuki-shunsuke/tfaction](https://github.com/suzuki-shunsuke/tfaction) - Framework for Monorepo to build high level Terraform Workflows by GitHub Actions
 - [peter-evans/find-comment](https://github.com/peter-evans/find-comment) - A GitHub action to find an issue or pull request comment
 - [peter-evans/slash-command-dispatch](https://github.com/peter-evans/slash-command-dispatch) - A GitHub action that facilitates "ChatOps" by creating repository dispatch events for slash commands
-- [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source monitoring platform with incident management  🏓
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - Infinite canvas app and SDK
+- [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source website & API monitoring platform  🏓
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - Infinite canvas.
 - [xitanggg/open-resume](https://github.com/xitanggg/open-resume) - OpenResume is a powerful open-source resume builder and resume parser. https://open-resume.com/
 - [CodelyTV/vscode-awesome-settings](https://github.com/CodelyTV/vscode-awesome-settings) - Awesome Settings for VSCode
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
