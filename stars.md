@@ -412,7 +412,7 @@
 - [chainguard-dev/darkfiles](https://github.com/chainguard-dev/darkfiles) - Darkfiles finds orphaned files in container images and makes them to bad deeds
 - [containers/skopeo](https://github.com/containers/skopeo) - Work with remote images registries - retrieving information, images, signing content
 - [esnet/gdg](https://github.com/esnet/gdg) - Grafana Dashboard Manager
-- [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) - Synchronize your DNS to multiple providers from a simple DSL
+- [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) - Infrastructure as code for DNS!
 - [upbound/provider-azure](https://github.com/upbound/provider-azure) - Official Azure Provider for Crossplane by Upbound.
 - [upbound/provider-aws](https://github.com/upbound/provider-aws) - Official AWS Provider for Crossplane by Upbound.
 - [grafana/phlare](https://github.com/grafana/phlare) - 🔥 horizontally-scalable, highly-available, multi-tenant continuous profiling aggregation system
