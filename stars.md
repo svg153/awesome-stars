@@ -497,7 +497,7 @@
 - [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
 - [mvdan/github-actions-golang](https://github.com/mvdan/github-actions-golang) - GitHub Actions as CI for Go
 - [HFO4/gameboy.live](https://github.com/HFO4/gameboy.live) - 🕹️ A basic gameboy emulator with terminal "Cloud Gaming" support
-- [akatsuki105/worldwide](https://github.com/akatsuki105/worldwide) - A toy GameBoy Color emulator written in golang.
+- [akatsuki105/worldwide](https://github.com/akatsuki105/worldwide) - This is my old GameBoy Emulator, please visit DawnGB, my new GameBoy emulator!
 - [nats-io/k8s](https://github.com/nats-io/k8s) - NATS on Kubernetes with Helm Charts
 - [gochronicles/cli](https://github.com/gochronicles/cli) - Create production ready microservices mono repo pattern wired with Neo4j. Microservices for other languages and front end repos to be added as well in future.
 - [kudobuilder/kuttl](https://github.com/kudobuilder/kuttl) - KUbernetes Test TooL (kuttl)
