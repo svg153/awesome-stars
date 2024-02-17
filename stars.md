@@ -138,6 +138,7 @@
 
 ## C# # 
 
+- [DeveloperMetrics/DevOpsMetrics](https://github.com/DeveloperMetrics/DevOpsMetrics) - A project to extract and process high performing DevOps metrics (DORA) from GitHub and Azure DevOps
 - [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of file
 - [mouredev/one-day-one-language](https://github.com/mouredev/one-day-one-language) - Cómo dar en un día tus primeros pasos en cada lenguaje de programación. Introducción, configuración e instalación, usos habituales, fundamentos, sintaxis y próximos pasos.
 - [mivano/azure-cost-cli](https://github.com/mivano/azure-cost-cli) - CLI tool to perform cost analysis on your Azure subscription
@@ -349,6 +350,8 @@
 
 ## Go 
 
+- [apache/incubator-devlake](https://github.com/apache/incubator-devlake) - Apache DevLake is an open-source dev data platform to ingest, analyze, and visualize the fragmented data from DevOps tools, extracting insights for engineering excellence, developer experience, and co
+- [grafana/tanka](https://github.com/grafana/tanka) - Flexible, reusable and concise configuration for Kubernetes
 - [devops-works/binenv](https://github.com/devops-works/binenv) - One binary to rule them all. Manage all those pesky binaries (kubectl, helm, terraform, ...) easily.
 - [Pradumnasaraf/DevOps](https://github.com/Pradumnasaraf/DevOps) - I created this repository to keep my learning, notes, and code in one place for various tools in DevOps. Now, it's helping thousands of learners, practitioners, and professionals every day in their De
 - [theMagicalKarp/kube-janitor](https://github.com/theMagicalKarp/kube-janitor) - Kubernetes Job Cleaner
@@ -684,7 +687,6 @@
 - [IonicaBizau/github-contributions](https://github.com/IonicaBizau/github-contributions) - :octocat: A tool that generates a repository which being pushed into your GitHub account creates a nice contributions calendar.
 - [catapult-project/catapult](https://github.com/catapult-project/catapult) - Deprecated Catapult GitHub. Please instead use http://crbug.com "Speed&gt;Benchmarks" component for bugs and https://chromium.googlesource.com/catapult for downloading and editing source code..
 - [cslab-upm/ofs-web](https://github.com/cslab-upm/ofs-web) - 
-- [davidam/python-examples](https://github.com/davidam/python-examples) - Many tiny python examples, ready to be used executing single files
 - [Fictizia/Taller-Agilismo-al-desnudo-Open-Expo-2018](https://github.com/Fictizia/Taller-Agilismo-al-desnudo-Open-Expo-2018) - 
 - [despo/issuehub.io](https://github.com/despo/issuehub.io) - Find open source issues to work on! (domain update)
 - [android/kotlin-guides](https://github.com/android/kotlin-guides) - A set of guides for writing Kotlin for Android.
@@ -2003,6 +2005,8 @@
 
 ## TypeScript 
 
+- [mikaelvesavuori/dorametrix](https://github.com/mikaelvesavuori/dorametrix) - Dorametrix is a serverless web service that helps you calculate your DORA metrics, by inferring your metrics from events you create with webhooks (or manually!).
+- [faros-ai/faros-community-edition](https://github.com/faros-ai/faros-community-edition) - BI, API and Automation layer for your Engineering Operations data
 - [Niv3K-El-Pato/ElPatoDraw](https://github.com/Niv3K-El-Pato/ElPatoDraw) - A excalidraw implementation with multiple file support and sync
 - [Niv3K-El-Pato/TwitchControlsMyCode](https://github.com/Niv3K-El-Pato/TwitchControlsMyCode) - Allows twitch chat to control your vscode - what can go wrong?
 - [kucherenko/jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for programming source code.
