@@ -138,6 +138,7 @@
 
 ## C# # 
 
+- [davidfowl/AspirePulumi](https://github.com/davidfowl/AspirePulumi) - A demo showing pulumi and aspire
 - [DeveloperMetrics/DevOpsMetrics](https://github.com/DeveloperMetrics/DevOpsMetrics) - A project to extract and process high performing DevOps metrics (DORA) from GitHub and Azure DevOps
 - [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of file
 - [mouredev/one-day-one-language](https://github.com/mouredev/one-day-one-language) - Cómo dar en un día tus primeros pasos en cada lenguaje de programación. Introducción, configuración e instalación, usos habituales, fundamentos, sintaxis y próximos pasos.
@@ -350,6 +351,9 @@
 
 ## Go 
 
+- [gptscript-ai/gptscript](https://github.com/gptscript-ai/gptscript) - Natural Language Programming
+- [bitnami-labs/sealed-secrets](https://github.com/bitnami-labs/sealed-secrets) - A Kubernetes controller and tool for one-way encrypted Secrets
+- [lindell/multi-gitter](https://github.com/lindell/multi-gitter) - Update multiple repositories in with one command
 - [apache/incubator-devlake](https://github.com/apache/incubator-devlake) - Apache DevLake is an open-source dev data platform to ingest, analyze, and visualize the fragmented data from DevOps tools, extracting insights for engineering excellence, developer experience, and co
 - [grafana/tanka](https://github.com/grafana/tanka) - Flexible, reusable and concise configuration for Kubernetes
 - [devops-works/binenv](https://github.com/devops-works/binenv) - One binary to rule them all. Manage all those pesky binaries (kubectl, helm, terraform, ...) easily.
@@ -382,7 +386,6 @@
 - [stefanprodan/timoni](https://github.com/stefanprodan/timoni) - Timoni is a package manager for Kubernetes, powered by CUE and inspired by Helm.
 - [peter-evans/kdef](https://github.com/peter-evans/kdef) - Declarative resource management for Kafka
 - [teletrace/teletrace](https://github.com/teletrace/teletrace) - Open-Source Tracing Platform
-- [lindell/multi-gitter](https://github.com/lindell/multi-gitter) - Update multiple repositories in with one command
 - [kubefirst/kubefirst](https://github.com/kubefirst/kubefirst) - The Kubefirst Open Source Platform
 - [env0/terratag](https://github.com/env0/terratag) - Terratag is a CLI tool that enables users of Terraform to automatically create and maintain tags across their entire set of AWS, Azure, and GCP resources
 - [cycloidio/terracost](https://github.com/cycloidio/terracost) - Cloud cost estimation for Terraform in your CLI
@@ -724,6 +727,8 @@
 
 ## Java 
 
+- [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
+- [GuntherRademacher/rr](https://github.com/GuntherRademacher/rr) - RR - Railroad Diagram Generator
 - [alibaba/SREWorks](https://github.com/alibaba/SREWorks) - Cloud Native DataOps & AIOps Platform | 云原生数智运维平台
 - [smithy-lang/smithy](https://github.com/smithy-lang/smithy) - Smithy is a protocol-agnostic interface definition language and set of tools for generating clients, servers, and documentation for any programming language.
 - [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
@@ -808,6 +813,7 @@
 
 ## JavaScript 
 
+- [microlinkhq/unavatar](https://github.com/microlinkhq/unavatar) - Get unified user avatar from social networks, including Instagram, SoundCloud, Telegram, Twitter, YouTube & more.
 - [steveseguin/social_stream](https://github.com/steveseguin/social_stream) - Consolidate your live social messaging streams and much more
 - [upgundecha/howtheysre](https://github.com/upgundecha/howtheysre) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
 - [chrisvdev/obs-chat](https://github.com/chrisvdev/obs-chat) - Also known as CVTalk is a Twitch chat viewer made with React for use in OBS or any streaming software capable of using a browser as a source including TTS and other cool features.
@@ -1111,6 +1117,7 @@
 
 ## Others 
 
+- [terremoth/awesome-hilarious-repos](https://github.com/terremoth/awesome-hilarious-repos) - Awesome hilarious github repositories
 - [TaptuIT/awesome-devsecops](https://github.com/TaptuIT/awesome-devsecops) - Curating the best DevSecOps resources and tooling.
 - [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
 - [github/dev](https://github.com/github/dev) - Press the . key on any repo
@@ -1416,6 +1423,10 @@
 
 ## Python 
 
+- [dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core) - dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.
+- [Textualize/toolong](https://github.com/Textualize/toolong) - A terminal application to view, tail, merge, and search log files (plus JSONL).
+- [tox-dev/tox](https://github.com/tox-dev/tox) - Command line driven CI frontend and development task automation tool.
+- [cekit/cekit](https://github.com/cekit/cekit) - CEKit - Container Evolution Kit
 - [jooola/gh-release-install](https://github.com/jooola/gh-release-install) - CLI helper to install Github releases on your system.
 - [Rishang/install-release](https://github.com/Rishang/install-release) - Easily install, update and manage any CLI tool directly from github releases
 - [mouredev/roadmap-retos-programacion](https://github.com/mouredev/roadmap-retos-programacion) - Ruta de estudio basada en ejercicios de código semanales en 2024 de la comunidad MoureDev para aprender y practicar lógica usando cualquier lenguaje de programación.
@@ -1461,7 +1472,6 @@
 - [SCons/scons](https://github.com/SCons/scons) - SCons - a software construction tool
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) - Kubernetes observability and automation, with an awesome Prometheus integration
 - [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) - FauxPilot - an open-source alternative to GitHub Copilot server
-- [onedr0p/cluster-template](https://github.com/onedr0p/cluster-template) - A template for deploying a Kubernetes cluster with k3s or Talos
 - [3rd-party-integrations/github-team-sync](https://github.com/3rd-party-integrations/github-team-sync) - Sync GitHub teams to groups in Active Directory, LDAP, Okta, OneLogin or AzureAD when using any authentication method for GitHub.
 - [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and de
 - [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
@@ -1718,6 +1728,7 @@
 
 ## Rust 
 
+- [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions.
 - [datenlord/datenlord](https://github.com/datenlord/datenlord) - DatenLord, Computing Defined Storage, an application-orientated, cloud-native distributed storage system
 - [Qovery/Torii](https://github.com/Qovery/Torii) - Torii ⛩️ is a simple, powerful and extensible open-source Internal Developer Portal
 - [ratatui-org/ratatui](https://github.com/ratatui-org/ratatui) - Rust library that's all about cooking up terminal user interfaces (TUIs)
@@ -1811,6 +1822,8 @@
 
 ## Shell 
 
+- [0GiS0/get-active-committers-for-ghazdo](https://github.com/0GiS0/get-active-committers-for-ghazdo) - Script for getting active committers in an ADO org
+- [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) - Test your bash scripts in the fastest and simplest way, discover the most modern bash testing framework.
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) - apt-get for .debs published via GitHub or direct download 📦
 - [itzrahulyadav/DevOps-Notes](https://github.com/itzrahulyadav/DevOps-Notes) - 
 - [rlespinasse/drawio-export-action](https://github.com/rlespinasse/drawio-export-action) - GitHub Action To Export Draw.io Files
@@ -1836,6 +1849,7 @@
 - [redraw/gh-install](https://github.com/redraw/gh-install) - install GitHub release binaries from the CLI interactively
 - [coderofsalvation/kanban.bash](https://github.com/coderofsalvation/kanban.bash) - commandline asciii kanban board for minimalist productivity hackers & managers (csv-based) #scriptable #nestable #statistics #singlefile #shellscript
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
+- [onedr0p/cluster-template](https://github.com/onedr0p/cluster-template) - A template for deploying a Kubernetes cluster with k3s or Talos
 - [JoseFilipeFerreira/toolbelt](https://github.com/JoseFilipeFerreira/toolbelt) - ⚙️ dotfiles, scripts & more
 - [reviewdog/action-languagetool](https://github.com/reviewdog/action-languagetool) - Run languagetool with reviewdog :dog:
 - [reviewdog/action-suggester](https://github.com/reviewdog/action-suggester) - :dog: Suggests any code changes based on diff through GitHub Multi-line code suggestions by using reviewdog
@@ -2005,6 +2019,8 @@
 
 ## TypeScript 
 
+- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
+- [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
 - [mikaelvesavuori/dorametrix](https://github.com/mikaelvesavuori/dorametrix) - Dorametrix is a serverless web service that helps you calculate your DORA metrics, by inferring your metrics from events you create with webhooks (or manually!).
 - [faros-ai/faros-community-edition](https://github.com/faros-ai/faros-community-edition) - BI, API and Automation layer for your Engineering Operations data
 - [Niv3K-El-Pato/ElPatoDraw](https://github.com/Niv3K-El-Pato/ElPatoDraw) - A excalidraw implementation with multiple file support and sync
@@ -2081,7 +2097,7 @@
 - [microsoft/vscode-github-issue-notebooks](https://github.com/microsoft/vscode-github-issue-notebooks) - GitHub Issues Notebooks for VS Code
 - [actions/starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows
 - [cloudgraphdev/cli](https://github.com/cloudgraphdev/cli) - The universal GraphQL API and CSPM tool for AWS, Azure, GCP, K8s, and tencent.
-- [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for creating internal tools, workflows, and admin panels in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀. Budibase, the low code platform yo
+- [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for building business apps and workflows in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀. Budibase, the low code platform you'll enjoy using
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
 - [benchmark-action/github-action-benchmark](https://github.com/benchmark-action/github-action-benchmark) - GitHub Action for continuous benchmarking to keep performance
 - [mintlify/writer](https://github.com/mintlify/writer) - ✍️ AI powered documentation writer
