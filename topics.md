@@ -12,6 +12,7 @@
 - [angular](#angular)
 - [ansible](#ansible)
 - [api](#api)
+- [archlinux](#archlinux)
 - [arduino](#arduino)
 - [artificial-intelligence](#artificial-intelligence)
 - [atom](#atom)
@@ -395,6 +396,10 @@
 - [yuzutech/kroki](https://github.com/yuzutech/kroki) - Creates diagrams from textual descriptions!
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 
+## archlinux 
+
+- [megabyte-labs/Gas-Station](https://github.com/megabyte-labs/Gas-Station) - 🎉 An  Ansible  playbook that provisions your network with software from GitHub Awesome lists, developed with disaster recovery in mind ⛽🔥🤤 🐴
+
 ## arduino 
 
 - [arduino/Arduino](https://github.com/arduino/Arduino) - Arduino IDE 1.x
@@ -448,6 +453,7 @@
 
 ## awesome 
 
+- [tensorchord/ai-infra-landscape](https://github.com/tensorchord/ai-infra-landscape) - This is a landscape of the infrastructure that powers the generative AI ecosystem
 - [ManUtopiK/awesome-stars](https://github.com/ManUtopiK/awesome-stars) - ⭑ A curated list of my GitHub stars! ⭑
 - [terremoth/awesome-hilarious-repos](https://github.com/terremoth/awesome-hilarious-repos) - Awesome hilarious github repositories
 - [TaptuIT/awesome-devsecops](https://github.com/TaptuIT/awesome-devsecops) - Curating the best DevSecOps resources and tooling.
@@ -3256,9 +3262,11 @@
 
 ## others 
 
+- [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+- [johnthebrit/AzureMasterClass](https://github.com/johnthebrit/AzureMasterClass) - Repo for the Azure Master Class
 - [awslabs/llrt](https://github.com/awslabs/llrt) - LLRT (Low Latency Runtime) is an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficient Serverless applications.
 - [platformatic/pg-hooks](https://github.com/platformatic/pg-hooks) - Deliver webhooks calls reliably, backed by PostgreSQL, with retry and cron support
-- [Azure/eno](https://github.com/Azure/eno) - 
+- [Azure/eno](https://github.com/Azure/eno) - Delivery system for Kubernetes configurations
 - [CiroMirkin/Apuntes](https://github.com/CiroMirkin/Apuntes) - Apuntes teóricos de programación.
 - [wilsonmar/azure-quickly](https://github.com/wilsonmar/azure-quickly) - 
 - [garnertb/github-runner-vnet](https://github.com/garnertb/github-runner-vnet) - Terraform for configuring private networking for GitHub-hosted Action Runners.
