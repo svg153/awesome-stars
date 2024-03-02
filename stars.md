@@ -1053,6 +1053,7 @@
 - [skydoves/Pokedex-AR](https://github.com/skydoves/Pokedex-AR) - 🦄 Pokedex-AR demonstrates ARCore, Sceneform, and modern Android tech stacks — such as Hilt, Coroutines, Flow, Jetpack (Room, ViewModel, LiveData) based on MVVM architecture.
 - [amzn/awsssmchaosrunner](https://github.com/amzn/awsssmchaosrunner) - Amazon's light-weight library for chaos engineering on AWS. It can be used for EC2 and ECS (with EC2 launch type).
 - [k0kubun/gitstar-ranking](https://github.com/k0kubun/gitstar-ranking) - GitHub star ranking for users, organizations and repositories
+- [paug/AndroidMakersApp](https://github.com/paug/AndroidMakersApp) - 📱Official companion app for Android Makers 🇫🇷
 - [gojuno/composer](https://github.com/gojuno/composer) - Reactive Android Instrumentation Test Runner. Archived. Marathon is recommended as an alternative (https://github.com/Malinskiy/marathon).
 - [gojuno/swarmer](https://github.com/gojuno/swarmer) - Reactive tool to create and start multiple Android Emulators in parallel.
 - [natanieljr/droidmate-coverage](https://github.com/natanieljr/droidmate-coverage) - Coverage instrumentation package of the DroidMate project
@@ -2020,7 +2021,6 @@
 
 ## Swift 
 
-- [paug/AndroidMakersApp](https://github.com/paug/AndroidMakersApp) - 📱Official companion app for Android Makers 🇫🇷
 - [zalando/SwiftMonkey](https://github.com/zalando/SwiftMonkey) - A framework for doing randomised UI testing of iOS apps
 
 ## TeX 
