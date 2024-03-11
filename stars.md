@@ -323,6 +323,7 @@
 
 ## Elixir 
 
+- [danielbergholz/techschool.dev](https://github.com/danielbergholz/techschool.dev) - TechSchool is a collection of free programming courses from YouTube
 - [PotionApps/potionx](https://github.com/PotionApps/potionx) - Full-stack Elixir and Vue framework with GraphQL and Pulumi
 - [Ironjanowar/openlibra_spam_bot](https://github.com/Ironjanowar/openlibra_spam_bot) - 
 - [rockneurotiko/tryit19-phoenix](https://github.com/rockneurotiko/tryit19-phoenix) - 
@@ -642,6 +643,7 @@
 
 ## HCL 
 
+- [bjw-s/home-ops](https://github.com/bjw-s/home-ops) - My home or for-home infrastructure written as code, adhering to GitOps practices
 - [cloudposse/terraform-aws-components](https://github.com/cloudposse/terraform-aws-components) - Opinionated, self-contained Terraform root modules that each solve one, specific problem
 - [garnertb/github-runner-vnet](https://github.com/garnertb/github-runner-vnet) - Terraform for configuring private networking for GitHub-hosted Action Runners.
 - [markti/terraform-azurerm-github-runner](https://github.com/markti/terraform-azurerm-github-runner) - Provision a Custom Runner for GitHub Actions
