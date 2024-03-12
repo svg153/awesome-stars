@@ -1772,6 +1772,7 @@
 
 ## Rust 
 
+- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command
@@ -2077,7 +2078,7 @@
 - [ipshipyard/github-mgmt](https://github.com/ipshipyard/github-mgmt) - 
 - [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted Heroku PaaS alternative for Kubernetes that implements GitOps
 - [Nutlope/notesGPT](https://github.com/Nutlope/notesGPT) - Record voice notes & transcribe, summarize, and get tasks
-- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that 
+- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, Groq 
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
 - [mikaelvesavuori/dorametrix](https://github.com/mikaelvesavuori/dorametrix) - Dorametrix is a serverless web service that helps you calculate your DORA metrics, by inferring your metrics from events you create with webhooks (or manually!).
