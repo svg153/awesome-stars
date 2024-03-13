@@ -3306,6 +3306,7 @@
 
 ## others 
 
+- [octodemo/awesome-actions](https://github.com/octodemo/awesome-actions) - Repository template used to showcase Actions that tie into pull request and issue events
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [danielbergholz/techschool.dev](https://github.com/danielbergholz/techschool.dev) - TechSchool is a collection of free programming courses from YouTube
 - [Piotr1215/crossplane-box](https://github.com/Piotr1215/crossplane-box) - Crossplane in a box
@@ -3448,7 +3449,7 @@
 - [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments
 - [open-cluster-management-io/policy-collection](https://github.com/open-cluster-management-io/policy-collection) - A collection of policy examples for Open Cluster Management
 - [upbound/provider-azure](https://github.com/upbound/provider-azure) - Official Azure Provider for Crossplane by Upbound.
-- [upbound/provider-aws](https://github.com/upbound/provider-aws) - Official AWS Provider for Crossplane by Upbound.
+- [crossplane-contrib/provider-upjet-aws](https://github.com/crossplane-contrib/provider-upjet-aws) - Official AWS Provider for Crossplane by Upbound.
 - [cdk8s-team/cdk8s](https://github.com/cdk8s-team/cdk8s) - Define Kubernetes native apps and abstractions using object-oriented programming
 - [narakeet/examples](https://github.com/narakeet/examples) - Samples and examples for Narakeet scripts
 - [upbound/platform-ref-azure](https://github.com/upbound/platform-ref-azure) - Upbound's reference platform for Microsoft Azure services with Crossplane
