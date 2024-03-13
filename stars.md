@@ -433,7 +433,7 @@
 - [esnet/gdg](https://github.com/esnet/gdg) - Grafana Dashboard Manager
 - [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) - Infrastructure as code for DNS!
 - [upbound/provider-azure](https://github.com/upbound/provider-azure) - Official Azure Provider for Crossplane by Upbound.
-- [upbound/provider-aws](https://github.com/upbound/provider-aws) - Official AWS Provider for Crossplane by Upbound.
+- [crossplane-contrib/provider-upjet-aws](https://github.com/crossplane-contrib/provider-upjet-aws) - Official AWS Provider for Crossplane by Upbound.
 - [grafana/phlare](https://github.com/grafana/phlare) - 🔥 horizontally-scalable, highly-available, multi-tenant continuous profiling aggregation system
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 - [ko-build/ko](https://github.com/ko-build/ko) - Build and deploy Go applications
@@ -1871,6 +1871,7 @@
 
 ## Shell 
 
+- [octodemo/awesome-actions](https://github.com/octodemo/awesome-actions) - Repository template used to showcase Actions that tie into pull request and issue events
 - [wilsonmar/azure-quickly](https://github.com/wilsonmar/azure-quickly) - 
 - [0GiS0/get-active-committers-for-ghazdo](https://github.com/0GiS0/get-active-committers-for-ghazdo) - Script for getting active committers in an ADO org
 - [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) - Test your bash scripts in the fastest and simplest way, discover the most modern bash testing framework.
