@@ -921,6 +921,7 @@
 
 ## cli 
 
+- [altsem/gitu](https://github.com/altsem/gitu) - A TUI Git client inspired by Magit
 - [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal without needing API keys
 - [tox-dev/tox](https://github.com/tox-dev/tox) - Command line driven CI frontend and development task automation tool.
 - [lindell/multi-gitter](https://github.com/lindell/multi-gitter) - Update multiple repositories in with one command
@@ -1763,6 +1764,7 @@
 
 ## git 
 
+- [altsem/gitu](https://github.com/altsem/gitu) - A TUI Git client inspired by Magit
 - [TriPSs/conventional-changelog-action](https://github.com/TriPSs/conventional-changelog-action) - Github Action that generates a changelog with the Conventional Changelog CLI
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [lindell/multi-gitter](https://github.com/lindell/multi-gitter) - Update multiple repositories in with one command
@@ -3448,7 +3450,7 @@
 - [containers/skopeo](https://github.com/containers/skopeo) - Work with remote images registries - retrieving information, images, signing content
 - [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments
 - [open-cluster-management-io/policy-collection](https://github.com/open-cluster-management-io/policy-collection) - A collection of policy examples for Open Cluster Management
-- [upbound/provider-azure](https://github.com/upbound/provider-azure) - Official Azure Provider for Crossplane by Upbound.
+- [crossplane-contrib/provider-upjet-azure](https://github.com/crossplane-contrib/provider-upjet-azure) - Official Azure Provider for Crossplane by Upbound.
 - [crossplane-contrib/provider-upjet-aws](https://github.com/crossplane-contrib/provider-upjet-aws) - Official AWS Provider for Crossplane by Upbound.
 - [cdk8s-team/cdk8s](https://github.com/cdk8s-team/cdk8s) - Define Kubernetes native apps and abstractions using object-oriented programming
 - [narakeet/examples](https://github.com/narakeet/examples) - Samples and examples for Narakeet scripts
