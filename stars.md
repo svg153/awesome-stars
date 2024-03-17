@@ -1460,6 +1460,7 @@
 
 ## Python 
 
+- [RayVentura/ShortGPT](https://github.com/RayVentura/ShortGPT) - 🚀🎬 ShortGPT - Experimental AI framework for youtube shorts / tiktok channel automation
 - [github/cleanowners](https://github.com/github/cleanowners) - A GitHub Action to suggest removal of non-organization members from CODEOWNERS files
 - [hugsy/gef](https://github.com/hugsy/gef) - GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux
 - [ticarpi/jwt_tool](https://github.com/ticarpi/jwt_tool) - :snake: A toolkit for testing, tweaking and cracking JSON Web Tokens
@@ -2086,8 +2087,8 @@
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
 - [mikaelvesavuori/dorametrix](https://github.com/mikaelvesavuori/dorametrix) - Dorametrix is a serverless web service that helps you calculate your DORA metrics, by inferring your metrics from events you create with webhooks (or manually!).
 - [faros-ai/faros-community-edition](https://github.com/faros-ai/faros-community-edition) - BI, API and Automation layer for your Engineering Operations data
-- [Niv3K-El-Pato/ElPatoDraw](https://github.com/Niv3K-El-Pato/ElPatoDraw) - A excalidraw implementation with multiple file support and sync
-- [Niv3K-El-Pato/TwitchControlsMyCode](https://github.com/Niv3K-El-Pato/TwitchControlsMyCode) - Allows twitch chat to control your vscode - what can go wrong?
+- [PatitoDev/ElPatoDraw](https://github.com/PatitoDev/ElPatoDraw) - A excalidraw implementation with multiple file support and sync
+- [PatitoDev/TwitchControlsMyCode](https://github.com/PatitoDev/TwitchControlsMyCode) - Allows twitch chat to control your vscode - what can go wrong?
 - [kucherenko/jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for programming source code.
 - [github/forgoodfirstissue](https://github.com/github/forgoodfirstissue) - Find your first issue for good to contribute to
 - [cdktf/cdktf-provider-github](https://github.com/cdktf/cdktf-provider-github) - Prebuilt Terraform CDK (cdktf) provider for github.
