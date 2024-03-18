@@ -3332,7 +3332,6 @@
 - [midudev/la-velada-web-oficial](https://github.com/midudev/la-velada-web-oficial) - Web oficial de La Velada IV de Ibai Llanos
 - [Nutlope/notesGPT](https://github.com/Nutlope/notesGPT) - Record voice notes & transcribe, summarize, and get tasks
 - [skgsergio/tinypot](https://github.com/skgsergio/tinypot) - 👿 ➡️ 🤏🍯 ➡️ 🤏🐤
-- [alrocar/locked_screen](https://github.com/alrocar/locked_screen) - 
 - [microlinkhq/unavatar](https://github.com/microlinkhq/unavatar) - Get unified user avatar from social networks, including Instagram, SoundCloud, Telegram, Twitter, YouTube & more.
 - [0GiS0/get-active-committers-for-ghazdo](https://github.com/0GiS0/get-active-committers-for-ghazdo) - Script for getting active committers in an ADO org
 - [GuntherRademacher/rr](https://github.com/GuntherRademacher/rr) - RR - Railroad Diagram Generator
