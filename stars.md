@@ -1884,6 +1884,7 @@
 
 ## Shell 
 
+- [Josee9988/project-template](https://github.com/Josee9988/project-template) - An awesome 𝗚𝗶𝘁𝗵𝘂𝗯 𝗧𝗲𝗺𝗽𝗹𝗮𝘁𝗲 for any project!🚀 Quickstart your projects and get control over your community.🔥 It includes 𝐢𝐬𝐬𝐮𝐞 𝐭𝐞𝐦𝐩𝐥𝐚𝐭𝐞𝐬, 𝐥𝐚𝐛𝐞𝐥𝐬, 𝐩𝐞𝐫𝐬𝐨𝐧𝐚𝐥𝐢𝐳𝐞𝐝 𝐫𝐞𝐚𝐝𝐦𝐞, 𝐆𝐢𝐭𝐡𝐮𝐛 𝐛𝐨𝐭𝐬, and much more!! 🤩
 - [octodemo/awesome-actions](https://github.com/octodemo/awesome-actions) - Repository template used to showcase Actions that tie into pull request and issue events
 - [wilsonmar/azure-quickly](https://github.com/wilsonmar/azure-quickly) - 
 - [0GiS0/get-active-committers-for-ghazdo](https://github.com/0GiS0/get-active-committers-for-ghazdo) - Script for getting active committers in an ADO org
@@ -2057,6 +2058,7 @@
 
 ## TeX 
 
+- [sanjib-sen/WebLaTex](https://github.com/sanjib-sen/WebLaTex) - A complete alternative for Overleaf with VSCode + Web + Git Integration + Copilot + Grammar & Spell Checker + Live Collaboration Support. Based on GitHub Codespace and Dev container.
 - [jankapunkt/latexcv](https://github.com/jankapunkt/latexcv) - :necktie: A collection of cv and resume templates written in LaTeX. Leave an issue if your language is not supported!
 - [aherranz/ahtranspas](https://github.com/aherranz/ahtranspas) - Transparencias con LaTeX, beamer y metropolis. Estilo ahtranspas.sty y ejemplo de uso
 - [MartinThoma/LaTeX-examples](https://github.com/MartinThoma/LaTeX-examples) - Examples for the usage of LaTeX
@@ -2083,6 +2085,9 @@
 
 ## TypeScript 
 
+- [peter-evans/create-or-update-comment](https://github.com/peter-evans/create-or-update-comment) - A GitHub action to create or update an issue or pull request comment
+- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative.
+- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - 😼 The AI-native, open source alternative to Tines / Splunk SOAR.
 - [devops-actions/load-available-actions](https://github.com/devops-actions/load-available-actions) - Load all actions stored in the current organization
 - [suzuki-shunsuke/tfaction](https://github.com/suzuki-shunsuke/tfaction) - Framework for Monorepo to build high level Terraform Workflows by GitHub Actions
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ The easiest way to code with any LLM—Continue is an open-source autopilot for VS Code and JetBrains
