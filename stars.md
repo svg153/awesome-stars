@@ -140,6 +140,7 @@
 
 ## C# # 
 
+- [PagelsR/WrightBrothersAPI](https://github.com/PagelsR/WrightBrothersAPI) - The API is structured to manage a list of planes.
 - [davidfowl/AspirePulumi](https://github.com/davidfowl/AspirePulumi) - A demo showing pulumi and aspire
 - [DeveloperMetrics/DevOpsMetrics](https://github.com/DeveloperMetrics/DevOpsMetrics) - A project to extract and process high performing DevOps metrics (DORA) from GitHub and Azure DevOps
 - [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of file
@@ -390,7 +391,7 @@
 - [dependabot/cli](https://github.com/dependabot/cli) - A tool for testing and debugging Dependabot update jobs.
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure.
 - [diggerhq/digger](https://github.com/diggerhq/digger) - Digger is an open source IaC orchestration tool. Digger allows you to run IaC in your existing CI pipeline ⚡️
-- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The open source high performance data integration platform built for developers.
+- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The open source high performance ELT framework powered by Apache Arrow
 - [americanexpress/earlybird](https://github.com/americanexpress/earlybird) - EarlyBird is a sensitive data detection tool capable of scanning source code repositories for clear text password violations, PII, outdated cryptography methods, key files and more.
 - [jetpack-io/launchpad](https://github.com/jetpack-io/launchpad) - From Code to Kubernetes in One Step.
 - [jetpack-io/typeid](https://github.com/jetpack-io/typeid) - Type-safe, K-sortable, globally unique identifier inspired by Stripe IDs
