@@ -527,7 +527,6 @@
 - [gochronicles/cli](https://github.com/gochronicles/cli) - Create production ready microservices mono repo pattern wired with Neo4j. Microservices for other languages and front end repos to be added as well in future.
 - [kudobuilder/kuttl](https://github.com/kudobuilder/kuttl) - KUbernetes Test TooL (kuttl)
 - [deqode/GoArcc](https://github.com/deqode/GoArcc) - Go monolith with embedded microservices including GRPC,REST,GraphQL and The Clean Architecture.
-- [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
 - [thoughtworks/talisman](https://github.com/thoughtworks/talisman) - Using a pre-commit hook, Talisman validates the outgoing changeset for things that look suspicious — such as tokens, passwords, and private keys.
 - [grafana/kubernetes-diff-logger](https://github.com/grafana/kubernetes-diff-logger) - Logs updates to Kubernetes Objects for storing and querying with Loki
 - [gwuhaolin/livego](https://github.com/gwuhaolin/livego) - live video streaming server in golang
@@ -1113,6 +1112,7 @@
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [trigaten/Learn_Prompting](https://github.com/trigaten/Learn_Prompting) - Prompt Engineering, Generative AI, and LLM Guide by Learn Prompting | Join our discord for the largest Prompt Engineering learning community
+- [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
 - [leerob/leerob.io](https://github.com/leerob/leerob.io) - ✨  My portfolio built with Next.js, Tailwind, and Vercel.
 - [rauchg/blog](https://github.com/rauchg/blog) - 
 - [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - ⚡️ Front End interview preparation materials for busy engineers
