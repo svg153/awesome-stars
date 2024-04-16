@@ -72,6 +72,7 @@
 - [Vim Script](#vim-script)
 - [Vue](#vue)
 - [YARA](#yara)
+- [Zig](#zig)
 
 ## Arduino 
 
@@ -691,6 +692,7 @@
 - [github/codespaces-actions-playground](https://github.com/github/codespaces-actions-playground) - 
 - [chromium/badssl.com](https://github.com/chromium/badssl.com) - :lock: Memorable site for testing clients against bad SSL configs.
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
+- [Azure/AKS](https://github.com/Azure/AKS) - Azure Kubernetes Service
 - [mark-when/markwhen](https://github.com/mark-when/markwhen) - Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more.
 - [getmanfred/dev-story-scraper](https://github.com/getmanfred/dev-story-scraper) - Scraper to download the profile information from a Stack Overflow Dev Story
 - [iesgn/curso_kubernetes_cep](https://github.com/iesgn/curso_kubernetes_cep) - 
@@ -1210,7 +1212,6 @@
 - [better-sre/awesome-taskfile](https://github.com/better-sre/awesome-taskfile) - Awesome Taskfiles
 - [shubhamgrg04/awesome-diagramming](https://github.com/shubhamgrg04/awesome-diagramming) - A curated collection of diagramming tools used by leading software engineering teams
 - [grafana/incident-community](https://github.com/grafana/incident-community) - Public repository for Grafana Incident feedback, bug reports, discussions, and updates.
-- [Azure/AKS](https://github.com/Azure/AKS) - Azure Kubernetes Service
 - [joseadanof/awesome-cloudnative-trainings](https://github.com/joseadanof/awesome-cloudnative-trainings) - Awesome Trainings from Cloud Native Computing Foundation Projects and Kubernetes related software
 - [satellite-image-deep-learning/techniques](https://github.com/satellite-image-deep-learning/techniques) - Techniques for deep learning with satellite & aerial imagery
 - [cloudquery/.github](https://github.com/cloudquery/.github) - The open-source cloud asset inventory powered by SQL.
@@ -2300,6 +2301,10 @@
 ## YARA 
 
 - [rednaga/APKiD](https://github.com/rednaga/APKiD) - Android Application Identifier for Packers, Protectors, Obfuscators and Oddities - PEiD for Android
+
+## Zig 
+
+- [tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) - The distributed financial transactions database designed for mission critical safety and performance.
 
 
 ## License
