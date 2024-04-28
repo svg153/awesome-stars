@@ -81,6 +81,7 @@
 
 ## Assembly 
 
+- [microsoft/MS-DOS](https://github.com/microsoft/MS-DOS) - The original sources of MS-DOS 1.25, 2.0, and 4.0 for reference purposes
 - [nemasu/asmttpd](https://github.com/nemasu/asmttpd) - Web server for Linux written in amd64 assembly.
 - [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
 
@@ -242,7 +243,7 @@
 
 - [narakeet/examples](https://github.com/narakeet/examples) - Samples and examples for Narakeet scripts
 - [sethcottle/littlelink](https://github.com/sethcottle/littlelink) - A lightweight DIY alternative to services like Linktree.
-- [sharu725/online-cv](https://github.com/sharu725/online-cv) - A minimal Jekyll Theme to host your resume (CV) on GitHub with few clicks.
+- [sharu725/online-cv](https://github.com/sharu725/online-cv) - A minimal Jekyll Theme to host your resume (CV) on GitHub with a few clicks.
 - [rekihattori/awesome-programmers](https://github.com/rekihattori/awesome-programmers) - A list of history's greatest software engineers and tech pioneers
 - [prakhar1989/devlog](https://github.com/prakhar1989/devlog) - 
 - [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
@@ -419,7 +420,7 @@
 - [kubernetes-sigs/krew](https://github.com/kubernetes-sigs/krew) - 📦 Find and install kubectl plugins
 - [grafana/github-datasource](https://github.com/grafana/github-datasource) - Grafana data source plugin using the Github API to retrieve and visualize Github data.
 - [ServiceWeaver/weaver](https://github.com/ServiceWeaver/weaver) - Programming framework for writing and deploying cloud applications.
-- [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob
+- [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob
 - [lindb/lindb](https://github.com/lindb/lindb) - LinDB is a scalable, high performance, high availability distributed time series database.
 - [joerdav/xc](https://github.com/joerdav/xc) - Markdown defined task runner.
 - [knative/test-infra](https://github.com/knative/test-infra) - Test infrastructure for the Knative project
@@ -1167,6 +1168,7 @@
 
 ## Others 
 
+- [PoshCode/PowerShellPracticeAndStyle](https://github.com/PoshCode/PowerShellPracticeAndStyle) - The Unofficial PowerShell Best Practices and Style Guide
 - [tj-actions/branch-names](https://github.com/tj-actions/branch-names) - :octocat: Github action to retrieve branch or tag names with support for all events.
 - [JFolberth/TheYAMLPipelineOne](https://github.com/JFolberth/TheYAMLPipelineOne) - Azure DevOps YAML Templates
 - [sathishvj/awesome-gcp-certifications](https://github.com/sathishvj/awesome-gcp-certifications) - Google Cloud Platform Certification resources.
@@ -2160,7 +2162,7 @@
 - [peter-evans/find-comment](https://github.com/peter-evans/find-comment) - A GitHub action to find an issue or pull request comment
 - [peter-evans/slash-command-dispatch](https://github.com/peter-evans/slash-command-dispatch) - A GitHub action that facilitates "ChatOps" by creating repository dispatch events for slash commands
 - [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source synthetic & real user monitoring platform  🏓
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - Infinite canvas.
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - SDK for creating whiteboards and canvas experiences on the web.
 - [xitanggg/open-resume](https://github.com/xitanggg/open-resume) - OpenResume is a powerful open-source resume builder and resume parser. https://open-resume.com/
 - [CodelyTV/vscode-awesome-settings](https://github.com/CodelyTV/vscode-awesome-settings) - Awesome Settings for VSCode
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
@@ -2192,7 +2194,7 @@
 - [wundergraph/wundergraph](https://github.com/wundergraph/wundergraph) - WunderGraph is a Backend for Frontend Framework to optimize frontend, fullstack and backend developer workflows through API Composition.
 - [Azure/k8s-bake](https://github.com/Azure/k8s-bake) - GitHub Action creating Kubernetes manifest files with Helm, Kustomize, or Kompose
 - [dendronhq/dendron](https://github.com/dendronhq/dendron) - The personal knowledge management (PKM) tool that grows as you do!
-- [pingcap/ossinsight](https://github.com/pingcap/ossinsight) - Analysis, Comparison, Trends, Rankings of Open Source Software, you can also get insight from more than 6 billion with natural language (powered by OpenAI). Follow us on Twitter: https://twitter.com/o
+- [pingcap/ossinsight](https://github.com/pingcap/ossinsight) - Analysis, Comparison, Trends, Rankings of Open Source Software, you can also get insight from more than 7 billion with natural language (powered by OpenAI). Follow us on Twitter: https://twitter.com/o
 - [foambubble/foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
 - [hmarr/auto-approve-action](https://github.com/hmarr/auto-approve-action) - 👍 GitHub Action for automatically approving GitHub pull requests
 - [bytebase/dbcost](https://github.com/bytebase/dbcost) - The simple pricing calculator and comparison tool for the cloud databases.
