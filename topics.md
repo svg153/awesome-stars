@@ -422,6 +422,7 @@
 
 ## artificial-intelligence 
 
+- [OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin) - 🐚 OpenDevin: Code Less, Make More
 - [RayVentura/ShortGPT](https://github.com/RayVentura/ShortGPT) - 🚀🎬 ShortGPT - Experimental AI framework for youtube shorts / tiktok channel automation
 - [kserve/kserve](https://github.com/kserve/kserve) - Standardized Serverless ML Inference Platform on Kubernetes
 - [steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) - A curated list of modern Generative Artificial Intelligence projects and services
@@ -474,6 +475,7 @@
 
 ## awesome 
 
+- [janikvonrotz/awesome-powershell](https://github.com/janikvonrotz/awesome-powershell) - A curated list of delightful PowerShell modules and resources
 - [tensorchord/ai-infra-landscape](https://github.com/tensorchord/ai-infra-landscape) - This is a landscape of the infrastructure that powers the generative AI ecosystem
 - [ManUtopiK/awesome-stars](https://github.com/ManUtopiK/awesome-stars) - ⭑ A curated list of my GitHub stars! ⭑
 - [terremoth/awesome-hilarious-repos](https://github.com/terremoth/awesome-hilarious-repos) - Awesome hilarious github repositories
@@ -578,6 +580,7 @@
 
 ## awesome-list 
 
+- [janikvonrotz/awesome-powershell](https://github.com/janikvonrotz/awesome-powershell) - A curated list of delightful PowerShell modules and resources
 - [terremoth/awesome-hilarious-repos](https://github.com/terremoth/awesome-hilarious-repos) - Awesome hilarious github repositories
 - [TaptuIT/awesome-devsecops](https://github.com/TaptuIT/awesome-devsecops) - Curating the best DevSecOps resources and tooling.
 - [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) - A curated list of free courses & certifications.
@@ -860,6 +863,7 @@
 
 ## bot 
 
+- [palantir/bulldozer](https://github.com/palantir/bulldozer) - GitHub Pull Request Auto-Merge Bot
 - [cslant/telegram-git-notifier-app](https://github.com/cslant/telegram-git-notifier-app) - The PHP app to send notification from Gitlab and Github events to Telegram channels
 - [batmafia/ETSIINFbot](https://github.com/batmafia/ETSIINFbot) - Bot de telegram (no oficial) para @informaticaupm (aka @FIUPM)
 - [thedevs-network/the-guard-bot](https://github.com/thedevs-network/the-guard-bot) - The Guard, a Telegram bot to moderate groups.
@@ -1339,6 +1343,7 @@
 
 ## devops 
 
+- [gabrie30/ghorg](https://github.com/gabrie30/ghorg) - Quickly clone an entire org/users repositories into one directory - Supports GitHub, GitLab, Bitbucket, and more 🥚
 - [litmuschaos/litmus](https://github.com/litmuschaos/litmus) - Litmus helps  SREs and developers practice chaos engineering in a Cloud-native way. Chaos experiments are published at the ChaosHub  (https://hub.litmuschaos.io). Community notes is at https://hackmd.
 - [techiescamp/devops-tools](https://github.com/techiescamp/devops-tools) - Curated List of Best DevOps Tools
 - [lindell/multi-gitter](https://github.com/lindell/multi-gitter) - Update multiple repositories in with one command
@@ -1454,7 +1459,7 @@
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
 - [jetify-com/launchpad](https://github.com/jetify-com/launchpad) - From Code to Kubernetes in One Step.
 - [dockovpn/dockovpn](https://github.com/dockovpn/dockovpn) - 🔐 Out of the box stateless openvpn-server docker image which starts in less than 2 seconds
-- [ddosify/ddosify](https://github.com/ddosify/ddosify) - Effortless Kubernetes Monitoring and Performance Testing. Available on CLI, Self-Hosted, and Cloud
+- [getanteon/anteon](https://github.com/getanteon/anteon) - Anteon (formerly Ddosify) - Effortless Kubernetes Monitoring and Performance Testing. Available on CLI, Self-Hosted, and Cloud
 - [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob
 - [ko-build/ko](https://github.com/ko-build/ko) - Build and deploy Go applications
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
@@ -1712,6 +1717,7 @@
 
 ## flutter 
 
+- [mulaRahul/keyviz](https://github.com/mulaRahul/keyviz) - Keyviz is a free and open-source tool to visualize your keystrokes ⌨️ and 🖱️ mouse actions in real-time.
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
@@ -1879,6 +1885,7 @@
 
 ## github 
 
+- [gabrie30/ghorg](https://github.com/gabrie30/ghorg) - Quickly clone an entire org/users repositories into one directory - Supports GitHub, GitLab, Bitbucket, and more 🥚
 - [tj-actions/changed-files](https://github.com/tj-actions/changed-files) - :octocat: Github action to retrieve all (added, copied, modified, deleted, renamed, type changed, unmerged, unknown) files and directories.
 - [tj-actions/branch-names](https://github.com/tj-actions/branch-names) - :octocat: Github action to retrieve branch or tag names with support for all events.
 - [philips-labs/terraform-aws-github-runner](https://github.com/philips-labs/terraform-aws-github-runner) - Terraform module for scalable GitHub action runners on AWS
@@ -1966,6 +1973,7 @@
 
 ## go 
 
+- [gabrie30/ghorg](https://github.com/gabrie30/ghorg) - Quickly clone an entire org/users repositories into one directory - Supports GitHub, GitLab, Bitbucket, and more 🥚
 - [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal without needing API keys
 - [goadesign/model](https://github.com/goadesign/model) - Create your software architecture models and diagrams in Go.
 - [lindell/multi-gitter](https://github.com/lindell/multi-gitter) - Update multiple repositories in with one command
@@ -1979,7 +1987,7 @@
 - [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It's completely configurable and 100% cross-pl
 - [warrensbox/terraform-switcher](https://github.com/warrensbox/terraform-switcher) - A command line tool to switch between different versions of terraform  (install with homebrew and more)
 - [nobl9/sloctl](https://github.com/nobl9/sloctl) - A command line tool to cast SLO spells
-- [ddosify/ddosify](https://github.com/ddosify/ddosify) - Effortless Kubernetes Monitoring and Performance Testing. Available on CLI, Self-Hosted, and Cloud
+- [getanteon/anteon](https://github.com/getanteon/anteon) - Anteon (formerly Ddosify) - Effortless Kubernetes Monitoring and Performance Testing. Available on CLI, Self-Hosted, and Cloud
 - [future-architect/tftarget](https://github.com/future-architect/tftarget) - 🎯tftarget is a CLI tool for Terraform ( plan | apply | destroy ) with target option. You can interactivity select resource to ( plan | apply | destroy )  with target option.
 - [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob
 - [lindb/lindb](https://github.com/lindb/lindb) - LinDB is a scalable, high performance, high availability distributed time series database.
@@ -2061,6 +2069,8 @@
 
 ## golang 
 
+- [palantir/bulldozer](https://github.com/palantir/bulldozer) - GitHub Pull Request Auto-Merge Bot
+- [ribtoks/tdg-github-action](https://github.com/ribtoks/tdg-github-action) - GitHub action for project management using TODO comments
 - [version-fox/vfox](https://github.com/version-fox/vfox) - A cross-platform and extendable version manager with support for Java, Node.js, Flutter, .Net & more
 - [litmuschaos/litmus](https://github.com/litmuschaos/litmus) - Litmus helps  SREs and developers practice chaos engineering in a Cloud-native way. Chaos experiments are published at the ChaosHub  (https://hub.litmuschaos.io). Community notes is at https://hackmd.
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
@@ -2077,7 +2087,7 @@
 - [gruntwork-io/git-xargs](https://github.com/gruntwork-io/git-xargs) - git-xargs is a command-line tool (CLI) for making updates across multiple Github repositories with a single command.
 - [warrensbox/terraform-switcher](https://github.com/warrensbox/terraform-switcher) - A command line tool to switch between different versions of terraform  (install with homebrew and more)
 - [nobl9/sloctl](https://github.com/nobl9/sloctl) - A command line tool to cast SLO spells
-- [ddosify/ddosify](https://github.com/ddosify/ddosify) - Effortless Kubernetes Monitoring and Performance Testing. Available on CLI, Self-Hosted, and Cloud
+- [getanteon/anteon](https://github.com/getanteon/anteon) - Anteon (formerly Ddosify) - Effortless Kubernetes Monitoring and Performance Testing. Available on CLI, Self-Hosted, and Cloud
 - [joerdav/xc](https://github.com/joerdav/xc) - Markdown defined task runner.
 - [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed tracing, and more.
 - [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API
@@ -2273,7 +2283,7 @@
 - [github/issue-metrics](https://github.com/github/issue-metrics) - Gather metrics on issues/prs/discussions such as time to first response, count of issues opened, closed, etc.
 - [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It's completely configurable and 100% cross-pl
 - [kubefirst/kubefirst](https://github.com/kubefirst/kubefirst) - The Kubefirst Open Source Platform
-- [ddosify/ddosify](https://github.com/ddosify/ddosify) - Effortless Kubernetes Monitoring and Performance Testing. Available on CLI, Self-Hosted, and Cloud
+- [getanteon/anteon](https://github.com/getanteon/anteon) - Anteon (formerly Ddosify) - Effortless Kubernetes Monitoring and Performance Testing. Available on CLI, Self-Hosted, and Cloud
 - [stakater/Forecastle](https://github.com/stakater/Forecastle) - Forecastle is a control panel which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes  – [✩Star] if you're using it!
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
 - [knative/test-infra](https://github.com/knative/test-infra) - Test infrastructure for the Knative project
@@ -2763,7 +2773,7 @@
 - [klothoplatform/klotho](https://github.com/klothoplatform/klotho) - Klotho - write AWS applications at lightning speed
 - [stefanprodan/timoni](https://github.com/stefanprodan/timoni) - Timoni is a package manager for Kubernetes, powered by CUE and inspired by Helm.
 - [kubefirst/kubefirst](https://github.com/kubefirst/kubefirst) - The Kubefirst Open Source Platform
-- [ddosify/ddosify](https://github.com/ddosify/ddosify) - Effortless Kubernetes Monitoring and Performance Testing. Available on CLI, Self-Hosted, and Cloud
+- [getanteon/anteon](https://github.com/getanteon/anteon) - Anteon (formerly Ddosify) - Effortless Kubernetes Monitoring and Performance Testing. Available on CLI, Self-Hosted, and Cloud
 - [stakater/Forecastle](https://github.com/stakater/Forecastle) - Forecastle is a control panel which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes  – [✩Star] if you're using it!
 - [knight42/kopilot](https://github.com/knight42/kopilot) - Your AI Kubernetes Expert
 - [avsthiago/kopylot](https://github.com/avsthiago/kopylot) - An AI-Powered assistant for Kubernetes developers
@@ -3412,6 +3422,12 @@
 
 ## others 
 
+- [githubnext/copilot-workspace-user-manual](https://github.com/githubnext/copilot-workspace-user-manual) - 📖 The user manual for GitHub Copilot Workspace
+- [innoq/architecture-antipatterns](https://github.com/innoq/architecture-antipatterns) - Repo für Architecture Antipatterns Website
+- [integrations/microsoft-teams](https://github.com/integrations/microsoft-teams) - Bringing your code and work to the conversations you care about with the GitHub and Microsoft integration
+- [octokit/go-sdk](https://github.com/octokit/go-sdk) - A generated Go SDK from GitHub's OpenAPI specification.
+- [zalexan1996/GithubAPI](https://github.com/zalexan1996/GithubAPI) - A self-generating PowerShell module for the GitHub API
+- [cilium/team-manager](https://github.com/cilium/team-manager) - Bot to manage team members in GitHub organizations
 - [microsoft/MS-DOS](https://github.com/microsoft/MS-DOS) - The original sources of MS-DOS 1.25, 2.0, and 4.0 for reference purposes
 - [ClickHouse/adsb.exposed](https://github.com/ClickHouse/adsb.exposed) - Interactive visualization and analytics on ADS-B data with ClickHouse
 - [societe-generale/github-crawler](https://github.com/societe-generale/github-crawler) - a utility to crawl all your repositories and find the information you need - now also working for Gitlab !
@@ -3423,7 +3439,6 @@
 - [grafana/k6-oss-workshop](https://github.com/grafana/k6-oss-workshop) - Grafana k6 - OSS Workshop
 - [roschart/IaCLab](https://github.com/roschart/IaCLab) - IaCLab: A hands-on project to explore and master Infrastructure as Code (IaC) technologies, including Ansible, Terraform, Kubernetes operators, and Argo CD. Aimed at building a comprehensive understan
 - [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
-- [OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin) - 🐚 OpenDevin: Code Less, Make More
 - [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
 - [alrocar/locked_screen](https://github.com/alrocar/locked_screen) - 
 - [PagelsR/WrightBrothersAPI](https://github.com/PagelsR/WrightBrothersAPI) - The API is structured to manage a list of planes.
@@ -4286,6 +4301,7 @@
 
 ## powershell 
 
+- [janikvonrotz/awesome-powershell](https://github.com/janikvonrotz/awesome-powershell) - A curated list of delightful PowerShell modules and resources
 - [version-fox/vfox](https://github.com/version-fox/vfox) - A cross-platform and extendable version manager with support for Java, Node.js, Flutter, .Net & more
 - [PoshCode/PowerShellPracticeAndStyle](https://github.com/PoshCode/PowerShellPracticeAndStyle) - The Unofficial PowerShell Best Practices and Style Guide
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
@@ -4322,6 +4338,7 @@
 
 ## project-management 
 
+- [ribtoks/tdg-github-action](https://github.com/ribtoks/tdg-github-action) - GitHub action for project management using TODO comments
 - [Josee9988/project-template](https://github.com/Josee9988/project-template) - An awesome 𝗚𝗶𝘁𝗵𝘂𝗯 𝗧𝗲𝗺𝗽𝗹𝗮𝘁𝗲 for any project!🚀 Quickstart your projects and get control over your community.🔥 It includes 𝐢𝐬𝐬𝐮𝐞 𝐭𝐞𝐦𝐩𝐥𝐚𝐭𝐞𝐬, 𝐥𝐚𝐛𝐞𝐥𝐬, 𝐩𝐞𝐫𝐬𝐨𝐧𝐚𝐥𝐢𝐳𝐞𝐝 𝐫𝐞𝐚𝐝𝐦𝐞, 𝐆𝐢𝐭𝐡𝐮𝐛 𝐛𝐨𝐭𝐬, and much more!! 🤩
 - [mark-when/markwhen](https://github.com/mark-when/markwhen) - Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more.
 - [minvws/nl-covid19-notification-app-website](https://github.com/minvws/nl-covid19-notification-app-website) - Project website
