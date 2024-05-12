@@ -3452,6 +3452,7 @@
 
 ## others 
 
+- [pablokbs/peladonerd-newsletter](https://github.com/pablokbs/peladonerd-newsletter) - 
 - [DeabLabs/cannoli](https://github.com/DeabLabs/cannoli) - Cannoli allows you to build and run no-code LLM scripts using the Obsidian Canvas editor.
 - [githubnext/copilot-workspace-user-manual](https://github.com/githubnext/copilot-workspace-user-manual) - 📖 The user manual for GitHub Copilot Workspace
 - [innoq/architecture-antipatterns](https://github.com/innoq/architecture-antipatterns) - Repo für Architecture Antipatterns Website
