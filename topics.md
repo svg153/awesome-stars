@@ -248,6 +248,7 @@
 
 ## ai 
 
+- [phidatahq/phidata](https://github.com/phidatahq/phidata) - Build AI Assistants with memory, knowledge and tools.
 - [RayVentura/ShortGPT](https://github.com/RayVentura/ShortGPT) - 🚀🎬 ShortGPT - Experimental AI framework for youtube shorts / tiktok channel automation
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Open-source VS Code and JetBrains extensions that enable you to easily create your own modular AI software development system
 - [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal without needing API keys
@@ -691,6 +692,7 @@
 
 ## aws 
 
+- [phidatahq/phidata](https://github.com/phidatahq/phidata) - Build AI Assistants with memory, knowledge and tools.
 - [philips-labs/terraform-aws-github-runner](https://github.com/philips-labs/terraform-aws-github-runner) - Terraform module for scalable GitHub action runners on AWS
 - [CodelyTV/infrastructure_design-eventbus-aws-course](https://github.com/CodelyTV/infrastructure_design-eventbus-aws-course) - Infrastructure Design: AWS SQS as a Message Queue course examples
 - [cloudposse/terraform-aws-components](https://github.com/cloudposse/terraform-aws-components) - Opinionated, self-contained Terraform root modules that each solve one, specific problem
@@ -2347,7 +2349,6 @@
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [bridgecrewio/yor](https://github.com/bridgecrewio/yor) - Extensible auto-tagger for your IaC files. The ultimate way to link entities in the cloud back to the codified resource which created it.
 - [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io) - :blue_book: Home Assistant User documentation
-- [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
 - [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) - A curated list of amazingly awesome Home Assistant resources.
@@ -3040,6 +3041,7 @@
 
 ## llm 
 
+- [phidatahq/phidata](https://github.com/phidatahq/phidata) - Build AI Assistants with memory, knowledge and tools.
 - [OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin) - 🐚 OpenDevin: Code Less, Make More
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Open-source VS Code and JetBrains extensions that enable you to easily create your own modular AI software development system
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transfor
@@ -3470,6 +3472,7 @@
 
 ## others 
 
+- [helaili/github-oidc-auth-app](https://github.com/helaili/github-oidc-auth-app) - An OIDC client to retrieve a GitHub API scoped token from within an Actions workflow
 - [maxkomarychev/octions](https://github.com/maxkomarychev/octions) - Collection of GitHub Actions that wrap GitHub REST API
 - [pablokbs/peladonerd-newsletter](https://github.com/pablokbs/peladonerd-newsletter) - 
 - [DeabLabs/cannoli](https://github.com/DeabLabs/cannoli) - Cannoli allows you to build and run no-code LLM scripts using the Obsidian Canvas editor.
@@ -3701,6 +3704,7 @@
 - [infracloudio/krius](https://github.com/infracloudio/krius) - A tool to setup Prometheus, Thanos & friends across multiple clusters easily for scale
 - [iesgn/curso_kubernetes_cep](https://github.com/iesgn/curso_kubernetes_cep) - 
 - [dmarman/sha256algorithm](https://github.com/dmarman/sha256algorithm) - Sha256 Algorithm Explained
+- [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
 - [EdwinVW/dapr-traffic-control](https://github.com/EdwinVW/dapr-traffic-control) - Simple sample application for experimenting with dapr.
 - [Azure/fta-live-iac](https://github.com/Azure/fta-live-iac) - FTA Live Infrastructure as Code
 - [Azure/caf-terraform-landingzones-accelerator](https://github.com/Azure/caf-terraform-landingzones-accelerator) - Starter project for Applications (level 4) Cloud Adoption Framework for Azure landing zones on Terraform
@@ -4407,6 +4411,7 @@
 
 ## python 
 
+- [phidatahq/phidata](https://github.com/phidatahq/phidata) - Build AI Assistants with memory, knowledge and tools.
 - [RayVentura/ShortGPT](https://github.com/RayVentura/ShortGPT) - 🚀🎬 ShortGPT - Experimental AI framework for youtube shorts / tiktok channel automation
 - [hugsy/gef](https://github.com/hugsy/gef) - GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux
 - [pallets/flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
