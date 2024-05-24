@@ -1505,6 +1505,7 @@
 
 ## Python 
 
+- [Codium-ai/cover-agent](https://github.com/Codium-ai/cover-agent) - CodiumAI Cover-Agent: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞
 - [phidatahq/phidata](https://github.com/phidatahq/phidata) - Build AI Assistants with memory, knowledge and tools.
 - [docker/genai-stack](https://github.com/docker/genai-stack) - Langchain + Docker + Neo4j + Ollama
 - [discord/access](https://github.com/discord/access) - Access, a centralized portal for employees to transparently discover, request, and manage their access for all internal systems needed to do their jobs
