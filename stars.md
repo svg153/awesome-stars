@@ -25,6 +25,7 @@
 - [Elixir](#elixir)
 - [Elm](#elm)
 - [Emacs Lisp](#emacs-lisp)
+- [Fluent](#fluent)
 - [GDScript](#gdscript)
 - [Go](#go)
 - [Groovy](#groovy)
@@ -362,6 +363,10 @@
 - [JAremko/spacemacs](https://github.com/JAremko/spacemacs) - Dockerized Spacemacs workbench
 - [syl20bnr/spacemacs](https://github.com/syl20bnr/spacemacs) - A community-driven Emacs distribution - The best editor is neither Emacs nor Vim,  it's Emacs *and* Vim!
 - [yjwen/org-reveal](https://github.com/yjwen/org-reveal) - Exports Org-mode contents to Reveal.js HTML presentation.
+
+## Fluent 
+
+- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 
 ## GDScript 
 
@@ -1191,6 +1196,8 @@
 
 ## Others 
 
+- [Alliedium/awesome-software-engineering](https://github.com/Alliedium/awesome-software-engineering) - A curated list of awesome software engineering resources.
+- [diimdeep/awesome-split-keyboards](https://github.com/diimdeep/awesome-split-keyboards) - A collection of ergonomic split keyboards ⌨
 - [vampy/Makefile](https://github.com/vampy/Makefile) - Makefile Tutorial - learn make by example
 - [aatmmr/octodesk](https://github.com/aatmmr/octodesk) - Provide a self-service experience for your Organization
 - [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - 🚀 A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles.
@@ -1656,7 +1663,6 @@
 - [Baekalfen/PyBoy](https://github.com/Baekalfen/PyBoy) - Game Boy emulator written in Python
 - [alievk/avatarify-python](https://github.com/alievk/avatarify-python) - Avatars for Zoom, Skype and other video-conferencing apps.
 - [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
-- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [gcovr/gcovr](https://github.com/gcovr/gcovr) - generate code coverage reports with gcc/gcov
 - [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [mherrmann/helium](https://github.com/mherrmann/helium) - Lighter web automation for Python
