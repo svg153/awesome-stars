@@ -150,6 +150,7 @@
 
 ## C# # 
 
+- [spectreconsole/spectre.console](https://github.com/spectreconsole/spectre.console) - A .NET library that makes it easier to create beautiful console applications.
 - [PagelsR/WrightBrothersAPI](https://github.com/PagelsR/WrightBrothersAPI) - The API is structured to manage a list of planes.
 - [davidfowl/AspirePulumi](https://github.com/davidfowl/AspirePulumi) - A demo showing pulumi and aspire
 - [DeveloperMetrics/DevOpsMetrics](https://github.com/DeveloperMetrics/DevOpsMetrics) - A project to extract and process high performing DevOps metrics (DORA) from GitHub and Azure DevOps
@@ -708,6 +709,7 @@
 
 ## HTML 
 
+- [InternalDeveloperPlatform/public-site](https://github.com/InternalDeveloperPlatform/public-site) - 
 - [ClickHouse/adsb.exposed](https://github.com/ClickHouse/adsb.exposed) - Interactive visualization and analytics on ADS-B data with ClickHouse
 - [wepsim/wepsim](https://github.com/wepsim/wepsim) - WepSIM: Web Elemental Processor SIMulator
 - [JaimeObregon/observatoriospublicos.es](https://github.com/JaimeObregon/observatoriospublicos.es) - Observatorio de los observatorios públicos de España
@@ -1204,6 +1206,7 @@
 
 ## Others 
 
+- [robandpdx/request-repo-create](https://github.com/robandpdx/request-repo-create) - Automate repo creation in a target org using a GitHub Actions workflow.
 - [open-sauced/goals-template](https://github.com/open-sauced/goals-template) - This is the template repo for managing your contributions through opensauced.pizza
 - [AndreaGriffiths11/open-sauced-goals](https://github.com/AndreaGriffiths11/open-sauced-goals) - 
 - [githubevents/open-source-friday](https://github.com/githubevents/open-source-friday) - The home for open source maintainer chats
