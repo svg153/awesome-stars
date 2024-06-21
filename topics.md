@@ -3528,6 +3528,7 @@
 
 ## others 
 
+- [shell-pool/shpool](https://github.com/shell-pool/shpool) - Think tmux, then aim... lower
 - [redotvideo/revideo](https://github.com/redotvideo/revideo) - Create Videos with Code
 - [google/mesop](https://github.com/google/mesop) - Build delightful web apps quickly in Python
 - [robandpdx/request-repo-create](https://github.com/robandpdx/request-repo-create) - Automate repo creation in a target org using a GitHub Actions workflow.
