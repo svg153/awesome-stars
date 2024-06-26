@@ -299,7 +299,7 @@
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 - [flutter/pinball](https://github.com/flutter/pinball) - Google I/O 2022 Pinball game built with Flutter and Firebase
 - [abuanwar072/Food-App](https://github.com/abuanwar072/Food-App) - 
-- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
+- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion.
 - [kubenav/kubenav](https://github.com/kubenav/kubenav) - kubenav is the navigator for your Kubernetes clusters right in your pocket.
 - [mitesh77/Best-Flutter-UI-Templates](https://github.com/mitesh77/Best-Flutter-UI-Templates) - completely free for everyone. Its build-in Flutter Dart.
 - [lambiengcode/analog-clock](https://github.com/lambiengcode/analog-clock) - Analog clock built with Flutter. Simple, elegant and customizable. Enhance your app with this beautiful clock widget.
@@ -881,6 +881,7 @@
 
 ## JavaScript 
 
+- [AMAI-GmbH/AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Roadmap to becoming an Artificial Intelligence Expert in 2022
 - [machulav/ec2-github-runner](https://github.com/machulav/ec2-github-runner) - On-demand self-hosted AWS EC2 runner for GitHub Actions
 - [zentered/issue-forms-body-parser](https://github.com/zentered/issue-forms-body-parser) - GitHub Issue Forms Body Parser Action
 - [andyfeller/issueops-createrepo](https://github.com/andyfeller/issueops-createrepo) - GitHub Action solution for creating repository through GitHub issue workflows.
