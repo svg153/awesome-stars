@@ -1117,6 +1117,7 @@
 
 ## compiler 
 
+- [winglang/wing](https://github.com/winglang/wing) - A programming language for the cloud ☁️ A unified programming model, combining infrastructure and runtime code into one language ⚡
 - [enso-org/enso](https://github.com/enso-org/enso) - Hybrid visual and textual functional programming.
 - [alejandrogallo/rooki](https://github.com/alejandrogallo/rooki) - A stupid simple script runner supporting c, c++, rust, haskell and virtually anything
 - [ciao-lang/ciao](https://github.com/ciao-lang/ciao) - Ciao is a modern Prolog implementation that builds up from a logic-based simple kernel designed to be portable, extensible, and modular.
@@ -1840,6 +1841,7 @@
 
 ## frontend 
 
+- [buttons/github-buttons](https://github.com/buttons/github-buttons) - :octocat: Unofficial github:buttons
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [nsdonato/recursostech](https://github.com/nsdonato/recursostech) - Recursos recopilados para compartir con la comunidad 🚀 Open source, aportes bienvenidos ♥️
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Open-source RAG Framework for building GenAI Second Brains 🧠  Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic,
@@ -1962,6 +1964,7 @@
 
 ## github 
 
+- [buttons/github-buttons](https://github.com/buttons/github-buttons) - :octocat: Unofficial github:buttons
 - [machulav/ec2-github-runner](https://github.com/machulav/ec2-github-runner) - On-demand self-hosted AWS EC2 runner for GitHub Actions
 - [jonico/awesome-runners](https://github.com/jonico/awesome-runners) - A curated list of awesome self-hosted GitHub Action runners in a large comparison matrix
 - [HariSekhon/Template-Repo](https://github.com/HariSekhon/Template-Repo) - Template repository with basic skeleton of build and CI/CD configs
@@ -2976,6 +2979,7 @@
 
 ## language 
 
+- [winglang/wing](https://github.com/winglang/wing) - A programming language for the cloud ☁️ A unified programming model, combining infrastructure and runtime code into one language ⚡
 - [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
 - [onelang/OneLang](https://github.com/onelang/OneLang) - 
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
@@ -4882,6 +4886,7 @@
 
 ## rust 
 
+- [winglang/wing](https://github.com/winglang/wing) - A programming language for the cloud ☁️ A unified programming model, combining infrastructure and runtime code into one language ⚡
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [rcoh/angle-grinder](https://github.com/rcoh/angle-grinder) - Slice and dice logs on the command line
 - [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq
@@ -5058,6 +5063,7 @@
 
 ## serverless 
 
+- [winglang/wing](https://github.com/winglang/wing) - A programming language for the cloud ☁️ A unified programming model, combining infrastructure and runtime code into one language ⚡
 - [philips-labs/terraform-aws-github-runner](https://github.com/philips-labs/terraform-aws-github-runner) - Terraform module for scalable GitHub action runners on AWS
 - [metrue/fx](https://github.com/metrue/fx) - A Function as a Service tool makes a function as a  container-based service in seconds.
 - [klothoplatform/klotho](https://github.com/klothoplatform/klotho) - Klotho - write AWS applications at lightning speed
@@ -5405,6 +5411,7 @@
 
 ## typescript 
 
+- [winglang/wing](https://github.com/winglang/wing) - A programming language for the cloud ☁️ A unified programming model, combining infrastructure and runtime code into one language ⚡
 - [midday-ai/midday](https://github.com/midday-ai/midday) - Run your business smarter 🪄
 - [CodelyTV/infrastructure_design-eventbus-aws-course](https://github.com/CodelyTV/infrastructure_design-eventbus-aws-course) - Infrastructure Design: AWS SQS as a Message Queue course examples
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - A framework for building custom AI Copilots 🤖 in-app AI chatbots, in-app AI Agents, & AI-powered Textareas.
