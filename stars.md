@@ -888,6 +888,7 @@
 
 ## JavaScript 
 
+- [collinmcneese/github-actions-metrics](https://github.com/collinmcneese/github-actions-metrics) - Repository with Example references for GitHub Actions Metrics visualizations
 - [buttons/github-buttons](https://github.com/buttons/github-buttons) - :octocat: Unofficial github:buttons
 - [AMAI-GmbH/AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Roadmap to becoming an Artificial Intelligence Expert in 2022
 - [machulav/ec2-github-runner](https://github.com/machulav/ec2-github-runner) - On-demand self-hosted AWS EC2 runner for GitHub Actions
