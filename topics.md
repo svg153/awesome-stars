@@ -3338,7 +3338,7 @@
 - [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - The open source Tines / Splunk SOAR alternative.
 - [techiescamp/devops-tools](https://github.com/techiescamp/devops-tools) - Curated List of Best DevOps Tools
 - [upgundecha/howtheysre](https://github.com/upgundecha/howtheysre) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
-- [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source synthetic & real user monitoring platform  🏓
+- [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source synthetic platform  🏓
 - [benc-uk/kubeview](https://github.com/benc-uk/kubeview) - Kubernetes cluster visualiser and graphical explorer
 - [robusta-dev/krr](https://github.com/robusta-dev/krr) - Prometheus-based Kubernetes Resource Recommendations
 - [teletrace/teletrace](https://github.com/teletrace/teletrace) - Open-Source Tracing Platform
@@ -3437,7 +3437,7 @@
 - [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - The open source Tines / Splunk SOAR alternative.
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - A framework for building custom AI Copilots 🤖 in-app AI chatbots, in-app AI Agents, & AI-powered Textareas.
 - [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure
-- [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source synthetic & real user monitoring platform  🏓
+- [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source synthetic platform  🏓
 - [xitanggg/open-resume](https://github.com/xitanggg/open-resume) - OpenResume is a powerful open-source resume builder and resume parser. https://open-resume.com/
 - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Resume Matcher is an open source, free tool to improve your resume. It works by using language models to compare and rank resumes with job descriptions.
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
@@ -3526,7 +3526,7 @@
 - [github/forgoodfirstissue](https://github.com/github/forgoodfirstissue) - Find your first issue for good to contribute to
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure
-- [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source synthetic & real user monitoring platform  🏓
+- [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source synthetic platform  🏓
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
 - [github/github-ospo](https://github.com/github/github-ospo) - Helping open source program offices get started
 - [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics
@@ -3597,7 +3597,6 @@
 - [grafana/grizzly](https://github.com/grafana/grizzly) - A utility for managing Jsonnet dashboards against the Grafana API
 - [Alliedium/awesome-software-engineering](https://github.com/Alliedium/awesome-software-engineering) - A curated list of awesome software engineering resources.
 - [diimdeep/awesome-split-keyboards](https://github.com/diimdeep/awesome-split-keyboards) - A collection of ergonomic split keyboards ⌨
-- [qoomon/actions--access-token](https://github.com/qoomon/actions--access-token) - Get rid of PAT tokens, use temporary access tokens instead!
 - [grafana/Kost](https://github.com/grafana/Kost) - K8s Cost Calculator that provides estimated reports for workloads running in Kubernetes.
 - [vampy/Makefile](https://github.com/vampy/Makefile) - Makefile Tutorial - learn make by example
 - [aatmmr/octodesk](https://github.com/aatmmr/octodesk) - Provide a self-service experience for your Organization
@@ -5048,6 +5047,7 @@
 - [runs-on/runs-on](https://github.com/runs-on/runs-on) - 10x cheaper GitHub Action runners. 5x faster caches. On premise.
 - [machulav/ec2-github-runner](https://github.com/machulav/ec2-github-runner) - On-demand self-hosted AWS EC2 runner for GitHub Actions
 - [jonico/awesome-runners](https://github.com/jonico/awesome-runners) - A curated list of awesome self-hosted GitHub Action runners in a large comparison matrix
+- [qoomon/actions--access-token](https://github.com/qoomon/actions--access-token) - Get rid of PAT tokens, use temporary access tokens instead!
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [philips-labs/terraform-aws-github-runner](https://github.com/philips-labs/terraform-aws-github-runner) - Terraform module for scalable GitHub action runners on AWS
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer. Multiple engine support (llama.cpp, TensorRT-LLM)
