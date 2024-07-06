@@ -274,6 +274,7 @@
 
 ## Clojure 
 
+- [docker/labs-make-runbook](https://github.com/docker/labs-make-runbook) - 
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
 
 ## CoffeeScript 
@@ -1562,6 +1563,7 @@
 
 ## Python 
 
+- [Azure/Azure-Network-Security](https://github.com/Azure/Azure-Network-Security) - Resources for improving Customer Experience with Azure Network Security
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [tconbeer/harlequin](https://github.com/tconbeer/harlequin) - The SQL IDE for Your Terminal.
 - [google/mesop](https://github.com/google/mesop) - Build delightful web apps quickly in Python
@@ -2213,6 +2215,7 @@
 
 ## TypeScript 
 
+- [Dhravya/supermemory](https://github.com/Dhravya/supermemory) - Build your own second brain with supermemory. It's a ChatGPT for your bookmarks. Import tweets or save websites and content using the chrome extension.
 - [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open source collaborative documentation and wiki software. It is an open-source alternative to the likes of Confluence and Notion.
 - [grafana/grafana-resources-exporter-plugin](https://github.com/grafana/grafana-resources-exporter-plugin) - 
 - [komodorio/komoplane](https://github.com/komodorio/komoplane) - 🍨 Crossplane Troubleshooting Tool by Komodor
