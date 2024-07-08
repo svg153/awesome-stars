@@ -175,6 +175,8 @@
 
 ## C++ 
 
+- [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
+- [epezent/implot](https://github.com/epezent/implot) - Immediate Mode Plotting
 - [rhasspy/piper](https://github.com/rhasspy/piper) - A fast, local neural text to speech system
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transfor
 - [Aitum/obs-vertical-canvas](https://github.com/Aitum/obs-vertical-canvas) - 
