@@ -25,7 +25,6 @@
 - [Elixir](#elixir)
 - [Elm](#elm)
 - [Emacs Lisp](#emacs-lisp)
-- [Fluent](#fluent)
 - [GDScript](#gdscript)
 - [Go](#go)
 - [Groovy](#groovy)
@@ -370,16 +369,14 @@
 - [syl20bnr/spacemacs](https://github.com/syl20bnr/spacemacs) - A community-driven Emacs distribution - The best editor is neither Emacs nor Vim,  it's Emacs *and* Vim!
 - [yjwen/org-reveal](https://github.com/yjwen/org-reveal) - Exports Org-mode contents to Reveal.js HTML presentation.
 
-## Fluent 
-
-- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
-
 ## GDScript 
 
 - [git-learning-game/oh-my-git](https://github.com/git-learning-game/oh-my-git) - An interactive Git learning game!
 
 ## Go 
 
+- [bschaatsbergen/terraform-provider-assert](https://github.com/bschaatsbergen/terraform-provider-assert) - Utility provider that contains functions to assert values and validate your Terraform configurations effectively.
+- [grafana/terraform-provider-grafana](https://github.com/grafana/terraform-provider-grafana) - Terraform Grafana provider
 - [Azure/aztfexport](https://github.com/Azure/aztfexport) - A tool to bring existing Azure resources under Terraform's management
 - [busser/tfautomv](https://github.com/busser/tfautomv) - Generate Terraform moved blocks automatically for painless refactoring
 - [RoseSecurity/Terramaid](https://github.com/RoseSecurity/Terramaid) - A utility for generating Mermaid diagrams from Terraform configurations
@@ -393,7 +390,7 @@
 - [danvergara/dblab](https://github.com/danvergara/dblab) - The database client every command line junkie deserves.
 - [github/git-sizer](https://github.com/github/git-sizer) - Compute various size metrics for a Git repository, flagging those that might cause problems
 - [helaili/github-oidc-auth-app](https://github.com/helaili/github-oidc-auth-app) - An OIDC client to retrieve a GitHub API scoped token from within an Actions workflow
-- [octokit/go-sdk](https://github.com/octokit/go-sdk) - A generated Go SDK from GitHub's OpenAPI specification.
+- [octokit/go-sdk](https://github.com/octokit/go-sdk) - A generated Go SDK from GitHub's OpenAPI specification. Built on Kiota.
 - [palantir/bulldozer](https://github.com/palantir/bulldozer) - GitHub Pull Request Auto-Merge Bot
 - [gabrie30/ghorg](https://github.com/gabrie30/ghorg) - Quickly clone an entire org/users repositories into one directory - Supports GitHub, GitLab, Bitbucket, and more 🥚
 - [cilium/team-manager](https://github.com/cilium/team-manager) - Bot to manage team members in GitHub organizations
@@ -749,6 +746,7 @@
 - [minvws/nl-covid19-notification-app-website](https://github.com/minvws/nl-covid19-notification-app-website) - Project website
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [tupadr3/plantuml-icon-font-sprites](https://github.com/tupadr3/plantuml-icon-font-sprites) - plantuml-font-icon-sprites
+- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
 - [ayr-ton/awesome-geek-podcasts](https://github.com/ayr-ton/awesome-geek-podcasts) - A curated list of podcasts we like to listen to.
 - [IonicaBizau/git-stats](https://github.com/IonicaBizau/git-stats) - 🍀 Local git statistics including GitHub-like contributions calendars.
@@ -903,7 +901,6 @@
 - [timrogers/github-migration-monitor](https://github.com/timrogers/github-migration-monitor) - Monitors GitHub Enterprise Importer (GEI) migrations for an organization through a simple command line tool
 - [devopselvis/github-actions-presentation](https://github.com/devopselvis/github-actions-presentation) - I contain slides/demos for various GitHub Actions Talk
 - [github/relative-time-element](https://github.com/github/relative-time-element) - Web component extensions to the standard &lt;time&gt; element.
-- [nikitavoloboev/knowledge](https://github.com/nikitavoloboev/knowledge) - Everything I know
 - [maxkomarychev/octions](https://github.com/maxkomarychev/octions) - Collection of GitHub Actions that wrap GitHub REST API
 - [gr2m/register-github-app-cli](https://github.com/gr2m/register-github-app-cli) - CLI to register a GitHub App using the manifest flow
 - [github/gh-migration-analyzer](https://github.com/github/gh-migration-analyzer) - 
@@ -1243,6 +1240,7 @@
 - [vampy/Makefile](https://github.com/vampy/Makefile) - Makefile Tutorial - learn make by example
 - [aatmmr/octodesk](https://github.com/aatmmr/octodesk) - Provide a self-service experience for your Organization
 - [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - 🚀 A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles.
+- [nikitavoloboev/wiki](https://github.com/nikitavoloboev/wiki) - Everything I know
 - [pablokbs/peladonerd-newsletter](https://github.com/pablokbs/peladonerd-newsletter) - 
 - [juancarlospaco/awesome-streaming-tools](https://github.com/juancarlospaco/awesome-streaming-tools) - Awesome Streaming Tools
 - [githubnext/copilot-workspace-user-manual](https://github.com/githubnext/copilot-workspace-user-manual) - 📖 The user manual for GitHub Copilot Workspace
@@ -2221,7 +2219,7 @@
 ## TypeScript 
 
 - [Dhravya/supermemory](https://github.com/Dhravya/supermemory) - Build your own second brain with supermemory. It's a ChatGPT for your bookmarks. Import tweets or save websites and content using the chrome extension.
-- [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open source collaborative documentation and wiki software. It is an open-source alternative to the likes of Confluence and Notion.
+- [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
 - [grafana/grafana-resources-exporter-plugin](https://github.com/grafana/grafana-resources-exporter-plugin) - 
 - [komodorio/komoplane](https://github.com/komodorio/komoplane) - 🍨 Crossplane Troubleshooting Tool by Komodor
 - [rtfpessoa/diff2html](https://github.com/rtfpessoa/diff2html) - Pretty diff to html javascript library (diff2html)
