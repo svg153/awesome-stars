@@ -3730,7 +3730,7 @@
 - [githubocto/flat-demo-bitcoin-price](https://github.com/githubocto/flat-demo-bitcoin-price) - A Flat Data GitHub Action demo repo
 - [githubocto/flat-editor](https://github.com/githubocto/flat-editor) - A VSCode extension to create Flat GitHub Actions
 - [techiescamp/kubernetes-projects](https://github.com/techiescamp/kubernetes-projects) - Practical real-world hands-on projects to practice and learn Kubernetes implementations
-- [EntrevistadorInteligente/EntrevistadorInteligente](https://github.com/EntrevistadorInteligente/EntrevistadorInteligente) - 
+- [EntrevistadorInteligente/si-architecture-diagrams](https://github.com/EntrevistadorInteligente/si-architecture-diagrams) - 
 - [HumanAIGC/OutfitAnyone](https://github.com/HumanAIGC/OutfitAnyone) - Outfit Anyone: Ultra-high quality virtual try-on for Any Clothing and Any Person
 - [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs
 - [githubnext/blocks](https://github.com/githubnext/blocks) - A set of files to use as input for Blocks.
