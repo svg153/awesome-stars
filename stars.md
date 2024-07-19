@@ -398,7 +398,7 @@
 - [helaili/github-oidc-auth-app](https://github.com/helaili/github-oidc-auth-app) - An OIDC client to retrieve a GitHub API scoped token from within an Actions workflow
 - [octokit/go-sdk](https://github.com/octokit/go-sdk) - A generated Go SDK from GitHub's OpenAPI specification. Built on Kiota.
 - [palantir/bulldozer](https://github.com/palantir/bulldozer) - GitHub Pull Request Auto-Merge Bot
-- [gabrie30/ghorg](https://github.com/gabrie30/ghorg) - Quickly clone an entire org/users repositories into one directory - Supports GitHub, GitLab, Bitbucket, and more 🥚
+- [gabrie30/ghorg](https://github.com/gabrie30/ghorg) - Quickly clone an entire org/users repositories into one directory - Supports GitHub, GitLab, Bitbucket, and more 🐇🥚
 - [cilium/team-manager](https://github.com/cilium/team-manager) - Bot to manage team members in GitHub organizations
 - [ribtoks/tdg-github-action](https://github.com/ribtoks/tdg-github-action) - GitHub action for project management using TODO comments
 - [version-fox/vfox](https://github.com/version-fox/vfox) - A cross-platform and extendable version manager with support for Java, Node.js, Flutter, .Net & more
@@ -1270,7 +1270,7 @@
 - [michaelkkehoe/sre-interview](https://github.com/michaelkkehoe/sre-interview) - A collection of questions to practice with for SRE interviews
 - [gayanvoice/top-github-users](https://github.com/gayanvoice/top-github-users) - Check your ranking in GitHub! Don't forget to star ⭐ this repository.
 - [keesvv/my-octocat](https://github.com/keesvv/my-octocat) - My octocat created at https://myoctocat.com/build-your-octocat/
-- [EntrevistadorInteligente/EntrevistadorInteligente](https://github.com/EntrevistadorInteligente/EntrevistadorInteligente) - 
+- [EntrevistadorInteligente/si-architecture-diagrams](https://github.com/EntrevistadorInteligente/si-architecture-diagrams) - 
 - [HumanAIGC/OutfitAnyone](https://github.com/HumanAIGC/OutfitAnyone) - Outfit Anyone: Ultra-high quality virtual try-on for Any Clothing and Any Person
 - [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs
 - [githubnext/blocks](https://github.com/githubnext/blocks) - A set of files to use as input for Blocks.
@@ -2229,7 +2229,7 @@
 ## TypeScript 
 
 - [github-community-projects/private-mirrors](https://github.com/github-community-projects/private-mirrors) - A GitHub App that allows you to contribute upstream using private mirrors of public projects
-- [Dhravya/supermemory](https://github.com/Dhravya/supermemory) - Build your own second brain with supermemory. It's a ChatGPT for your bookmarks. Import tweets or save websites and content using the chrome extension.
+- [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) - Build your own second brain with supermemory. It's a ChatGPT for your bookmarks. Import tweets or save websites and content using the chrome extension.
 - [docker/labs-make-runbook](https://github.com/docker/labs-make-runbook) - 
 - [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
 - [grafana/grafana-resources-exporter-plugin](https://github.com/grafana/grafana-resources-exporter-plugin) - 
