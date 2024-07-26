@@ -152,6 +152,7 @@
 
 ## C# # 
 
+- [microsoft/TechExcel-Accelerate-developer-productivity-with-GitHub-Copilot-and-Dev-Box](https://github.com/microsoft/TechExcel-Accelerate-developer-productivity-with-GitHub-Copilot-and-Dev-Box) - New repo for new Developer Productivity lab
 - [SlavaVedernikov/C4InterFlow](https://github.com/SlavaVedernikov/C4InterFlow) - Architecture as Code (AaC) framework that generates diagrams and lets you analyse Application Architecture. Inspired by C4 Model
 - [spectreconsole/spectre.console](https://github.com/spectreconsole/spectre.console) - A .NET library that makes it easier to create beautiful console applications.
 - [davidfowl/AspirePulumi](https://github.com/davidfowl/AspirePulumi) - A demo showing pulumi and aspire
@@ -379,9 +380,10 @@
 
 ## Go 
 
+- [sarumaj/gh-gr](https://github.com/sarumaj/gh-gr) - github-cli extension allowing to manage multiple github repositories at once
 - [cue-lang/cue](https://github.com/cue-lang/cue) - The home of the CUE language! Validate and define text-based and dynamic configuration
 - [mr-karan/doggo](https://github.com/mr-karan/doggo) - :dog: Command-line DNS Client for Humans. Written in Golang
-- [bschaatsbergen/terraform-provider-assert](https://github.com/bschaatsbergen/terraform-provider-assert) - Utility provider that contains functions to assert values and validate your Terraform configurations effectively.
+- [hashicorp/terraform-provider-assert](https://github.com/hashicorp/terraform-provider-assert) - Utility provider that contains functions to assert values and validate your Terraform configurations effectively.
 - [grafana/terraform-provider-grafana](https://github.com/grafana/terraform-provider-grafana) - Terraform Grafana provider
 - [Azure/aztfexport](https://github.com/Azure/aztfexport) - A tool to bring existing Azure resources under Terraform's management
 - [busser/tfautomv](https://github.com/busser/tfautomv) - Generate Terraform moved blocks automatically for painless refactoring
@@ -1234,6 +1236,7 @@
 
 ## Others 
 
+- [github/gh-net](https://github.com/github/gh-net) - A network bridge between a Codespace and a local machine.
 - [DaveOps30/copilot-hands-on](https://github.com/DaveOps30/copilot-hands-on) - Hands on GitHub Copilot workshop used/owned by the GitHub Enterprise Advocate team.
 - [jordan-cutler/path-to-senior-engineer-handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook) - All the resources you need to get to Senior Engineer and beyond
 - [robandpdx/request-repo-create](https://github.com/robandpdx/request-repo-create) - Automate repo creation in a target org using a GitHub Actions workflow.
@@ -1571,6 +1574,8 @@
 
 ## Python 
 
+- [sinaatalay/rendercv](https://github.com/sinaatalay/rendercv) - A LaTeX CV/Resume Framework
+- [roboflow/sports](https://github.com/roboflow/sports) - computer vision and sports
 - [GitHubSecurityLab/actions-permissions](https://github.com/GitHubSecurityLab/actions-permissions) - GitHub token permissions Monitor and Advisor actions
 - [OpenBB-finance/openbb-agents](https://github.com/OpenBB-finance/openbb-agents) - R&D playground to play with agents and OpenBB
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
@@ -1727,7 +1732,7 @@
 - [chvvkumar/Monitoring](https://github.com/chvvkumar/Monitoring) - Monitor ESXi, Synology, Docker, PiHole and Raspberry Pi and Windows using Grafana, InfluxDB and Telegraf
 - [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
 - [iperov/DeepFaceLab](https://github.com/iperov/DeepFaceLab) - DeepFaceLab is the leading software for creating deepfakes.
-- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for 250+ supported car makes and models.
+- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics.
 - [facebookresearch/demucs](https://github.com/facebookresearch/demucs) - Code for the paper Hybrid Spectrogram and Waveform Source Separation
 - [adrienverge/yamllint](https://github.com/adrienverge/yamllint) - A linter for YAML files.
 - [ansible/ansible-lint](https://github.com/ansible/ansible-lint) - ansible-lint checks playbooks for practices and behavior that could potentially be improved and can fix some of the most common ones for you
@@ -2228,6 +2233,8 @@
 
 ## TypeScript 
 
+- [liweiyi88/trendshift](https://github.com/liweiyi88/trendshift) - GitHub trending insight website
+- [groupon/gh-grep](https://github.com/groupon/gh-grep) - GitHub CLI grep extension
 - [github-community-projects/private-mirrors](https://github.com/github-community-projects/private-mirrors) - A GitHub App that allows you to contribute upstream using private mirrors of public projects
 - [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) - Build your own second brain with supermemory. It's a ChatGPT for your bookmarks. Import tweets or save websites and content using the chrome extension.
 - [docker/labs-make-runbook](https://github.com/docker/labs-make-runbook) - 
