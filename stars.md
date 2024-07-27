@@ -180,7 +180,7 @@
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - [epezent/implot](https://github.com/epezent/implot) - Immediate Mode Plotting
 - [rhasspy/piper](https://github.com/rhasspy/piper) - A fast, local neural text to speech system
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transfor
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
 - [Aitum/obs-vertical-canvas](https://github.com/Aitum/obs-vertical-canvas) - 
 - [occ-ai/obs-urlsource](https://github.com/occ-ai/obs-urlsource) - OBS plugin to fetch data from a URL or file, connect to an API or AI service, parse responses and display text, image or audio on scene
 - [WarmUpTill/SceneSwitcher](https://github.com/WarmUpTill/SceneSwitcher) - An automated scene switcher for OBS Studio
@@ -719,7 +719,7 @@
 - [GoogleCloudPlatform/software-delivery-blueprint](https://github.com/GoogleCloudPlatform/software-delivery-blueprint) - 
 - [mhmdio/terraform-templates-base](https://github.com/mhmdio/terraform-templates-base) - Terraform Templates Base - monoRepo
 - [aztfmod/terraform-azurerm-caf](https://github.com/aztfmod/terraform-azurerm-caf) - Terraform supermodule for the Terraform platform engineering for Azure
-- [Azure/caf-terraform-landingzones](https://github.com/Azure/caf-terraform-landingzones) - Azure Terraform SRE framework
+- [Azure/caf-terraform-landingzones](https://github.com/Azure/caf-terraform-landingzones) - This solution, offered by the Open-Source community, will no longer receive contributions from Microsoft.  Customers are encouraged to transition to Microsoft Azure Verified Modules for continued supp
 - [Azure/caf-terraform-landingzones-accelerator](https://github.com/Azure/caf-terraform-landingzones-accelerator) - Starter project for Applications (level 4) Cloud Adoption Framework for Azure landing zones on Terraform
 - [opszero/terraform-aws-kubespot](https://github.com/opszero/terraform-aws-kubespot) - 
 - [iacsecurity/tool-compare](https://github.com/iacsecurity/tool-compare) - 
@@ -1732,7 +1732,7 @@
 - [chvvkumar/Monitoring](https://github.com/chvvkumar/Monitoring) - Monitor ESXi, Synology, Docker, PiHole and Raspberry Pi and Windows using Grafana, InfluxDB and Telegraf
 - [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
 - [iperov/DeepFaceLab](https://github.com/iperov/DeepFaceLab) - DeepFaceLab is the leading software for creating deepfakes.
-- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics.
+- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system in 275+ supported cars.
 - [facebookresearch/demucs](https://github.com/facebookresearch/demucs) - Code for the paper Hybrid Spectrogram and Waveform Source Separation
 - [adrienverge/yamllint](https://github.com/adrienverge/yamllint) - A linter for YAML files.
 - [ansible/ansible-lint](https://github.com/ansible/ansible-lint) - ansible-lint checks playbooks for practices and behavior that could potentially be improved and can fix some of the most common ones for you
