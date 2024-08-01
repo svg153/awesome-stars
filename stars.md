@@ -182,7 +182,7 @@
 - [rhasspy/piper](https://github.com/rhasspy/piper) - A fast, local neural text to speech system
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
 - [Aitum/obs-vertical-canvas](https://github.com/Aitum/obs-vertical-canvas) - 
-- [occ-ai/obs-urlsource](https://github.com/occ-ai/obs-urlsource) - OBS plugin to fetch data from a URL or file, connect to an API or AI service, parse responses and display text, image or audio on scene
+- [locaal-ai/obs-urlsource](https://github.com/locaal-ai/obs-urlsource) - OBS plugin to fetch data from a URL or file, connect to an API or AI service, parse responses and display text, image or audio on scene
 - [WarmUpTill/SceneSwitcher](https://github.com/WarmUpTill/SceneSwitcher) - An automated scene switcher for OBS Studio
 - [tomkwok/svgasm](https://github.com/tomkwok/svgasm) - SVG animation from multiple SVGs or single GIF using tracer
 - [GothenburgBitFactory/taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) - Taskwarrior - Command line Task Management
@@ -384,7 +384,7 @@
 - [sarumaj/gh-gr](https://github.com/sarumaj/gh-gr) - github-cli extension allowing to manage multiple github repositories at once
 - [cue-lang/cue](https://github.com/cue-lang/cue) - The home of the CUE language! Validate and define text-based and dynamic configuration
 - [mr-karan/doggo](https://github.com/mr-karan/doggo) - :dog: Command-line DNS Client for Humans. Written in Golang
-- [hashicorp/terraform-provider-assert](https://github.com/hashicorp/terraform-provider-assert) - Utility provider that contains functions to assert values and validate your Terraform configurations effectively.
+- [hashicorp/terraform-provider-assert](https://github.com/hashicorp/terraform-provider-assert) - Utility provider that contains functions to assert values and validate your Terraform configurations with.
 - [grafana/terraform-provider-grafana](https://github.com/grafana/terraform-provider-grafana) - Terraform Grafana provider
 - [Azure/aztfexport](https://github.com/Azure/aztfexport) - A tool to bring existing Azure resources under Terraform's management
 - [busser/tfautomv](https://github.com/busser/tfautomv) - Generate Terraform moved blocks automatically for painless refactoring
@@ -601,6 +601,7 @@
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [mergestat/mergestat-lite](https://github.com/mergestat/mergestat-lite) - Query git repositories with SQL. Generate reports, perform status checks, analyze codebases. 🔍 📊
 - [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Shift FinOps Left!
+- [redpanda-data/console](https://github.com/redpanda-data/console) - Redpanda Console is a developer-friendly UI for managing your Kafka/Redpanda workloads. Console gives you a simple, interactive approach for gaining visibility into your topics, masking data, managing
 - [augmentable-dev/tickgit](https://github.com/augmentable-dev/tickgit) - Manage your repository's TODOs, tickets and checklists as config in your codebase.
 - [streamdal/plumber](https://github.com/streamdal/plumber) - A swiss army knife CLI tool for interacting with Kafka, RabbitMQ and other messaging systems.
 - [docker-archive/ecs-plugin](https://github.com/docker-archive/ecs-plugin) - See http://github.com/docker/compose-cli
@@ -697,6 +698,7 @@
 
 ## HCL 
 
+- [Azure-Samples/aks-platform-engineering](https://github.com/Azure-Samples/aks-platform-engineering) - 
 - [transcend-io/terragrunt-atlantis-config](https://github.com/transcend-io/terragrunt-atlantis-config) - Generate Atlantis config for Terragrunt projects.
 - [philips-labs/terraform-aws-github-runner](https://github.com/philips-labs/terraform-aws-github-runner) - Terraform module for scalable GitHub action runners on AWS
 - [antonbabenko/terraform-best-practices](https://github.com/antonbabenko/terraform-best-practices) - Terraform Best Practices free ebook translated into 🇬🇧🇦🇪🇧🇦🇧🇷🇫🇷🇬🇪🇩🇪🇬🇷🇮🇱🇮🇳🇮🇩🇮🇹🇰🇷🇵🇱🇷🇴🇨🇳🇪🇸🇹🇷🇺🇦🇵🇰
@@ -1913,6 +1915,7 @@
 
 ## Rust 
 
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [maxcurzi/tplay](https://github.com/maxcurzi/tplay) - A terminal ASCII media player. View images, gifs, videos, webcam, YouTube, etc.. directly in the terminal as ASCII art.
 - [shell-pool/shpool](https://github.com/shell-pool/shpool) - Think tmux, then aim... lower
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
@@ -2020,6 +2023,7 @@
 
 ## Shell 
 
+- [beatlabs/delete-old-branches-action](https://github.com/beatlabs/delete-old-branches-action) - GitHub Action that deletes old branches
 - [cisagov/gh-skeleton](https://github.com/cisagov/gh-skeleton) - This extension for the gh CLI provides the ability to easily start new projects from our existing library of skeleton repositories.
 - [andyfeller/gh-codeowner-analysis](https://github.com/andyfeller/gh-codeowner-analysis) - GitHub CLI extension for analyzing GitHub repository codeowners and branch protection rules.
 - [andyfeller/gh-montage](https://github.com/andyfeller/gh-montage) - GitHub CLI extension to generate montage from GitHub user avatars
@@ -2373,7 +2377,6 @@
 - [apptension/saas-boilerplate](https://github.com/apptension/saas-boilerplate) - SaaS Boilerplate - Open Source and free SaaS stack that lets you build SaaS products faster in React, Django and AWS. Focus on essential business logic instead of coding repeatable features!
 - [microsoft/vscode-cmake-tools](https://github.com/microsoft/vscode-cmake-tools) - CMake integration in Visual Studio Code
 - [sqlectron/sqlectron-gui](https://github.com/sqlectron/sqlectron-gui) - A simple and lightweight SQL client desktop with cross database and platform support.
-- [redpanda-data/console](https://github.com/redpanda-data/console) - Redpanda Console is a developer-friendly UI for managing your Kafka/Redpanda workloads. Console gives you a simple, interactive approach for gaining visibility into your topics, masking data, managing
 - [geeks-r-us/mqtt-panel](https://github.com/geeks-r-us/mqtt-panel) - Simple Grafana panel that allows to communicate with a mqtt server
 - [diego3g/rocketredis](https://github.com/diego3g/rocketredis) - A beautiful Redis GUI :fire: (under development)
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
