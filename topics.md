@@ -416,7 +416,7 @@
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Open-source RAG Framework for building GenAI Second Brains 🧠  Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic,
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions.
 - [joshjohanning/github-misc-scripts](https://github.com/joshjohanning/github-misc-scripts) - GitHub script samples for automation
-- [occ-ai/obs-urlsource](https://github.com/occ-ai/obs-urlsource) - OBS plugin to fetch data from a URL or file, connect to an API or AI service, parse responses and display text, image or audio on scene
+- [locaal-ai/obs-urlsource](https://github.com/locaal-ai/obs-urlsource) - OBS plugin to fetch data from a URL or file, connect to an API or AI service, parse responses and display text, image or audio on scene
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 - [wundergraph/wundergraph](https://github.com/wundergraph/wundergraph) - WunderGraph is a Backend for Frontend Framework to optimize frontend, fullstack and backend developer workflows through API Composition.
@@ -2191,7 +2191,7 @@
 ## golang 
 
 - [sarumaj/gh-gr](https://github.com/sarumaj/gh-gr) - github-cli extension allowing to manage multiple github repositories at once
-- [hashicorp/terraform-provider-assert](https://github.com/hashicorp/terraform-provider-assert) - Utility provider that contains functions to assert values and validate your Terraform configurations effectively.
+- [hashicorp/terraform-provider-assert](https://github.com/hashicorp/terraform-provider-assert) - Utility provider that contains functions to assert values and validate your Terraform configurations with.
 - [busser/tfautomv](https://github.com/busser/tfautomv) - Generate Terraform moved blocks automatically for painless refactoring
 - [andyfeller/gh-dependency-report](https://github.com/andyfeller/gh-dependency-report) - GitHub CLI extension for generating a report on repository dependencies.
 - [lrstanley/bubblezone](https://github.com/lrstanley/bubblezone) - helper utility for BubbleTea, allowing easy mouse event tracking
@@ -2618,7 +2618,7 @@
 ## http 
 
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
-- [occ-ai/obs-urlsource](https://github.com/occ-ai/obs-urlsource) - OBS plugin to fetch data from a URL or file, connect to an API or AI service, parse responses and display text, image or audio on scene
+- [locaal-ai/obs-urlsource](https://github.com/locaal-ai/obs-urlsource) - OBS plugin to fetch data from a URL or file, connect to an API or AI service, parse responses and display text, image or audio on scene
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [reorx/httpstat](https://github.com/reorx/httpstat) - curl statistics made simple
 
@@ -3083,6 +3083,7 @@
 
 ## linux 
 
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [HariSekhon/Dockerfiles](https://github.com/HariSekhon/Dockerfiles) - 50+ DockerHub public images for Docker & Kubernetes - DevOps, CI/CD, GitHub Actions, CircleCI, Jenkins, TeamCity, Alpine, CentOS, Debian, Fedora, Ubuntu, Hadoop, Kafka, ZooKeeper, HBase, Cassandra, So
 - [HariSekhon/DevOps-Python-tools](https://github.com/HariSekhon/DevOps-Python-tools) - 80+ DevOps & Data CLI Tools - AWS, GCP, GCF Python Cloud Functions, Log Anonymizer, Spark, Hadoop, HBase, Hive, Impala, Linux, Docker, Spark Data Converters & Validators (Avro/Parquet/JSON/CSV/INI/XML
 - [juancarlospaco/awesome-streaming-tools](https://github.com/juancarlospaco/awesome-streaming-tools) - Awesome Streaming Tools
@@ -3247,6 +3248,7 @@
 
 ## macos 
 
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [version-fox/vfox](https://github.com/version-fox/vfox) - A cross-platform and extendable version manager with support for Java, Node.js, Flutter, .Net & more
 - [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal without needing API keys
 - [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
@@ -3617,6 +3619,8 @@
 
 ## others 
 
+- [beatlabs/delete-old-branches-action](https://github.com/beatlabs/delete-old-branches-action) - GitHub Action that deletes old branches
+- [Azure-Samples/aks-platform-engineering](https://github.com/Azure-Samples/aks-platform-engineering) - 
 - [opensourcecorp/vdm](https://github.com/opensourcecorp/vdm) - A General-Purpose Versioned-Dependency Manager
 - [Doriandarko/claude-engineer](https://github.com/Doriandarko/claude-engineer) - Claude Engineer is an interactive command-line interface (CLI) that leverages the power of Anthropic's Claude-3.5-Sonnet model to assist with software development tasks. This tool combines the capabil
 - [liweiyi88/trendshift](https://github.com/liweiyi88/trendshift) - GitHub trending insight website
@@ -4958,6 +4962,7 @@
 
 ## rust 
 
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [winglang/wing](https://github.com/winglang/wing) - A programming language for the cloud ☁️ A unified programming model, combining infrastructure and runtime code into one language ⚡
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [rcoh/angle-grinder](https://github.com/rcoh/angle-grinder) - Slice and dice logs on the command line
@@ -5037,6 +5042,7 @@
 
 ## security 
 
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [GitHubSecurityLab/actions-permissions](https://github.com/GitHubSecurityLab/actions-permissions) - GitHub token permissions Monitor and Advisor actions
 - [jonico/awesome-runners](https://github.com/jonico/awesome-runners) - A curated list of awesome self-hosted GitHub Action runners in a large comparison matrix
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
@@ -5393,7 +5399,7 @@
 ## terraform 
 
 - [transcend-io/terragrunt-atlantis-config](https://github.com/transcend-io/terragrunt-atlantis-config) - Generate Atlantis config for Terragrunt projects.
-- [hashicorp/terraform-provider-assert](https://github.com/hashicorp/terraform-provider-assert) - Utility provider that contains functions to assert values and validate your Terraform configurations effectively.
+- [hashicorp/terraform-provider-assert](https://github.com/hashicorp/terraform-provider-assert) - Utility provider that contains functions to assert values and validate your Terraform configurations with.
 - [grafana/terraform-provider-grafana](https://github.com/grafana/terraform-provider-grafana) - Terraform Grafana provider
 - [Azure/aztfexport](https://github.com/Azure/aztfexport) - A tool to bring existing Azure resources under Terraform's management
 - [busser/tfautomv](https://github.com/busser/tfautomv) - Generate Terraform moved blocks automatically for painless refactoring
@@ -5675,6 +5681,7 @@
 
 ## windows 
 
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
 - [version-fox/vfox](https://github.com/version-fox/vfox) - A cross-platform and extendable version manager with support for Java, Node.js, Flutter, .Net & more
 - [hausec/PowerZure](https://github.com/hausec/PowerZure) - PowerShell framework to assess Azure security
