@@ -1241,6 +1241,7 @@
 
 ## Others 
 
+- [minar09/awesome-virtual-try-on](https://github.com/minar09/awesome-virtual-try-on) - A curated list of awesome research papers, projects, code, dataset, workshops etc. related to virtual try-on.
 - [github/gh-net](https://github.com/github/gh-net) - A network bridge between a Codespace and a local machine.
 - [DaveOps30/copilot-hands-on](https://github.com/DaveOps30/copilot-hands-on) - Hands on GitHub Copilot workshop used/owned by the GitHub Enterprise Advocate team.
 - [jordan-cutler/path-to-senior-engineer-handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook) - All the resources you need to get to Senior Engineer and beyond
@@ -1269,7 +1270,7 @@
 - [ManUtopiK/awesome-stars](https://github.com/ManUtopiK/awesome-stars) - ⭑ A curated list of my GitHub stars! ⭑
 - [github-early-access/gh-attestation](https://github.com/github-early-access/gh-attestation) - CLI extension for fetching attestations and performing Sigstore-based cryptographic verification
 - [terremoth/awesome-hilarious-repos](https://github.com/terremoth/awesome-hilarious-repos) - Awesome hilarious github repositories
-- [TaptuIT/awesome-devsecops](https://github.com/TaptuIT/awesome-devsecops) - Curating the best DevSecOps resources and tooling.
+- [JakobTheDev/awesome-devsecops](https://github.com/JakobTheDev/awesome-devsecops) - Curating the best DevSecOps resources and tooling.
 - [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
 - [github/dev](https://github.com/github/dev) - Press the . key on any repo
 - [coop-scratchpad/helm-github-repos](https://github.com/coop-scratchpad/helm-github-repos) - Helm Chart for creating github repos using Crossplane compositions via crossplane and the github provider.....
@@ -1588,7 +1589,7 @@
 - [Azure/Azure-Network-Security](https://github.com/Azure/Azure-Network-Security) - Resources for improving Customer Experience with Azure Network Security
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [tconbeer/harlequin](https://github.com/tconbeer/harlequin) - The SQL IDE for Your Terminal.
-- [google/mesop](https://github.com/google/mesop) - Build delightful web apps quickly in Python
+- [google/mesop](https://github.com/google/mesop) - Rapidly build AI apps in Python
 - [HariSekhon/DevOps-Python-tools](https://github.com/HariSekhon/DevOps-Python-tools) - 80+ DevOps & Data CLI Tools - AWS, GCP, GCF Python Cloud Functions, Log Anonymizer, Spark, Hadoop, HBase, Hive, Impala, Linux, Docker, Spark Data Converters & Validators (Avro/Parquet/JSON/CSV/INI/XML
 - [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [Codium-ai/cover-agent](https://github.com/Codium-ai/cover-agent) - CodiumAI Cover-Agent: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞
