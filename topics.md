@@ -1445,6 +1445,7 @@
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) - Kubernetes observability and automation, with an awesome Prometheus integration
 - [bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources) - DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP
 - [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management solution built for developers.
+- [stateful/runme](https://github.com/stateful/runme) - DevOps Notebooks Built with Markdown
 - [joseadanof/awesome-cloudnative-trainings](https://github.com/joseadanof/awesome-cloudnative-trainings) - Awesome Trainings from Cloud Native Computing Foundation Projects and Kubernetes related software
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
@@ -3854,7 +3855,6 @@
 - [HotThoughts/provider-jet-github](https://github.com/HotThoughts/provider-jet-github) - Working in progress
 - [Azure/AKS](https://github.com/Azure/AKS) - Azure Kubernetes Service
 - [rhysd/actionlint](https://github.com/rhysd/actionlint) - :octocat: Static checker for GitHub Actions workflow files
-- [stateful/runme](https://github.com/stateful/runme) - DevOps Workflows Built with Markdown
 - [stateful/vscode-marquee](https://github.com/stateful/vscode-marquee) - 💡 The missing VS Code homescreen that helps you to stay organized with minimal context switches
 - [stone-payments/Code2PlantUML](https://github.com/stone-payments/Code2PlantUML) - Generates Plant UML files based on a Ctags capable project file structure.
 - [stone-payments/crossplane-provider-github](https://github.com/stone-payments/crossplane-provider-github) - Crossplane Provider for GitHub
