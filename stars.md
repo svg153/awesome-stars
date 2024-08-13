@@ -676,7 +676,7 @@
 - [matthieudelaro/nut](https://github.com/matthieudelaro/nut) - Nut: the development environment, containerized.
 - [stelligent/mu](https://github.com/stelligent/mu) - A full-stack DevOps on AWS framework
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
-- [minio/minio](https://github.com/minio/minio) - The Object Store for AI Data Infrastructure
+- [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Protect and discover secrets using Gitleaks 🔑
 - [esimov/caire](https://github.com/esimov/caire) - Content aware image resize library
 - [mkchoi212/fac](https://github.com/mkchoi212/fac) - Easy-to-use CUI for fixing git conflicts
@@ -1162,7 +1162,7 @@
 - [gensin/Calculadora_oposiciones](https://github.com/gensin/Calculadora_oposiciones) - Una aplicación Android que calcula la posibilidad de que salga un tema de los que te has estudiado para tus oposiciones y te permite sacar temas para ayudarte a estudiar.
 - [android/sunflower](https://github.com/android/sunflower) - A gardening app illustrating Android development best practices with migrating a View-based app to Jetpack Compose.
 - [uds-se/droidmate](https://github.com/uds-se/droidmate) - DroidMate-2: A Platform for Android Test Generation
-- [kotest/kotest](https://github.com/kotest/kotest) - Powerful, elegant and flexible test framework for Kotlin with additional assertions, property testing and data driven testing
+- [kotest/kotest](https://github.com/kotest/kotest) - Powerful, elegant and flexible test framework for Kotlin with assertions, property testing and data driven tests.
 - [JorgeCastilloPrz/hiroaki](https://github.com/JorgeCastilloPrz/hiroaki) - Write idiomatic API integration tests using Kotlin (Unit and Instrumentation)
 - [squanchy-dev/squanchy-android](https://github.com/squanchy-dev/squanchy-android) - Open source Android app for your conferences
 - [yongjhih/kotlin-extensions](https://github.com/yongjhih/kotlin-extensions) - kotlin-android-extensions
@@ -1242,6 +1242,7 @@
 
 ## Others 
 
+- [n8n-io/n8n-docker-caddy](https://github.com/n8n-io/n8n-docker-caddy) - Get up and running with n8n on DigitalOcean
 - [minar09/awesome-virtual-try-on](https://github.com/minar09/awesome-virtual-try-on) - A curated list of awesome research papers, projects, code, dataset, workshops etc. related to virtual try-on.
 - [github/gh-net](https://github.com/github/gh-net) - A network bridge between a Codespace and a local machine.
 - [DaveOps30/copilot-hands-on](https://github.com/DaveOps30/copilot-hands-on) - Hands on GitHub Copilot workshop used/owned by the GitHub Enterprise Advocate team.
@@ -1579,6 +1580,7 @@
 
 ## Python 
 
+- [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image (uncensored)
 - [Doriandarko/claude-engineer](https://github.com/Doriandarko/claude-engineer) - Claude Engineer is an interactive command-line interface (CLI) that leverages the power of Anthropic's Claude-3.5-Sonnet model to assist with software development tasks. This tool combines the capabil
 - [sinaatalay/rendercv](https://github.com/sinaatalay/rendercv) - A LaTeX CV/Resume Framework
 - [roboflow/sports](https://github.com/roboflow/sports) - computer vision and sports
