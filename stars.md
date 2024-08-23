@@ -177,6 +177,7 @@
 
 ## C++ 
 
+- [OPENSPHERE-Inc/branch-output](https://github.com/OPENSPHERE-Inc/branch-output) - This is an OBS Studio plugin that allows to transmit video and audio with RTMP / SRT etc. for each source individually.
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - [epezent/implot](https://github.com/epezent/implot) - Immediate Mode Plotting
 - [rhasspy/piper](https://github.com/rhasspy/piper) - A fast, local neural text to speech system
@@ -247,7 +248,6 @@
 
 ## CMake 
 
-- [OPENSPHERE-Inc/branch-output](https://github.com/OPENSPHERE-Inc/branch-output) - This is an OBS Studio plugin that allows to transmit video and audio with RTMP / SRT etc. for each source individually.
 - [filipdutescu/modern-cpp-template](https://github.com/filipdutescu/modern-cpp-template) - A template for modern C++ projects using CMake, Clang-Format, CI, unit testing and more, with support for downstream inclusion.
 - [kracejic/cleanCppProject](https://github.com/kracejic/cleanCppProject) - Clean C++ project for you to use. Features: Modern CMake, CPack, Doxygen, PlantUML, Catch Unit testing, static analysis
 - [pr0g/cmake-examples](https://github.com/pr0g/cmake-examples) - A collection of as simple as possible, modern CMake projects
@@ -380,6 +380,7 @@
 
 ## Go 
 
+- [samcoe/gh-repo-explore](https://github.com/samcoe/gh-repo-explore) - GitHub CLI extension to interactively explore a repo without cloning
 - [groundcover-com/caretta](https://github.com/groundcover-com/caretta) - Instant K8s service dependency map, right to your Grafana.
 - [simeji/jid](https://github.com/simeji/jid) - json incremental digger
 - [opensourcecorp/vdm](https://github.com/opensourcecorp/vdm) - A General-Purpose Versioned-Dependency Manager
@@ -457,7 +458,7 @@
 - [stefanprodan/timoni](https://github.com/stefanprodan/timoni) - Timoni is a package manager for Kubernetes, powered by CUE and inspired by Helm.
 - [peter-evans/kdef](https://github.com/peter-evans/kdef) - Declarative resource management for Kafka
 - [teletrace/teletrace](https://github.com/teletrace/teletrace) - Open-Source Tracing Platform
-- [kubefirst/kubefirst](https://github.com/kubefirst/kubefirst) - The Kubefirst Open Source Platform
+- [konstructio/kubefirst](https://github.com/konstructio/kubefirst) - The Kubefirst Open Source Platform
 - [env0/terratag](https://github.com/env0/terratag) - Terratag is a CLI tool that enables users of Terraform to automatically create and maintain tags across their entire set of AWS, Azure, and GCP resources
 - [cycloidio/terracost](https://github.com/cycloidio/terracost) - Cloud cost estimation for Terraform in your CLI
 - [getanteon/anteon](https://github.com/getanteon/anteon) - Anteon (formerly Ddosify) - Effortless Kubernetes Monitoring and Performance Testing. Available on CLI, Self-Hosted, and Cloud
@@ -740,6 +741,7 @@
 - [salaboy/platforms-on-k8s](https://github.com/salaboy/platforms-on-k8s) - Platform Engineering on Kubernetes :: Book Examples
 - [tensorchord/ai-infra-landscape](https://github.com/tensorchord/ai-infra-landscape) - This is a landscape of the infrastructure that powers the generative AI ecosystem
 - [FidelusAleksander/ghcertified](https://github.com/FidelusAleksander/ghcertified) - Prepare for GitHub Certification exams!
+- [steveseguin/vdo.ninja](https://github.com/steveseguin/vdo.ninja) - VDO.Ninja is a powerful tool that lets you bring remote video feeds into OBS or other studio software via WebRTC.
 - [u8views/go-u8views](https://github.com/u8views/go-u8views) - GitHub-profile views tracker: displaying monthly view statistics
 - [noeal-dac/Animated-Lower-Thirds](https://github.com/noeal-dac/Animated-Lower-Thirds) - Animated Lower Thirds with dockable Control Panel - OBS Tool
 - [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more!
@@ -928,7 +930,6 @@
 - [steveseguin/social_stream](https://github.com/steveseguin/social_stream) - Consolidate your live social messaging streams and much more
 - [upgundecha/howtheysre](https://github.com/upgundecha/howtheysre) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
 - [chrisvdev/obs-chat](https://github.com/chrisvdev/obs-chat) - Also known as CVTalk is a Twitch chat viewer made with React for use in OBS or any streaming software capable of using a browser as a source including TTS and other cool features.
-- [steveseguin/vdo.ninja](https://github.com/steveseguin/vdo.ninja) - VDO.Ninja is a powerful tool that lets you bring remote video feeds into OBS or other studio software via WebRTC.
 - [navicore/azuml](https://github.com/navicore/azuml) - Diagram Generator for Azure Subnets and NSGs
 - [githubocto/repo-visualizer](https://github.com/githubocto/repo-visualizer) - 
 - [githubocto/flat-demo-bitcoin-price](https://github.com/githubocto/flat-demo-bitcoin-price) - A Flat Data GitHub Action demo repo
@@ -1243,6 +1244,7 @@
 
 ## Others 
 
+- [gregorojstersek/resources-to-become-a-great-engineering-leader](https://github.com/gregorojstersek/resources-to-become-a-great-engineering-leader) - List of books, blogs, newsletters and people!
 - [n8n-io/n8n-docker-caddy](https://github.com/n8n-io/n8n-docker-caddy) - Get up and running with n8n on DigitalOcean
 - [minar09/awesome-virtual-try-on](https://github.com/minar09/awesome-virtual-try-on) - A curated list of awesome research papers, projects, code, dataset, workshops etc. related to virtual try-on.
 - [github/gh-net](https://github.com/github/gh-net) - A network bridge between a Codespace and a local machine.
@@ -1740,7 +1742,6 @@
 - [idank/explainshell](https://github.com/idank/explainshell) - match command-line arguments to their help text
 - [chvvkumar/Monitoring](https://github.com/chvvkumar/Monitoring) - Monitor ESXi, Synology, Docker, PiHole and Raspberry Pi and Windows using Grafana, InfluxDB and Telegraf
 - [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
-- [iperov/DeepFaceLab](https://github.com/iperov/DeepFaceLab) - DeepFaceLab is the leading software for creating deepfakes.
 - [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system in 275+ supported cars.
 - [facebookresearch/demucs](https://github.com/facebookresearch/demucs) - Code for the paper Hybrid Spectrogram and Waveform Source Separation
 - [adrienverge/yamllint](https://github.com/adrienverge/yamllint) - A linter for YAML files.
@@ -2029,6 +2030,7 @@
 
 ## Shell 
 
+- [kyhyco/gh-fh](https://github.com/kyhyco/gh-fh) - Fuzzyhub. Super charge your git workflow with fzf and GitHub CLI 🚀
 - [beatlabs/delete-old-branches-action](https://github.com/beatlabs/delete-old-branches-action) - GitHub Action that deletes old branches
 - [cisagov/gh-skeleton](https://github.com/cisagov/gh-skeleton) - This extension for the gh CLI provides the ability to easily start new projects from our existing library of skeleton repositories.
 - [andyfeller/gh-codeowner-analysis](https://github.com/andyfeller/gh-codeowner-analysis) - GitHub CLI extension for analyzing GitHub repository codeowners and branch protection rules.
