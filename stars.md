@@ -20,6 +20,7 @@
 - [Common Lisp](#common-lisp)
 - [Cuda](#cuda)
 - [D](#d)
+- [D2](#d2)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
 - [Elixir](#elixir)
@@ -294,6 +295,10 @@
 ## D 
 
 - [gnunn1/tilix](https://github.com/gnunn1/tilix) - A tiling terminal emulator for Linux using GTK+ 3
+
+## D2 
+
+- [HariSekhon/Diagrams-as-Code](https://github.com/HariSekhon/Diagrams-as-Code) - Cloud & DevOps Architecture Diagrams-as-Code in Python and D2 languages
 
 ## Dart 
 
