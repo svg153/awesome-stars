@@ -912,6 +912,7 @@
 
 ## JavaScript 
 
+- [BaldissaraMatheus/Tasks.md](https://github.com/BaldissaraMatheus/Tasks.md) - A self-hosted, Markdown file based task management board
 - [gh-cli-for-education/gh-org-clone](https://github.com/gh-cli-for-education/gh-org-clone) - A github-cli extension script to clone all repositories in an organization, optionally filtering by topic or a search string. If the repository has already been cloned it will attempt to switch to the
 - [collinmcneese/github-actions-metrics](https://github.com/collinmcneese/github-actions-metrics) - Repository with example references for GitHub Actions Metrics visualizations
 - [buttons/github-buttons](https://github.com/buttons/github-buttons) - :octocat: Unofficial github:buttons
@@ -2229,6 +2230,7 @@
 
 ## TeX 
 
+- [dphang/resume](https://github.com/dphang/resume) - Simple one-page software engineer resume template in LaTeX
 - [sanjib-sen/WebLaTex](https://github.com/sanjib-sen/WebLaTex) - A complete alternative for Overleaf with VSCode + Web + Git Integration + Copilot + Grammar & Spell Checker + Live Collaboration Support. Based on GitHub Codespace and Dev container.
 - [jankapunkt/latexcv](https://github.com/jankapunkt/latexcv) - :necktie: A collection of cv and resume templates written in LaTeX. Leave an issue if your language is not supported!
 - [aherranz/ahtranspas](https://github.com/aherranz/ahtranspas) - Transparencias con LaTeX, beamer y metropolis. Estilo ahtranspas.sty y ejemplo de uso
@@ -2296,7 +2298,7 @@
 - [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - A framework for building custom AI Copilots 🤖 in-app AI chatbots, in-app AI Agents, & AI-powered Textareas.
 - [ipshipyard/github-mgmt](https://github.com/ipshipyard/github-mgmt) - 
-- [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted Heroku / Netlify / Vercel alternative for Kubernetes
+- [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted PaaS for Kubernetes
 - [Nutlope/notesGPT](https://github.com/Nutlope/notesGPT) - Record voice notes & transcribe, summarize, and get tasks
 - [skgsergio/tinypot](https://github.com/skgsergio/tinypot) - 👿 ➡️ 🤏🍯 ➡️ 🤏🐤
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
