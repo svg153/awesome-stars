@@ -986,6 +986,7 @@
 
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Generate conventional git commit messages with AI in 1 second 🤯🔫
 - [feder-cr/linkedIn_auto_jobs_applier_with_AI](https://github.com/feder-cr/linkedIn_auto_jobs_applier_with_AI) - LinkedIn_AIHawk is a tool that automates  the jobs application process on LinkedIn. Utilizing artificial intelligence, it enables users to apply for multiple job offers in an automated and personalize
+- [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
 - [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal without needing API keys
 - [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖
@@ -1036,6 +1037,7 @@
 
 ## cli 
 
+- [PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless) - jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data.
 - [samcoe/gh-repo-explore](https://github.com/samcoe/gh-repo-explore) - GitHub CLI extension to interactively explore a repo without cloning
 - [kyhyco/gh-fh](https://github.com/kyhyco/gh-fh) - Fuzzyhub. Super charge your git workflow with fzf and GitHub CLI 🚀
 - [simeji/jid](https://github.com/simeji/jid) - json incremental digger
@@ -1046,6 +1048,7 @@
 - [version-fox/vfox](https://github.com/version-fox/vfox) - A cross-platform and extendable version manager with support for Java, Node.js, Flutter, .Net & more
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [ivan-hc/AM](https://github.com/ivan-hc/AM) - AppImage package manager to install, update (for real) and manage ALL of them (system-wide or locally) thanks to its ever-growing AUR-inspired database listing 2000+ portable apps and programs for GNU
+- [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq
 - [altsem/gitu](https://github.com/altsem/gitu) - A TUI Git client inspired by Magit
 - [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal without needing API keys
@@ -2459,6 +2462,7 @@
 - [philips-labs/terraform-aws-github-runner](https://github.com/philips-labs/terraform-aws-github-runner) - Terraform module for scalable GitHub action runners on AWS
 - [pacstall/pacstall](https://github.com/pacstall/pacstall) - An AUR-inspired package manager for Ubuntu
 - [antonbabenko/pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform) - pre-commit git hooks to take care of Terraform configurations 🇺🇦
+- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - The open source Tines / Splunk SOAR alternative.
 - [litmuschaos/litmus](https://github.com/litmuschaos/litmus) - Litmus helps  SREs and developers practice chaos engineering in a Cloud-native way. Chaos experiments are published at the ChaosHub  (https://hub.litmuschaos.io). Community notes is at https://hackmd.
 - [suzuki-shunsuke/tfaction](https://github.com/suzuki-shunsuke/tfaction) - Framework for Monorepo to build high level Terraform Workflows by GitHub Actions
 - [stackrox/stackrox](https://github.com/stackrox/stackrox) - The StackRox Kubernetes Security Platform performs a risk analysis of the container environment, delivers visibility and runtime alerts, and provides recommendations to proactively improve security by
@@ -2619,7 +2623,7 @@
 - [harness/gitness](https://github.com/harness/gitness) - Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.
 - [ctjhoa/rust-learning](https://github.com/ctjhoa/rust-learning) - A bunch of links to blog posts, articles, videos, etc for learning Rust
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
-- [KotlinBy/awesome-kotlin](https://github.com/KotlinBy/awesome-kotlin) - A curated list of awesome Kotlin related stuff Inspired by awesome-java.
+- [Heapy/awesome-kotlin](https://github.com/Heapy/awesome-kotlin) - A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [github/opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
 - [github-changelog-generator/github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
@@ -2894,6 +2898,7 @@
 
 ## json 
 
+- [PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless) - jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data.
 - [simeji/jid](https://github.com/simeji/jid) - json incremental digger
 - [HariSekhon/DevOps-Python-tools](https://github.com/HariSekhon/DevOps-Python-tools) - 80+ DevOps & Data CLI Tools - AWS, GCP, GCF Python Cloud Functions, Log Anonymizer, Spark, Hadoop, HBase, Hive, Impala, Linux, Docker, Spark Data Converters & Validators (Avro/Parquet/JSON/CSV/INI/XML
 - [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq
@@ -2948,7 +2953,7 @@
 - [thyrlian/AndroidSDK](https://github.com/thyrlian/AndroidSDK) - 🐳 Full-fledged Android SDK Docker Image
 - [tipsy/profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
 - [Kotlin/kotlin-fullstack-sample](https://github.com/Kotlin/kotlin-fullstack-sample) - Kotlin Full-stack Application Example
-- [KotlinBy/awesome-kotlin](https://github.com/KotlinBy/awesome-kotlin) - A curated list of awesome Kotlin related stuff Inspired by awesome-java.
+- [Heapy/awesome-kotlin](https://github.com/Heapy/awesome-kotlin) - A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 
 ## kubernetes 
 
@@ -5066,6 +5071,7 @@
 
 ## rust 
 
+- [PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless) - jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data.
 - [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [winglang/wing](https://github.com/winglang/wing) - A programming language for the cloud ☁️ A unified programming model, combining infrastructure and runtime code into one language ⚡
