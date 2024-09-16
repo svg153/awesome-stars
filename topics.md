@@ -3784,7 +3784,7 @@
 - [aatmmr/octodesk](https://github.com/aatmmr/octodesk) - Provide a self-service experience for your Organization
 - [xavidop/presentation-github-actions](https://github.com/xavidop/presentation-github-actions) - GitHub Actions - Presentation
 - [github-copilot-resources/copilot-metrics-viewer](https://github.com/github-copilot-resources/copilot-metrics-viewer) - Tool to visualize the Copilot metrics provided via the Copilot Business Metrics API (current in public beta)
-- [nikitavoloboev/wiki](https://github.com/nikitavoloboev/wiki) - Everything I know
+- [nikitavoloboev/data](https://github.com/nikitavoloboev/data) - All kinds of things
 - [helaili/github-oidc-auth-app](https://github.com/helaili/github-oidc-auth-app) - An OIDC client to retrieve a GitHub API scoped token from within an Actions workflow
 - [maxkomarychev/octions](https://github.com/maxkomarychev/octions) - Collection of GitHub Actions that wrap GitHub REST API
 - [pablokbs/peladonerd-newsletter](https://github.com/pablokbs/peladonerd-newsletter) - 
