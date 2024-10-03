@@ -1995,7 +1995,7 @@
 - [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - The Cloud Operational Data Store: use SQL to transform, deliver, and act on fast-changing data.
 - [anordal/shellharden](https://github.com/anordal/shellharden) - The corrective bash syntax highlighter
 - [Aloxaf/silicon](https://github.com/Aloxaf/silicon) - Create beautiful image of your source code.
-- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
+- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 - [sharkdp/bugreport](https://github.com/sharkdp/bugreport) - Rust library to collect system and environment information for bug reports
 - [bottlerocket-os/bottlerocket](https://github.com/bottlerocket-os/bottlerocket) - An operating system designed for hosting containers
 - [sheshbabu/rustmart-yew-example](https://github.com/sheshbabu/rustmart-yew-example) - Single Page Application (SPA) written using Rust, Wasm and Yew
@@ -2319,7 +2319,7 @@
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
 - [CodelyTV/infrastructure_design-eventbus-aws-course](https://github.com/CodelyTV/infrastructure_design-eventbus-aws-course) - Infrastructure Design: AWS SQS as a Message Queue course examples
 - [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
-- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - A framework for building custom AI Copilots 🤖 in-app AI chatbots, in-app AI Agents, & AI-powered Textareas.
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - Frontend & infra for AI agents, chatbots & textareas that interact with your web-app 🪁
 - [ipshipyard/github-mgmt](https://github.com/ipshipyard/github-mgmt) - 
 - [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted PaaS for Kubernetes
 - [Nutlope/notesGPT](https://github.com/Nutlope/notesGPT) - Record voice notes & transcribe, summarize, and get tasks
