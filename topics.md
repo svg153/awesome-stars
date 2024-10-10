@@ -3788,6 +3788,7 @@
 
 ## others 
 
+- [jpoehnelt/secrets-sync-action](https://github.com/jpoehnelt/secrets-sync-action) - A Github Action that can sync secrets from one repository to many others.
 - [ckabalan/visualsubnetcalc](https://github.com/ckabalan/visualsubnetcalc) - Visual Subnet Calculator
 - [roleoroleo/yi-hack-Allwinner-v2](https://github.com/roleoroleo/yi-hack-Allwinner-v2) - Custom firmware for Yi 1080p camera based on Allwinner platform
 - [simonw/til](https://github.com/simonw/til) - Today I Learned
