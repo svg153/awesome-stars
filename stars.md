@@ -475,7 +475,7 @@
 - [future-architect/tftarget](https://github.com/future-architect/tftarget) - 🎯tftarget is a CLI tool for Terraform ( plan | apply | destroy ) with target option. You can interactivity select resource to ( plan | apply | destroy )  with target option.
 - [knight42/kopilot](https://github.com/knight42/kopilot) - Your AI Kubernetes Expert
 - [kubernetes-sigs/krew](https://github.com/kubernetes-sigs/krew) - 📦 Find and install kubectl plugins
-- [grafana/github-datasource](https://github.com/grafana/github-datasource) - Grafana data source plugin using the Github API to retrieve and visualize Github data.
+- [grafana/github-datasource](https://github.com/grafana/github-datasource) - The GitHub data source lets you visualize GitHub data in Grafana dashboards.
 - [ServiceWeaver/weaver](https://github.com/ServiceWeaver/weaver) - Programming framework for writing and deploying cloud applications.
 - [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob
 - [lindb/lindb](https://github.com/lindb/lindb) - LinDB is a scalable, high performance, high availability distributed time series database.
@@ -743,6 +743,7 @@
 
 ## HTML 
 
+- [ComBuildersES/ComBuildersES.github.io](https://github.com/ComBuildersES/ComBuildersES.github.io) - Web de la comunidad
 - [luizdepra/hugo-coder](https://github.com/luizdepra/hugo-coder) - A minimalist blog theme for hugo.
 - [simonw/til](https://github.com/simonw/til) - Today I Learned
 - [swyxio/ai-notes](https://github.com/swyxio/ai-notes) - notes for software engineers getting up to speed on new AI developments. Serves as datastore for https://latent.space writing, and product brainstorming, but has cleaned up canonical references under 
@@ -921,6 +922,9 @@
 
 ## JavaScript 
 
+- [gitevents/core](https://github.com/gitevents/core) - GitEvents core; manage your user group with GitHub
+- [ntkog/Meetup-fetcher](https://github.com/ntkog/Meetup-fetcher) - This is a little project that aims to help Meetup organizers know better their communities through data exploration.
+- [ComBuildersES/meetup_calendar](https://github.com/ComBuildersES/meetup_calendar) - Script para generar un ics de todos los eventos de las comunidades de este repo publicados en meetup
 - [Hypfer/Valetudo](https://github.com/Hypfer/Valetudo) - Cloud replacement for vacuum robots enabling local-only operation
 - [sudokar/generator-tf-module](https://github.com/sudokar/generator-tf-module) - Project scaffolding for Terraform
 - [XpiritBV/copilot-videos](https://github.com/XpiritBV/copilot-videos) - 
@@ -1270,7 +1274,8 @@
 
 ## Others 
 
-- [elder-plinius/L1B3RT45](https://github.com/elder-plinius/L1B3RT45) - JAILBREAK PROMPTS FOR LIBERATING AI MODELS
+- [devrelcollective/awesome-devrel](https://github.com/devrelcollective/awesome-devrel) - Awesome Developer Relations resources curated by the DevRel Collective
+- [elder-plinius/L1B3RT4S](https://github.com/elder-plinius/L1B3RT4S) - TOTALLY HARMLESS PROMPTS FOR GOOD LIL AI'S
 - [github/ruleset-recipes](https://github.com/github/ruleset-recipes) - Quickstart your use of Repository Rules with prebuilt rulesets ready to import.
 - [kleeadrian/Grafana-Copilot-Metrics](https://github.com/kleeadrian/Grafana-Copilot-Metrics) - Personal project where i used Grafana Cloud to help teams monitor GitHub Copilot usage
 - [gregorojstersek/resources-to-become-a-great-engineering-leader](https://github.com/gregorojstersek/resources-to-become-a-great-engineering-leader) - List of books, blogs, newsletters and people!
@@ -1609,6 +1614,7 @@
 
 ## Python 
 
+- [openlit/openlit](https://github.com/openlit/openlit) - OpenLIT: Complete Observability and Evals for the Entire GenAI Stack, from LLMs to GPUs. Improve your LLM apps from playground to production 📈. Supports 20+ monitoring integrations like OpenAI & LangC
 - [Joao-M-Silva/padel_analytics](https://github.com/Joao-M-Silva/padel_analytics) - AI-powered padel analytics
 - [icopy-site/awesome](https://github.com/icopy-site/awesome) - collection of awesome lists
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🔥🕷️ Crawl4AI: Open-source LLM Friendly Web Crawler & Scrapper
@@ -2119,6 +2125,7 @@
 - [reviewdog/action-suggester](https://github.com/reviewdog/action-suggester) - :dog: Suggests any code changes based on diff through GitHub Multi-line code suggestions by using reviewdog
 - [BretFisher/docker-ci-automation](https://github.com/BretFisher/docker-ci-automation) - GitHub Actions automation examples with Docker's official actions
 - [webinstall/webi-installers](https://github.com/webinstall/webi-installers) - Primary and community-submitted packages for webinstall.dev
+- [mattkenney/dotfiles](https://github.com/mattkenney/dotfiles) - Ubuntu + macOS dotfiles
 - [eliasnorrby/dotfiles](https://github.com/eliasnorrby/dotfiles) - :computer: Dotfiles for development on MacOS and Manjaro
 - [jfagoagas/dotFiles](https://github.com/jfagoagas/dotFiles) - My terminal's configuration :D
 - [frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) - A curated list of amazingly awesome Home Assistant resources.
@@ -2138,7 +2145,7 @@
 - [kigster/bashmatic](https://github.com/kigster/bashmatic) - Optimized for humans, 500+ BASH functions for all walks of life. Über Toölkit for über geeks and UNIX command line power users.
 - [andrewseidl/githook-clang-format](https://github.com/andrewseidl/githook-clang-format) - Pre-commit hook for running clang-format. Don't use this.
 - [open-guides/og-aws](https://github.com/open-guides/og-aws) - 📙 Amazon Web Services — a practical guide
-- [arzzen/git-quick-stats](https://github.com/arzzen/git-quick-stats) - ▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository.
+- [git-quick-stats/git-quick-stats](https://github.com/git-quick-stats/git-quick-stats) - ▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository.
 - [super-linter/super-linter](https://github.com/super-linter/super-linter) - Combination of multiple linters to run as a GitHub Action or standalone
 - [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively.
 - [ConSol/docker-headless-vnc-container](https://github.com/ConSol/docker-headless-vnc-container) - Collection of Docker images with headless VNC environments
@@ -2260,6 +2267,7 @@
 
 ## TeX 
 
+- [HugoBlox/theme-academic-cv](https://github.com/HugoBlox/theme-academic-cv) - 🎓 无需编写任何代码即可轻松创建漂亮的学术网站 Easily create a beautiful academic résumé or educational website using Hugo and GitHub. No code.
 - [dphang/resume](https://github.com/dphang/resume) - Simple one-page software engineer resume template in LaTeX
 - [sanjib-sen/WebLaTex](https://github.com/sanjib-sen/WebLaTex) - A complete alternative for Overleaf with VSCode + Web + Git Integration + Copilot + Grammar & Spell Checker + Live Collaboration Support. Based on GitHub Codespace and Dev container.
 - [jankapunkt/latexcv](https://github.com/jankapunkt/latexcv) - :necktie: A collection of cv and resume templates written in LaTeX. Leave an issue if your language is not supported!
@@ -2288,6 +2296,7 @@
 
 ## TypeScript 
 
+- [sst/sst](https://github.com/sst/sst) - Build full-stack apps on your own infrastructure.
 - [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
 - [jpoehnelt/secrets-sync-action](https://github.com/jpoehnelt/secrets-sync-action) - A Github Action that can sync secrets from one repository to many others.
 - [stackblitz/bolt.new](https://github.com/stackblitz/bolt.new) - Prompt, run, edit, and deploy full-stack web applications
@@ -2500,7 +2509,6 @@
 ## Vim Script 
 
 - [Exafunction/codeium.vim](https://github.com/Exafunction/codeium.vim) - Free, ultrafast Copilot alternative for Vim and Neovim
-- [mattkenney/dotfiles](https://github.com/mattkenney/dotfiles) - Ubuntu + macOS dotfiles
 - [swapkats/dotfiles](https://github.com/swapkats/dotfiles) - NeoVim + tmux + zsh config
 - [wellle/tmux-complete.vim](https://github.com/wellle/tmux-complete.vim) - Vim plugin for insert mode completion of words in adjacent tmux panes
 - [easymotion/vim-easymotion](https://github.com/easymotion/vim-easymotion) - Vim motions on speed!
