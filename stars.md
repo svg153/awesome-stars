@@ -483,7 +483,6 @@
 - [peter-evans/kdef](https://github.com/peter-evans/kdef) - Declarative resource management for Kafka
 - [teletrace/teletrace](https://github.com/teletrace/teletrace) - Open-Source Tracing Platform
 - [konstructio/kubefirst](https://github.com/konstructio/kubefirst) - The Kubefirst Open Source Platform
-- [env0/terratag](https://github.com/env0/terratag) - Terratag is a CLI tool that enables users of Terraform to automatically create and maintain tags across their entire set of AWS, Azure, and GCP resources
 - [cycloidio/terracost](https://github.com/cycloidio/terracost) - Cloud cost estimation for Terraform in your CLI
 - [getanteon/anteon](https://github.com/getanteon/anteon) - Anteon (formerly Ddosify) - Effortless Kubernetes Monitoring and Performance Testing. Available on CLI, Self-Hosted, and Cloud
 - [stakater/Forecastle](https://github.com/stakater/Forecastle) - Forecastle is a control panel which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes  – [✩Star] if you're using it!
@@ -724,7 +723,7 @@
 ## HCL 
 
 - [ned1313/terraform-tuesdays](https://github.com/ned1313/terraform-tuesdays) - Demo files for various Terraform Tuesday Examples
-- [hashicorp/learn-terraform-github-user-teams](https://github.com/hashicorp/learn-terraform-github-user-teams) - 
+- [hashicorp-education/learn-terraform-github-user-teams](https://github.com/hashicorp-education/learn-terraform-github-user-teams) - 
 - [hashicorp/tfc-workflows-github](https://github.com/hashicorp/tfc-workflows-github) - HCP Terraform starter workflows and github actions to automate Terraform Cloud CI/CD pipelines.
 - [robinmordasiewicz/devops-toolkit](https://github.com/robinmordasiewicz/devops-toolkit) - Devops Toolkit
 - [freight-hub/terraform-modules-demo](https://github.com/freight-hub/terraform-modules-demo) - Demo [mono]repo for Forto's Terraform modules semver setup
@@ -750,7 +749,8 @@
 - [Azure-Samples/terraform-github-actions](https://github.com/Azure-Samples/terraform-github-actions) - A reference implementation of using GitHub Actions to deploy infrastructure to Azure using Terraform
 - [brikis98/terraform-up-and-running-code](https://github.com/brikis98/terraform-up-and-running-code) - Code samples for the book "Terraform: Up & Running" by Yevgeniy Brikman
 - [gruntwork-io/intro-to-terraform](https://github.com/gruntwork-io/intro-to-terraform) - Sample code for the blog post series "A Comprehensive Guide to Terraform."
-- [hashicorp/learn-terraform-github-actions](https://github.com/hashicorp/learn-terraform-github-actions) - 
+- [hashicorp-education/learn-terraform-github-actions](https://github.com/hashicorp-education/learn-terraform-github-actions) - 
+- [env0/terratag](https://github.com/env0/terratag) - Terratag is a CLI tool that enables users of Terraform to automatically create and maintain tags across their entire set of AWS, Azure, and GCP resources
 - [CodelyTV/terraform-course](https://github.com/CodelyTV/terraform-course) - Terraform Codely course examples
 - [GoogleCloudPlatform/software-delivery-blueprint](https://github.com/GoogleCloudPlatform/software-delivery-blueprint) - 
 - [mhmdio/terraform-templates-base](https://github.com/mhmdio/terraform-templates-base) - Terraform Templates Base - monoRepo
@@ -1304,7 +1304,7 @@
 ## Others 
 
 - [terramate-io/terramate-github-actions-example](https://github.com/terramate-io/terramate-github-actions-example) - terramate-github-actions-example
-- [EinGuterWaran/awesome-opensource-boilerplates](https://github.com/EinGuterWaran/awesome-opensource-boilerplates) - A curated list of production-ready SaaS boilerplates, free SaaS boilerplates and starter templates. Build your next software-as-a-service project with battle-tested open source foundations.
+- [EinGuterWaran/awesome-opensource-boilerplates](https://github.com/EinGuterWaran/awesome-opensource-boilerplates) - A curated list of production-ready and free SaaS boilerplates and starter templates. Build your next software-as-a-service project with battle-tested open source foundations.
 - [Pwd9000-ML/terraform-azurerm-plan](https://github.com/Pwd9000-ML/terraform-azurerm-plan) - GitHub Action - Create a Terraform plan with AzureRM backend and uploads plan as workspace artifact (Used with: `Pwd9000-ML/terraform-azurerm-apply`)
 - [gantFDT/icraft](https://github.com/gantFDT/icraft) - iCraft Editor - Help you easily create excellent 3D architecture diagrams
 - [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄 A curated list of awesome .cursorrules files
@@ -1662,7 +1662,7 @@
 - [aristocratos/bpytop](https://github.com/aristocratos/bpytop) - Linux/OSX/FreeBSD resource monitor
 - [simonw/llm-jq](https://github.com/simonw/llm-jq) - Write and execute jq programs with the help of LLM
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
-- [openlit/openlit](https://github.com/openlit/openlit) - Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations, Prompt Management, Vault, Playground. 🚀💻 Integrates with 30+ LLM Providers, Ve
+- [openlit/openlit](https://github.com/openlit/openlit) - Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations, Prompt Management, Vault, Playground. 🚀💻 Integrates with 40+ LLM Providers, Ve
 - [Joao-M-Silva/padel_analytics](https://github.com/Joao-M-Silva/padel_analytics) - AI-powered padel analytics
 - [icopy-site/awesome](https://github.com/icopy-site/awesome) - collection of awesome lists
 - [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
@@ -1693,6 +1693,7 @@
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
 - [alrocar/locked_screen](https://github.com/alrocar/locked_screen) - 
+- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - The open source Tines / Splunk SOAR alternative for security engineers.
 - [hpcaitech/Open-Sora](https://github.com/hpcaitech/Open-Sora) - Open-Sora: Democratizing Efficient Video Production for All
 - [RayVentura/ShortGPT](https://github.com/RayVentura/ShortGPT) - 🚀🎬 ShortGPT - Experimental AI framework for youtube shorts / tiktok channel automation
 - [github/cleanowners](https://github.com/github/cleanowners) - A GitHub Action to suggest removal of non-organization members from CODEOWNERS files
@@ -2123,6 +2124,7 @@
 
 ## Shell 
 
+- [sunlei/zsh-ssh](https://github.com/sunlei/zsh-ssh) - Better host completion for ssh in Zsh.
 - [DevSecTop/TF-via-PR](https://github.com/DevSecTop/TF-via-PR) - Plan and apply Terraform/OpenTofu via PR automation, using best practices for secure and scalable IaC workflows.
 - [endersonmenezes/github-scripts](https://github.com/endersonmenezes/github-scripts) - GH Cli Personal Utils
 - [roleoroleo/yi-hack-Allwinner-v2](https://github.com/roleoroleo/yi-hack-Allwinner-v2) - Custom firmware for Yi 1080p camera based on Allwinner platform
@@ -2398,7 +2400,6 @@
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer. Multiple engine support (llama.cpp, TensorRT-LLM)
 - [peter-evans/create-or-update-comment](https://github.com/peter-evans/create-or-update-comment) - A GitHub action to create or update an issue or pull request comment
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
-- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - The open source Tines / Splunk SOAR alternative for security engineers.
 - [devops-actions/load-available-actions](https://github.com/devops-actions/load-available-actions) - Load all actions stored in the current organization
 - [suzuki-shunsuke/tfaction](https://github.com/suzuki-shunsuke/tfaction) - Framework for Monorepo to build high level Terraform Workflows by GitHub Actions
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
