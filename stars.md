@@ -698,7 +698,7 @@
 - [stelligent/mu](https://github.com/stelligent/mu) - A full-stack DevOps on AWS framework
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
 - [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
-- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Protect and discover secrets using Gitleaks 🔑
+- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [esimov/caire](https://github.com/esimov/caire) - Content aware image resize library
 - [mkchoi212/fac](https://github.com/mkchoi212/fac) - Easy-to-use CUI for fixing git conflicts
 - [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker&Container technologies, with real DevOps practice!
@@ -764,7 +764,7 @@
 - [ASISHGOUDA/go-web-app-devops](https://github.com/ASISHGOUDA/go-web-app-devops) - This is the Complete CI/CD implementation for the Golang Application. Helm Charts to Deploy to the EKS namespace using ArgoCD
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
 - [ComBuildersES/ComBuildersES.github.io](https://github.com/ComBuildersES/ComBuildersES.github.io) - Web de la comunidad
-- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🔥🕷️ Crawl4AI: Crawl Smarter, Faster, Freely. For AI.
+- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Crawl Smarter, Faster, Freely. For AI.
 - [luizdepra/hugo-coder](https://github.com/luizdepra/hugo-coder) - A minimalist blog theme for hugo.
 - [simonw/til](https://github.com/simonw/til) - Today I Learned
 - [swyxio/ai-notes](https://github.com/swyxio/ai-notes) - notes for software engineers getting up to speed on new AI developments. Serves as datastore for https://latent.space writing, and product brainstorming, but has cleaned up canonical references under 
@@ -946,6 +946,8 @@
 
 ## JavaScript 
 
+- [cattr-app/desktop-application](https://github.com/cattr-app/desktop-application) - Electron-based desktop time tracker for Cattr
+- [bluewave-labs/checkmate](https://github.com/bluewave-labs/checkmate) - Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations.
 - [github/command](https://github.com/github/command) - IssueOps commands in GitHub Actions
 - [asannou/tfmermaid-action](https://github.com/asannou/tfmermaid-action) - Github Action for converting an output of Terraform graph to Mermaid's syntax.
 - [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
@@ -1180,7 +1182,6 @@
 
 - [AnswerDotAI/llms-txt](https://github.com/AnswerDotAI/llms-txt) - The /llms.txt file, helping language models use your website
 - [github/copilot-hack](https://github.com/github/copilot-hack) - Open form hack for GitHub Copilot
-- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖 (PyPi: autogen-agentchat)
 - [MarkFzp/mobile-aloha](https://github.com/MarkFzp/mobile-aloha) - Mobile ALOHA: Learning Bimanual Mobile Manipulation with Low-Cost Whole-Body Teleoperation
 - [fbaptiste/python-deepdive](https://github.com/fbaptiste/python-deepdive) - Python Deep Dive Course - Accompanying Materials
 - [AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) - FinGPT: Open-Source Financial Large Language Models!  Revolutionize 🔥    We release the trained model on HuggingFace.
@@ -1599,6 +1600,7 @@
 
 ## PHP 
 
+- [kimai/kimai](https://github.com/kimai/kimai) - Kimai is a web-based multi-user time-tracking application. Works great for everyone: freelancers, companies, organizations - everyone can track their times, generate reports, create invoices and do so
 - [solidtime-io/solidtime](https://github.com/solidtime-io/solidtime) - Modern open-source time-tracking app
 - [HiEventsDev/Hi.Events](https://github.com/HiEventsDev/Hi.Events) - Open-source event management and ticket selling platform. Perfect for concerts, conferences, and everything in between 🎟️
 - [danharrin/monorepo-split-github-action](https://github.com/danharrin/monorepo-split-github-action) - Github Action for Monorepo Split
@@ -1666,7 +1668,7 @@
 - [aristocratos/bpytop](https://github.com/aristocratos/bpytop) - Linux/OSX/FreeBSD resource monitor
 - [simonw/llm-jq](https://github.com/simonw/llm-jq) - Write and execute jq programs with the help of LLM
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
-- [openlit/openlit](https://github.com/openlit/openlit) - Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations, Prompt Management, Vault, Playground. 🚀💻 Integrates with 40+ LLM Providers, Ve
+- [openlit/openlit](https://github.com/openlit/openlit) - Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations, Prompt Management, Vault, Playground. 🚀💻 Integrates with 50+ LLM Providers, Ve
 - [Joao-M-Silva/padel_analytics](https://github.com/Joao-M-Silva/padel_analytics) - AI-powered padel analytics
 - [icopy-site/awesome](https://github.com/icopy-site/awesome) - collection of awesome lists
 - [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
@@ -1705,6 +1707,7 @@
 - [kserve/kserve](https://github.com/kserve/kserve) - Standardized Serverless ML Inference Platform on Kubernetes
 - [pallets/flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
 - [mouredev/portafolio-template](https://github.com/mouredev/portafolio-template) - Portafolio web "perfecto" para programadores. Plantilla minimalista configurable a nivel gráfico y de contenido.
+- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖 (PyPi: autogen-agentchat)
 - [vladko312/SSTImap](https://github.com/vladko312/SSTImap) - Automatic SSTI detection tool with interactive interface
 - [sieve-project/sieve](https://github.com/sieve-project/sieve) - Automatic Reliability Testing for Kubernetes Controllers and Operators
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
@@ -2358,6 +2361,7 @@
 
 ## TypeScript 
 
+- [MayGo/tockler](https://github.com/MayGo/tockler) - An application that tracks your time by monitoring your active window title and idle time.
 - [actions/container-toolkit-action](https://github.com/actions/container-toolkit-action) - Template repo for creating container actions using https://github.com/actions/toolkit/
 - [issue-ops/parser](https://github.com/issue-ops/parser) - Convert issue form responses to JSON
 - [kubernetes-sigs/kui](https://github.com/kubernetes-sigs/kui) - A hybrid command-line/UI development experience for cloud-native development
@@ -2395,7 +2399,7 @@
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [redotvideo/revideo](https://github.com/redotvideo/revideo) - Create Videos with Code
-- [cheeselemon/ophiuchi-desktop](https://github.com/cheeselemon/ophiuchi-desktop) - A local https proxy server using docker as backend
+- [cheeselemon/ophiuchi-desktop](https://github.com/cheeselemon/ophiuchi-desktop) - A local https proxy server manager using docker
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [arikchakma/maily.to](https://github.com/arikchakma/maily.to) - Craft beautiful emails effortlessly with Maily, the powerful email editor that ensures impeccable communication across all major clients.
 - [qoomon/actions--access-token](https://github.com/qoomon/actions--access-token) - Get rid of PAT tokens, use temporary access tokens instead!
@@ -2419,7 +2423,7 @@
 - [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, in-app AI agents, AI chatbots, and AI-powered Textareas 🪁
 - [ipshipyard/github-mgmt](https://github.com/ipshipyard/github-mgmt) - 
-- [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted PaaS alternative to Coolify / Vercel / Dokku / Portainer running on Kubernetes
+- [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted PaaS alternative to Netlify / Coolify / Vercel / Dokku / Portainer running on Kubernetes
 - [Nutlope/notesGPT](https://github.com/Nutlope/notesGPT) - Record voice notes & transcribe, summarize, and get tasks
 - [skgsergio/tinypot](https://github.com/skgsergio/tinypot) - 👿 ➡️ 🤏🍯 ➡️ 🤏🐤
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
@@ -2497,7 +2501,7 @@
 - [microsoft/vscode-github-issue-notebooks](https://github.com/microsoft/vscode-github-issue-notebooks) - GitHub Issues Notebooks for VS Code
 - [actions/starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows
 - [cloudgraphdev/cli](https://github.com/cloudgraphdev/cli) - The universal GraphQL API and CSPM tool for AWS, Azure, GCP, K8s, and tencent.
-- [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for building business apps and workflows in minutes. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀
+- [Budibase/budibase](https://github.com/Budibase/budibase) - Create business apps and automate workflows in minutes. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀 No code / Low code platform..
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
 - [benchmark-action/github-action-benchmark](https://github.com/benchmark-action/github-action-benchmark) - GitHub Action for continuous benchmarking to keep performance
 - [mintlify/writer](https://github.com/mintlify/writer) - ✍️ AI powered documentation writer
@@ -2505,7 +2509,7 @@
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [ether/etherpad-lite](https://github.com/ether/etherpad-lite) - Etherpad: A modern really-real-time collaborative document editor.
 - [microsoft/azure-pipelines-tasks](https://github.com/microsoft/azure-pipelines-tasks) - Tasks for Azure Pipelines
 - [prymitive/karma](https://github.com/prymitive/karma) - Alert dashboard for Prometheus Alertmanager
