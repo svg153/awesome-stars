@@ -106,7 +106,7 @@
 
 ## Batchfile 
 
-- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
+- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
 
 ## Bicep 
 
@@ -160,6 +160,7 @@
 
 ## C# # 
 
+- [github/gh-actions-importer](https://github.com/github/gh-actions-importer) - GitHub Actions Importer helps you plan and automate the migration of Azure DevOps, Bamboo, Bitbucket, CircleCI, GitLab, Jenkins, and Travis CI pipelines to GitHub Actions.
 - [microsoft/TechExcel-Accelerate-developer-productivity-with-GitHub-Copilot-and-Dev-Box](https://github.com/microsoft/TechExcel-Accelerate-developer-productivity-with-GitHub-Copilot-and-Dev-Box) - New repo for new Developer Productivity lab
 - [SlavaVedernikov/C4InterFlow](https://github.com/SlavaVedernikov/C4InterFlow) - Architecture as Code (AaC) framework that generates diagrams and lets you analyse Application Architecture. Inspired by C4 Model
 - [spectreconsole/spectre.console](https://github.com/spectreconsole/spectre.console) - A .NET library that makes it easier to create beautiful console applications.
@@ -740,11 +741,13 @@
 
 ## HCL 
 
+- [hongbo-miao/hongbomiao.com](https://github.com/hongbo-miao/hongbomiao.com) - A personal research and development (R&D) lab that facilitates the sharing of knowledge.
 - [techtales-io/terraform-github](https://github.com/techtales-io/terraform-github) - IaC for Github resources with Terraform
 - [techtales-io/terraform-discord](https://github.com/techtales-io/terraform-discord) - IaC for the techtales discord server with Terraform
 - [ned1313/terraform-tuesdays](https://github.com/ned1313/terraform-tuesdays) - Demo files for various Terraform Tuesday Examples
 - [hashicorp-education/learn-terraform-github-user-teams](https://github.com/hashicorp-education/learn-terraform-github-user-teams) - 
 - [hashicorp/tfc-workflows-github](https://github.com/hashicorp/tfc-workflows-github) - HCP Terraform starter workflows and github actions to automate Terraform Cloud CI/CD pipelines.
+- [robinmordasiewicz/devops-toolkit](https://github.com/robinmordasiewicz/devops-toolkit) - Devops Toolkit
 - [freight-hub/terraform-modules-demo](https://github.com/freight-hub/terraform-modules-demo) - Demo [mono]repo for Forto's Terraform modules semver setup
 - [Tchoupinax/repo-config](https://github.com/Tchoupinax/repo-config) - My configuration as code of my Github repositories.
 - [ksatirli/terraform-github-repository](https://github.com/ksatirli/terraform-github-repository) - :octocat: Terraform Module: Github Repositories and associated Resources
@@ -784,7 +787,6 @@
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [ydarias/ydarias.github.io](https://github.com/ydarias/ydarias.github.io) - My personal blog
 - [ASISHGOUDA/go-web-app-devops](https://github.com/ASISHGOUDA/go-web-app-devops) - This is the Complete CI/CD implementation for the Golang Application. Helm Charts to Deploy to the EKS namespace using ArgoCD
-- [robinmordasiewicz/devops-toolkit](https://github.com/robinmordasiewicz/devops-toolkit) - Devops Toolkit
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
 - [ComBuildersES/ComBuildersES.github.io](https://github.com/ComBuildersES/ComBuildersES.github.io) - Web de la comunidad
 - [luizdepra/hugo-coder](https://github.com/luizdepra/hugo-coder) - A minimalist blog theme for hugo.
@@ -811,7 +813,7 @@
 - [iesgn/curso_kubernetes_cep](https://github.com/iesgn/curso_kubernetes_cep) - 
 - [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules
 - [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io) - :blue_book: Home Assistant User documentation
-- [mikzuit/fair-job-offer](https://github.com/mikzuit/fair-job-offer) - Looking for a job? this is what you should know first. This is a MUST read project when looking for a job and expand this properly to any country, turn yourself into an  expert to easily  & securely f
+- [mikzuit/fair-job-offer](https://github.com/mikzuit/fair-job-offer) - Looking for a job? this is what you should know first. This is a MUST read project when looking for a job, could be expand to any country, turn yourself into an expert to easily and securely find a jo
 - [sethcottle/littlelink](https://github.com/sethcottle/littlelink) - A lightweight DIY Linktree alternative.
 - [shahednasser/awesome-resources](https://github.com/shahednasser/awesome-resources) - :sunglasses: List of helpful resources added by the community for the community!
 - [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources) - Awesome Web Development Resources.
@@ -1699,7 +1701,6 @@
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - Make websites accessible for AI agents
 - [3b1b/videos](https://github.com/3b1b/videos) - Code for the manim-generated scenes used in 3blue1brown videos
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
-- [hongbo-miao/hongbomiao.com](https://github.com/hongbo-miao/hongbomiao.com) - A personal research and development (R&D) lab that facilitates the sharing of knowledge.
 - [microsoft/TinyTroupe](https://github.com/microsoft/TinyTroupe) - LLM-powered multiagent persona simulation for imagination enhancement and business insights.
 - [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) - A high-performance algorithmic trading platform and event-driven backtester
 - [SamuelSchmidgall/AgentLaboratory](https://github.com/SamuelSchmidgall/AgentLaboratory) - Agent Laboratory is an end-to-end autonomous research workflow meant to assist you as the human researcher toward implementing your research ideas
@@ -1746,7 +1747,7 @@
 - [google/mesop](https://github.com/google/mesop) - Rapidly build AI apps in Python
 - [HariSekhon/DevOps-Python-tools](https://github.com/HariSekhon/DevOps-Python-tools) - 80+ DevOps & Data CLI Tools - AWS, GCP, GCF Python Cloud Functions, Log Anonymizer, Spark, Hadoop, HBase, Hive, Impala, Linux, Docker, Spark Data Converters & Validators (Avro/Parquet/JSON/CSV/INI/XML
 - [qodo-ai/qodo-cover](https://github.com/qodo-ai/qodo-cover) - Qodo-Cover: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Agno is a lightweight framework for building multi-modal Agents
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Agno is a lightweight library for building multi-modal Agents
 - [docker/genai-stack](https://github.com/docker/genai-stack) - Langchain + Docker + Neo4j + Ollama
 - [discord/access](https://github.com/discord/access) - Access, a centralized portal for employees to transparently discover, request, and manage their access for all internal systems needed to do their jobs
 - [roschart/IaCLab](https://github.com/roschart/IaCLab) - IaCLab: A hands-on project to explore and master Infrastructure as Code (IaC) technologies, including Ansible, Terraform, Kubernetes operators, and Argo CD. Aimed at building a comprehensive understan
