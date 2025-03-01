@@ -146,7 +146,7 @@
 - [clibs/clib](https://github.com/clibs/clib) - Package manager for the C programming language.
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [opsxcq/docker-tor-hiddenservice-nginx](https://github.com/opsxcq/docker-tor-hiddenservice-nginx) - Easily setup a hidden service inside the Tor network
-- [netdata/netdata](https://github.com/netdata/netdata) - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!
+- [netdata/netdata](https://github.com/netdata/netdata) - X-Ray Vision for your infrastructure!
 - [rhdunn/espeak](https://github.com/rhdunn/espeak) - eSpeak NG is an open source speech synthesizer that supports 101 languages and accents.
 - [WaTF-Team/WaTF-Bank](https://github.com/WaTF-Team/WaTF-Bank) - WaTF Bank - What a Terrible Failure Mobile Banking Application for Android and iOS
 - [f0rb1dd3n/Reptile](https://github.com/f0rb1dd3n/Reptile) - LKM Linux rootkit
@@ -260,6 +260,7 @@
 - [kracejic/cleanCppProject](https://github.com/kracejic/cleanCppProject) - Clean C++ project for you to use. Features: Modern CMake, CPack, Doxygen, PlantUML, Catch Unit testing, static analysis
 - [pr0g/cmake-examples](https://github.com/pr0g/cmake-examples) - A collection of as simple as possible, modern CMake projects
 - [TheLartians/ModernCppStarter](https://github.com/TheLartians/ModernCppStarter) - 🚀 Kick-start your C++! A template for modern C++ projects using CMake, CI, code coverage, clang-format, reproducible dependency management and much more.
+- [dockcross/dockcross](https://github.com/dockcross/dockcross) - Cross compiling toolchains in Docker images
 - [taka-no-me/android-cmake](https://github.com/taka-no-me/android-cmake) - CMake toolchain file and other scripts for the Android NDK
 
 ## CSS 
@@ -391,6 +392,10 @@
 
 ## Go 
 
+- [danielfoehrKn/kubeswitch](https://github.com/danielfoehrKn/kubeswitch) - The kubectx  for operators.
+- [workflowkit/issue-assistant](https://github.com/workflowkit/issue-assistant) - AI Assistant for your GitHub issues. 🤖
+- [termkit/gama](https://github.com/termkit/gama) - Manage your GitHub Actions from Terminal with great UI 🧪
+- [kro-run/kro](https://github.com/kro-run/kro) - kro | Kube Resource Orchestrator
 - [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - A simple and easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services.
 - [ssulei7/gh-dormant-users](https://github.com/ssulei7/gh-dormant-users) - A GH CLI extension to generate a dormant users report based on issue, commit, and PR activity.
 - [magodo/pipeform](https://github.com/magodo/pipeform) - Terraform runtime TUI 🫧
@@ -524,7 +529,7 @@
 - [odigos-io/odigos](https://github.com/odigos-io/odigos) - Distributed tracing without code changes. 🚀 Instantly monitor any application using OpenTelemetry and eBPF
 - [gofireflyio/aiac](https://github.com/gofireflyio/aiac) - Artificial Intelligence Infrastructure-as-Code Generator.
 - [alajmo/sake](https://github.com/alajmo/sake) - :robot: sake is a task runner for local and remote hosts
-- [terramate-io/terramate](https://github.com/terramate-io/terramate) - Terramate CLI is an open-source Infrastructure as Code (IaC) Orchestration and Code Generation tool for Terraform, OpenTofu and Terragrunt.
+- [terramate-io/terramate](https://github.com/terramate-io/terramate) - Open-source Infrastructure as Code (IaC) orchestration platform: GitOps workflows, orchestration, code generation, observability, drift detection, asset management, policies, Slack notifications, and 
 - [thangchung/go-coffeeshop](https://github.com/thangchung/go-coffeeshop) - ☕ A practical event-driven microservices demo built with Golang. Nomad, Consul Connect, Vault, and Terraform for deployment
 - [cycloidio/terracognita](https://github.com/cycloidio/terracognita) - Reads from existing public and private cloud providers (reverse Terraform) and generates your infrastructure as code on Terraform configuration
 - [opencost/opencost](https://github.com/opencost/opencost) - Cost monitoring for Kubernetes workloads and cloud costs
@@ -783,6 +788,7 @@
 
 ## HTML 
 
+- [openshifttips/web](https://github.com/openshifttips/web) - Hugo content for the openshift.tips blog
 - [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene) - Let AI be your browser operator.
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [ydarias/ydarias.github.io](https://github.com/ydarias/ydarias.github.io) - My personal blog
@@ -968,6 +974,7 @@
 
 ## JavaScript 
 
+- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [ExamProCo/Github-Examples](https://github.com/ExamProCo/Github-Examples) - A repo containing GitHub for programmatic examples
 - [cattr-app/desktop-application](https://github.com/cattr-app/desktop-application) - Electron-based desktop time tracker for Cattr
 - [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate) - Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations.
@@ -1127,7 +1134,7 @@
 - [ramboxapp/community-edition](https://github.com/ramboxapp/community-edition) - Free and Open Source messaging and emailing app that combines common web applications into one.
 - [bevacqua/hubby](https://github.com/bevacqua/hubby) - :man: Hubby is a lowly attempt to describe public GitHub activity in natural language
 - [stefanbuck/awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github) - A collection of awesome browser extensions for GitHub.
-- [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io) - Github Pages template for personal, portfolio-based websites; forked from mmistakes/minimal-mistakes
+- [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io) - Github Pages template based upon HTML and Markdown for personal, portfolio-based websites.
 - [gitcoinco/web](https://github.com/gitcoinco/web) - Grow Open Source
 - [jxnblk/mdx-deck](https://github.com/jxnblk/mdx-deck) - ♠️ React MDX-based presentation decks
 - [Molunerfinn/node-github-profile-summary](https://github.com/Molunerfinn/node-github-profile-summary) - [Temporarily unavailable]:octocat:The node version of github-profile-summary with GraphQL
@@ -1336,6 +1343,7 @@
 
 ## Others 
 
+- [codetocloudinc/platform-engineering](https://github.com/codetocloudinc/platform-engineering) - A centralized hub for platform engineering teams, providing resources, best practices, and automation tools. Includes IaC templates, blueprints, and operational guides to help build scalable, secure, 
 - [ayodejiayodele/github-developer-metrics](https://github.com/ayodejiayodele/github-developer-metrics) - Dashboards and report templates for reporting developer-related metrics inspired by some popular developer productivity frameworks..
 - [restyler/awesome-n8n](https://github.com/restyler/awesome-n8n) - Useful n8n resources: list of community nodes and tutorials
 - [jnmcfly/awesome-startpage](https://github.com/jnmcfly/awesome-startpage) - This is a carefully compiled list of remarkable projects with the focus on startpages.
@@ -1698,13 +1706,15 @@
 
 ## Python 
 
+- [frdel/agent-zero](https://github.com/frdel/agent-zero) - Agent Zero AI framework
+- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Investment Research for Everyone, Everywhere.
 - [hrithikkoduri/WebRover](https://github.com/hrithikkoduri/WebRover) - WebRover is an autonomous AI agent designed to interpret user input and execute actions by interacting with web elements to accomplish tasks or answer questions. It leverages advanced language models 
 - [github/stale-repos](https://github.com/github/stale-repos) - Find stale repositories in a GitHub organization.
 - [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) - Agent framework and applications built upon Qwen&gt;=2.0, featuring Function Calling, Code Interpreter, RAG, and Chrome extension.
 - [opendatalab/PDF-Extract-Kit](https://github.com/opendatalab/PDF-Extract-Kit) - A Comprehensive Toolkit for High-Quality PDF Content Extraction
 - [browser-use/web-ui](https://github.com/browser-use/web-ui) - Run AI Agent in your browser.
 - [Scrapybara/codecapy](https://github.com/Scrapybara/codecapy) - The only PR bot that actually tests your code.
-- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ Undetectable, Lightning-Fast, and Adaptive Web Scraping for Python
+- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An undetectable, powerful, flexible, high-performance Python library that makes Web Scraping easy again!
 - [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat) - Open Source framework for voice and multimodal conversational AI
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - Make websites accessible for AI agents
 - [3b1b/videos](https://github.com/3b1b/videos) - Code for the manim-generated scenes used in 3blue1brown videos
@@ -1715,8 +1725,8 @@
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background
 - [CatchTheTornado/text-extract-api](https://github.com/CatchTheTornado/text-extract-api) - Document (PDF, Word, PPTX ...) extraction and parse API using state of the art modern OCRs + Ollama supported models. Anonymize documents. Remove PII. Convert any document or picture to structured JSO
 - [enoch3712/ExtractThinker](https://github.com/enoch3712/ExtractThinker) - ExtractThinker is a Document Intelligence library for LLMs, offering ORM-style interaction for flexible and powerful document workflows.
-- [ant-research/MagicQuill](https://github.com/ant-research/MagicQuill) - Official Implementations for Paper - MagicQuill: An Intelligent Interactive Image Editing System
-- [intuitem/ciso-assistant-community](https://github.com/intuitem/ciso-assistant-community) - CISO Assistant is a one-stop-shop for GRC, covering Risk, AppSec and Audit Management and supporting +70 frameworks worldwide with auto-mapping: NIST CSF, ISO 27001, SOC2, CIS, PCI DSS, NIS2, CMMC, PS
+- [ant-research/MagicQuill](https://github.com/ant-research/MagicQuill) - [CVPR'25] Official Implementations for Paper - MagicQuill: An Intelligent Interactive Image Editing System
+- [intuitem/ciso-assistant-community](https://github.com/intuitem/ciso-assistant-community) - CISO Assistant is a one-stop-shop for GRC, covering Risk, AppSec and Compliance/Audit Management and supporting +70 frameworks worldwide with auto-mapping: NIST CSF, ISO 27001, SOC2, CIS, PCI DSS, NIS
 - [bytedance/monolith](https://github.com/bytedance/monolith) - A Lightweight Recommendation System
 - [SamurAIGPT/AI-Youtube-Shorts-Generator](https://github.com/SamurAIGPT/AI-Youtube-Shorts-Generator) - A python tool that uses GPT-4, FFmpeg, and OpenCV to automatically analyze videos, extract the most interesting sections, and crop them for an improved viewing experience.
 - [Agenta-AI/agenta](https://github.com/Agenta-AI/agenta) - The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM Observability all in one place.
@@ -1786,7 +1796,7 @@
 - [mouredev/roadmap-retos-programacion](https://github.com/mouredev/roadmap-retos-programacion) - Ruta de estudio basada en ejercicios de código de la comunidad MoureDev para aprender y practicar lógica usando cualquier lenguaje de programación.
 - [MarkFzp/act-plus-plus](https://github.com/MarkFzp/act-plus-plus) - Imitation learning algorithms with Co-training for Mobile ALOHA: ACT, Diffusion Policy, VINN
 - [dflook/terraform-github-actions](https://github.com/dflook/terraform-github-actions) - GitHub actions for terraform
-- [microsoft/Mastering-GitHub-Copilot-for-Paired-Programming](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming) - A 9-Lesson course teaching everything you need to know about harnessing GitHub Copilot as an AI Paired Programming resource.
+- [microsoft/Mastering-GitHub-Copilot-for-Paired-Programming](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming) - A 10-Lesson course teaching everything you need to know about harnessing GitHub Copilot as an AI Paired Programming resource.
 - [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [idoavrah/terraform-tui](https://github.com/idoavrah/terraform-tui) - Terraform textual UI
@@ -2084,6 +2094,7 @@
 
 ## Rust 
 
+- [dag-andersen/argocd-diff-preview](https://github.com/dag-andersen/argocd-diff-preview) - Tool for rendering manifest changes on pull requests.
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [samwho/spacer](https://github.com/samwho/spacer) - CLI tool to insert spacers when command output stops
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
@@ -2143,7 +2154,7 @@
 - [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
 - [jonhoo/griddle](https://github.com/jonhoo/griddle) - A HashMap variant that spreads resize load across inserts
 - [mozilla/grcov](https://github.com/mozilla/grcov) - Rust tool to collect and aggregate code coverage data for multiple source files
-- [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
+- [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [gyscos/cursive](https://github.com/gyscos/cursive) - A Text User Interface library for the Rust programming language
 - [imsnif/bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
@@ -2313,7 +2324,6 @@
 - [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker image that provides a Minecraft Server for Java Edition that automatically downloads selected version at startup
 - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 - [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada:
-- [dockcross/dockcross](https://github.com/dockcross/dockcross) - Cross compiling toolchains in Docker images
 - [niieani/bash-oo-framework](https://github.com/niieani/bash-oo-framework) - Bash Infinity is a modern standard library / framework / boilerplate for Bash
 - [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - 🚀✨ Minimalistic, powerful and extremely customizable Zsh prompt
 - [rootless-containers/usernetes](https://github.com/rootless-containers/usernetes) - Kubernetes without the root privileges
@@ -2433,6 +2443,8 @@
 
 ## TypeScript 
 
+- [Balastrong/github-copilot-demos](https://github.com/Balastrong/github-copilot-demos) - A sandbox for hands-on GitHub Copilot experiments
+- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
 - [tradingview/lightweight-charts](https://github.com/tradingview/lightweight-charts) - Performant financial charts built with HTML5 canvas
 - [devcontainers/cli](https://github.com/devcontainers/cli) - A reference implementation for the specification that can create and configure a dev container from a devcontainer.json.
 - [refly-ai/refly](https://github.com/refly-ai/refly) - 🎨 Refly is an open-source AI-native creation engine. Its intuitive free-form canvas interface combines multi-threaded dialogues, AI knowledge base integration, chrome extension clip & save,  contextua
@@ -2505,7 +2517,7 @@
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [devops-actions/load-available-actions](https://github.com/devops-actions/load-available-actions) - Load all actions stored in the current organization
 - [suzuki-shunsuke/tfaction](https://github.com/suzuki-shunsuke/tfaction) - Framework for Monorepo to build high level Terraform Workflows by GitHub Actions
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Create, share, and use custom AI code assistants with our open-source IDE extensions and hub of models, rules, prompts, docs, and other building blocks
 - [CodelyTV/infrastructure_design-eventbus-aws-course](https://github.com/CodelyTV/infrastructure_design-eventbus-aws-course) - Infrastructure Design: AWS SQS as a Message Queue course examples
 - [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁
