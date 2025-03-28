@@ -244,6 +244,7 @@
 - [terminal](#terminal)
 - [terraform](#terraform)
 - [testing](#testing)
+- [text-to-speech](#text-to-speech)
 - [trading](#trading)
 - [twitter](#twitter)
 - [typescript](#typescript)
@@ -462,7 +463,7 @@
 ## api 
 
 - [CatchTheTornado/text-extract-api](https://github.com/CatchTheTornado/text-extract-api) - Document (PDF, Word, PPTX ...) extraction and parse API using state of the art modern OCRs + Ollama supported models. Anonymize documents. Remove PII. Convert any document or picture to structured JSO
-- [getmaxun/maxun](https://github.com/getmaxun/maxun) - 🔥Open Source No Code Web Data Extraction Platform. Turn Websites To APIs & Spreadsheets With No-Code Robots In Minutes. 🔥
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) - 🔥Open Source No Code Web Data Extraction Platform. Turn Websites To APIs & Spreadsheets With No-Code Robots In Minutes🔥
 - [HariSekhon/Diagrams-as-Code](https://github.com/HariSekhon/Diagrams-as-Code) - Cloud & DevOps Architecture Diagrams-as-Code in Python, D2 and MermaidJS languages
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - [gm3dmo/the-power](https://github.com/gm3dmo/the-power) - The Power is a bunch of test scripts that share a single centralized configuration file for use with GitHub API's. It's commonly used by folks with a need to teach, learn, debug against GItHub's API's
@@ -527,7 +528,7 @@
 - [OP5dev/TF-via-PR](https://github.com/OP5dev/TF-via-PR) - Plan and apply Terraform/OpenTofu via PR automation, using best practices for secure and scalable IaC workflows.
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
-- [getmaxun/maxun](https://github.com/getmaxun/maxun) - 🔥Open Source No Code Web Data Extraction Platform. Turn Websites To APIs & Spreadsheets With No-Code Robots In Minutes. 🔥
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) - 🔥Open Source No Code Web Data Extraction Platform. Turn Websites To APIs & Spreadsheets With No-Code Robots In Minutes🔥
 - [feder-cr/Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk) - AIHawk aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in a tailored way.
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [antonbabenko/pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform) - pre-commit git hooks to take care of Terraform configurations 🇺🇦
@@ -614,7 +615,7 @@
 - [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 - [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
 - [onqtam/awesome-cmake](https://github.com/onqtam/awesome-cmake) - A curated list of awesome CMake resources, scripts, modules and examples.
-- [JaeYeopHan/Interview_Question_for_Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner) - :boy: :girl: Technical-Interview guidelines written for those who started studying programming. I wish you all the best. :space_invader:
+- [jbee37142/Interview_Question_for_Beginner](https://github.com/jbee37142/Interview_Question_for_Beginner) - :boy: :girl: Technical-Interview guidelines written for those who started studying programming. I wish you all the best. :space_invader:
 - [pingcap/awesome-database-learning](https://github.com/pingcap/awesome-database-learning) - A list of learning materials to understand databases internals
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
@@ -791,6 +792,7 @@
 
 ## aws 
 
+- [terrateamio/openinfraquote](https://github.com/terrateamio/openinfraquote) - Fast, open-source tool for estimating infrastructure costs from Terraform plans and state files
 - [asishkumar-gouda/go-web-app-devops](https://github.com/asishkumar-gouda/go-web-app-devops) - This is the Complete CI/CD implementation for the Golang Application. Helm Charts to Deploy to the EKS namespace using ArgoCD
 - [OP5dev/TF-via-PR](https://github.com/OP5dev/TF-via-PR) - Plan and apply Terraform/OpenTofu via PR automation, using best practices for secure and scalable IaC workflows.
 - [HariSekhon/Diagrams-as-Code](https://github.com/HariSekhon/Diagrams-as-Code) - Cloud & DevOps Architecture Diagrams-as-Code in Python, D2 and MermaidJS languages
@@ -856,6 +858,7 @@
 
 ## azure 
 
+- [terrateamio/openinfraquote](https://github.com/terrateamio/openinfraquote) - Fast, open-source tool for estimating infrastructure costs from Terraform plans and state files
 - [codetocloudinc/platform-engineering](https://github.com/codetocloudinc/platform-engineering) - A centralized hub for platform engineering teams, providing resources, best practices, and automation tools. Includes IaC templates, blueprints, and operational guides to help build scalable, secure, 
 - [ned1313/terraform-tuesdays](https://github.com/ned1313/terraform-tuesdays) - Demo files for various Terraform Tuesday Examples
 - [robinmordasiewicz/devops-toolkit](https://github.com/robinmordasiewicz/devops-toolkit) - Devops Toolkit
@@ -1583,6 +1586,7 @@
 
 ## devops 
 
+- [terrateamio/openinfraquote](https://github.com/terrateamio/openinfraquote) - Fast, open-source tool for estimating infrastructure costs from Terraform plans and state files
 - [kagent-dev/kagent](https://github.com/kagent-dev/kagent) - Cloud Native Agentic AI
 - [datolabs-io/opsy](https://github.com/datolabs-io/opsy) - Opsy - Your AI-Powered SRE Colleague
 - [stern/stern](https://github.com/stern/stern) - ⎈ Multi pod and container log tailing for Kubernetes -- Friendly fork of https://github.com/wercker/stern
@@ -2577,6 +2581,7 @@
 
 ## google 
 
+- [terrateamio/openinfraquote](https://github.com/terrateamio/openinfraquote) - Fast, open-source tool for estimating infrastructure costs from Terraform plans and state files
 - [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The developer first cloud governance platform
 - [ilyas-it83/CloudComparer](https://github.com/ilyas-it83/CloudComparer) - Compare the various managed cloud services offered by the major public cloud providers in the market.
 - [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Shift FinOps Left!
@@ -2661,7 +2666,7 @@
 - [FairwindsOps/polaris](https://github.com/FairwindsOps/polaris) - Validation of best practices in your Kubernetes clusters
 - [rohitg00/DevOpsCommunity](https://github.com/rohitg00/DevOpsCommunity) - DevOps/SRE community is for those folks who are trying to learn or explore DevOps with the help of experienced professionals. Opportunities are open to share.
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
-- [ComBuildersES/ComBuildersES.github.io](https://github.com/ComBuildersES/ComBuildersES.github.io) - Web de la comunidad
+- [ComBuildersES/ComBuildersES.github.io](https://github.com/ComBuildersES/ComBuildersES.github.io) - [Proyecto] Web de Community Builders. Nuestra carta de presentación
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [mszostok/codeowners-validator](https://github.com/mszostok/codeowners-validator) - The GitHub CODEOWNERS file validator
@@ -3902,7 +3907,7 @@
 - [rowyio/rowy](https://github.com/rowyio/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
 - [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
-- [getmaxun/maxun](https://github.com/getmaxun/maxun) - 🔥Open Source No Code Web Data Extraction Platform. Turn Websites To APIs & Spreadsheets With No-Code Robots In Minutes. 🔥
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) - 🔥Open Source No Code Web Data Extraction Platform. Turn Websites To APIs & Spreadsheets With No-Code Robots In Minutes🔥
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source AI automation tool ✨ Workflow automation tool 200+ integration / Enterprise automation tool / Zapier Alternative
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 - [Budibase/budibase](https://github.com/Budibase/budibase) - Create business apps and automate workflows in minutes. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀 No code / Low code platform..
@@ -4082,6 +4087,8 @@
 
 ## others 
 
+- [rajbos/ghas-mpc-server](https://github.com/rajbos/ghas-mpc-server) - MPC Server for GitHub Advanced Security
+- [deors/deors-demos-github-copilot](https://github.com/deors/deors-demos-github-copilot) - A collection of GitHub Copilot Extension examples
 - [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) - 10 Lessons to Get Started Building AI Agents
 - [chatmcp/mcp-directory](https://github.com/chatmcp/mcp-directory) - directory for Awesome MCP Servers
 - [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) - Playwright Tools for MCP
@@ -4215,7 +4222,6 @@
 - [andyfeller/issueops-createrepo](https://github.com/andyfeller/issueops-createrepo) - GitHub Action solution for creating repository through GitHub issue workflows.
 - [timrogers/github-migration-monitor](https://github.com/timrogers/github-migration-monitor) - Monitors GitHub Enterprise Importer (GEI) migrations for an organization through a simple command line tool
 - [mona-actions/gh-pma](https://github.com/mona-actions/gh-pma) - Post-Migration Audit (PMA) Extension For GitHub CLI
-- [rhasspy/piper](https://github.com/rhasspy/piper) - A fast, local neural text to speech system
 - [devopselvis/github-actions-presentation](https://github.com/devopselvis/github-actions-presentation) - I contain slides/demos for various GitHub Actions Talk
 - [tconbeer/harlequin](https://github.com/tconbeer/harlequin) - The SQL IDE for Your Terminal.
 - [shell-pool/shpool](https://github.com/shell-pool/shpool) - Think tmux, then aim... lower
@@ -5768,7 +5774,7 @@
 - [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [HiEventsDev/Hi.Events](https://github.com/HiEventsDev/Hi.Events) - Open-source event management and ticket selling platform. Perfect for concerts, conferences, and everything in between 🎟️
-- [getmaxun/maxun](https://github.com/getmaxun/maxun) - 🔥Open Source No Code Web Data Extraction Platform. Turn Websites To APIs & Spreadsheets With No-Code Robots In Minutes. 🔥
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) - 🔥Open Source No Code Web Data Extraction Platform. Turn Websites To APIs & Spreadsheets With No-Code Robots In Minutes🔥
 - [BaldissaraMatheus/Tasks.md](https://github.com/BaldissaraMatheus/Tasks.md) - A self-hosted, Markdown file based task management board
 - [runs-on/runs-on](https://github.com/runs-on/runs-on) - Self-hosted GitHub Actions runners made simple. For AWS. 10x cheaper, 30% faster, and unlimited caching. Best alternative to Actions Runner Controller.
 - [machulav/ec2-github-runner](https://github.com/machulav/ec2-github-runner) - On-demand self-hosted AWS EC2 runner for GitHub Actions
@@ -6093,6 +6099,7 @@
 
 ## terraform 
 
+- [terrateamio/openinfraquote](https://github.com/terrateamio/openinfraquote) - Fast, open-source tool for estimating infrastructure costs from Terraform plans and state files
 - [suzuki-shunsuke/tfmv](https://github.com/suzuki-shunsuke/tfmv) - CLI to rename Terraform resources and generate moved blocks
 - [techpivot/terraform-module-releaser](https://github.com/techpivot/terraform-module-releaser) - GitHub Action to automate versioning, releases, and documentation for Terraform modules in monorepos.
 - [techtales-io/terraform-github](https://github.com/techtales-io/terraform-github) - IaC for Github resources with Terraform
@@ -6207,6 +6214,12 @@
 - [pa11y/pa11y](https://github.com/pa11y/pa11y) - Pa11y is your automated accessibility testing pal
 - [dtmilano/AndroidViewClient](https://github.com/dtmilano/AndroidViewClient) - Android ViewServer and ADB client
 - [zalando/SwiftMonkey](https://github.com/zalando/SwiftMonkey) - A framework for doing randomised UI testing of iOS apps
+
+## text-to-speech 
+
+- [rhasspy/piper](https://github.com/rhasspy/piper) - A fast, local neural text to speech system
+- [chrisvdev/obs-chat](https://github.com/chrisvdev/obs-chat) - Also known as CVTalk is a Twitch chat viewer made with React for use in OBS or any streaming software capable of using a browser as a source including TTS and other cool features.
+- [rhdunn/espeak](https://github.com/rhdunn/espeak) - eSpeak NG is an open source speech synthesizer that supports 101 languages and accents.
 
 ## trading 
 
