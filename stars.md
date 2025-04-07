@@ -1737,7 +1737,7 @@
 ## Python 
 
 - [mannaandpoem/OpenManus](https://github.com/mannaandpoem/OpenManus) - No fortress, purely open ground.  OpenManus is Coming.
-- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) - Cloud Native Agentic AI
+- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
 - [techwithtim/BDAIScraperAgent](https://github.com/techwithtim/BDAIScraperAgent) - 
 - [allenai/olmocr](https://github.com/allenai/olmocr) - Toolkit for linearizing PDFs for LLM datasets/training
@@ -2482,12 +2482,12 @@
 ## TypeScript 
 
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Open-source AI Agent workflow builder.
-- [ddukbg/github-enterprise-mcp](https://github.com/ddukbg/github-enterprise-mcp) - github-enterprise-mcp
+- [containerelic/github-enterprise-mcp](https://github.com/containerelic/github-enterprise-mcp) - github-enterprise-mcp
 - [taylor-lindores-reeves/mcp-github-projects](https://github.com/taylor-lindores-reeves/mcp-github-projects) - 
 - [PhialsBasement/mcp-github-server-plus](https://github.com/PhialsBasement/mcp-github-server-plus) - Model Context Protocol server for GitHub API integration
 - [mcp-agents-ai/mcp-agents-hub](https://github.com/mcp-agents-ai/mcp-agents-hub) - The open-source ecosystem for building, discovering, and deploying Model Context Protocol servers and clients.
 - [nrwl/nx](https://github.com/nrwl/nx) - Build system, optimized for monorepos, with AI-powered architectural awareness and advanced CI capabilities.
-- [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - Open source email app to reach inbox zero fast.
+- [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - AI personal assistant for email. Open source app to help you reach inbox zero fast.
 - [0GiS0/mcp-github-copilot](https://github.com/0GiS0/mcp-github-copilot) - Cómo crear MCP Servers y usarlos con GitHub Copilot Chat 🚀💻🤖
 - [rajbos/ghas-mcp-server](https://github.com/rajbos/ghas-mcp-server) - MCP Server for GitHub Advanced Security
 - [chatmcp/mcp-directory](https://github.com/chatmcp/mcp-directory) - directory for Awesome MCP Servers
