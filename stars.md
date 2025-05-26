@@ -484,7 +484,6 @@
 - [grafana/grizzly](https://github.com/grafana/grizzly) - A utility for managing Jsonnet dashboards against the Grafana API
 - [grafana/Kost](https://github.com/grafana/Kost) - K8s Cost Calculator that provides estimated reports for workloads running in Kubernetes.
 - [danvergara/dblab](https://github.com/danvergara/dblab) - The database client every command line junkie deserves.
-- [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [github/git-sizer](https://github.com/github/git-sizer) - Compute various size metrics for a Git repository, flagging those that might cause problems
 - [helaili/github-oidc-auth-app](https://github.com/helaili/github-oidc-auth-app) - An OIDC client to retrieve a GitHub API scoped token from within an Actions workflow
 - [octokit/go-sdk](https://github.com/octokit/go-sdk) - A generated Go SDK from GitHub's OpenAPI specification. Built on Kiota.
@@ -823,6 +822,7 @@
 ## HTML 
 
 - [openshifttips/web](https://github.com/openshifttips/web) - Hugo content for the openshift.tips blog
+- [codetocloudorg/platform-engineering](https://github.com/codetocloudorg/platform-engineering) - A centralized hub for platform engineering teams, providing resources, best practices, and automation tools. Includes IaC templates, blueprints, and operational guides to help build scalable, secure, 
 - [ydarias/ydarias.github.io](https://github.com/ydarias/ydarias.github.io) - My personal blog
 - [asishkumar-gouda/go-web-app-devops](https://github.com/asishkumar-gouda/go-web-app-devops) - This is the Complete CI/CD implementation for the Golang Application. Helm Charts to Deploy to the EKS namespace using ArgoCD
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
@@ -836,7 +836,6 @@
 - [JaimeObregon/observatoriospublicos.es](https://github.com/JaimeObregon/observatoriospublicos.es) - Observatorio de los observatorios públicos de España
 - [salaboy/platforms-on-k8s](https://github.com/salaboy/platforms-on-k8s) - Platform Engineering on Kubernetes :: Book Examples
 - [tensorchord/ai-infra-landscape](https://github.com/tensorchord/ai-infra-landscape) - This is a landscape of the infrastructure that powers the generative AI ecosystem
-- [steveseguin/social_stream](https://github.com/steveseguin/social_stream) - Consolidate your live social messaging streams and much more
 - [FidelusAleksander/ghcertified](https://github.com/FidelusAleksander/ghcertified) - Prepare for GitHub Certification exams!
 - [u8views/go-u8views](https://github.com/u8views/go-u8views) - GitHub profile views tracker: displaying monthly view statistics
 - [noeal-dac/Animated-Lower-Thirds](https://github.com/noeal-dac/Animated-Lower-Thirds) - Animated Lower Thirds with dockable Control Panel - OBS Tool
@@ -1009,6 +1008,7 @@
 
 ## JavaScript 
 
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
 - [github/github-app-js-sample](https://github.com/github/github-app-js-sample) - Sample of a GitHub App that comments new pull requests
 - [danilat/mcp-dndzgz](https://github.com/danilat/mcp-dndzgz) - A MCP Server to know about Zaragoza bus, tram and bizi services in realtime
 - [skills/getting-started-with-github-copilot](https://github.com/skills/getting-started-with-github-copilot) - Learn, build, debug, and ship faster than ever with your favorite AI pair programmer.
@@ -1023,6 +1023,7 @@
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [AndreaGriffiths11/school-calendar-script](https://github.com/AndreaGriffiths11/school-calendar-script) - Google Apps Script automatically extracts events from your school's emails and adds them to a shared Google Calendar, making it easier to keep track of important school dates and events.
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
+- [anvaka/map-of-github](https://github.com/anvaka/map-of-github) - Inspirational Mapping
 - [ExamProCo/Github-Examples](https://github.com/ExamProCo/Github-Examples) - A repo containing GitHub for programmatic examples
 - [cattr-app/desktop-application](https://github.com/cattr-app/desktop-application) - Electron-based desktop time tracker for Cattr
 - [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate) - Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations.
@@ -1049,6 +1050,7 @@
 - [andyfeller/issueops-createrepo](https://github.com/andyfeller/issueops-createrepo) - GitHub Action solution for creating repository through GitHub issue workflows.
 - [timrogers/github-migration-monitor](https://github.com/timrogers/github-migration-monitor) - Monitors GitHub Enterprise Importer (GEI) migrations for an organization through a simple command line tool
 - [devopselvis/github-actions-presentation](https://github.com/devopselvis/github-actions-presentation) - I contain slides/demos for various GitHub Actions Talk
+- [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [github/relative-time-element](https://github.com/github/relative-time-element) - Web component extensions to the standard &lt;time&gt; element.
 - [maxkomarychev/octions](https://github.com/maxkomarychev/octions) - Collection of GitHub Actions that wrap GitHub REST API
 - [ClickHouse/adsb.exposed](https://github.com/ClickHouse/adsb.exposed) - Interactive visualization and analytics on ADS-B data with ClickHouse
@@ -1062,6 +1064,7 @@
 - [CiroMirkin/Apuntes](https://github.com/CiroMirkin/Apuntes) - Apuntes teóricos de programación.
 - [microlinkhq/unavatar](https://github.com/microlinkhq/unavatar) - Get unified user avatar from social networks, including Instagram, SoundCloud, Telegram, Twitter, YouTube & more.
 - [Pradumnasaraf/DevOps](https://github.com/Pradumnasaraf/DevOps) - I created this repository to keep my learning, notes, and code in one place for various tools in DevOps. Now, it's helping thousands of learners, practitioners, and professionals every day in their De
+- [steveseguin/social_stream](https://github.com/steveseguin/social_stream) - Consolidate your live social messaging streams and much more
 - [upgundecha/howtheysre](https://github.com/upgundecha/howtheysre) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
 - [chrisvdev/obs-chat](https://github.com/chrisvdev/obs-chat) - Also known as CVTalk is a Twitch chat viewer made with React for use in OBS or any streaming software capable of using a browser as a source including TTS and other cool features.
 - [steveseguin/vdo.ninja](https://github.com/steveseguin/vdo.ninja) - VDO.Ninja is a powerful tool that lets you bring remote video feeds into OBS or other studio software via WebRTC.
@@ -1077,7 +1080,6 @@
 - [openchatai/OpenChat](https://github.com/openchatai/OpenChat) - LLMs custom-chatbots console ⚡
 - [mergeability/mergeable](https://github.com/mergeability/mergeable) - 🤖 All the missing GitHub automation 🙂 🙌
 - [extenda/actions](https://github.com/extenda/actions) - GitHub Actions by Extenda Retail
-- [Macro-Deck-App/Macro-Deck-Client](https://github.com/Macro-Deck-App/Macro-Deck-Client) - Companion app for Macro Deck 2
 - [clouxart/dependabot-cli](https://github.com/clouxart/dependabot-cli) - It is a command line tool to help you generate Github's dependabot.yml based on your project.
 - [Makeshift/generate-dependabot-glob-action](https://github.com/Makeshift/generate-dependabot-glob-action) - Generates a `dependabot.yml` and PRs it against your repo if it needs updating to include a new directory or package-ecosystem, with globs/wildcards
 - [crguezl/gh-org-clone](https://github.com/crguezl/gh-org-clone) - A github-cli extension script to clone all repositories in an organization, optionally filtering by topic.
@@ -1395,7 +1397,6 @@
 
 ## Others 
 
-- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
 - [google-labs-code/jules-awesome-list](https://github.com/google-labs-code/jules-awesome-list) - Some awesome prompts for Jules Agent
 - [microsoft/mcp](https://github.com/microsoft/mcp) - Catalog of official Microsoft MCP (Model Context Protocol) server implementations for AI-powered data access and tool integration
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser & Trae AI (And other Open Sourced) System Prompts, Tools & AI Models.
@@ -1783,9 +1784,9 @@
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
 - [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - mcp-use is the easiest way to interact with mcp servers with custom agents
 - [Repello-AI/Agent-Wiz](https://github.com/Repello-AI/Agent-Wiz) - A CLI tool for threat modeling and visualizing AI agents built using popular frameworks like LangGraph, AutoGen, CrewAI, and more.
-- [invariantlabs-ai/mcp-scan](https://github.com/invariantlabs-ai/mcp-scan) - A security scanning tool for MCP servers
+- [invariantlabs-ai/mcp-scan](https://github.com/invariantlabs-ai/mcp-scan) - Constrain, log and scan your MCP connections for security vulnerabilities.
 - [NarimanN2/ollama-playground](https://github.com/NarimanN2/ollama-playground) - Interesting LLM projects that I created for my YouTube channel using Ollama's open-source models.
-- [Vexa-ai/vexa](https://github.com/Vexa-ai/vexa) - meeting notetaker and knowledge chat for teams and individuals
+- [Vexa-ai/vexa](https://github.com/Vexa-ai/vexa) - Self-hosted, multi-user API that drops bots into Google Meet for real-time transcripts.
 - [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip) - [Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine.
 - [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus) - No fortress, purely open ground.  OpenManus is Coming.
 - [kagent-dev/kagent](https://github.com/kagent-dev/kagent) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
@@ -1923,7 +1924,7 @@
 - [THUDM/CodeGeeX](https://github.com/THUDM/CodeGeeX) - CodeGeeX: An Open Multilingual Code Generation Model (KDD 2023)
 - [sezanzeb/input-remapper](https://github.com/sezanzeb/input-remapper) - 🎮 ⌨ An easy to use tool to change the behaviour of your input devices.
 - [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and sim
-- [pyinfra-dev/pyinfra](https://github.com/pyinfra-dev/pyinfra) - :wrench: pyinfra turns Python code into shell commands and runs them on your servers. Execute ad-hoc commands and write declarative operations. Target SSH servers, local machine and Docker containers.
+- [pyinfra-dev/pyinfra](https://github.com/pyinfra-dev/pyinfra) - 🔧 pyinfra turns Python code into shell commands and runs them on your servers. Execute ad-hoc commands and write declarative operations. Target SSH servers, local machine and Docker containers. Fast a
 - [SCons/scons](https://github.com/SCons/scons) - SCons - a software construction tool
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 - [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) - FauxPilot - an open-source alternative to GitHub Copilot server
@@ -2048,7 +2049,7 @@
 - [ReversecLabs/drozer](https://github.com/ReversecLabs/drozer) - The Leading Security Assessment Framework for Android.
 - [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
 - [impillar/droidbot](https://github.com/impillar/droidbot) - A lightweight test input generator for Android
-- [pennersr/django-allauth](https://github.com/pennersr/django-allauth) - Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication.
+- [pennersr/django-allauth](https://github.com/pennersr/django-allauth) - Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication. 🔁 Mirror of https://codeberg.org/allauth/django-
 - [nettitude/scrounger](https://github.com/nettitude/scrounger) - Mobile application testing toolkit
 - [user-cont/colin](https://github.com/user-cont/colin) - Tool to check generic rules/best-practices for containers/images/dockerfiles.
 - [owtf/owtf](https://github.com/owtf/owtf) - Offensive Web Testing Framework (OWTF), is a framework which tries to unite great tools and make pen testing more efficient http://owtf.org https://twitter.com/owtfp
@@ -2304,7 +2305,6 @@
 - [cowtoolz/webcamize](https://github.com/cowtoolz/webcamize) - Use almost any camera as a webcam—DSLRs, mirrorless, camcorders, and even point-and-shoots
 - [plengauer/Thoth](https://github.com/plengauer/Thoth) - 
 - [kenmuse/github-misc-scripts](https://github.com/kenmuse/github-misc-scripts) - GitHub script samples for automation
-- [codetocloudorg/platform-engineering](https://github.com/codetocloudorg/platform-engineering) - A centralized hub for platform engineering teams, providing resources, best practices, and automation tools. Includes IaC templates, blueprints, and operational guides to help build scalable, secure, 
 - [johanhaleby/kubetail](https://github.com/johanhaleby/kubetail) - Bash script to tail Kubernetes logs from multiple pods at the same time
 - [paxtonhare/demo-magic](https://github.com/paxtonhare/demo-magic) - A handy shell script that enables you to write repeatable demos in a bash environment.
 - [Piotr1215/youtube](https://github.com/Piotr1215/youtube) - Youtube recordings from the terminal
@@ -2535,6 +2535,8 @@
 
 ## TypeScript 
 
+- [Nutlope/billsplit](https://github.com/Nutlope/billsplit) - Split your restaurant bills easily
+- [anthropics/claude-code-action](https://github.com/anthropics/claude-code-action) - 
 - [0GiS0/demos-codemotion-2025](https://github.com/0GiS0/demos-codemotion-2025) - Este repo contiene las demos que mostré durante el evento Codemotion Madrid 2025
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source Vercel alternative
 - [Lin-jun-xiang/vscode-prompts-chat-extension](https://github.com/Lin-jun-xiang/vscode-prompts-chat-extension) - An extension to connect to prompts.chat and add prompt templates for VSCode Github Copilot.
@@ -2818,7 +2820,6 @@
 
 ## Vue 
 
-- [anvaka/map-of-github](https://github.com/anvaka/map-of-github) - Inspirational Mapping
 - [benc-uk/kubeview](https://github.com/benc-uk/kubeview) - Kubernetes cluster visualiser and graphical explorer
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
