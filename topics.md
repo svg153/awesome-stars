@@ -246,6 +246,7 @@
 - [telegram-bot](#telegram-bot)
 - [tensorflow](#tensorflow)
 - [terminal](#terminal)
+- [termux](#termux)
 - [terraform](#terraform)
 - [testing](#testing)
 - [text-to-speech](#text-to-speech)
@@ -279,6 +280,9 @@
 
 ## ai 
 
+- [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
+- [golf-mcp/golf](https://github.com/golf-mcp/golf) - Production-Ready MCP Server Framework • Build, deploy & scale secure AI agent infrastructure • Includes Auth, Observability, Debugger, Telemetry & Runtime • Run real-world MCPs powering AI Agents
+- [rohitg00/kubectl-mcp-server](https://github.com/rohitg00/kubectl-mcp-server) - Chat with your Kubernetes Cluster using AI tools and IDEs like Claude and Cursor!
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
 - [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams for any GitHub repository
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Memory for AI Agents; SOTA in AI Agent Memory; Announcing OpenMemory MCP - local and secure memory management.
@@ -290,11 +294,12 @@
 - [Zackriya-Solutions/meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes) - A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding 
 - [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - mcp-use is the easiest way to interact with mcp servers with custom agents
 - [Repello-AI/Agent-Wiz](https://github.com/Repello-AI/Agent-Wiz) - A CLI tool for threat modeling and visualizing AI agents built using popular frameworks like LangGraph, AutoGen, CrewAI, and more.
+- [invariantlabs-ai/mcp-scan](https://github.com/invariantlabs-ai/mcp-scan) - Constrain, log and scan your MCP connections for security vulnerabilities.
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Sim Studio is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [kagent-dev/kagent](https://github.com/kagent-dev/kagent) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
-- [browserbase/stagehand](https://github.com/browserbase/stagehand) - An AI web browsing framework focused on simplicity and extensibility.
+- [browserbase/stagehand](https://github.com/browserbase/stagehand) - The TypeScript framework for automating browsers with AI
 - [datolabs-io/opsy](https://github.com/datolabs-io/opsy) - Opsy - Your AI-Powered SRE Colleague
 - [workflowkit/issue-assistant](https://github.com/workflowkit/issue-assistant) - AI Assistant for your GitHub issues. 🤖
 - [frdel/agent-zero](https://github.com/frdel/agent-zero) - Agent Zero AI framework
@@ -386,10 +391,9 @@
 
 ## android 
 
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source Vercel alternative
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music client! Available for both desktop & mobile!
 - [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
-- [Macro-Deck-App/Macro-Deck-Client](https://github.com/Macro-Deck-App/Macro-Deck-Client) - Companion app for Macro Deck 2
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 - [mobile-dev-inc/Maestro](https://github.com/mobile-dev-inc/Maestro) - Painless E2E Automation for Mobile and Web
 - [alvr/alpine-android](https://github.com/alvr/alpine-android) - 🐋 Small docker image for building & testing Android applications.
@@ -484,7 +488,7 @@
 ## api 
 
 - [CatchTheTornado/text-extract-api](https://github.com/CatchTheTornado/text-extract-api) - Document (PDF, Word, PPTX ...) extraction and parse API using state of the art modern OCRs + Ollama supported models. Anonymize documents. Remove PII. Convert any document or picture to structured JSO
-- [getmaxun/maxun](https://github.com/getmaxun/maxun) - 🔥 Open Source No Code Web Data Extraction Platform • Turn Websites To APIs & Spreadsheets With No-Code Robots In Minutes 🔥
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) - ⚡️ Open Source No Code Web Data Extraction Platform • Turn Websites To APIs & Spreadsheets In Minutes ⚡️
 - [HariSekhon/Diagrams-as-Code](https://github.com/HariSekhon/Diagrams-as-Code) - Cloud & DevOps Architecture Diagrams-as-Code in Python, D2 and MermaidJS languages
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - [gm3dmo/the-power](https://github.com/gm3dmo/the-power) - The Power is a bunch of test scripts that share a single centralized configuration file for use with GitHub API's. It's commonly used by folks with a need to teach, learn, debug against GItHub's API's
@@ -556,7 +560,7 @@
 - [OP5dev/TF-via-PR](https://github.com/OP5dev/TF-via-PR) - Plan and apply Terraform/OpenTofu via PR automation, using best practices for secure and scalable IaC workflows.
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
-- [getmaxun/maxun](https://github.com/getmaxun/maxun) - 🔥 Open Source No Code Web Data Extraction Platform • Turn Websites To APIs & Spreadsheets With No-Code Robots In Minutes 🔥
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) - ⚡️ Open Source No Code Web Data Extraction Platform • Turn Websites To APIs & Spreadsheets In Minutes ⚡️
 - [feder-cr/Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk) - AIHawk aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in a tailored way.
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [antonbabenko/pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform) - pre-commit git hooks to take care of Terraform configurations 🇺🇦
@@ -934,7 +938,7 @@
 
 ## backend 
 
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source Vercel alternative
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [unbody-io/unbody](https://github.com/unbody-io/unbody) - The Supabase of AI era. A modular, open-source backend for building AI-native software — designed for knowledge, not static data.
 - [rowyio/rowy](https://github.com/rowyio/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
 - [undb-io/undb](https://github.com/undb-io/undb) - 🚀 Private first self-hosted no code database & BaaS.
@@ -1613,6 +1617,7 @@
 
 ## deployment 
 
+- [rohitg00/kubectl-mcp-server](https://github.com/rohitg00/kubectl-mcp-server) - Chat with your Kubernetes Cluster using AI tools and IDEs like Claude and Cursor!
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [Azure/eno](https://github.com/Azure/eno) - Compose Kubernetes deployments
 - [jetify-com/launchpad](https://github.com/jetify-com/launchpad) - From Code to Kubernetes in One Step.
@@ -1654,6 +1659,7 @@
 
 ## devops 
 
+- [rohitg00/kubectl-mcp-server](https://github.com/rohitg00/kubectl-mcp-server) - Chat with your Kubernetes Cluster using AI tools and IDEs like Claude and Cursor!
 - [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 600+ plugins. Alternative to Airflow, n8n, Rundeck, VMware vRA, Zapier ...
 - [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp) - A Kubernetes web UI that is fully-featured, user-friendly and extensible
 - [terrateamio/openinfraquote](https://github.com/terrateamio/openinfraquote) - Fast, open-source tool for estimating infrastructure costs from Terraform plans and state files
@@ -1772,12 +1778,12 @@
 - [dynaconf/dynaconf](https://github.com/dynaconf/dynaconf) - Configuration Management for Python ⚙
 - [apptension/saas-boilerplate](https://github.com/apptension/saas-boilerplate) - SaaS Boilerplate - Open Source and free SaaS stack that lets you build SaaS products faster in React, Django and AWS. Focus on essential business logic instead of coding repeatable features!
 - [wodby/docker4python](https://github.com/wodby/docker4python) - Docker-based Python web stack (works for Django)
-- [pennersr/django-allauth](https://github.com/pennersr/django-allauth) - Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication.
+- [pennersr/django-allauth](https://github.com/pennersr/django-allauth) - Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication. 🔁 Mirror of https://codeberg.org/allauth/django-
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 
 ## docker 
 
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source Vercel alternative
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application 
 - [flohoss/gocron](https://github.com/flohoss/gocron) - A go based task scheduler with GUI
@@ -2079,7 +2085,7 @@
 
 ## firebase 
 
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source Vercel alternative
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [rowyio/rowy](https://github.com/rowyio/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [gdg-x/hoverboard](https://github.com/gdg-x/hoverboard) - Conference website template
@@ -2103,7 +2109,7 @@
 
 ## flutter 
 
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source Vercel alternative
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [mulaRahul/keyviz](https://github.com/mulaRahul/keyviz) - Keyviz is a free and open-source tool to visualize your keystrokes ⌨️ and 🖱️ mouse actions in real-time.
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music client! Available for both desktop & mobile!
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
@@ -2136,6 +2142,7 @@
 
 ## framework 
 
+- [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
 - [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
 - [rio-labs/rio](https://github.com/rio-labs/rio) - WebApps in pure Python. No JavaScript, HTML and CSS needed
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
@@ -2532,6 +2539,7 @@
 
 ## golang 
 
+- [mattermost-community/mattermost-plugin-autolink](https://github.com/mattermost-community/mattermost-plugin-autolink) - Automatically rewrite text matching a regular expression into a markdown link.
 - [recode-sh/cli](https://github.com/recode-sh/cli) - A CLI to create remote development environments in your cloud provider account in seconds
 - [github/gh-combine](https://github.com/github/gh-combine) - A gh cli extension to automatically combine multiple pull requests into one
 - [flohoss/gocron](https://github.com/flohoss/gocron) - A go based task scheduler with GUI
@@ -2748,7 +2756,9 @@
 
 ## hacktoberfest 
 
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source Vercel alternative
+- [openSUSE/osem](https://github.com/openSUSE/osem) - Open Source Event Manager. An event management tool tailored to Free and Open Source Software conferences.
+- [mattermost-community/mattermost-plugin-autolink](https://github.com/mattermost-community/mattermost-plugin-autolink) - Automatically rewrite text matching a regular expression into a markdown link.
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [techgaun/github-dorks](https://github.com/techgaun/github-dorks) - Find leaked secrets via github search
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equip's your AI agents & LLMs with 100+ high-quality integrations via function calling
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application 
@@ -2795,7 +2805,7 @@
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [Azure/azqr](https://github.com/Azure/azqr) - Azure Quick Review
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
-- [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Resume Matcher is an open source, free tool to improve your resume. It works by using AI, Reader LLMs, to compare and rank resumes with job descriptions.
+- [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions.
 - [diggerhq/digger](https://github.com/diggerhq/digger) - Digger is an open source IaC orchestration tool. Digger allows you to run IaC in your existing CI pipeline ⚡️
 - [github/issue-metrics](https://github.com/github/issue-metrics) - Gather metrics on issues/prs/discussions such as time to first response, count of issues opened, closed, etc.
 - [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It's completely configurable and 100% cross-pl
@@ -2807,13 +2817,11 @@
 - [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
-- [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud 
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) - Terraform GitHub provider
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
 - [pnp/cli-microsoft365](https://github.com/pnp/cli-microsoft365) - Manage Microsoft 365 and SharePoint Framework projects on any platform
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
-- [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [SCons/scons](https://github.com/SCons/scons) - SCons - a software construction tool
 - [zegl/kube-score](https://github.com/zegl/kube-score) - Kubernetes object analysis with recommendations for improved reliability and security. kube-score actively prevents downtime and bugs in your Kubernetes YAML and Charts. Static code analysis for Kuber
 - [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies (jobs) in tech.
@@ -3025,7 +3033,7 @@
 
 ## ios 
 
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source Vercel alternative
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 - [mobile-dev-inc/Maestro](https://github.com/mobile-dev-inc/Maestro) - Painless E2E Automation for Mobile and Web
 - [kubenav/kubenav](https://github.com/kubenav/kubenav) - kubenav is the navigator for your Kubernetes clusters right in your pocket.
@@ -3115,7 +3123,7 @@
 
 ## javascript 
 
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source Vercel alternative
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equip's your AI agents & LLMs with 100+ high-quality integrations via function calling
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application 
 - [nrwl/nx](https://github.com/nrwl/nx) - Build system, optimized for monorepos, with AI-powered architectural awareness and advanced CI capabilities.
@@ -3300,6 +3308,7 @@
 
 ## kubernetes 
 
+- [rohitg00/kubectl-mcp-server](https://github.com/rohitg00/kubectl-mcp-server) - Chat with your Kubernetes Cluster using AI tools and IDEs like Claude and Cursor!
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 - [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp) - A Kubernetes web UI that is fully-featured, user-friendly and extensible
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application 
@@ -3651,14 +3660,14 @@
 
 ## localization 
 
-- [krillinai/KrillinAI](https://github.com/krillinai/KrillinAI) - A video translation and dubbing tool powered by LLMs, offering professional-grade translations and one-click full-process deployment. It can generate content optimized for platforms like YouTube，TikTo
+- [krillinai/KlicStudio](https://github.com/krillinai/KlicStudio) - A video translation and dubbing tool powered by LLMs, offering professional-grade translations and one-click full-process deployment. It can generate content optimized for platforms like YouTube，TikTo
 - [github/relative-time-element](https://github.com/github/relative-time-element) - Web component extensions to the standard &lt;time&gt; element.
 
 ## login 
 
 - [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - Identity infrastructure, simplified for you.
 - [supertokens/supertokens-core](https://github.com/supertokens/supertokens-core) - Open source alternative to Auth0 / Firebase Auth / AWS Cognito
-- [pennersr/django-allauth](https://github.com/pennersr/django-allauth) - Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication.
+- [pennersr/django-allauth](https://github.com/pennersr/django-allauth) - Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication. 🔁 Mirror of https://codeberg.org/allauth/django-
 
 ## low-code 
 
@@ -3706,7 +3715,7 @@
 - [AMAI-GmbH/AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Roadmap to becoming an Artificial Intelligence Expert in 2022
 - [kserve/kserve](https://github.com/kserve/kserve) - Standardized Serverless ML Inference Platform on Kubernetes
 - [AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) - FinGPT: Open-Source Financial Large Language Models!  Revolutionize 🔥    We release the trained model on HuggingFace.
-- [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Resume Matcher is an open source, free tool to improve your resume. It works by using AI, Reader LLMs, to compare and rank resumes with job descriptions.
+- [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions.
 - [GerevAI/gerev](https://github.com/GerevAI/gerev) - 🧠 AI-powered enterprise search engine 🔎
 - [GerevAI/awesome-chatgpt-plugins](https://github.com/GerevAI/awesome-chatgpt-plugins) - An up-to-date collection of ChatGPT plugins and evolvements
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - DocsGPT is an open-source genAI tool that helps users get reliable answers from knowledge source, while avoiding hallucinations. It enables private and reliable information retrieval, with tooling and
@@ -3958,7 +3967,7 @@
 
 ## natural-language-processing 
 
-- [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Resume Matcher is an open source, free tool to improve your resume. It works by using AI, Reader LLMs, to compare and rank resumes with job descriptions.
+- [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions.
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - DocsGPT is an open-source genAI tool that helps users get reliable answers from knowledge source, while avoiding hallucinations. It enables private and reliable information retrieval, with tooling and
 
 ## neovim 
@@ -3988,7 +3997,7 @@
 
 ## nextjs 
 
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source Vercel alternative
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Sim Studio is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.
 - [nrwl/nx](https://github.com/nrwl/nx) - Build system, optimized for monorepos, with AI-powered architectural awareness and advanced CI capabilities.
@@ -4008,7 +4017,7 @@
 - [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Twilio, Buffer, Framer, Perplexity, Vercel, and more.
 - [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source synthetic monitoring platform  🏓
 - [xitanggg/open-resume](https://github.com/xitanggg/open-resume) - OpenResume is a powerful open-source resume builder and resume parser. https://open-resume.com/
-- [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Resume Matcher is an open source, free tool to improve your resume. It works by using AI, Reader LLMs, to compare and rank resumes with job descriptions.
+- [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions.
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, internal PKI, and SSH access.
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
@@ -4035,7 +4044,7 @@
 - [rowyio/rowy](https://github.com/rowyio/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
 - [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
-- [getmaxun/maxun](https://github.com/getmaxun/maxun) - 🔥 Open Source No Code Web Data Extraction Platform • Turn Websites To APIs & Spreadsheets With No-Code Robots In Minutes 🔥
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) - ⚡️ Open Source No Code Web Data Extraction Platform • Turn Websites To APIs & Spreadsheets In Minutes ⚡️
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 - [Budibase/budibase](https://github.com/Budibase/budibase) - Create business apps and automate workflows in minutes. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀 No code / Low code platform..
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
@@ -4224,6 +4233,18 @@
 
 ## others 
 
+- [JamesTurland/JimsGarage](https://github.com/JamesTurland/JimsGarage) - Homelab Goodies
+- [mattnigh/copilot_issue_templates](https://github.com/mattnigh/copilot_issue_templates) - A repo for Issue templates that use Copilot + AI to accomplish tasks
+- [GH-Event-Demos/random-name-picker](https://github.com/GH-Event-Demos/random-name-picker) - Simple HTML5 random name picker for picking lucky draw winners for GitHub events
+- [github/hotkey](https://github.com/github/hotkey) - Trigger an action on an element with a keyboard shortcut.
+- [github/ghas-jira-integration](https://github.com/github/ghas-jira-integration) - Synchronize GitHub Code Scanning alerts to Jira issues
+- [github/issue-parser](https://github.com/github/issue-parser) - Convert issue form responses to JSON
+- [github/evergreen](https://github.com/github/evergreen) - GitHub Action to enable automated security updates and open a issue/PR in repos in an org that have dependency files but no dependabot.yaml file
+- [github/lock](https://github.com/github/lock) - Lock Action to support deployment locking for the branch-deploy Action
+- [github/dependabot-action](https://github.com/github/dependabot-action) - Runs Dependabot Updates via GitHub Actions.
+- [anthropics/courses](https://github.com/anthropics/courses) - Anthropic's educational courses
+- [Nutlope/billsplit](https://github.com/Nutlope/billsplit) - Split your restaurant bills easily
+- [anthropics/claude-code-action](https://github.com/anthropics/claude-code-action) - 
 - [google-labs-code/jules-awesome-list](https://github.com/google-labs-code/jules-awesome-list) - Some awesome prompts for Jules Agent
 - [github/github-app-js-sample](https://github.com/github/github-app-js-sample) - Sample of a GitHub App that comments new pull requests
 - [0GiS0/demos-codemotion-2025](https://github.com/0GiS0/demos-codemotion-2025) - Este repo contiene las demos que mostré durante el evento Codemotion Madrid 2025
@@ -4251,9 +4272,8 @@
 - [github/maintainermonth](https://github.com/github/maintainermonth) - A month for maintainers to gather & share
 - [sinclairtarget/git-who](https://github.com/sinclairtarget/git-who) - Git blame for file trees
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
-- [invariantlabs-ai/mcp-scan](https://github.com/invariantlabs-ai/mcp-scan) - A security scanning tool for MCP servers
 - [NarimanN2/ollama-playground](https://github.com/NarimanN2/ollama-playground) - Interesting LLM projects that I created for my YouTube channel using Ollama's open-source models.
-- [Vexa-ai/vexa](https://github.com/Vexa-ai/vexa) - meeting notetaker and knowledge chat for teams and individuals
+- [Vexa-ai/vexa](https://github.com/Vexa-ai/vexa) - Self-hosted, multi-user API that drops bots into Google Meet for real-time transcripts.
 - [skills/integrate-mcp-with-copilot](https://github.com/skills/integrate-mcp-with-copilot) - Learn how to use MCP Servers with GitHub Copilot
 - [0GiS0/hoy-empiezo-con-la-ia-generativa](https://github.com/0GiS0/hoy-empiezo-con-la-ia-generativa) - 
 - [0GiS0/github-copilot-byok-ollama](https://github.com/0GiS0/github-copilot-byok-ollama) - 
@@ -4384,7 +4404,7 @@
 - [opensourcecorp/vdm](https://github.com/opensourcecorp/vdm) - A General-Purpose Versioned-Dependency Manager
 - [Doriandarko/claude-engineer](https://github.com/Doriandarko/claude-engineer) - Claude Engineer is an interactive command-line interface (CLI) that leverages the power of Anthropic's Claude-3.5-Sonnet model to assist with software development tasks.This framework enables Claude t
 - [microsoft/TechExcel-Accelerate-developer-productivity-with-GitHub-Copilot-and-Dev-Box](https://github.com/microsoft/TechExcel-Accelerate-developer-productivity-with-GitHub-Copilot-and-Dev-Box) - New repo for new Developer Productivity lab
-- [OpenBB-finance/openbb-agents](https://github.com/OpenBB-finance/openbb-agents) - R&D playground to play with agents and OpenBB
+- [OpenBB-finance/experimental-openbb-platform-agent](https://github.com/OpenBB-finance/experimental-openbb-platform-agent) - R&D playground to play with agents and OpenBB
 - [github-community-projects/private-mirrors](https://github.com/github-community-projects/private-mirrors) - A GitHub App that allows you to contribute upstream using private mirrors of public projects
 - [SlavaVedernikov/C4InterFlow](https://github.com/SlavaVedernikov/C4InterFlow) - Architecture as Code (AaC) framework that generates diagrams and lets you analyse Application Architecture. Inspired by C4 Model
 - [mr-karan/doggo](https://github.com/mr-karan/doggo) - :dog: Command-line DNS Client for Humans. Written in Golang
@@ -5255,7 +5275,7 @@
 - [Bogdan-Lyashenko/codecrumbs](https://github.com/Bogdan-Lyashenko/codecrumbs) - Learn, design or document codebase by putting breadcrumbs in source code. Live updates, multi-language support and more.
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [duhow/ProfesorOak](https://github.com/duhow/ProfesorOak) - Bot de Telegram para usuarios de Pokémon GO.
-- [NeoRazorX/facturascripts](https://github.com/NeoRazorX/facturascripts) - Open source ERP software. Built on modern PHP and bootstrap 4. Easy and powerful.
+- [NeoRazorX/facturascripts](https://github.com/NeoRazorX/facturascripts) - Open source ERP software. Built on modern PHP and bootstrap. Easy and powerful.
 
 ## postgresql 
 
@@ -5360,6 +5380,8 @@
 
 ## python 
 
+- [golf-mcp/golf](https://github.com/golf-mcp/golf) - Production-Ready MCP Server Framework • Build, deploy & scale secure AI agent infrastructure • Includes Auth, Observability, Debugger, Telemetry & Runtime • Run real-world MCPs powering AI Agents
+- [mohammadmahdi-termux/hackCCTV](https://github.com/mohammadmahdi-termux/hackCCTV) - Hackcctv
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Memory for AI Agents; SOTA in AI Agent Memory; Announcing OpenMemory MCP - local and secure memory management.
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equip's your AI agents & LLMs with 100+ high-quality integrations via function calling
 - [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - JumpServer is an open-source Privileged Access Management (PAM) tool that provides DevOps and IT teams with on-demand and secure access to SSH, RDP, Kubernetes, Database and RemoteApp endpoints throug
@@ -5404,7 +5426,7 @@
 - [d0c-s4vage/lookatme](https://github.com/d0c-s4vage/lookatme) - An interactive, terminal-based markdown presenter
 - [tweag/FawltyDeps](https://github.com/tweag/FawltyDeps) - Python dependency checker
 - [mouredev/one-day-one-language](https://github.com/mouredev/one-day-one-language) - Cómo dar en un día tus primeros pasos en cada lenguaje de programación. Introducción, configuración e instalación, usos habituales, fundamentos, sintaxis y próximos pasos.
-- [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Resume Matcher is an open source, free tool to improve your resume. It works by using AI, Reader LLMs, to compare and rank resumes with job descriptions.
+- [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions.
 - [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - CLI platform to experiment with codegen. Precursor to: https://lovable.dev
 - [github/issue-metrics](https://github.com/github/issue-metrics) - Gather metrics on issues/prs/discussions such as time to first response, count of issues opened, closed, etc.
 - [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
@@ -5421,7 +5443,7 @@
 - [odigos-io/odigos](https://github.com/odigos-io/odigos) - Distributed tracing without code changes. 🚀 Instantly monitor any application using OpenTelemetry and eBPF
 - [Exafunction/windsurf.vim](https://github.com/Exafunction/windsurf.vim) - Free, ultrafast Copilot alternative for Vim and Neovim
 - [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and sim
-- [pyinfra-dev/pyinfra](https://github.com/pyinfra-dev/pyinfra) - :wrench: pyinfra turns Python code into shell commands and runs them on your servers. Execute ad-hoc commands and write declarative operations. Target SSH servers, local machine and Docker containers.
+- [pyinfra-dev/pyinfra](https://github.com/pyinfra-dev/pyinfra) - 🔧 pyinfra turns Python code into shell commands and runs them on your servers. Execute ad-hoc commands and write declarative operations. Target SSH servers, local machine and Docker containers. Fast a
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 - [bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources) - DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP
 - [satellite-image-deep-learning/techniques](https://github.com/satellite-image-deep-learning/techniques) - Techniques for deep learning with satellite & aerial imagery
@@ -5509,7 +5531,7 @@
 - [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
 - [benfred/py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs
 - [Avik-Jain/100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) - 100 Days of ML Coding
-- [pennersr/django-allauth](https://github.com/pennersr/django-allauth) - Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication.
+- [pennersr/django-allauth](https://github.com/pennersr/django-allauth) - Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication. 🔁 Mirror of https://codeberg.org/allauth/django-
 - [owtf/owtf](https://github.com/owtf/owtf) - Offensive Web Testing Framework (OWTF), is a framework which tries to unite great tools and make pen testing more efficient http://owtf.org https://twitter.com/owtfp
 - [Nekmo/dirhunt](https://github.com/Nekmo/dirhunt) - Find web directories without bruteforce
 - [Netflix/security_monkey](https://github.com/Netflix/security_monkey) - Security Monkey monitors AWS, GCP, OpenStack, and GitHub orgs for assets and their changes over time.
@@ -5594,6 +5616,7 @@
 
 ## rails 
 
+- [openSUSE/osem](https://github.com/openSUSE/osem) - Open Source Event Manager. An event management tool tailored to Free and Open Source Software conferences.
 - [adamcooke/staytus](https://github.com/adamcooke/staytus) - 💡 An open source solution for publishing the status of your services
 - [octobox/octobox](https://github.com/octobox/octobox) - 📮 Untangle your GitHub Notifications
 - [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
@@ -5612,7 +5635,7 @@
 
 ## react 
 
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source Vercel alternative
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Sim Studio is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.
 - [nrwl/nx](https://github.com/nrwl/nx) - Build system, optimized for monorepos, with AI-powered architectural awareness and advanced CI capabilities.
@@ -5672,7 +5695,7 @@
 
 ## react-native 
 
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source Vercel alternative
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [animavita/animavita](https://github.com/animavita/animavita) - Trigger life-saving alerts, register animals for adoption and find the closest pet friend to adopt :dog:
 - [devhubapp/devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
 - [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
@@ -5742,6 +5765,7 @@
 
 ## ruby 
 
+- [openSUSE/osem](https://github.com/openSUSE/osem) - Open Source Event Manager. An event management tool tailored to Free and Open Source Software conferences.
 - [github/platform-samples](https://github.com/github/platform-samples) - A public place for all platform sample projects.
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The personal finance app for everyone
 - [mouredev/roadmap-retos-programacion](https://github.com/mouredev/roadmap-retos-programacion) - Ruta de estudio basada en ejercicios de código de la comunidad MoureDev para aprender y practicar lógica usando cualquier lenguaje de programación.
@@ -5856,7 +5880,9 @@
 
 ## security 
 
+- [github/entitlements-app](https://github.com/github/entitlements-app) - The Ruby Gem that Powers Entitlements - GitHub's Identity and Access Management System
 - [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.
+- [invariantlabs-ai/mcp-scan](https://github.com/invariantlabs-ai/mcp-scan) - Constrain, log and scan your MCP connections for security vulnerabilities.
 - [suzuki-shunsuke/pinact](https://github.com/suzuki-shunsuke/pinact) - pinact is a CLI to edit GitHub Workflow and Composite action files and pin versions of Actions and Reusable Workflows. pinact can also update their versions and verify version annotations.
 - [intuitem/ciso-assistant-community](https://github.com/intuitem/ciso-assistant-community) - CISO Assistant is a one-stop-shop for GRC, covering Risk, AppSec, Compliance/Audit Management, Privacy and supporting +90 frameworks worldwide with auto-mapping: NIST CSF, ISO 27001, SOC2, CIS, PCI DS
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
@@ -5956,7 +5982,7 @@
 ## self-hosted 
 
 - [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React. Opensource alternative to Notion or Outline.
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source Vercel alternative
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application 
@@ -5969,7 +5995,7 @@
 - [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [HiEventsDev/Hi.Events](https://github.com/HiEventsDev/Hi.Events) - Open-source event management and ticket selling platform — perfect for concerts, conferences, and everything in between 🎟️  If you find this project helpful, please consider giving us a star ⭐️
-- [getmaxun/maxun](https://github.com/getmaxun/maxun) - 🔥 Open Source No Code Web Data Extraction Platform • Turn Websites To APIs & Spreadsheets With No-Code Robots In Minutes 🔥
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) - ⚡️ Open Source No Code Web Data Extraction Platform • Turn Websites To APIs & Spreadsheets In Minutes ⚡️
 - [BaldissaraMatheus/Tasks.md](https://github.com/BaldissaraMatheus/Tasks.md) - A self-hosted, Markdown file based task management board
 - [runs-on/runs-on](https://github.com/runs-on/runs-on) - Self-hosted GitHub Actions runners made simple. For AWS. 10x cheaper, 30% faster, and unlimited caching. Best alternative to Actions Runner Controller.
 - [machulav/ec2-github-runner](https://github.com/machulav/ec2-github-runner) - On-demand self-hosted AWS EC2 runner for GitHub Actions
@@ -6006,7 +6032,7 @@
 
 ## serverless 
 
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source Vercel alternative
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [kubevela/kubevela](https://github.com/kubevela/kubevela) - The Modern Application Platform.
 - [winglang/wing](https://github.com/winglang/wing) - A programming language for the cloud ☁️ A unified programming model, combining infrastructure and runtime code into one language ⚡
 - [github-aws-runners/terraform-aws-github-runner](https://github.com/github-aws-runners/terraform-aws-github-runner) - Terraform module for scalable GitHub action runners on AWS
@@ -6170,7 +6196,7 @@
 
 ## swift 
 
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source Vercel alternative
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [mouredev/roadmap-retos-programacion](https://github.com/mouredev/roadmap-retos-programacion) - Ruta de estudio basada en ejercicios de código de la comunidad MoureDev para aprender y practicar lógica usando cualquier lenguaje de programación.
 - [onelang/OneLang](https://github.com/onelang/OneLang) - 
 - [mouredev/one-day-one-language](https://github.com/mouredev/one-day-one-language) - Cómo dar en un día tus primeros pasos en cada lenguaje de programación. Introducción, configuración e instalación, usos habituales, fundamentos, sintaxis y próximos pasos.
@@ -6320,6 +6346,10 @@
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+
+## termux 
+
+- [mohammadmahdi-termux/hackCCTV](https://github.com/mohammadmahdi-termux/hackCCTV) - Hackcctv
 
 ## terraform 
 
@@ -6491,7 +6521,7 @@
 - [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Twilio, Buffer, Framer, Perplexity, Vercel, and more.
 - [xitanggg/open-resume](https://github.com/xitanggg/open-resume) - OpenResume is a powerful open-source resume builder and resume parser. https://open-resume.com/
 - [mouredev/one-day-one-language](https://github.com/mouredev/one-day-one-language) - Cómo dar en un día tus primeros pasos en cada lenguaje de programación. Introducción, configuración e instalación, usos habituales, fundamentos, sintaxis y próximos pasos.
-- [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Resume Matcher is an open source, free tool to improve your resume. It works by using AI, Reader LLMs, to compare and rank resumes with job descriptions.
+- [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions.
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, internal PKI, and SSH access.
 - [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote) - A React Rich Text Editor that's block-based (Notion style) and extensible. Built on top of Prosemirror and Tiptap.
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
@@ -6636,7 +6666,7 @@
 
 ## web 
 
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source Vercel alternative
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
 - [rio-labs/rio](https://github.com/rio-labs/rio) - WebApps in pure Python. No JavaScript, HTML and CSS needed
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
