@@ -462,7 +462,7 @@
 - [sozercan/aikit](https://github.com/sozercan/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily!
 - [josephburnett/jd](https://github.com/josephburnett/jd) - JSON diff and patch
 - [fleetdm/fleet](https://github.com/fleetdm/fleet) - Open device management
-- [coder/coder](https://github.com/coder/coder) - Provision remote development environments via Terraform
+- [coder/coder](https://github.com/coder/coder) - Secure environments for developers and their agents
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [actions/actions-sync](https://github.com/actions/actions-sync) - This tool allows GHES administrators to sync Actions to their instances
 - [CRED-CLUB/propeller](https://github.com/CRED-CLUB/propeller) - Push platform for realtime and bidirectional communication between clients and servers
@@ -1944,7 +1944,7 @@
 - [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [idoavrah/terraform-tui](https://github.com/idoavrah/terraform-tui) - Terraform textual UI
-- [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
+- [openinterpreter/open-interpreter](https://github.com/openinterpreter/open-interpreter) - A natural language interface for computers
 - [ministryofjustice/operations-engineering](https://github.com/ministryofjustice/operations-engineering) - This repository is home to the Operations Engineering's tools and utilities for managing, monitoring, and optimising software development processes at the Ministry of Justice. • This repository is def
 - [CasperWA/push-protected](https://github.com/CasperWA/push-protected) - GitHub Action to push newly created commit(s) to a protected branch, waiting for status checks to succeed
 - [d0c-s4vage/lookatme](https://github.com/d0c-s4vage/lookatme) - An interactive, terminal-based markdown presenter
@@ -2604,7 +2604,7 @@
 - [Azure/azure-webpubsub](https://github.com/Azure/azure-webpubsub) - Azure Web PubSub Service helps you to manage WebSocket connections and do publish and subscribe in an easy way
 - [fastrepl/hyprnote](https://github.com/fastrepl/hyprnote) - Secure AI-powered meeting notetaker that runs on your device and keeps your data private.
 - [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
-- [mariomnts/pantallas-adif](https://github.com/mariomnts/pantallas-adif) - Configurador pantallas sistema información viajeros ADIF
+- [mariomnts/pantallas-estaciones](https://github.com/mariomnts/pantallas-estaciones) - Configurador pantallas sistema información viajeros estaciones ADIF
 - [idosal/git-mcp](https://github.com/idosal/git-mcp) - Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project
 - [wiredoor/wiredoor](https://github.com/wiredoor/wiredoor) - Self hosted ingress-as-a-service platform that allows you to expose applications and services running in private or local networks to the internet
 - [hangwin/mcp-chrome](https://github.com/hangwin/mcp-chrome) - Chrome MCP Server is a Chrome extension-based Model Context Protocol (MCP) server that exposes your Chrome browser functionality to AI assistants like Claude, enabling complex browser automation, cont
