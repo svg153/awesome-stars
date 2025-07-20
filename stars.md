@@ -841,7 +841,6 @@
 - [BenjaminAster/CSS-Minecraft](https://github.com/BenjaminAster/CSS-Minecraft) - A Minecraft clone made with pure HTML & CSS – no JavaScript.
 - [thomast1906/github-copilot-metric-viewer](https://github.com/thomast1906/github-copilot-metric-viewer) - 
 - [openshifttips/web](https://github.com/openshifttips/web) - Hugo content for the openshift.tips blog
-- [codetocloudorg/platform-engineering](https://github.com/codetocloudorg/platform-engineering) - A centralized hub for platform engineering teams, providing resources, best practices, and automation tools. Includes IaC templates, blueprints, and operational guides to help build scalable, secure, 
 - [ydarias/ydarias.github.io](https://github.com/ydarias/ydarias.github.io) - My personal blog
 - [asishkumar-gouda/go-web-app-devops](https://github.com/asishkumar-gouda/go-web-app-devops) - This is the Complete CI/CD implementation for the Golang Application. Helm Charts to Deploy to the EKS namespace using ArgoCD
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
@@ -1026,6 +1025,8 @@
 
 ## JavaScript 
 
+- [shareAI-lab/analysis_claude_code](https://github.com/shareAI-lab/analysis_claude_code) - 本仓库包含对 Claude Code v1.0.33 进行逆向工程的完整研究和分析资料。包括对混淆源代码的深度技术分析、系统架构文档，以及重构 Claude      Code agent 系统的实现蓝图。主要发现包括实时 Steering 机制、多 Agent      架构、智能上下文管理和工具执行管道。该项目为理解现代 AI agent 系统设计和实现提供技术参考。
+- [xavidop/book-template](https://github.com/xavidop/book-template) - Book template that auto-generates your markdown files in epub, pdf, mobi, leanpub and dynamic website!
 - [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master) - An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
 - [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) - CLI tool for configuring and monitoring Claude Code
 - [jjimenezshaw/Zona-SER-Madrid](https://github.com/jjimenezshaw/Zona-SER-Madrid) - Mapa con las distintas plazas (verdes, azules, naranjas, ...) de la Zona SER de Madrid
@@ -1291,6 +1292,7 @@
 
 ## Jupyter Notebook 
 
+- [github/codespaces-models](https://github.com/github/codespaces-models) - 
 - [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
 - [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) - In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
 - [alphacep/vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
@@ -1299,6 +1301,7 @@
 - [faisalsayed10/no-ghibli](https://github.com/faisalsayed10/no-ghibli) - No Ghibli on Twitter
 - [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) - 11 Lessons to Get Started Building AI Agents
 - [jaimegonzalezc/ZeroScam](https://github.com/jaimegonzalezc/ZeroScam) - 
+- [microsoft/TinyTroupe](https://github.com/microsoft/TinyTroupe) - LLM-powered multiagent persona simulation for imagination enhancement and business insights.
 - [wisupai/e2m](https://github.com/wisupai/e2m) - E2M converts various file types (doc, docx, epub, html, htm, url, pdf, ppt, pptx, mp3, m4a) into Markdown. It’s easy to install, with dedicated parsers and converters, supporting custom configs. E2M o
 - [lamm-mit/PDF2Audio](https://github.com/lamm-mit/PDF2Audio) - 
 - [AnswerDotAI/llms-txt](https://github.com/AnswerDotAI/llms-txt) - The /llms.txt file, helping language models use your website
@@ -1438,7 +1441,7 @@
 - [mattnigh/copilot_issue_templates](https://github.com/mattnigh/copilot_issue_templates) - A repo for Issue templates that use Copilot + AI to accomplish tasks
 - [google-labs-code/jules-awesome-list](https://github.com/google-labs-code/jules-awesome-list) - Some awesome prompts for Jules Agent
 - [microsoft/mcp](https://github.com/microsoft/mcp) - Catalog of official Microsoft MCP (Model Context Protocol) server implementations for AI-powered data access and tool integration
-- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Trae AI & Cluely (And other Open Sourced) System Prompts, Tools & AI Models.
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI & Cluely (And other Open Sourced) System Prompts, Tools & AI Models.
 - [deors/deors-demos-github-copilot](https://github.com/deors/deors-demos-github-copilot) - A collection of GitHub Copilot Extension examples
 - [ZachGoldberg/Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook) - The Startup CTO's Handbook, a book covering leadership, management and technical topics for leaders of software engineering teams
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
@@ -1612,7 +1615,6 @@
 - [maddiestone/AndroidAppRE](https://github.com/maddiestone/AndroidAppRE) - Android App Reverse Engineering Workshop
 - [in28minutes/learn](https://github.com/in28minutes/learn) - How do you achieve your career objectives? Complete career paths with amazing Cloud, Full Stack and Microservice Courses and Videos from in28Minutes
 - [jaymeh13/Keyboardgym](https://github.com/jaymeh13/Keyboardgym) - Prevent and alleviate repetitive strain injuries (RSIs) with this collection of exercise videos and ergonomic gear.
-- [abdallahalsamman/awesome-health](https://github.com/abdallahalsamman/awesome-health) - Curated awesome health content for desk workers
 - [hotchemi/awesome-android-testing](https://github.com/hotchemi/awesome-android-testing) - A curated list of awesome android testing libraries.
 - [TheJambo/awesome-testing](https://github.com/TheJambo/awesome-testing) - A curated list of testing resources
 - [ksluckow/awesome-symbolic-execution](https://github.com/ksluckow/awesome-symbolic-execution) - A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools.
@@ -1758,7 +1760,7 @@
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
 - [skgsergio/fiwiki](https://github.com/skgsergio/fiwiki) - 
 - [batmafia/ETSIINFbot](https://github.com/batmafia/ETSIINFbot) - Bot de telegram (no oficial) para @informaticaupm (aka @FIUPM)
-- [docker/labs](https://github.com/docker/labs) - This is a collection of tutorials for learning how to use Docker with various tools. Contributions welcome.
+- [docker-archive-public/docker.labs](https://github.com/docker-archive-public/docker.labs) - This is a collection of tutorials for learning how to use Docker with various tools. Contributions welcome.
 - [collabnix/dockerlabs](https://github.com/collabnix/dockerlabs) - Docker  - Beginners | Intermediate | Advanced
 - [hashtopolis/server](https://github.com/hashtopolis/server) - Hashtopolis - distributed password cracking with Hashcat
 - [duhow/ProfesorOak](https://github.com/duhow/ProfesorOak) - Bot de Telegram para usuarios de Pokémon GO.
@@ -1805,7 +1807,10 @@
 
 ## Python 
 
-- [NomenAK/SuperClaude](https://github.com/NomenAK/SuperClaude) - A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies.
+- [AlexanderVanhee/Gradia](https://github.com/AlexanderVanhee/Gradia) - Make your screenshots ready for all
+- [tinybirdco/ai](https://github.com/tinybirdco/ai) - Tinybird utils for your AI based apps
+- [appdotbuild/agent](https://github.com/appdotbuild/agent) - The agent that generates working apps (and maybe some other things)
+- [SuperClaude-Org/SuperClaude_Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework) - A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies.
 - [github-samples/agents-in-sdlc](https://github.com/github-samples/agents-in-sdlc) - Lab Walkthrough and Demo for the "Collaborating with agents in your software development workflow" workshop
 - [letta-ai/agent-file](https://github.com/letta-ai/agent-file) - Agent File (.af): An open file format for serializing stateful AI agents with persistent memory and behavior. Share, checkpoint, and version control agents across compatible frameworks.
 - [microsoft/magentic-ui](https://github.com/microsoft/magentic-ui) - A research prototype of a human-centered web agent
@@ -1849,7 +1854,7 @@
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
 - [techwithtim/BDAIScraperAgent](https://github.com/techwithtim/BDAIScraperAgent) - 
 - [allenai/olmocr](https://github.com/allenai/olmocr) - Toolkit for linearizing PDFs for LLM datasets/training
-- [frdel/agent-zero](https://github.com/frdel/agent-zero) - Agent Zero AI framework
+- [agent0ai/agent-zero](https://github.com/agent0ai/agent-zero) - Agent Zero AI framework
 - [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Investment Research for Everyone, Everywhere.
 - [hrithikkoduri/WebRover](https://github.com/hrithikkoduri/WebRover) - WebRover is an autonomous AI agent designed to interpret user input and execute actions by interacting with web elements to accomplish tasks or answer questions. It leverages advanced language models 
 - [github/stale-repos](https://github.com/github/stale-repos) - Find stale repositories in a GitHub organization.
@@ -1864,7 +1869,6 @@
 - [3b1b/videos](https://github.com/3b1b/videos) - Code for the manim-generated scenes used in 3blue1brown videos
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 - [hongbo-miao/hongbomiao.com](https://github.com/hongbo-miao/hongbomiao.com) - A personal research and development (R&D) lab that facilitates the sharing of knowledge.
-- [microsoft/TinyTroupe](https://github.com/microsoft/TinyTroupe) - LLM-powered multiagent persona simulation for imagination enhancement and business insights.
 - [SamuelSchmidgall/AgentLaboratory](https://github.com/SamuelSchmidgall/AgentLaboratory) - Agent Laboratory is an end-to-end autonomous research workflow meant to assist you as the human researcher toward implementing your research ideas
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background
 - [CatchTheTornado/text-extract-api](https://github.com/CatchTheTornado/text-extract-api) - Document (PDF, Word, PPTX ...) extraction and parse API using state of the art modern OCRs + Ollama supported models. Anonymize documents. Remove PII. Convert any document or picture to structured JSO
@@ -2241,6 +2245,7 @@
 
 ## Rust 
 
+- [facebook/pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and IDE for Python
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
@@ -2368,6 +2373,7 @@
 - [JamesTurland/JimsGarage](https://github.com/JamesTurland/JimsGarage) - Homelab Goodies
 - [plengauer/Thoth](https://github.com/plengauer/Thoth) - 
 - [kenmuse/github-misc-scripts](https://github.com/kenmuse/github-misc-scripts) - GitHub script samples for automation
+- [codetocloudorg/platform-engineering](https://github.com/codetocloudorg/platform-engineering) - A centralized hub for platform engineering teams, providing resources, best practices, and automation tools. Includes IaC templates, blueprints, and operational guides to help build scalable, secure, 
 - [johanhaleby/kubetail](https://github.com/johanhaleby/kubetail) - Bash script to tail Kubernetes logs from multiple pods at the same time
 - [paxtonhare/demo-magic](https://github.com/paxtonhare/demo-magic) - A handy shell script that enables you to write repeatable demos in a bash environment.
 - [Piotr1215/youtube](https://github.com/Piotr1215/youtube) - Youtube recordings from the terminal
@@ -2733,7 +2739,7 @@
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [devops-actions/load-available-actions](https://github.com/devops-actions/load-available-actions) - Load all actions stored in the current organization
 - [suzuki-shunsuke/tfaction](https://github.com/suzuki-shunsuke/tfaction) - Framework for Monorepo to build high level Terraform Workflows by GitHub Actions
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Create, share, and use custom AI code assistants with our open-source IDE extensions and hub of models, rules, prompts, docs, and other building blocks
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Create, share, and use custom AI code assistants with our open-source IDE extensions and hub of rules, tools, and models
 - [CodelyTV/infrastructure_design-eventbus-aws-course](https://github.com/CodelyTV/infrastructure_design-eventbus-aws-course) - Infrastructure Design: AWS SQS as a Message Queue course examples
 - [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁
