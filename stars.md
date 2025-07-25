@@ -937,7 +937,7 @@
 
 - [alibaba/atlas](https://github.com/alibaba/atlas) - A powerful Android Dynamic Component Framework.
 - [GumTreeDiff/gumtree](https://github.com/GumTreeDiff/gumtree) - An awesome code differencing tool
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 600+ plugins. Alternative to Airflow, n8n, Rundeck, VMware vRA, Zapier ...
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 700+ plugins. Alternative to Airflow, n8n, Dagster, Prefect, Rundeck, VMware vRA, Zapier ...
 - [ghas-bootcamp/ghas-bootcamp](https://github.com/ghas-bootcamp/ghas-bootcamp) - This bootcamp is designed to familiarize you with GitHub Advanced Security (GHAS) so that you can better understand how to use it in your own repositories.
 - [strimzi/strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator) - Apache Kafka® running on Kubernetes
 - [jeffreygroneberg/ghcpworkshopcsuger](https://github.com/jeffreygroneberg/ghcpworkshopcsuger) - A repository that can be used to showcase the capabilities within a 2 hours and 4 hours workshop
@@ -1029,6 +1029,7 @@
 
 ## JavaScript 
 
+- [0GiS0/midudev-lemoncode](https://github.com/0GiS0/midudev-lemoncode) - 🚀 Mis demos en el Twitch de Midudev
 - [mattermost-community/mattermost-plugin-walltime](https://github.com/mattermost-community/mattermost-plugin-walltime) - Timezone Message Convert for Mattermost 🕛 🕒 🕕 🕘
 - [microsoft/CopilotAdventures](https://github.com/microsoft/CopilotAdventures) - GitHub Copilot coding adventures
 - [shareAI-lab/analysis_claude_code](https://github.com/shareAI-lab/analysis_claude_code) - 本仓库包含对 Claude Code v1.0.33 进行逆向工程的完整研究和分析资料。包括对混淆源代码的深度技术分析、系统架构文档，以及重构 Claude      Code agent 系统的实现蓝图。主要发现包括实时 Steering 机制、多 Agent      架构、智能上下文管理和工具执行管道。该项目为理解现代 AI agent 系统设计和实现提供技术参考。
