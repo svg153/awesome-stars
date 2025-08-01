@@ -104,6 +104,7 @@
 ## Astro 
 
 - [chrisvdev/CVTalk](https://github.com/chrisvdev/CVTalk) - An Twitch chat viewer with TTS and other things integrated
+- [RyanFitzgerald/devportfolio](https://github.com/RyanFitzgerald/devportfolio) - A modern, minimalist portfolio template built with Astro and Tailwind CSS. Perfect for developers looking to showcase their skills, experience, and projects in a clean, professional way.
 
 ## AutoHotkey 
 
@@ -422,6 +423,7 @@
 - [charmbracelet/fang](https://github.com/charmbracelet/fang) - The CLI starter kit
 - [cdnetworks-api/terraform-provider-cdnetworks](https://github.com/cdnetworks-api/terraform-provider-cdnetworks) - Terraform Cdnetworks Provider
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
+- [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
 - [grafana/tempo-mcp-server](https://github.com/grafana/tempo-mcp-server) - An MCP ( Model Context Protocol ) Server for Grafana Tempo
 - [kaito-project/kaito](https://github.com/kaito-project/kaito) - Kubernetes AI Toolchain Operator
 - [giantswarm/mcp-debug](https://github.com/giantswarm/mcp-debug) - 
@@ -432,7 +434,7 @@
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) - MCP server for Grafana
 - [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.
 - [projectdiscovery/katana](https://github.com/projectdiscovery/katana) - A next-generation crawling and spidering framework.
-- [krillinai/KlicStudio](https://github.com/krillinai/KlicStudio) - A video translation and dubbing tool powered by LLMs, offering professional-grade translations and one-click full-process deployment. It can generate content optimized for platforms like YouTube，TikTo
+- [krillinai/KlicStudio](https://github.com/krillinai/KlicStudio) - A video translation and dubbing tool powered by LLMs, offering 99 language translations and one-click full-process deployment. It can generate content optimized for platforms like YouTube，TikTok, and 
 - [github/gh-models](https://github.com/github/gh-models) - CLI extension for the GitHub Models service
 - [sinclairtarget/git-who](https://github.com/sinclairtarget/git-who) - Git blame for file trees
 - [github/gh-combine](https://github.com/github/gh-combine) - A gh cli extension to automatically combine multiple pull requests into one
@@ -440,7 +442,6 @@
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
 - [suzuki-shunsuke/pinact](https://github.com/suzuki-shunsuke/pinact) - pinact is a CLI to edit GitHub Workflow and Composite action files and pin versions of Actions and Reusable Workflows. pinact can also update their versions and verify version annotations.
 - [suzuki-shunsuke/tfmv](https://github.com/suzuki-shunsuke/tfmv) - CLI to rename Terraform resources and generate moved blocks
-- [flohoss/gocron](https://github.com/flohoss/gocron) - A go based task scheduler with GUI
 - [ankitpokhrel/jira-cli](https://github.com/ankitpokhrel/jira-cli) - 🔥 Feature-rich interactive Jira command line.
 - [datolabs-io/opsy](https://github.com/datolabs-io/opsy) - Opsy - Your AI-Powered SRE Colleague
 - [bjesus/pipet](https://github.com/bjesus/pipet) - Swiss-army tool for scraping and extracting data from online assets, made for hackers
@@ -854,6 +855,7 @@
 - [JaimeObregon/observatoriospublicos.es](https://github.com/JaimeObregon/observatoriospublicos.es) - Observatorio de los observatorios públicos de España
 - [salaboy/platforms-on-k8s](https://github.com/salaboy/platforms-on-k8s) - Platform Engineering on Kubernetes :: Book Examples
 - [tensorchord/ai-infra-landscape](https://github.com/tensorchord/ai-infra-landscape) - This is a landscape of the infrastructure that powers the generative AI ecosystem
+- [steveseguin/social_stream](https://github.com/steveseguin/social_stream) - Consolidate your live social messaging streams and much more
 - [FidelusAleksander/ghcertified](https://github.com/FidelusAleksander/ghcertified) - Prepare for GitHub Certification exams!
 - [u8views/go-u8views](https://github.com/u8views/go-u8views) - GitHub profile views tracker: displaying monthly view statistics
 - [noeal-dac/Animated-Lower-Thirds](https://github.com/noeal-dac/Animated-Lower-Thirds) - Animated Lower Thirds with dockable Control Panel - OBS Tool
@@ -936,7 +938,7 @@
 
 - [alibaba/atlas](https://github.com/alibaba/atlas) - A powerful Android Dynamic Component Framework.
 - [GumTreeDiff/gumtree](https://github.com/GumTreeDiff/gumtree) - An awesome code differencing tool
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 700+ plugins. Alternative to Airflow, n8n, Dagster, Prefect, Rundeck, VMware vRA, Zapier ...
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Universal Workflow Orchestration Platform — Code in any language, run anywhere. 800+ plugins for data, infrastructure, and AI automation.
 - [ghas-bootcamp/ghas-bootcamp](https://github.com/ghas-bootcamp/ghas-bootcamp) - This bootcamp is designed to familiarize you with GitHub Advanced Security (GHAS) so that you can better understand how to use it in your own repositories.
 - [strimzi/strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator) - Apache Kafka® running on Kubernetes
 - [jeffreygroneberg/ghcpworkshopcsuger](https://github.com/jeffreygroneberg/ghcpworkshopcsuger) - A repository that can be used to showcase the capabilities within a 2 hours and 4 hours workshop
@@ -1099,7 +1101,6 @@
 - [CiroMirkin/Apuntes](https://github.com/CiroMirkin/Apuntes) - Apuntes teóricos de programación.
 - [microlinkhq/unavatar](https://github.com/microlinkhq/unavatar) - Get unified user avatar from social networks, including Instagram, SoundCloud, Telegram, Twitter, YouTube & more.
 - [Pradumnasaraf/DevOps](https://github.com/Pradumnasaraf/DevOps) - I created this repository to keep my learning, notes, and code in one place for various tools in DevOps. Now, it's helping thousands of learners, practitioners, and professionals every day in their De
-- [steveseguin/social_stream](https://github.com/steveseguin/social_stream) - Consolidate your live social messaging streams and much more
 - [upgundecha/howtheysre](https://github.com/upgundecha/howtheysre) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
 - [chrisvdev/obs-chat](https://github.com/chrisvdev/obs-chat) - Also known as CVTalk is a Twitch chat viewer made with React for use in OBS or any streaming software capable of using a browser as a source including TTS and other cool features.
 - [steveseguin/vdo.ninja](https://github.com/steveseguin/vdo.ninja) - VDO.Ninja is a powerful tool that lets you bring remote video feeds into OBS or other studio software via WebRTC.
@@ -1279,7 +1280,7 @@
 - [GoLoT/Horario-FI-UPM](https://github.com/GoLoT/Horario-FI-UPM) - Generador de horarios para asignaturas de la FI-UPM
 - [wekan/wekan](https://github.com/wekan/wekan) - The Open Source kanban (built with Meteor). Keep variable/table/field names camelCase. For translations, only add Pull Request changes to wekan/i18n/en.i18n.json , other translations are done at https
 - [appium/appium](https://github.com/appium/appium) - Cross-platform automation framework for all kinds of apps, built on top of the W3C WebDriver protocol
-- [Konard/twittermatrix](https://github.com/Konard/twittermatrix) - Twitter real-time data visualized as Matrix's "digital rain"/"green rain"/"green screen"
+- [konard/twittermatrix](https://github.com/konard/twittermatrix) - Twitter real-time data visualized as Matrix's "digital rain"/"green rain"/"green screen"
 - [javallone/regexper-static](https://github.com/javallone/regexper-static) - Regular Expression Visualization Site (static site version) -- migrated to https://gitlab.com/javallone/regexper-static
 - [djfarrelly/timezone](https://github.com/djfarrelly/timezone) - :globe_with_meridians: Keep track of your distributed team's timezones
 - [anvaka/time](https://github.com/anvaka/time) - Simple Google Sheets interface to track time
@@ -1436,7 +1437,6 @@
 ## Others 
 
 - [github/empty-repos](https://github.com/github/empty-repos) - A GitHub Actions workflow to find empty repos
-- [gyoridavid/ai_agents_az](https://github.com/gyoridavid/ai_agents_az) - 
 - [0GiS0/home-assistant-mcp](https://github.com/0GiS0/home-assistant-mcp) - ¡Controla tu casa desde VS Code! 🧠💡 Configura el MCP Server de Home Assistant paso a paso 🛠️🏠
 - [chriswblake/github-copilot-lamp](https://github.com/chriswblake/github-copilot-lamp) - A fun and playful lamp to match the energy of GitHub Copilot.
 - [github-copilot-resources/copilot-metrics-viewer-power-bi](https://github.com/github-copilot-resources/copilot-metrics-viewer-power-bi) - A sample Power BI dashboard that leverages the GitHub Copilot Metrics API.
@@ -1813,6 +1813,9 @@
 
 ## Python 
 
+- [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners) - This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, and Python. Designed for deve
+- [grafana/campfire-mcp-demo](https://github.com/grafana/campfire-mcp-demo) - 
+- [mikf/gallery-dl](https://github.com/mikf/gallery-dl) - Command-line program to download image galleries and collections from several image hosting sites
 - [sooperset/mcp-atlassian](https://github.com/sooperset/mcp-atlassian) - MCP server for Atlassian tools (Confluence, Jira)
 - [octotools/octotools](https://github.com/octotools/octotools) - OctoTools: An agentic framework with extensible tools for complex reasoning
 - [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
@@ -1821,6 +1824,7 @@
 - [AlexanderVanhee/Gradia](https://github.com/AlexanderVanhee/Gradia) - Make your screenshots ready for all
 - [tinybirdco/ai](https://github.com/tinybirdco/ai) - Tinybird utils for your AI based apps
 - [appdotbuild/agent](https://github.com/appdotbuild/agent) - The agent that generates working apps (and maybe some other things)
+- [gyoridavid/ai_agents_az](https://github.com/gyoridavid/ai_agents_az) - 
 - [SuperClaude-Org/SuperClaude_Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework) - A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies.
 - [github-samples/agents-in-sdlc](https://github.com/github-samples/agents-in-sdlc) - Lab Walkthrough and Demo for the "Collaborating with agents in your software development workflow" workshop
 - [letta-ai/agent-file](https://github.com/letta-ai/agent-file) - Agent File (.af): An open file format for serializing stateful AI agents with persistent memory and behavior. Share, checkpoint, and version control agents across compatible frameworks.
@@ -1967,6 +1971,7 @@
 - [github/innovationgraph](https://github.com/github/innovationgraph) - GitHub Innovation Graph
 - [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - The first real AI developer
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
+- [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions.
 - [qodo-ai/pr-agent](https://github.com/qodo-ai/pr-agent) - 🚀 PR-Agent (Qodo Merge open-source): An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
 - [joshpxyne/gpt-migrate](https://github.com/joshpxyne/gpt-migrate) - Easily migrate your codebase from one framework or language to another.
 - [clovaai/donut](https://github.com/clovaai/donut) - Official Implementation of OCR-free Document Understanding Transformer (Donut) and Synthetic Document Generator (SynthDoG), ECCV 2022
@@ -1989,7 +1994,7 @@
 - [robusta-dev/kubernetes-chatgpt-bot](https://github.com/robusta-dev/kubernetes-chatgpt-bot) - A ChatGPT bot for Kubernetes issues.
 - [toolleeo/awesome-cli-apps-in-a-csv](https://github.com/toolleeo/awesome-cli-apps-in-a-csv) - The largest Awesome Curated list of command line programs (CLI/TUI) with source data organized into CSV files
 - [adobe-research/custom-diffusion](https://github.com/adobe-research/custom-diffusion) - Custom Diffusion: Multi-Concept Customization of Text-to-Image Diffusion (CVPR 2023)
-- [THUDM/CodeGeeX](https://github.com/THUDM/CodeGeeX) - CodeGeeX: An Open Multilingual Code Generation Model (KDD 2023)
+- [zai-org/CodeGeeX](https://github.com/zai-org/CodeGeeX) - CodeGeeX: An Open Multilingual Code Generation Model (KDD 2023)
 - [sezanzeb/input-remapper](https://github.com/sezanzeb/input-remapper) - 🎮 ⌨ An easy to use tool to change the behaviour of your input devices.
 - [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and sim
 - [pyinfra-dev/pyinfra](https://github.com/pyinfra-dev/pyinfra) - 🔧 pyinfra turns Python code into shell commands and runs them on your servers. Execute ad-hoc commands and write declarative operations. Target SSH servers, local machine and Docker containers. Fast a
@@ -2362,7 +2367,6 @@
 - [conventional-commits/conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification
 - [creativetimofficial/material-dashboard](https://github.com/creativetimofficial/material-dashboard) - Material Dashboard - Open Source Bootstrap 5 Material Design Admin
 - [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - Cheatsheets for web development - devhints.io
-- [RyanFitzgerald/devportfolio](https://github.com/RyanFitzgerald/devportfolio) - A lightweight, customizable single-page personal portfolio website template built with JavaScript and Sass
 - [prakhar1989/docker-curriculum](https://github.com/prakhar1989/docker-curriculum) - :dolphin: A comprehensive tutorial on getting started with Docker!
 - [jarrekk/Jalpc](https://github.com/jarrekk/Jalpc) - 🍎Jalpc -- A flexible Jekyll theme, 3 steps to build your website.
 
@@ -2485,7 +2489,7 @@
 - [k4m4/movies-for-hackers](https://github.com/k4m4/movies-for-hackers) - 🎬 A curated list of movies every hacker & cyberpunk must watch.
 - [menny/docker_android](https://github.com/menny/docker_android) - My general usage (very up-to-date) Docker image for Android CI
 - [Crestwave/shmenu](https://github.com/Crestwave/shmenu) - A dynamic menu for the terminal written in pure Bash
-- [kamranahmedse/git-standup](https://github.com/kamranahmedse/git-standup) - Recall what you did on the last working day. Psst! or be nosy and find what someone else in your team did ;-)
+- [kamranahmedse/git-standup](https://github.com/kamranahmedse/git-standup) - Recall what you or your team did on the last working day
 - [Bash-it/bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
 - [elastic/stack-docker](https://github.com/elastic/stack-docker) - Project no longer maintained.
 - [nikita-skobov/create-bash-script](https://github.com/nikita-skobov/create-bash-script) - A bash script designed to create other bash scripts with argument parsing
@@ -2619,6 +2623,8 @@
 
 ## TypeScript 
 
+- [signerlabs/Klee](https://github.com/signerlabs/Klee) - Secure and local AI on your desktop with a built-in RAG knowledge base and Markdown note support.
+- [homarr-labs/homarr](https://github.com/homarr-labs/homarr) - A modern and easy to use dashboard. 14+ integrations. 10K+ icons built in. Authentication out of the box. No YAML, drag and drop configuration.
 - [btahir/open-deep-research](https://github.com/btahir/open-deep-research) - Open source alternative to Gemini Deep Research. Generate reports with AI based on search results.
 - [simonw/system-exploration-g](https://github.com/simonw/system-exploration-g) - Unofficial documentation for GitHub Spark, generated with GitHub Spark
 - [mattermost/mattermost-plugin-calls](https://github.com/mattermost/mattermost-plugin-calls) - 
@@ -2634,7 +2640,6 @@
 - [hangwin/mcp-chrome](https://github.com/hangwin/mcp-chrome) - Chrome MCP Server is a Chrome extension-based Model Context Protocol (MCP) server that exposes your Chrome browser functionality to AI assistants like Claude, enabling complex browser automation, cont
 - [microsoft/copilot-metrics-dashboard](https://github.com/microsoft/copilot-metrics-dashboard) - The GitHub Copilot Metrics Dashboard is a solution accelerator designed to visualize metrics from GitHub Copilot using the GitHub Copilot Metrics API and GitHub Copilot User Management API.
 - [codexu/note-gen](https://github.com/codexu/note-gen) - A cross-platform Markdown note-taking application dedicated to using AI to bridge recording and writing, organizing fragmented knowledge into a readable note.
-- [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
 - [microsoft/vscode-copilot-chat](https://github.com/microsoft/vscode-copilot-chat) - Copilot Chat extension for VS Code
 - [FidelusAleksander/ai-translate-action](https://github.com/FidelusAleksander/ai-translate-action) - GitHub Action for AI-powered file translation between different languages
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
@@ -2665,8 +2670,8 @@
 - [liam-hq/liam](https://github.com/liam-hq/liam) - Automatically generates beautiful and easy-to-read ER diagrams from your database.
 - [addyosmani/recorder](https://github.com/addyosmani/recorder) - 📹 Record is an open-source web app to record screen and camera directly in your browser | No installation required | No tracking | Fully local
 - [actions/ai-inference](https://github.com/actions/ai-inference) - An action for calling AI models with GitHub Models
-- [simstudioai/sim](https://github.com/simstudioai/sim) - Sim Studio is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.
-- [containerelic/github-enterprise-mcp](https://github.com/containerelic/github-enterprise-mcp) - github-enterprise-mcp
+- [simstudioai/sim](https://github.com/simstudioai/sim) - Sim is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.
+- [ddukbg/github-enterprise-mcp](https://github.com/ddukbg/github-enterprise-mcp) - github-enterprise-mcp
 - [taylor-lindores-reeves/mcp-github-projects](https://github.com/taylor-lindores-reeves/mcp-github-projects) - 
 - [PhialsBasement/mcp-github-server-plus](https://github.com/PhialsBasement/mcp-github-server-plus) - Model Context Protocol server for GitHub API integration
 - [mcp-agents-ai/mcp-agents-hub](https://github.com/mcp-agents-ai/mcp-agents-hub) - The open-source ecosystem for building, discovering, and deploying Model Context Protocol servers and clients.
@@ -2678,6 +2683,7 @@
 - [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) - Playwright MCP server
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [kagent-dev/kagent](https://github.com/kagent-dev/kagent) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
+- [flohoss/gocron](https://github.com/flohoss/gocron) - A go based task scheduler with GUI
 - [rowyio/rowy](https://github.com/rowyio/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
 - [usertour/usertour](https://github.com/usertour/usertour) - Usertour is an open-source user onboarding platform. It allows you to create in-app product tours, checklists, and surveys in minutes—effortlessly and with full control.The open-source alternative to 
 - [browserbase/stagehand](https://github.com/browserbase/stagehand) - The AI Browser Automation Framework
@@ -2703,7 +2709,7 @@
 - [MayGo/tockler](https://github.com/MayGo/tockler) - An application that tracks your time by monitoring your active window title and idle time.
 - [actions/container-toolkit-action](https://github.com/actions/container-toolkit-action) - Template repo for creating container actions using https://github.com/actions/toolkit/
 - [issue-ops/parser](https://github.com/issue-ops/parser) - Convert issue form responses to JSON
-- [kubernetes-sigs/kui](https://github.com/kubernetes-sigs/kui) - A hybrid command-line/UI development experience for cloud-native development
+- [kubernetes-retired/kui](https://github.com/kubernetes-retired/kui) - A hybrid command-line/UI development experience for cloud-native development
 - [achris-alonzo30/github-portfolio](https://github.com/achris-alonzo30/github-portfolio) - 
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [lumeland/lume](https://github.com/lumeland/lume) - 🔥 Static site generator for Deno 🦕
@@ -2798,7 +2804,6 @@
 - [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source synthetic monitoring platform  🏓
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard SDK / infinite canvas SDK
 - [xitanggg/open-resume](https://github.com/xitanggg/open-resume) - OpenResume is a powerful open-source resume builder and resume parser. https://open-resume.com/
-- [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions.
 - [CodelyTV/awesome-vscode-settings](https://github.com/CodelyTV/awesome-vscode-settings) - Awesome Settings for VSCode
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
 - [fern-api/fern](https://github.com/fern-api/fern) - Input OpenAPI. Output SDKs and Docs.
