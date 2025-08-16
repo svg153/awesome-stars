@@ -415,6 +415,8 @@
 
 ## Go 
 
+- [mcpjungle/MCPJungle](https://github.com/mcpjungle/MCPJungle) - Self-hosted MCP Registry + Gateway for AI agents
+- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source UI-first Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, RADIUS, Google
 - [mattermost/mattermost-plugin-agents](https://github.com/mattermost/mattermost-plugin-agents) - Mattermost Agents plugin supporting multiple LLMs
 - [mattermost-community/mattermost-plugin-webex](https://github.com/mattermost-community/mattermost-plugin-webex) - 
 - [mattermost-community/mattermost-plugin-agenda](https://github.com/mattermost-community/mattermost-plugin-agenda) - Mattermost plugin to handle meeting agendas
@@ -442,6 +444,7 @@
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
 - [suzuki-shunsuke/pinact](https://github.com/suzuki-shunsuke/pinact) - pinact is a CLI to edit GitHub Workflow and Composite action files and pin versions of Actions and Reusable Workflows. pinact can also update their versions and verify version annotations.
 - [suzuki-shunsuke/tfmv](https://github.com/suzuki-shunsuke/tfmv) - CLI to rename Terraform resources and generate moved blocks
+- [flohoss/gocron](https://github.com/flohoss/gocron) - A go based task scheduler with GUI
 - [ankitpokhrel/jira-cli](https://github.com/ankitpokhrel/jira-cli) - 🔥 Feature-rich interactive Jira command line.
 - [datolabs-io/opsy](https://github.com/datolabs-io/opsy) - Opsy - Your AI-Powered SRE Colleague
 - [bjesus/pipet](https://github.com/bjesus/pipet) - Swiss-army tool for scraping and extracting data from online assets, made for hackers
@@ -842,6 +845,7 @@
 
 ## HTML 
 
+- [npatarino/tech-conferences-spain](https://github.com/npatarino/tech-conferences-spain) - A community-curated list of conferences around Spain.
 - [BenjaminAster/CSS-Minecraft](https://github.com/BenjaminAster/CSS-Minecraft) - A Minecraft clone made with pure HTML & CSS – no JavaScript.
 - [thomast1906/github-copilot-metric-viewer](https://github.com/thomast1906/github-copilot-metric-viewer) - 
 - [openshifttips/web](https://github.com/openshifttips/web) - Hugo content for the openshift.tips blog
@@ -1438,6 +1442,7 @@
 
 ## Others 
 
+- [khru/companies-with-good-practices](https://github.com/khru/companies-with-good-practices) - 
 - [kirodotdev/Kiro](https://github.com/kirodotdev/Kiro) - Kiro is an agentic IDE that works alongside you from prototype to production.
 - [github/empty-repos](https://github.com/github/empty-repos) - A GitHub Actions workflow to find empty repos
 - [0GiS0/home-assistant-mcp](https://github.com/0GiS0/home-assistant-mcp) - ¡Controla tu casa desde VS Code! 🧠💡 Configura el MCP Server de Home Assistant paso a paso 🛠️🏠
@@ -1799,11 +1804,10 @@
 - [Pwd9000-ML/blog-devto](https://github.com/Pwd9000-ML/blog-devto) - Dev.to blog posts
 - [microsoft/PowerShellForGitHub](https://github.com/microsoft/PowerShellForGitHub) - Microsoft PowerShell wrapper for GitHub API
 - [zalexan1996/GithubAPI](https://github.com/zalexan1996/GithubAPI) - A self-generating PowerShell module for the GitHub API
-- [janikvonrotz/awesome-powershell](https://github.com/janikvonrotz/awesome-powershell) - A curated list of delightful PowerShell modules and resources
+- [janikvonrotz/awesome-powershell](https://github.com/janikvonrotz/awesome-powershell) - This repository has been moved to https://codeberg.org/janikvonrotz/awesome-powershell. Please visit the new location for the latest updates.
 - [hausec/PowerZure](https://github.com/hausec/PowerZure) - PowerShell framework to assess Azure security
 - [johnthebrit/AzureMasterClass](https://github.com/johnthebrit/AzureMasterClass) - Repo for the Azure Master Class
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
-- [microsoft/CloudAdoptionFramework](https://github.com/microsoft/CloudAdoptionFramework) - Code samples and extended documentation to support the guidance provided in the Microsoft Cloud Adoption Framework
 - [shiftavenue/awesome-azure-learning](https://github.com/shiftavenue/awesome-azure-learning) - This repo includes plenty of references for Azure learning, especially for the Azure certs and Azure architecture, and any other learning materials e.g. security and automation topics.
 - [Azure/Enterprise-Scale](https://github.com/Azure/Enterprise-Scale) - The Azure Landing Zones (Enterprise-Scale) architecture provides prescriptive guidance coupled with Azure best practices, and it follows design principles across the critical design areas for organiza
 - [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
@@ -1816,10 +1820,13 @@
 
 ## Python 
 
+- [nottelabs/notte](https://github.com/nottelabs/notte) - 🔥 Reliable Browser AI agents (YC S25)
+- [arben-adm/mcp-sequential-thinking](https://github.com/arben-adm/mcp-sequential-thinking) - 
+- [CodeUpdaterBot/ClickUi](https://github.com/CodeUpdaterBot/ClickUi) - The best way to use AI is on your own computer. Use local or paid API models, and ctrl+k to show/hide the chat UI. Experience the future of AI, and help build it too!
 - [SaiAkhil066/DeepSeek-RAG-Chatbot](https://github.com/SaiAkhil066/DeepSeek-RAG-Chatbot) - 100 % FREE, Private (No Internet) DeepSeek’s Advanced RAG: Boost Your RAG Chatbot: Hybrid Retrieval (BM25 + FAISS) + Neural Reranking + HyDe🚀
 - [fatihak/InkyPi](https://github.com/fatihak/InkyPi) - E-Ink Display with a Raspberry Pi and a Web Interface to customize and update the display with various plugins
 - [sapientinc/HRM](https://github.com/sapientinc/HRM) - Hierarchical Reasoning Model Official Release
-- [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners) - This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, and Python. Designed for deve
+- [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners) - This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust and Python. Designed for
 - [grafana/campfire-mcp-demo](https://github.com/grafana/campfire-mcp-demo) - 
 - [mikf/gallery-dl](https://github.com/mikf/gallery-dl) - Command-line program to download image galleries and collections from several image hosting sites
 - [sooperset/mcp-atlassian](https://github.com/sooperset/mcp-atlassian) - MCP server for Atlassian tools (Confluence, Jira)
@@ -1859,7 +1866,7 @@
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [pablotoledo/AlGranoBot](https://github.com/pablotoledo/AlGranoBot) - 
 - [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - JumpServer is an open-source Privileged Access Management (PAM) tool that provides DevOps and IT teams with on-demand and secure access to SSH, RDP, Kubernetes, Database and RemoteApp endpoints throug
-- [oumi-ai/oumi](https://github.com/oumi-ai/oumi) - Easily fine-tune, evaluate and deploy gpt-oss, DeepSeek-R1, or any open source LLM / VLM!
+- [oumi-ai/oumi](https://github.com/oumi-ai/oumi) - Easily fine-tune, evaluate and deploy gpt-oss, Qwen3, DeepSeek-R1, or any open source LLM / VLM!
 - [langchain-ai/local-deep-researcher](https://github.com/langchain-ai/local-deep-researcher) - Fully local web research and report writing assistant
 - [joanrod/star-vector](https://github.com/joanrod/star-vector) - StarVector is a foundation model for SVG generation that transforms vectorization into a code generation task. Using a vision-language modeling architecture, StarVector processes both visual and textu
 - [IndieSmiths/nodezator](https://github.com/IndieSmiths/nodezator) - A generalist Python node editor
@@ -1876,7 +1883,7 @@
 - [techwithtim/BDAIScraperAgent](https://github.com/techwithtim/BDAIScraperAgent) - 
 - [allenai/olmocr](https://github.com/allenai/olmocr) - Toolkit for linearizing PDFs for LLM datasets/training
 - [agent0ai/agent-zero](https://github.com/agent0ai/agent-zero) - Agent Zero AI framework
-- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Investment Research for Everyone, Everywhere.
+- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Financial data aggregator for humans and AI agents.
 - [hrithikkoduri/WebRover](https://github.com/hrithikkoduri/WebRover) - WebRover is an autonomous AI agent designed to interpret user input and execute actions by interacting with web elements to accomplish tasks or answer questions. It leverages advanced language models 
 - [github/stale-repos](https://github.com/github/stale-repos) - Find stale repositories in a GitHub organization.
 - [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) - Agent framework and applications built upon Qwen&gt;=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc.
@@ -1949,7 +1956,7 @@
 - [github/cleanowners](https://github.com/github/cleanowners) - A GitHub Action to suggest removal of non-organization members from CODEOWNERS files
 - [hugsy/gef](https://github.com/hugsy/gef) - GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux
 - [ticarpi/jwt_tool](https://github.com/ticarpi/jwt_tool) - :snake: A toolkit for testing, tweaking and cracking JSON Web Tokens
-- [kserve/kserve](https://github.com/kserve/kserve) - Standardized Serverless ML Inference Platform on Kubernetes
+- [kserve/kserve](https://github.com/kserve/kserve) - Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes
 - [pallets/flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
 - [mouredev/portafolio-template](https://github.com/mouredev/portafolio-template) - Portafolio web "perfecto" para programadores. Plantilla minimalista configurable a nivel gráfico y de contenido.
 - [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖 PyPi: autogen-agentchat Discord: https://aka.ms/autogen-discord Office Hour: https://aka.ms/autogen-officehour
@@ -2267,6 +2274,7 @@
 
 ## Rust 
 
+- [ferriskey/ferriskey](https://github.com/ferriskey/ferriskey) - FerrisKey is an open-source IAM solution designed for modern cloud-native environments. With its high-performance API written in Rust and its intuitive web interface developed in Typescript/React, Fer
 - [facebook/pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and IDE for Python
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
@@ -2391,6 +2399,7 @@
 
 ## Shell 
 
+- [Gentleman-Programming/Gentleman.Dots](https://github.com/Gentleman-Programming/Gentleman.Dots) - My personal configuration for LazyVim !
 - [taigaio/taiga-docker](https://github.com/taigaio/taiga-docker) - 
 - [JamesTurland/JimsGarage](https://github.com/JamesTurland/JimsGarage) - Homelab Goodies
 - [plengauer/Thoth](https://github.com/plengauer/Thoth) - 
@@ -2629,6 +2638,9 @@
 
 ## TypeScript 
 
+- [ZubeidHendricks/youtube-mcp-server](https://github.com/ZubeidHendricks/youtube-mcp-server) - MCP Server for YouTube API, enabling video management, Shorts creation, and advanced analytics
+- [claude-did-this/claude-hub](https://github.com/claude-did-this/claude-hub) - A webhook service that connects Claude Code to GitHub repositories, enabling AI-powered code assistance directly   through pull requests and issues. This integration allows Claude to analyze repositor
+- [trymeka/agent](https://github.com/trymeka/agent) - state of the art browsing agent (WebArena 72.7%)
 - [advanced-security/secret-protection-custom-pattern-automation](https://github.com/advanced-security/secret-protection-custom-pattern-automation) - Automate GitHub secret protection custom patterns
 - [signerlabs/Klee](https://github.com/signerlabs/Klee) - Secure and local AI on your desktop with a built-in RAG knowledge base and Markdown note support.
 - [homarr-labs/homarr](https://github.com/homarr-labs/homarr) - A modern and easy to use dashboard. 30+ integrations. 10K+ icons built in. Authentication out of the box. No YAML, drag and drop configuration.
@@ -2646,7 +2658,7 @@
 - [wiredoor/wiredoor](https://github.com/wiredoor/wiredoor) - Self hosted ingress-as-a-service platform that allows you to expose applications and services running in private or local networks to the internet
 - [hangwin/mcp-chrome](https://github.com/hangwin/mcp-chrome) - Chrome MCP Server is a Chrome extension-based Model Context Protocol (MCP) server that exposes your Chrome browser functionality to AI assistants like Claude, enabling complex browser automation, cont
 - [microsoft/copilot-metrics-dashboard](https://github.com/microsoft/copilot-metrics-dashboard) - The GitHub Copilot Metrics Dashboard is a solution accelerator designed to visualize metrics from GitHub Copilot using the GitHub Copilot Metrics API and GitHub Copilot User Management API.
-- [codexu/note-gen](https://github.com/codexu/note-gen) - A cross-platform Markdown note-taking application dedicated to using AI to bridge recording and writing, organizing fragmented knowledge into a readable note.
+- [codexu/note-gen](https://github.com/codexu/note-gen) - A cross-platform Markdown AI note-taking software.
 - [microsoft/vscode-copilot-chat](https://github.com/microsoft/vscode-copilot-chat) - Copilot Chat extension for VS Code
 - [FidelusAleksander/ai-translate-action](https://github.com/FidelusAleksander/ai-translate-action) - GitHub Action for AI-powered file translation between different languages
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
@@ -2690,7 +2702,6 @@
 - [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) - Playwright MCP server
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [kagent-dev/kagent](https://github.com/kagent-dev/kagent) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
-- [flohoss/gocron](https://github.com/flohoss/gocron) - A go based task scheduler with GUI
 - [rowyio/rowy](https://github.com/rowyio/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
 - [usertour/usertour](https://github.com/usertour/usertour) - Usertour is an open-source user onboarding platform. It allows you to create in-app product tours, checklists, and surveys in minutes—effortlessly and with full control.The open-source alternative to 
 - [browserbase/stagehand](https://github.com/browserbase/stagehand) - The AI Browser Automation Framework
@@ -2724,7 +2735,7 @@
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers.
-- [getmaxun/maxun](https://github.com/getmaxun/maxun) - 🔥 Open-source no code web data extraction platform. Instantly turn any website into API or spreadsheet 🔥
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Easiest no code web data extraction platform. Instantly turn any website into API or spreadsheet.
 - [microsoft/vscode-copilot-vision](https://github.com/microsoft/vscode-copilot-vision) - Exploration into leveraging vision capabilities of an LLM
 - [Codehagen/Badget](https://github.com/Codehagen/Badget) - Badget aims to simplify financial management with a user-friendly interface and robust backend
 - [ComBuildersES/ComBuildersES.github.io](https://github.com/ComBuildersES/ComBuildersES.github.io) - Página web de la comunidad de Community Builders. Carta de presentación: quienes somos, qué hacemos, cómo unirse, etc.
@@ -2772,7 +2783,7 @@
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [devops-actions/load-available-actions](https://github.com/devops-actions/load-available-actions) - Load all actions stored in the current organization
 - [suzuki-shunsuke/tfaction](https://github.com/suzuki-shunsuke/tfaction) - Framework for Monorepo to build high level Terraform Workflows by GitHub Actions
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Create, share, and use custom AI code assistants with our open-source IDE extensions and hub of rules, tools, and models
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Build and run custom agents across your IDE, terminal, and CI
 - [CodelyTV/infrastructure_design-eventbus-aws-course](https://github.com/CodelyTV/infrastructure_design-eventbus-aws-course) - Infrastructure Design: AWS SQS as a Message Queue course examples
 - [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁
