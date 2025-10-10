@@ -1322,6 +1322,7 @@
 
 ## Jupyter Notebook 
 
+- [microsoft/community-content](https://github.com/microsoft/community-content) - A curated collection of presentations-in-a-box created by Microsoft for speakers to use at user groups and meetups
 - [NirDiamant/GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents) - This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI s
 - [roboflow/notebooks](https://github.com/roboflow/notebooks) - A collection of tutorials on state-of-the-art computer vision models and techniques. Explore everything from foundational architectures like ResNet to cutting-edge models like YOLO11, RT-DETR, SAM 2, 
 - [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners) - This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust and Python. Designed for
@@ -1464,6 +1465,7 @@
 
 ## Others 
 
+- [0GiS0/cagent-demos](https://github.com/0GiS0/cagent-demos) - 🎮 Jugando con 🤖cagent🤖
 - [github/copilot-cli](https://github.com/github/copilot-cli) - GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.
 - [microsoft/VS-Code-Dev-Days](https://github.com/microsoft/VS-Code-Dev-Days) - Repo for VS Code Dev Days content, global in-person series of events focused on VS Code and GitHub Copilot.
 - [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) - Frontier Open-Source Text-to-Speech
@@ -1866,7 +1868,7 @@
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome commands, files, and workflows for Claude Code
 - [obsei/obsei](https://github.com/obsei/obsei) - Obsei is a low code AI powered automation tool. It can be used in various business flows like social listening, AI based alerting, brand image analysis, comparative study and more .
 - [someengineering/fixinventory](https://github.com/someengineering/fixinventory) - Fix Inventory helps you identify and remove the most critical risks in AWS, GCP, Azure and Kubernetes.
-- [nottelabs/notte](https://github.com/nottelabs/notte) - 🔥 Reliable Browser AI agents (YC S25)
+- [nottelabs/notte](https://github.com/nottelabs/notte) - 🔥 Reliable Browser AI Agents (YC S25)
 - [arben-adm/mcp-sequential-thinking](https://github.com/arben-adm/mcp-sequential-thinking) - 
 - [CodeUpdaterBot/ClickUi](https://github.com/CodeUpdaterBot/ClickUi) - The best way to use AI is on your own computer. Use local or paid API models, and ctrl+k to show/hide the chat UI. Experience the future of AI, and help build it too!
 - [SaiAkhil066/DeepSeek-RAG-Chatbot](https://github.com/SaiAkhil066/DeepSeek-RAG-Chatbot) - 100 % FREE, Private (No Internet) DeepSeek’s Advanced RAG: Boost Your RAG Chatbot: Hybrid Retrieval (BM25 + FAISS) + Neural Reranking + HyDe🚀
