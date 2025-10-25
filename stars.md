@@ -1849,6 +1849,7 @@
 
 ## Python 
 
+- [tonybaloney/llm-github-models](https://github.com/tonybaloney/llm-github-models) - 
 - [microsoft/amplifier](https://github.com/microsoft/amplifier) - 
 - [ESJavadex/ree-mcp](https://github.com/ESJavadex/ree-mcp) - MCP para la API de Red Electrica Española
 - [gurusup/mcp-poc](https://github.com/gurusup/mcp-poc) - 
@@ -1868,7 +1869,6 @@
 - [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - README file generator, powered by AI.
 - [basicmachines-co/basic-memory](https://github.com/basicmachines-co/basic-memory) - AI conversations that actually remember. Never re-explain your project to Claude again. Local-first, integrates with Obsidian. Join our Discord: https://discord.gg/tyvKNccgqN
 - [davila7/youtube-gpt](https://github.com/davila7/youtube-gpt) - Youtube GPT: OpenAI Whisper + Embedding + Davinci
-- [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN) - RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
 - [ntegrals/hypergen](https://github.com/ntegrals/hypergen) - HyperGen - Optimized inference and fine-tuning framework for diffusion (image & video) models. Up to 3x faster & 80% less VRAM.
 - [makalin/KeyForge3D](https://github.com/makalin/KeyForge3D) - KeyForge3D is an app that turns a photo of a key into a 3D-printable STL file. Ideal for locksmiths and hobbyists, it analyzes the key's bitting pattern using image processing and generates an accurat
@@ -2003,7 +2003,7 @@
 - [discord/access](https://github.com/discord/access) - Access, a centralized portal for employees to transparently discover, request, and manage their access for all internal systems needed to do their jobs
 - [roschart/IaCLab](https://github.com/roschart/IaCLab) - IaCLab: A hands-on project to explore and master Infrastructure as Code (IaC) technologies, including Ansible, Terraform, Kubernetes operators, and Argo CD. Aimed at building a comprehensive understan
 - [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
-- [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
+- [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
 - [alrocar/locked_screen](https://github.com/alrocar/locked_screen) - 
 - [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - All-in-one AI automation platform (workflows, agents, cases, tables) for security, IT, and infra teams.
@@ -2467,6 +2467,7 @@
 
 - [obra/superpowers](https://github.com/obra/superpowers) - Claude Code superpowers: core skills library
 - [Alejandrolmeida/azure-agent-pro](https://github.com/Alejandrolmeida/azure-agent-pro) - 🤖 Educational research project teaching GitHub Copilot enhanced Azure professional management
+- [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [Gentleman-Programming/Gentleman.Dots](https://github.com/Gentleman-Programming/Gentleman.Dots) - My personal configuration for LazyVim !
 - [taigaio/taiga-docker](https://github.com/taigaio/taiga-docker) - 
 - [JamesTurland/JimsGarage](https://github.com/JamesTurland/JimsGarage) - Homelab Goodies
