@@ -385,7 +385,7 @@
 - [agno-agi/agno](https://github.com/agno-agi/agno) - Multi-agent framework, runtime and control plane. Built for speed, privacy, and scale.
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [RayVentura/ShortGPT](https://github.com/RayVentura/ShortGPT) - 🚀🎬 ShortGPT - Experimental AI framework for youtube shorts / tiktok channel automation
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Build and run custom agents across your IDE, terminal, and CI
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in TUI mode as a coding agent or Headless mode to run background agents
 - [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal without needing API keys
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁
@@ -417,6 +417,7 @@
 
 ## ai-agents 
 
+- [danielmeppiel/apm](https://github.com/danielmeppiel/apm) - Agent Package Manager
 - [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) - Open Source TypeScript AI Agent Framework with built-in LLM Observability
 - [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
 - [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - README file generator, powered by AI.
@@ -452,9 +453,8 @@
 - [Avanade/ghcp-usage-dashboard](https://github.com/Avanade/ghcp-usage-dashboard) - Analyzes GitHub Copilot usage trends, patterns, and metrics using Python, Streamlit, Azure OpenAI, and PowerShell scripts.
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by Clickhouse and OpenTelemetry.
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
-- [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).
+- [openobserve/openobserve](https://github.com/openobserve/openobserve) - Modern observability platform: 10x easier, 140x lower storage cost, petabyte scale. Open-source alternative to Elasticsearch/Splunk/Datadog for logs, metrics, traces, RUM, and more.
 - [HariSekhon/Diagrams-as-Code](https://github.com/HariSekhon/Diagrams-as-Code) - Cloud & DevOps Architecture Diagrams-as-Code in Python, D2 and MermaidJS languages
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [rcoh/angle-grinder](https://github.com/rcoh/angle-grinder) - Slice and dice logs on the command line
 - [devops-actions/load-available-actions](https://github.com/devops-actions/load-available-actions) - Load all actions stored in the current organization
 - [dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core) - dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.
@@ -637,6 +637,7 @@
 
 ## automation 
 
+- [karatelabs/karate](https://github.com/karatelabs/karate) - Test Automation Made Simple
 - [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 - [nottelabs/notte](https://github.com/nottelabs/notte) - 🔥 Reliable Browser AI Agents (YC S25)
@@ -923,6 +924,7 @@
 
 ## aws 
 
+- [zalando/ghe-backup](https://github.com/zalando/ghe-backup) - Github Enterprise backup at ZalandoTech (Kubernetes, AWS, Docker)
 - [someengineering/fixinventory](https://github.com/someengineering/fixinventory) - Fix Inventory helps you identify and remove the most critical risks in AWS, GCP, Azure and Kubernetes.
 - [awslabs/diagram-as-code](https://github.com/awslabs/diagram-as-code) - Diagram-as-code for AWS architecture.
 - [recode-sh/cli](https://github.com/recode-sh/cli) - A CLI to create remote development environments in your cloud provider account in seconds
@@ -934,7 +936,7 @@
 - [machulav/ec2-github-runner](https://github.com/machulav/ec2-github-runner) - On-demand self-hosted AWS EC2 runner for GitHub Actions
 - [jonico/awesome-runners](https://github.com/jonico/awesome-runners) - A curated list of awesome self-hosted GitHub Action runners in a large comparison matrix
 - [HariSekhon/DevOps-Python-tools](https://github.com/HariSekhon/DevOps-Python-tools) - 80+ DevOps & Data CLI Tools - AWS, GCP, GCF Python Cloud Functions, Log Anonymizer, Spark, Hadoop, HBase, Hive, Impala, Linux, Docker, Spark Data Converters & Validators (Avro/Parquet/JSON/CSV/INI/XML
-- [HariSekhon/Knowledge-Base](https://github.com/HariSekhon/Knowledge-Base) - Large Tech Knowledge Base from 20 years in DevOps, Linux, Cloud, Big Data, AWS, GCP and Consulting around the World including extensive Travel Tips and restaurants
+- [HariSekhon/Knowledge-Base](https://github.com/HariSekhon/Knowledge-Base) - Large Tech Knowledge Base from 20 years in DevOps, Linux, Cloud, Big Data, AWS, GCP and international Consulting including extensive Travel Tips around the world
 - [overmindtech/cli](https://github.com/overmindtech/cli) - Identify the blast radius and risks for Terraform changes in real time
 - [github-aws-runners/terraform-aws-github-runner](https://github.com/github-aws-runners/terraform-aws-github-runner) - Terraform module for scalable GitHub action runners on AWS
 - [CodelyTV/infrastructure_design-eventbus-aws-course](https://github.com/CodelyTV/infrastructure_design-eventbus-aws-course) - Infrastructure Design: AWS SQS as a Message Queue course examples
@@ -942,7 +944,7 @@
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
 - [ministryofjustice/modernisation-platform](https://github.com/ministryofjustice/modernisation-platform) - A place for the core work of the Modernisation Platform • This repository is defined and managed in Terraform
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
-- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The open source ELT framework powered by Apache Arrow
+- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - Data pipelines for cloud config and security data. Build cloud asset inventory, CSPM, FinOps, and vulnerability management solutions. Extract from AWS, Azure, GCP, and 70+ cloud and SaaS sources.
 - [jetify-com/launchpad](https://github.com/jetify-com/launchpad) - From Code to Kubernetes in One Step.
 - [gruntwork-io/intro-to-terraform](https://github.com/gruntwork-io/intro-to-terraform) - Sample code for the blog post series "A Comprehensive Guide to Terraform."
 - [klothoplatform/klotho](https://github.com/klothoplatform/klotho) - Klotho - write AWS applications at lightning speed
@@ -1001,13 +1003,13 @@
 - [Pwd9000-ML/terraform-azurerm-plan](https://github.com/Pwd9000-ML/terraform-azurerm-plan) - GitHub Action - Create a Terraform plan with AzureRM backend and uploads plan as workspace artifact (Used with: `Pwd9000-ML/terraform-azurerm-apply`)
 - [Azure/aztfexport](https://github.com/Azure/aztfexport) - A tool to bring existing Azure resources under Terraform's management
 - [jonico/awesome-runners](https://github.com/jonico/awesome-runners) - A curated list of awesome self-hosted GitHub Action runners in a large comparison matrix
-- [HariSekhon/Knowledge-Base](https://github.com/HariSekhon/Knowledge-Base) - Large Tech Knowledge Base from 20 years in DevOps, Linux, Cloud, Big Data, AWS, GCP and Consulting around the World including extensive Travel Tips and restaurants
+- [HariSekhon/Knowledge-Base](https://github.com/HariSekhon/Knowledge-Base) - Large Tech Knowledge Base from 20 years in DevOps, Linux, Cloud, Big Data, AWS, GCP and international Consulting including extensive Travel Tips around the world
 - [hausec/PowerZure](https://github.com/hausec/PowerZure) - PowerShell framework to assess Azure security
 - [Azure/eno](https://github.com/Azure/eno) - Dynamic configuration management for Kubernetes
 - [navicore/azuml](https://github.com/navicore/azuml) - Diagram Generator for Azure Subnets and NSGs
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI
 - [Azure/azqr](https://github.com/Azure/azqr) - Azure Quick Review
-- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The open source ELT framework powered by Apache Arrow
+- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - Data pipelines for cloud config and security data. Build cloud asset inventory, CSPM, FinOps, and vulnerability management solutions. Extract from AWS, Azure, GCP, and 70+ cloud and SaaS sources.
 - [klothoplatform/klotho](https://github.com/klothoplatform/klotho) - Klotho - write AWS applications at lightning speed
 - [env0/terratag](https://github.com/env0/terratag) - Terratag is a CLI tool that enables users of Terraform to automatically create and maintain tags across their entire set of AWS, Azure, and GCP resources
 - [cycloidio/terracost](https://github.com/cycloidio/terracost) - Cloud cost estimation for Terraform in your CLI
@@ -1061,7 +1063,7 @@
 - [plengauer/Thoth](https://github.com/plengauer/Thoth) - 
 - [johanhaleby/kubetail](https://github.com/johanhaleby/kubetail) - Bash script to tail Kubernetes logs from multiple pods at the same time
 - [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - x-cmd: Bootstrap 1000+ command line tools in seconds.
-- [HariSekhon/Knowledge-Base](https://github.com/HariSekhon/Knowledge-Base) - Large Tech Knowledge Base from 20 years in DevOps, Linux, Cloud, Big Data, AWS, GCP and Consulting around the World including extensive Travel Tips and restaurants
+- [HariSekhon/Knowledge-Base](https://github.com/HariSekhon/Knowledge-Base) - Large Tech Knowledge Base from 20 years in DevOps, Linux, Cloud, Big Data, AWS, GCP and international Consulting including extensive Travel Tips around the world
 - [version-fox/vfox](https://github.com/version-fox/vfox) - A cross-platform and extendable version manager with support for Java, Node.js, Golang, Python, Flutter, .NET & more
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [pacstall/pacstall](https://github.com/pacstall/pacstall) - An AUR-inspired package manager for Ubuntu
@@ -1297,6 +1299,8 @@
 
 ## cli 
 
+- [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
+- [asciimoo/wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection
 - [whyisdifficult/jiratui](https://github.com/whyisdifficult/jiratui) - A Textual User Interface for interacting with Atlassian Jira from your shell
 - [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - README file generator, powered by AI.
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
@@ -1332,7 +1336,7 @@
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq
 - [altsem/gitu](https://github.com/altsem/gitu) - A TUI Git client inspired by Magit
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Build and run custom agents across your IDE, terminal, and CI
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in TUI mode as a coding agent or Headless mode to run background agents
 - [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal without needing API keys
 - [tox-dev/tox](https://github.com/tox-dev/tox) - Command line driven CI frontend and development task automation tool.
 - [lindell/multi-gitter](https://github.com/lindell/multi-gitter) - Update multiple repositories in with one command
@@ -1434,6 +1438,7 @@
 
 ## cloud 
 
+- [zalando/ghe-backup](https://github.com/zalando/ghe-backup) - Github Enterprise backup at ZalandoTech (Kubernetes, AWS, Docker)
 - [spegel-org/spegel](https://github.com/spegel-org/spegel) - Stateless cluster local OCI registry mirror.
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 - [terrateamio/openinfraquote](https://github.com/terrateamio/openinfraquote) - Fast, open-source tool for estimating infrastructure costs from Terraform plans and state files
@@ -1441,7 +1446,7 @@
 - [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - x-cmd: Bootstrap 1000+ command line tools in seconds.
 - [RoseSecurity/Terramaid](https://github.com/RoseSecurity/Terramaid) - A utility for generating Mermaid diagrams from Terraform configurations
 - [winglang/wing](https://github.com/winglang/wing) - A programming language for the cloud ☁️ A unified programming model, combining infrastructure and runtime code into one language ⚡
-- [HariSekhon/Knowledge-Base](https://github.com/HariSekhon/Knowledge-Base) - Large Tech Knowledge Base from 20 years in DevOps, Linux, Cloud, Big Data, AWS, GCP and Consulting around the World including extensive Travel Tips and restaurants
+- [HariSekhon/Knowledge-Base](https://github.com/HariSekhon/Knowledge-Base) - Large Tech Knowledge Base from 20 years in DevOps, Linux, Cloud, Big Data, AWS, GCP and international Consulting including extensive Travel Tips around the world
 - [sathishvj/awesome-gcp-certifications](https://github.com/sathishvj/awesome-gcp-certifications) - Google Cloud Platform Certification resources.
 - [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted PaaS alternative to Heroku / Netlify / Coolify / Vercel / Dokku / Portainer running on Kubernetes
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions.
@@ -1504,7 +1509,7 @@
 
 - [pullpo-io/conventional-comments](https://github.com/pullpo-io/conventional-comments) - Chrome and Firefox extension for Conventional Comments in GitHub UI.
 - [mgreiler/code-review-checklist](https://github.com/mgreiler/code-review-checklist) - This code review checklist helps you be a more effective and efficient code reviewer.
-- [qodo-ai/pr-agent](https://github.com/qodo-ai/pr-agent) - 🚀 PR-Agent: An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍 (For more advanced: check Qodo Merge)
+- [qodo-ai/pr-agent](https://github.com/qodo-ai/pr-agent) - 🚀 PR-Agent: An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
 - [palantir/policy-bot](https://github.com/palantir/policy-bot) - A GitHub App that enforces approval policies on pull requests
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
@@ -1704,7 +1709,7 @@
 - [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
 - [apache/incubator-devlake](https://github.com/apache/incubator-devlake) - Apache DevLake is an open-source dev data platform to ingest, analyze, and visualize the fragmented data from DevOps tools, extracting insights for engineering excellence, developer experience, and co
 - [github/innovationgraph](https://github.com/github/innovationgraph) - GitHub Innovation Graph
-- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The open source ELT framework powered by Apache Arrow
+- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - Data pipelines for cloud config and security data. Build cloud asset inventory, CSPM, FinOps, and vulnerability management solutions. Extract from AWS, Azure, GCP, and 70+ cloud and SaaS sources.
 - [ArroyoSystems/arroyo](https://github.com/ArroyoSystems/arroyo) - Distributed stream processing engine in Rust
 - [spiceai/spiceai](https://github.com/spiceai/spiceai) - A portable accelerated SQL query, search, and LLM-inference engine, written in Rust, for data-grounded AI apps and agents.
 - [mara/mara-pipelines](https://github.com/mara/mara-pipelines) - A lightweight opinionated ETL framework, halfway between plain scripts and Apache Airflow
@@ -1717,7 +1722,7 @@
 - [airbnb/knowledge-repo](https://github.com/airbnb/knowledge-repo) - A next-generation curated knowledge sharing platform for data scientists and other technical professions.
 - [AMAI-GmbH/AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Roadmap to becoming an Artificial Intelligence Expert in 2022
 - [apache/incubator-devlake](https://github.com/apache/incubator-devlake) - Apache DevLake is an open-source dev data platform to ingest, analyze, and visualize the fragmented data from DevOps tools, extracting insights for engineering excellence, developer experience, and co
-- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The open source ELT framework powered by Apache Arrow
+- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - Data pipelines for cloud config and security data. Build cloud asset inventory, CSPM, FinOps, and vulnerability management solutions. Extract from AWS, Azure, GCP, and 70+ cloud and SaaS sources.
 - [microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) - 10 Weeks, 20 Lessons, Data Science for All!
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
@@ -1727,7 +1732,7 @@
 
 - [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Data transformation framework for AI. Ultra performant, with incremental processing.  🌟 Star if you like it!
 - [apache/incubator-devlake](https://github.com/apache/incubator-devlake) - Apache DevLake is an open-source dev data platform to ingest, analyze, and visualize the fragmented data from DevOps tools, extracting insights for engineering excellence, developer experience, and co
-- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The open source ELT framework powered by Apache Arrow
+- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - Data pipelines for cloud config and security data. Build cloud asset inventory, CSPM, FinOps, and vulnerability management solutions. Extract from AWS, Azure, GCP, and 70+ cloud and SaaS sources.
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 
@@ -1782,7 +1787,7 @@
 - [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - The live data layer for apps and AI agents Create up-to-the-second views into your business, just using SQL
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [pingcap/awesome-database-learning](https://github.com/pingcap/awesome-database-learning) - A list of learning materials to understand databases internals
-- [sqlectron/sqlectron-gui](https://github.com/sqlectron/sqlectron-gui) - A simple and lightweight SQL client desktop with cross database and platform support.
+- [sqlectron/sqlectron](https://github.com/sqlectron/sqlectron) - A simple and lightweight SQL client desktop with cross database and platform support.
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [prisma/prisma1](https://github.com/prisma/prisma1) - 💾 Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB) [deprecated]
@@ -1826,6 +1831,7 @@
 
 - [rohitg00/kubectl-mcp-server](https://github.com/rohitg00/kubectl-mcp-server) - Chat with your Kubernetes Cluster using AI tools and IDEs like Claude and Cursor!
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku and Netlify that lets you easily deploy static sites, databases, web applications and more than 280 one-click services on your own serv
 - [Azure/eno](https://github.com/Azure/eno) - Dynamic configuration management for Kubernetes
 - [jetify-com/launchpad](https://github.com/jetify-com/launchpad) - From Code to Kubernetes in One Step.
 - [github/branch-deploy](https://github.com/github/branch-deploy) - Enabling Branch Deployments through IssueOps with GitHub Actions - If you find this project useful, give it a star! ⭐️
@@ -1847,6 +1853,7 @@
 
 ## developer-tools 
 
+- [karatelabs/karate](https://github.com/karatelabs/karate) - Test Automation Made Simple
 - [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - README file generator, powered by AI.
 - [MotiaDev/motia](https://github.com/MotiaDev/motia) - Multi-Language Backend Framework that unifies APIs, background jobs, workflows, and AI Agents into a single core primitive with built-in observability and state management.
 - [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
@@ -1862,7 +1869,7 @@
 - [danvergara/dblab](https://github.com/danvergara/dblab) - The database client every command line junkie deserves.
 - [agno-agi/agno](https://github.com/agno-agi/agno) - Multi-agent framework, runtime and control plane. Built for speed, privacy, and scale.
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: Code Less, Make More
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Build and run custom agents across your IDE, terminal, and CI
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in TUI mode as a coding agent or Headless mode to run background agents
 - [GoogleContainerTools/kaniko](https://github.com/GoogleContainerTools/kaniko) - Build Container Images In Kubernetes
 - [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted PaaS alternative to Heroku / Netlify / Coolify / Vercel / Dokku / Portainer running on Kubernetes
 - [lindell/multi-gitter](https://github.com/lindell/multi-gitter) - Update multiple repositories in with one command
@@ -1912,6 +1919,7 @@
 
 ## devops 
 
+- [platform-engineering-labs/formae](https://github.com/platform-engineering-labs/formae) - Infrastructure-as-Code Platform Built for the Future
 - [rohitg00/kubectl-mcp-server](https://github.com/rohitg00/kubectl-mcp-server) - Chat with your Kubernetes Cluster using AI tools and IDEs like Claude and Cursor!
 - [kestra-io/kestra](https://github.com/kestra-io/kestra) - Orchestrate everything - from scripts to data, infra, AI, and business - as code, with UI and AI Copilot. Simple. Fast. Scalable.
 - [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp) - A Kubernetes web UI that is fully-featured, user-friendly and extensible
@@ -1929,7 +1937,7 @@
 - [Azure/aztfexport](https://github.com/Azure/aztfexport) - A tool to bring existing Azure resources under Terraform's management
 - [HariSekhon/Dockerfiles](https://github.com/HariSekhon/Dockerfiles) - 50+ DockerHub public images for Docker & Kubernetes - DevOps, CI/CD, GitHub Actions, CircleCI, Jenkins, TeamCity, Alpine, CentOS, Debian, Fedora, Ubuntu, Hadoop, Kafka, ZooKeeper, HBase, Cassandra, So
 - [HariSekhon/DevOps-Python-tools](https://github.com/HariSekhon/DevOps-Python-tools) - 80+ DevOps & Data CLI Tools - AWS, GCP, GCF Python Cloud Functions, Log Anonymizer, Spark, Hadoop, HBase, Hive, Impala, Linux, Docker, Spark Data Converters & Validators (Avro/Parquet/JSON/CSV/INI/XML
-- [HariSekhon/Knowledge-Base](https://github.com/HariSekhon/Knowledge-Base) - Large Tech Knowledge Base from 20 years in DevOps, Linux, Cloud, Big Data, AWS, GCP and Consulting around the World including extensive Travel Tips and restaurants
+- [HariSekhon/Knowledge-Base](https://github.com/HariSekhon/Knowledge-Base) - Large Tech Knowledge Base from 20 years in DevOps, Linux, Cloud, Big Data, AWS, GCP and international Consulting including extensive Travel Tips around the world
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [gabrie30/ghorg](https://github.com/gabrie30/ghorg) - Quickly clone or backup an entire org/users repositories into one directory - Supports GitHub, GitLab, Bitbucket, and more 🐇🥚
 - [litmuschaos/litmus](https://github.com/litmuschaos/litmus) - Litmus helps  SREs and developers practice chaos engineering in a Cloud-native way. Chaos experiments are published at the ChaosHub  (https://hub.litmuschaos.io). Community notes is at https://hackmd.
@@ -2038,6 +2046,7 @@
 
 ## docker 
 
+- [zalando/ghe-backup](https://github.com/zalando/ghe-backup) - Github Enterprise backup at ZalandoTech (Kubernetes, AWS, Docker)
 - [spegel-org/spegel](https://github.com/spegel-org/spegel) - Stateless cluster local OCI registry mirror.
 - [0GiS0/jueves-de-quack-cagent-demos](https://github.com/0GiS0/jueves-de-quack-cagent-demos) - Demos que mostré durante el evento Jueves de Quack 🦆 con 🤖`cagent`🤖.
 - [0GiS0/cagent-demos](https://github.com/0GiS0/cagent-demos) - 🎮 Jugando con 🤖cagent🤖
@@ -2056,7 +2065,7 @@
 - [HariSekhon/Dockerfiles](https://github.com/HariSekhon/Dockerfiles) - 50+ DockerHub public images for Docker & Kubernetes - DevOps, CI/CD, GitHub Actions, CircleCI, Jenkins, TeamCity, Alpine, CentOS, Debian, Fedora, Ubuntu, Hadoop, Kafka, ZooKeeper, HBase, Cassandra, So
 - [HariSekhon/DevOps-Python-tools](https://github.com/HariSekhon/DevOps-Python-tools) - 80+ DevOps & Data CLI Tools - AWS, GCP, GCF Python Cloud Functions, Log Anonymizer, Spark, Hadoop, HBase, Hive, Impala, Linux, Docker, Spark Data Converters & Validators (Avro/Parquet/JSON/CSV/INI/XML
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku and Netlify that lets you easily deploy static sites, databases, web applications and more than 280 one-click services on your own serv
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
 - [metrue/fx](https://github.com/metrue/fx) - A Function as a Service tool makes a function as a  container-based service in seconds.
 - [sanjib-sen/WebLaTex](https://github.com/sanjib-sen/WebLaTex) - A complete alternative for Overleaf with VSCode + Web + Git Integration + Copilot + Grammar & Spell Checker + Live Collaboration Support. Based on GitHub Codespace and Dev container.
@@ -2262,7 +2271,7 @@
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers.
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
-- [sqlectron/sqlectron-gui](https://github.com/sqlectron/sqlectron-gui) - A simple and lightweight SQL client desktop with cross database and platform support.
+- [sqlectron/sqlectron](https://github.com/sqlectron/sqlectron) - A simple and lightweight SQL client desktop with cross database and platform support.
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
@@ -2488,7 +2497,7 @@
 
 ## gh-extension 
 
-- [githubnext/gh-aw](https://github.com/githubnext/gh-aw) - AI-powered repository automation, run safely in GitHub Actions
+- [githubnext/gh-aw](https://github.com/githubnext/gh-aw) - GitHub Agentic Workflows
 - [github/gh-models](https://github.com/github/gh-models) - CLI extension for the GitHub Models service
 - [github/gh-actions-importer](https://github.com/github/gh-actions-importer) - GitHub Actions Importer helps you plan and automate the migration of Azure DevOps, Bamboo, Bitbucket, CircleCI, GitLab, Jenkins, and Travis CI pipelines to GitHub Actions.
 - [ssulei7/gh-dormant-users](https://github.com/ssulei7/gh-dormant-users) - A GH CLI extension to generate a dormant users report based on issue, commit, and PR activity.
@@ -2524,7 +2533,7 @@
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - top #1 and most feature rich GPT wrapper for git — generate commit messages with an LLM in 1 sec — works best with Claude or GPT, supports local models too
 - [rtfpessoa/diff2html](https://github.com/rtfpessoa/diff2html) - Pretty diff to html javascript library (diff2html)
 - [githubevents/open-source-friday](https://github.com/githubevents/open-source-friday) - The home for open source maintainer chats
-- [HariSekhon/Knowledge-Base](https://github.com/HariSekhon/Knowledge-Base) - Large Tech Knowledge Base from 20 years in DevOps, Linux, Cloud, Big Data, AWS, GCP and Consulting around the World including extensive Travel Tips and restaurants
+- [HariSekhon/Knowledge-Base](https://github.com/HariSekhon/Knowledge-Base) - Large Tech Knowledge Base from 20 years in DevOps, Linux, Cloud, Big Data, AWS, GCP and international Consulting including extensive Travel Tips around the world
 - [github/git-sizer](https://github.com/github/git-sizer) - Compute various size metrics for a Git repository, flagging those that might cause problems
 - [sanjib-sen/WebLaTex](https://github.com/sanjib-sen/WebLaTex) - A complete alternative for Overleaf with VSCode + Web + Git Integration + Copilot + Grammar & Spell Checker + Live Collaboration Support. Based on GitHub Codespace and Dev container.
 - [altsem/gitu](https://github.com/altsem/gitu) - A TUI Git client inspired by Magit
@@ -2591,6 +2600,7 @@
 
 ## github 
 
+- [ahmadawais/github-stars-contributions](https://github.com/ahmadawais/github-stars-contributions) - Log your GitHub Stars Contributions with the ease of a command line CLI
 - [0GiS0/jueves-de-quack-cagent-demos](https://github.com/0GiS0/jueves-de-quack-cagent-demos) - Demos que mostré durante el evento Jueves de Quack 🦆 con 🤖`cagent`🤖.
 - [microsoft/VS-Code-Dev-Days](https://github.com/microsoft/VS-Code-Dev-Days) - Repo for VS Code Dev Days content, global in-person series of events focused on VS Code and GitHub Copilot.
 - [microsoft/lab-study-app](https://github.com/microsoft/lab-study-app) - Hands-on with GitHub Copilot: Building AI-Powered Study Plans with GitHub Models
@@ -2652,7 +2662,7 @@
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [github/branch-deploy](https://github.com/github/branch-deploy) - Enabling Branch Deployments through IssueOps with GitHub Actions - If you find this project useful, give it a star! ⭐️
 - [openshift-pipelines/pipelines-as-code](https://github.com/openshift-pipelines/pipelines-as-code) - Pipelines-as-Code for Tekton
-- [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.
+- [RezShakeri/beautify-github-profile](https://github.com/RezShakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
 - [Clever/microplane](https://github.com/Clever/microplane) - A CLI tool to make git changes across many repos, especially useful with Microservices.
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
@@ -2691,9 +2701,9 @@
 
 - [ksatirli/terraform-github-repository](https://github.com/ksatirli/terraform-github-repository) - :octocat: Terraform Module: Github Repositories and associated Resources
 - [mszostok/codeowners-validator](https://github.com/mszostok/codeowners-validator) - The GitHub CODEOWNERS file validator
-- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The open source ELT framework powered by Apache Arrow
+- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - Data pipelines for cloud config and security data. Build cloud asset inventory, CSPM, FinOps, and vulnerability management solutions. Extract from AWS, Azure, GCP, and 70+ cloud and SaaS sources.
 - [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API
-- [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.
+- [RezShakeri/beautify-github-profile](https://github.com/RezShakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.
 - [donnemartin/gitsome](https://github.com/donnemartin/gitsome) - A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise: https://github.com/works-with/category/desktop-tools
 - [useful-forks/useful-forks.github.io](https://github.com/useful-forks/useful-forks.github.io) - Improving GitHub's Forks list discoverability through automatic filtering. The project offers an online tool and a Chrome extension.
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
@@ -2710,6 +2720,7 @@
 
 ## go 
 
+- [asciimoo/wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection
 - [spegel-org/spegel](https://github.com/spegel-org/spegel) - Stateless cluster local OCI registry mirror.
 - [owlistic-notes/owlistic](https://github.com/owlistic-notes/owlistic) - 🦉 Free open-source notetaking app with real-time sync 🔄⚡️🚀
 - [grafana/tempo-mcp-server](https://github.com/grafana/tempo-mcp-server) - An MCP ( Model Context Protocol ) Server for Grafana Tempo
@@ -2728,6 +2739,7 @@
 - [simeji/jid](https://github.com/simeji/jid) - json incremental digger
 - [andyfeller/gh-dependency-report](https://github.com/andyfeller/gh-dependency-report) - GitHub CLI extension for generating a report on repository dependencies.
 - [lrstanley/bubblezone](https://github.com/lrstanley/bubblezone) - helper utility for BubbleTea, allowing easy mouse event tracking
+- [nikivdev/ghost](https://github.com/nikivdev/ghost) - Watch over things + stream your mac to remote server
 - [gabrie30/ghorg](https://github.com/gabrie30/ghorg) - Quickly clone or backup an entire org/users repositories into one directory - Supports GitHub, GitLab, Bitbucket, and more 🐇🥚
 - [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal without needing API keys
 - [goadesign/model](https://github.com/goadesign/model) - Create your software architecture models and diagrams in Go.
@@ -2739,7 +2751,7 @@
 - [yonahd/kor](https://github.com/yonahd/kor) - A Golang Tool to discover unused Kubernetes Resources
 - [minamijoyo/tfmigrate](https://github.com/minamijoyo/tfmigrate) - A Terraform / OpenTofu state migration tool for GitOps
 - [mouredev/one-day-one-language](https://github.com/mouredev/one-day-one-language) - Cómo dar en un día tus primeros pasos en cada lenguaje de programación. Introducción, configuración e instalación, usos habituales, fundamentos, sintaxis y próximos pasos.
-- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The open source ELT framework powered by Apache Arrow
+- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - Data pipelines for cloud config and security data. Build cloud asset inventory, CSPM, FinOps, and vulnerability management solutions. Extract from AWS, Azure, GCP, and 70+ cloud and SaaS sources.
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
 - [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It's completely configurable and 100% cross-pl
 - [warrensbox/terraform-switcher](https://github.com/warrensbox/terraform-switcher) - A command line tool to switch between different versions of terraform  (install with homebrew and more)
@@ -2826,6 +2838,7 @@
 
 ## golang 
 
+- [asciimoo/wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection
 - [spegel-org/spegel](https://github.com/spegel-org/spegel) - Stateless cluster local OCI registry mirror.
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [owlistic-notes/owlistic](https://github.com/owlistic-notes/owlistic) - 🦉 Free open-source notetaking app with real-time sync 🔄⚡️🚀
@@ -2976,7 +2989,7 @@
 ## google 
 
 - [terrateamio/openinfraquote](https://github.com/terrateamio/openinfraquote) - Fast, open-source tool for estimating infrastructure costs from Terraform plans and state files
-- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The open source ELT framework powered by Apache Arrow
+- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - Data pipelines for cloud config and security data. Build cloud asset inventory, CSPM, FinOps, and vulnerability management solutions. Extract from AWS, Azure, GCP, and 70+ cloud and SaaS sources.
 - [ilyas-it83/CloudComparer](https://github.com/ilyas-it83/CloudComparer) - Compare the various managed cloud services offered by the major public cloud providers in the market.
 - [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Shift FinOps Left!
 - [bazelbuild/rules_docker](https://github.com/bazelbuild/rules_docker) - Rules for building and handling Docker images with Bazel
@@ -3107,7 +3120,7 @@
 - [antonbabenko/pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform) - pre-commit git hooks to take care of Terraform configurations 🇺🇦
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
 - [litmuschaos/litmus](https://github.com/litmuschaos/litmus) - Litmus helps  SREs and developers practice chaos engineering in a Cloud-native way. Chaos experiments are published at the ChaosHub  (https://hub.litmuschaos.io). Community notes is at https://hackmd.
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Build and run custom agents across your IDE, terminal, and CI
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in TUI mode as a coding agent or Headless mode to run background agents
 - [stackrox/stackrox](https://github.com/stackrox/stackrox) - The StackRox Kubernetes Security Platform performs a risk analysis of the container environment, delivers visibility and runtime alerts, and provides recommendations to proactively improve security by
 - [kserve/kserve](https://github.com/kserve/kserve) - Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁
@@ -3170,7 +3183,6 @@
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [devtron-labs/devtron](https://github.com/devtron-labs/devtron) - The only Kubernetes dashboard you need
 - [ilyas-it83/CloudComparer](https://github.com/ilyas-it83/CloudComparer) - Compare the various managed cloud services offered by the major public cloud providers in the market.
-- [lycheeverse/lychee](https://github.com/lycheeverse/lychee) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [supertokens/supertokens-core](https://github.com/supertokens/supertokens-core) - Open source alternative to Auth0 / Firebase Auth / AWS Cognito
 - [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together
@@ -3289,6 +3301,7 @@
 
 ## home-assistant 
 
+- [alexpfau/calendar-card-pro](https://github.com/alexpfau/calendar-card-pro) - 📅 A sleek and highly customizable calendar card for Home Assistant, designed for performance and a clean, modern look.
 - [0GiS0/home-assistant-mcp](https://github.com/0GiS0/home-assistant-mcp) - ¡Controla tu casa desde VS Code! 🧠💡 Configura el MCP Server de Home Assistant paso a paso 🛠️🏠
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
@@ -3330,6 +3343,8 @@
 
 ## http 
 
+- [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
+- [asciimoo/wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [royshil/obs-urlsource](https://github.com/royshil/obs-urlsource) - OBS plugin to fetch data from a URL or file, connect to an API or AI service, parse responses and display text, image or audio on scene
@@ -3405,7 +3420,7 @@
 - [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners) - This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust and Python. Designed for
 - [kestra-io/kestra](https://github.com/kestra-io/kestra) - Orchestrate everything - from scripts to data, infra, AI, and business - as code, with UI and AI Copilot. Simple. Fast. Scalable.
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
-- [HariSekhon/Knowledge-Base](https://github.com/HariSekhon/Knowledge-Base) - Large Tech Knowledge Base from 20 years in DevOps, Linux, Cloud, Big Data, AWS, GCP and Consulting around the World including extensive Travel Tips and restaurants
+- [HariSekhon/Knowledge-Base](https://github.com/HariSekhon/Knowledge-Base) - Large Tech Knowledge Base from 20 years in DevOps, Linux, Cloud, Big Data, AWS, GCP and international Consulting including extensive Travel Tips around the world
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
 - [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
 - [mouredev/roadmap-retos-programacion](https://github.com/mouredev/roadmap-retos-programacion) - Ruta de estudio basada en ejercicios de código de la comunidad MoureDev para aprender y practicar lógica usando cualquier lenguaje de programación.
@@ -3515,7 +3530,7 @@
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
-- [sqlectron/sqlectron-gui](https://github.com/sqlectron/sqlectron-gui) - A simple and lightweight SQL client desktop with cross database and platform support.
+- [sqlectron/sqlectron](https://github.com/sqlectron/sqlectron) - A simple and lightweight SQL client desktop with cross database and platform support.
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
 - [FredrikNoren/ungit](https://github.com/FredrikNoren/ungit) - The easiest way to use git. On any platform. Anywhere.
 - [11ty/eleventy](https://github.com/11ty/eleventy) - A simpler site generator. Transforms a directory of templates (of varying types) into HTML.
@@ -3671,6 +3686,7 @@
 
 ## kubernetes 
 
+- [zalando/ghe-backup](https://github.com/zalando/ghe-backup) - Github Enterprise backup at ZalandoTech (Kubernetes, AWS, Docker)
 - [spegel-org/spegel](https://github.com/spegel-org/spegel) - Stateless cluster local OCI registry mirror.
 - [kaito-project/kaito](https://github.com/kaito-project/kaito) - Kubernetes AI Toolchain Operator
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by Clickhouse and OpenTelemetry.
@@ -3729,7 +3745,7 @@
 - [JesusMtnez/homelab](https://github.com/JesusMtnez/homelab) - My home infrastructure and Kubernetes cluster. Mirror from: https://codeberg.org/JesusMtnez/homelab
 - [ishioni/homelab-ops](https://github.com/ishioni/homelab-ops) - Family-friendly HomeOps driven by Kubernetes and GitOps using Flux
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
-- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The open source ELT framework powered by Apache Arrow
+- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - Data pipelines for cloud config and security data. Build cloud asset inventory, CSPM, FinOps, and vulnerability management solutions. Extract from AWS, Azure, GCP, and 70+ cloud and SaaS sources.
 - [jetify-com/launchpad](https://github.com/jetify-com/launchpad) - From Code to Kubernetes in One Step.
 - [kluctl/kluctl](https://github.com/kluctl/kluctl) - The missing glue to put together large Kubernetes deployments, composed of multiple smaller parts (Helm/Kustomize/...)  in a manageable and unified way.
 - [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps
@@ -3858,6 +3874,7 @@
 
 - [solidtime-io/solidtime](https://github.com/solidtime-io/solidtime) - Modern open-source time-tracking app
 - [HiEventsDev/Hi.Events](https://github.com/HiEventsDev/Hi.Events) - Open-source event management and ticket selling platform — perfect for concerts, conferences, and everything in between 🎟️  If you find this project helpful, please consider giving us a star ⭐️
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku and Netlify that lets you easily deploy static sites, databases, web applications and more than 280 one-click services on your own serv
 - [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything
 
 ## latex 
@@ -3902,6 +3919,7 @@
 
 ## linux 
 
+- [monocasual/giada](https://github.com/monocasual/giada) - Your Hardcore Loop Machine.
 - [H-M-H/Weylus](https://github.com/H-M-H/Weylus) - Use your tablet as graphic tablet/touch screen on your computer.
 - [Syllo/nvtop](https://github.com/Syllo/nvtop) - GPU & Accelerator process monitoring for AMD, Apple, Huawei, Intel, NVIDIA and Qualcomm
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
@@ -4040,7 +4058,7 @@
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - All-in-one AI automation platform (workflows, agents, cases, tables) for security, IT, and infra teams.
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Build and run custom agents across your IDE, terminal, and CI
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in TUI mode as a coding agent or Headless mode to run background agents
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
@@ -4146,6 +4164,7 @@
 
 ## macos 
 
+- [monocasual/giada](https://github.com/monocasual/giada) - Your Hardcore Loop Machine.
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [itaybre/CameraController](https://github.com/itaybre/CameraController) - 📷 Control USB Cameras from an app
 - [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; privacy-first alternative to ChatGPT Atlas, Perplexity Comet, Dia.
@@ -4213,7 +4232,7 @@
 - [foambubble/foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
 - [runmedev/runme](https://github.com/runmedev/runme) - DevOps Notebooks Built with Markdown
 - [mark-when/markwhen](https://github.com/mark-when/markwhen) - Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more.
-- [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.
+- [RezShakeri/beautify-github-profile](https://github.com/RezShakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together
@@ -4295,7 +4314,6 @@
 
 - [hudy9x/namviek](https://github.com/hudy9x/namviek) - The open-source project management tool for tiny teams
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams. The GitHub/GitLab for database DevSecOps.
 - [openblocks-dev/openblocks](https://github.com/openblocks-dev/openblocks) - 🔥 🔥 🔥 The Open Source Retool Alternative
 - [rsyslog/rsyslog](https://github.com/rsyslog/rsyslog) - a Rocket-fast SYStem for LOG processing pipelines
@@ -4311,7 +4329,7 @@
 - [keephq/keep](https://github.com/keephq/keep) - The open-source AIOps and alert management platform
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
-- [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).
+- [openobserve/openobserve](https://github.com/openobserve/openobserve) - Modern observability platform: 10x easier, 140x lower storage cost, petabyte scale. Open-source alternative to Elasticsearch/Splunk/Datadog for logs, metrics, traces, RUM, and more.
 - [collabnix/kubetools](https://github.com/collabnix/kubetools) - Kubetools - Curated List of Kubernetes Tools
 - [grafana/alloy](https://github.com/grafana/alloy) - OpenTelemetry Collector distribution with programmable pipelines
 - [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - All-in-one AI automation platform (workflows, agents, cases, tables) for security, IT, and infra teams.
@@ -4359,6 +4377,7 @@
 
 ## music 
 
+- [monocasual/giada](https://github.com/monocasual/giada) - Your Hardcore Loop Machine.
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music client! Available for both desktop & mobile!
 - [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
@@ -4371,7 +4390,7 @@
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [danvergara/dblab](https://github.com/danvergara/dblab) - The database client every command line junkie deserves.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku and Netlify that lets you easily deploy static sites, databases, web applications and more than 280 one-click services on your own serv
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams. The GitHub/GitLab for database DevSecOps.
 - [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Framer, Perplexity, Superhuman, Twilio, Buffer and more.
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
@@ -4436,7 +4455,7 @@
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [midday-ai/midday](https://github.com/midday-ai/midday) - Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku and Netlify that lets you easily deploy static sites, databases, web applications and more than 280 one-click services on your own serv
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - All-in-one AI automation platform (workflows, agents, cases, tables) for security, IT, and infra teams.
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁
@@ -4499,7 +4518,7 @@
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [version-fox/vfox](https://github.com/version-fox/vfox) - A cross-platform and extendable version manager with support for Java, Node.js, Golang, Python, Flutter, .NET & more
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku and Netlify that lets you easily deploy static sites, databases, web applications and more than 280 one-click services on your own serv
 - [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted PaaS alternative to Heroku / Netlify / Coolify / Vercel / Dokku / Portainer running on Kubernetes
 - [openinterpreter/open-interpreter](https://github.com/openinterpreter/open-interpreter) - A natural language interface for computers
 - [odigos-io/odigos](https://github.com/odigos-io/odigos) - Distributed tracing without code changes. 🚀 Instantly monitor any application using OpenTelemetry and eBPF
@@ -4586,7 +4605,7 @@
 - [githubevents/open-source-friday](https://github.com/githubevents/open-source-friday) - The home for open source maintainer chats
 - [nsdonato/recursostech](https://github.com/nsdonato/recursostech) - Recursos recopilados para compartir con la comunidad 🚀 Open source, aportes bienvenidos ♥️
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Build and run custom agents across your IDE, terminal, and CI
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in TUI mode as a coding agent or Headless mode to run background agents
 - [salaboy/platforms-on-k8s](https://github.com/salaboy/platforms-on-k8s) - Platform Engineering on Kubernetes :: Book Examples
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁
 - [apache/incubator-devlake](https://github.com/apache/incubator-devlake) - Apache DevLake is an open-source dev data platform to ingest, analyze, and visualize the fragmented data from DevOps tools, extracting insights for engineering excellence, developer experience, and co
@@ -4651,7 +4670,7 @@
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [SawyerHood/draw-a-ui](https://github.com/SawyerHood/draw-a-ui) - Draw a mockup and generate html for it
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI
-- [qodo-ai/pr-agent](https://github.com/qodo-ai/pr-agent) - 🚀 PR-Agent: An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍 (For more advanced: check Qodo Merge)
+- [qodo-ai/pr-agent](https://github.com/qodo-ai/pr-agent) - 🚀 PR-Agent: An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
 - [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - CLI platform to experiment with codegen. Precursor to: https://lovable.dev
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
 - [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) - Giving Kubernetes Superpowers to everyone
@@ -4690,6 +4709,9 @@
 
 ## others 
 
+- [DevExpGbb/vscode-ghcp-starter-kit](https://github.com/DevExpGbb/vscode-ghcp-starter-kit) - 
+- [DevExpGbb/platform-mode](https://github.com/DevExpGbb/platform-mode) - An example repo for creating a Custom Agent Mode for GitHub Copilot in VS Code that is focused on performing Platform Engineering Tasks
+- [danielmeppiel/awesome-ai-native](https://github.com/danielmeppiel/awesome-ai-native) - Learn to master GitHub Copilot with AI Native Development practices
 - [KalyanKS-NLP/llm-engineer-toolkit](https://github.com/KalyanKS-NLP/llm-engineer-toolkit) - A curated list of  120+ LLM libraries category wise.
 - [badger/home](https://github.com/badger/home) - Welcome to your Hackable Conference Badge
 - [tonybaloney/llm-github-models](https://github.com/tonybaloney/llm-github-models) - 
@@ -4700,7 +4722,6 @@
 - [vipulgupta2048/hello-copilot](https://github.com/vipulgupta2048/hello-copilot) - A community contributed set of presentations on GitHub Copilot
 - [gurusup/mcp-poc](https://github.com/gurusup/mcp-poc) - 
 - [gurusup/claude-code-demo](https://github.com/gurusup/claude-code-demo) - 
-- [antoniorv6/MakerCycle](https://github.com/antoniorv6/MakerCycle) - Gestor de proyectos de impresión 3D
 - [wegotdocs/open-mcp](https://github.com/wegotdocs/open-mcp) - 
 - [gokapso/whatsapp-broadcasts-example](https://github.com/gokapso/whatsapp-broadcasts-example) - Example Next.js app demonstrating Kapso's Broadcasts API for WhatsApp mass messaging campaigns.
 - [stolinski/css-mcp](https://github.com/stolinski/css-mcp) - 
@@ -4877,7 +4898,7 @@
 - [usertour/usertour](https://github.com/usertour/usertour) - Usertour is an open-source user onboarding platform. It allows you to create in-app product tours, checklists, and surveys in minutes—effortlessly and with full control.The open-source alternative to 
 - [0GiS0/app-powered-by-gh-copilot-agent-mode](https://github.com/0GiS0/app-powered-by-gh-copilot-agent-mode) - 
 - [allenai/olmocr](https://github.com/allenai/olmocr) - Toolkit for linearizing PDFs for LLM datasets/training
-- [VikashLoomba/copilot-mcp](https://github.com/VikashLoomba/copilot-mcp) - A powerful VSCode extension that lets you find and install MCP servers to use with GitHub Copilot..
+- [VikashLoomba/copilot-mcp](https://github.com/VikashLoomba/copilot-mcp) - A powerful VSCode extension that lets you find and install MCP servers to use with GitHub Copilot, Claude Code, and Codex CLI.
 - [AndreaGriffiths11/school-calendar-script](https://github.com/AndreaGriffiths11/school-calendar-script) - Google Apps Script automatically extracts events from your school's emails and adds them to a shared Google Calendar, making it easier to keep track of important school dates and events.
 - [openshifttips/web](https://github.com/openshifttips/web) - Hugo content for the openshift.tips blog
 - [Balastrong/github-copilot-demos](https://github.com/Balastrong/github-copilot-demos) - A sandbox for hands-on GitHub Copilot experiments
@@ -5243,6 +5264,7 @@
 - [open-gitops/project](https://github.com/open-gitops/project) - Repository for top-level information about the OpenGitOps project
 - [camba1/gotempm](https://github.com/camba1/gotempm) - Sample full stack micro services application built using the Micro platform.
 - [priyankavergadia/google-cloud-4-words](https://github.com/priyankavergadia/google-cloud-4-words) - The Google Cloud Developer's Cheat Sheet
+- [lycheeverse/lychee](https://github.com/lycheeverse/lychee) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
 - [abuanwar072/Food-App](https://github.com/abuanwar072/Food-App) - 
 - [ythirion/knowledge-base](https://github.com/ythirion/knowledge-base) - 
 - [open-gitops/documents](https://github.com/open-gitops/documents) - 📑 Lasting documents from the OpenGitOps project which are versioned and released together (including the GitOps Principles and Glossary)
@@ -5817,7 +5839,7 @@
 - [passbolt/passbolt_api](https://github.com/passbolt/passbolt_api) - Passbolt Community Edition (CE) API. The JSON API for the open source password manager for teams!
 - [kimai/kimai](https://github.com/kimai/kimai) - Kimai is a web-based multi-user time-tracking application. Works great for everyone: freelancers, companies, organizations - everyone can track their times, generate reports, create invoices and do so
 - [HiEventsDev/Hi.Events](https://github.com/HiEventsDev/Hi.Events) - Open-source event management and ticket selling platform — perfect for concerts, conferences, and everything in between 🎟️  If you find this project helpful, please consider giving us a star ⭐️
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku and Netlify that lets you easily deploy static sites, databases, web applications and more than 280 one-click services on your own serv
 - [cslant/telegram-git-notifier-app](https://github.com/cslant/telegram-git-notifier-app) - The PHP app to send notification from Gitlab and Github events to Telegram channels
 - [mouredev/roadmap-retos-programacion](https://github.com/mouredev/roadmap-retos-programacion) - Ruta de estudio basada en ejercicios de código de la comunidad MoureDev para aprender y practicar lógica usando cualquier lenguaje de programación.
 - [onelang/OneLang](https://github.com/onelang/OneLang) - 
@@ -5848,7 +5870,6 @@
 - [danvergara/dblab](https://github.com/danvergara/dblab) - The database client every command line junkie deserves.
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The personal finance app for everyone
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [reactive-tech/kubegres](https://github.com/reactive-tech/kubegres) - Kubegres is a Kubernetes operator allowing to deploy one or many clusters of PostgreSql instances and manage databases replication, failover and backup.
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
@@ -6038,7 +6059,7 @@
 - [rendercv/rendercv](https://github.com/rendercv/rendercv) - Version-control CVs/resumes as source code
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [HariSekhon/DevOps-Python-tools](https://github.com/HariSekhon/DevOps-Python-tools) - 80+ DevOps & Data CLI Tools - AWS, GCP, GCF Python Cloud Functions, Log Anonymizer, Spark, Hadoop, HBase, Hive, Impala, Linux, Docker, Spark Data Converters & Validators (Avro/Parquet/JSON/CSV/INI/XML
-- [HariSekhon/Knowledge-Base](https://github.com/HariSekhon/Knowledge-Base) - Large Tech Knowledge Base from 20 years in DevOps, Linux, Cloud, Big Data, AWS, GCP and Consulting around the World including extensive Travel Tips and restaurants
+- [HariSekhon/Knowledge-Base](https://github.com/HariSekhon/Knowledge-Base) - Large Tech Knowledge Base from 20 years in DevOps, Linux, Cloud, Big Data, AWS, GCP and international Consulting including extensive Travel Tips around the world
 - [agno-agi/agno](https://github.com/agno-agi/agno) - Multi-agent framework, runtime and control plane. Built for speed, privacy, and scale.
 - [RayVentura/ShortGPT](https://github.com/RayVentura/ShortGPT) - 🚀🎬 ShortGPT - Experimental AI framework for youtube shorts / tiktok channel automation
 - [hugsy/gef](https://github.com/hugsy/gef) - GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux
@@ -6292,7 +6313,6 @@
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
 - [arikchakma/maily.to](https://github.com/arikchakma/maily.to) - Craft beautiful emails effortlessly with Maily, the powerful email editor that ensures impeccable communication across all major clients.
-- [nikivdev/wiki](https://github.com/nikivdev/wiki) - 
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
@@ -6313,7 +6333,7 @@
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [leerob/next-mdx-blog](https://github.com/leerob/next-mdx-blog) - Next.js + MDX blog template with Tailwind CSS and TypeScript.
 - [apptension/saas-boilerplate](https://github.com/apptension/saas-boilerplate) - SaaS Boilerplate - Open Source and free SaaS stack that lets you build SaaS products faster in React, Django and AWS. Focus on essential business logic instead of coding repeatable features!
-- [sqlectron/sqlectron-gui](https://github.com/sqlectron/sqlectron-gui) - A simple and lightweight SQL client desktop with cross database and platform support.
+- [sqlectron/sqlectron](https://github.com/sqlectron/sqlectron) - A simple and lightweight SQL client desktop with cross database and platform support.
 - [redpanda-data/console](https://github.com/redpanda-data/console) - Redpanda Console is a developer-friendly UI for managing your Kafka/Redpanda workloads. Console gives you a simple, interactive approach for gaining visibility into your topics, masking data, managing
 - [ugglr/Remote-Developer-jobs-directory](https://github.com/ugglr/Remote-Developer-jobs-directory) - Document all things for remote developer positions.
 - [animavita/animavita](https://github.com/animavita/animavita) - Trigger life-saving alerts, register animals for adoption and find the closest pet friend to adopt :dog:
@@ -6349,7 +6369,6 @@
 - [liam-hq/liam](https://github.com/liam-hq/liam) - Automatically generates beautiful and easy-to-read ER diagrams from your database.
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
 - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Qualtrics Alternative
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [chrisvdev/obs-chat](https://github.com/chrisvdev/obs-chat) - Also known as CVTalk is a Twitch chat viewer made with React for use in OBS or any streaming software capable of using a browser as a source including TTS and other cool features.
@@ -6675,6 +6694,7 @@
 - [jonico/awesome-runners](https://github.com/jonico/awesome-runners) - A curated list of awesome self-hosted GitHub Action runners in a large comparison matrix
 - [qoomon/actions--access-token](https://github.com/qoomon/actions--access-token) - Get rid of personal access tokens (PAT) and credential management, use temporary GitHub Application access tokens instead!
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku and Netlify that lets you easily deploy static sites, databases, web applications and more than 280 one-click services on your own serv
 - [github-aws-runners/terraform-aws-github-runner](https://github.com/github-aws-runners/terraform-aws-github-runner) - Terraform module for scalable GitHub action runners on AWS
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [metrue/fx](https://github.com/metrue/fx) - A Function as a Service tool makes a function as a  container-based service in seconds.
@@ -6699,6 +6719,7 @@
 
 ## server 
 
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku and Netlify that lets you easily deploy static sites, databases, web applications and more than 280 one-click services on your own serv
 - [alajmo/sake](https://github.com/alajmo/sake) - :robot: task runner for local and remote hosts
 - [ory/hydra](https://github.com/ory/hydra) - The only web-scale, fully customizable OpenID Certified™ OpenID Connect and OAuth2 Provider in the world. Become an OpenID Connect and OAuth2 Provider over night. Written in Go, cloud native, headless
 - [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
@@ -6816,7 +6837,7 @@
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [microsoft/Mastering-GitHub-Copilot-for-Paired-Programming](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming) - A multi-module course teaching everything you need to know about using GitHub Copilot as an AI Peer Programming resource.
-- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The open source ELT framework powered by Apache Arrow
+- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - Data pipelines for cloud config and security data. Build cloud asset inventory, CSPM, FinOps, and vulnerability management solutions. Extract from AWS, Azure, GCP, and 70+ cloud and SaaS sources.
 - [ArroyoSystems/arroyo](https://github.com/ArroyoSystems/arroyo) - Distributed stream processing engine in Rust
 - [multiprocessio/dsq](https://github.com/multiprocessio/dsq) - Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
 - [bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources) - DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP
@@ -6873,7 +6894,7 @@
 - [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) - 💪🏻 Blazing-fast system monitoring for your desktop (built with Rust, Tauri & Svelte)
 - [undb-io/undb](https://github.com/undb-io/undb) - 🚀 Private first self-hosted no code database & BaaS.
 - [janreges/siteone-crawler-gui](https://github.com/janreges/siteone-crawler-gui) - SiteOne Crawler GUI is a cross-platform website crawler and analyzer for SEO, security, accessibility, and performance optimization—ideal for developers, DevOps, QA engineers, and consultants. Support
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku and Netlify that lets you easily deploy static sites, databases, web applications and more than 280 one-click services on your own serv
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 
 ## swift 
@@ -7124,6 +7145,8 @@
 
 ## testing 
 
+- [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
+- [karatelabs/karate](https://github.com/karatelabs/karate) - Test Automation Made Simple
 - [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene) - Your AI Operator for Web, Android, Automation & Testing.
 - [qodo-ai/qodo-cover](https://github.com/qodo-ai/qodo-cover) - Qodo-Cover: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞
 - [nsdonato/recursostech](https://github.com/nsdonato/recursostech) - Recursos recopilados para compartir con la comunidad 🚀 Open source, aportes bienvenidos ♥️
@@ -7331,7 +7354,6 @@
 ## visual-studio-code 
 
 - [microsoft/lab-study-app](https://github.com/microsoft/lab-study-app) - Hands-on with GitHub Copilot: Building AI-Powered Study Plans with GitHub Models
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Build and run custom agents across your IDE, terminal, and CI
 - [microsoft/Mastering-GitHub-Copilot-for-Paired-Programming](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming) - A multi-module course teaching everything you need to know about using GitHub Copilot as an AI Peer Programming resource.
 - [CodelyTV/awesome-vscode-settings](https://github.com/CodelyTV/awesome-vscode-settings) - Awesome Settings for VSCode
 - [microsoft/vscode-cmake-tools](https://github.com/microsoft/vscode-cmake-tools) - CMake Tools provides a robust, convenient workflow for CMake projects in VS Code. It simplifies configurations with CMake presets, supports IntelliSense and built-in debugging for CMake scripts, and o
@@ -7394,7 +7416,6 @@
 
 ## vuejs 
 
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [benc-uk/kubeview](https://github.com/benc-uk/kubeview) - KubeView is a Kubernetes cluster visualization tool that provides a graphical representation of your cluster's resources and their relationships
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [zincsearch/zincsearch](https://github.com/zincsearch/zincsearch) - ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
@@ -7467,6 +7488,7 @@
 
 ## windows 
 
+- [monocasual/giada](https://github.com/monocasual/giada) - Your Hardcore Loop Machine.
 - [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows 🍉
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; privacy-first alternative to ChatGPT Atlas, Perplexity Comet, Dia.
