@@ -350,6 +350,7 @@
 - [invariantlabs-ai/mcp-scan](https://github.com/invariantlabs-ai/mcp-scan) - Constrain, log and scan your MCP connections for security vulnerabilities.
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Open-source platform to build and deploy AI agent workflows.
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [kagent-dev/kagent](https://github.com/kagent-dev/kagent) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
 - [browserbase/stagehand](https://github.com/browserbase/stagehand) - The AI Browser Automation Framework
 - [datolabs-io/opsy](https://github.com/datolabs-io/opsy) - Opsy - Your AI-Powered SRE Colleague
@@ -2163,7 +2164,7 @@
 - [Silex/docker-emacs](https://github.com/Silex/docker-emacs) - Run Emacs in docker containers!
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [thedrhax-dockerfiles/android-avd](https://github.com/thedrhax-dockerfiles/android-avd) - Headless Android x86 emulator ready for automated instrumentation testing.
-- [cr0hn/dockerscan](https://github.com/cr0hn/dockerscan) - Docker security analysis & hacking tools
+- [cr0hn/dockerscan](https://github.com/cr0hn/dockerscan) - The Most Comprehensive Docker Security Scanner
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [alexellis/mine-with-docker](https://github.com/alexellis/mine-with-docker) - Mine cryptocurrencies with Docker containers and get paid in Bitcoin (BTC)
 - [turkenh/ansible-interactive-tutorial](https://github.com/turkenh/ansible-interactive-tutorial) - Interactive Ansible tutorials with dead simple setup via Docker
@@ -3045,7 +3046,7 @@
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [SVelizDonoso/taketv](https://github.com/SVelizDonoso/taketv) - TakeTV permite descubrir dispositivos de red DLNA/UPnP y ayuda a reproducir archivos multimedia en los televisores inteligentes desde nuestra terminal en Linux.
 - [Hack-with-Github/Free-Security-eBooks](https://github.com/Hack-with-Github/Free-Security-eBooks) - Free Security and Hacking eBooks
-- [cr0hn/dockerscan](https://github.com/cr0hn/dockerscan) - Docker security analysis & hacking tools
+- [cr0hn/dockerscan](https://github.com/cr0hn/dockerscan) - The Most Comprehensive Docker Security Scanner
 - [hacktoolspack/hack-tools](https://github.com/hacktoolspack/hack-tools) - hack tools
 - [thyrlian/AndroidSDK](https://github.com/thyrlian/AndroidSDK) - 🐳 Full-fledged Android SDK Docker Image
 - [vitalysim/Awesome-Hacking-Resources](https://github.com/vitalysim/Awesome-Hacking-Resources) - A collection of hacking / penetration testing resources to make you better!
@@ -4710,6 +4711,8 @@
 
 ## others 
 
+- [DaveBurnisonMS/Presentations](https://github.com/DaveBurnisonMS/Presentations) - A place to publicly share my presentations.
+- [modelcontextprotocol/mcpb](https://github.com/modelcontextprotocol/mcpb) - Desktop Extensions: One-click local MCP server installation in desktop apps
 - [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) - all of the workflows of n8n i could find (also from the site itself)
 - [virattt/ai-financial-agent](https://github.com/virattt/ai-financial-agent) - A financial agent for investment research
 - [denizsafak/AutoSubSync](https://github.com/denizsafak/AutoSubSync) - Automatic subtitle synchronization tool.
@@ -6635,7 +6638,7 @@
 - [WaTF-Team/WaTF-Bank](https://github.com/WaTF-Team/WaTF-Bank) - WaTF Bank - What a Terrible Failure Mobile Banking Application for Android and iOS
 - [Hack-with-Github/Free-Security-eBooks](https://github.com/Hack-with-Github/Free-Security-eBooks) - Free Security and Hacking eBooks
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
-- [cr0hn/dockerscan](https://github.com/cr0hn/dockerscan) - Docker security analysis & hacking tools
+- [cr0hn/dockerscan](https://github.com/cr0hn/dockerscan) - The Most Comprehensive Docker Security Scanner
 - [sensepost/objection](https://github.com/sensepost/objection) - 📱 objection - runtime mobile exploration
 - [vincentcox/StaCoAn](https://github.com/vincentcox/StaCoAn) - StaCoAn is a crossplatform tool which aids developers, bugbounty hunters and ethical hackers performing static code analysis on mobile applications.
 - [secdev/scapy](https://github.com/secdev/scapy) - Scapy: the Python-based interactive packet manipulation program & library.
