@@ -121,6 +121,7 @@
 - [google-cloud](#google-cloud)
 - [gradle](#gradle)
 - [graphql](#graphql)
+- [gui](#gui)
 - [hackathon](#hackathon)
 - [hacking](#hacking)
 - [hacking-tool](#hacking-tool)
@@ -284,6 +285,7 @@
 - [web](#web)
 - [web-components](#web-components)
 - [web-development](#web-development)
+- [web3](#web3)
 - [webapp](#webapp)
 - [webpack](#webpack)
 - [website](#website)
@@ -301,6 +303,7 @@
 
 ## ai 
 
+- [DanWahlin/ai-repo-adventures](https://github.com/DanWahlin/ai-repo-adventures) - A fun, Model Context Protocol (MCP) server and/or HTML generator that transforms code repositories into interactive adventures!
 - [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) - Open Source TypeScript AI Agent Framework with built-in LLM Observability
 - [dryeab/mcp-telegram](https://github.com/dryeab/mcp-telegram) - MCP Server for Telegram
 - [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open source alternative to NotebookLM, Perplexity, and Glean. Connects to search engines, Slack, Linear, Jira, ClickUp, Notion, YouTube, GitHub, Discord, and more.  Join our Discord: https://discord.g
@@ -760,7 +763,6 @@
 - [atinfo/awesome-test-automation](https://github.com/atinfo/awesome-test-automation) - A curated list of awesome test automation frameworks, tools, libraries, and software for different programming languages. Sponsored by https://zapple.tech and https://automated-testing.info
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL
 - [k4m4/movies-for-hackers](https://github.com/k4m4/movies-for-hackers) - 🎬 A curated list of movies every hacker & cyberpunk must watch.
-- [t9tio/open-source-jobs](https://github.com/t9tio/open-source-jobs) - A list of Open Source projects offering jobs.
 - [joho/awesome-code-review](https://github.com/joho/awesome-code-review) - An "Awesome" list of code review resources - articles, papers, tools, etc
 - [korfuri/awesome-monorepo](https://github.com/korfuri/awesome-monorepo) - A curated list of awesome Monorepo tools, software and architectures.
 - [rShetty/awesome-podcasts](https://github.com/rShetty/awesome-podcasts) - Collection of awesome podcasts
@@ -881,7 +883,6 @@
 - [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns) - Design patterns implemented in Java
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL
 - [k4m4/movies-for-hackers](https://github.com/k4m4/movies-for-hackers) - 🎬 A curated list of movies every hacker & cyberpunk must watch.
-- [t9tio/open-source-jobs](https://github.com/t9tio/open-source-jobs) - A list of Open Source projects offering jobs.
 - [joho/awesome-code-review](https://github.com/joho/awesome-code-review) - An "Awesome" list of code review resources - articles, papers, tools, etc
 - [korfuri/awesome-monorepo](https://github.com/korfuri/awesome-monorepo) - A curated list of awesome Monorepo tools, software and architectures.
 - [rShetty/awesome-podcasts](https://github.com/rShetty/awesome-podcasts) - Collection of awesome podcasts
@@ -1646,6 +1647,7 @@
 
 - [amplication/amplication](https://github.com/amplication/amplication) - Amplication brings order to the chaos of large-scale software development by creating Golden Paths for developers - streamlined workflows that drive consistency, enable high-quality code practices, si
 - [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners) - This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust and Python. Designed for
+- [spectreconsole/spectre.console](https://github.com/spectreconsole/spectre.console) - A .NET library that makes it easier to create beautiful console applications.
 - [onelang/OneLang](https://github.com/onelang/OneLang) - 
 - [microsoft/Mastering-GitHub-Copilot-for-Paired-Programming](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming) - A multi-module course teaching everything you need to know about using GitHub Copilot as an AI Peer Programming resource.
 - [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types t
@@ -2197,6 +2199,7 @@
 
 ## documentation 
 
+- [mgks/docmd](https://github.com/mgks/docmd) - Generate minimal, fast & beautiful docs from Markdown. No React, no bloat, just content. Built for developers.
 - [davialabs/davia](https://github.com/davialabs/davia) - Interactive, editable docs designed for coding agents
 - [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - README file generator, powered by AI.
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
@@ -3032,6 +3035,31 @@
 - [prisma/prisma1](https://github.com/prisma/prisma1) - 💾 Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB) [deprecated]
 - [Molunerfinn/node-github-profile-summary](https://github.com/Molunerfinn/node-github-profile-summary) - [Temporarily unavailable]:octocat:The node version of github-profile-summary with GraphQL
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The best React-based framework with performance, scalability and security built in.
+
+## gui 
+
+- [ransome1/sleek](https://github.com/ransome1/sleek) - todo.txt manager for Linux, Windows and MacOS, free and open-source (FOSS)
+- [IndieSmiths/nodezator](https://github.com/IndieSmiths/nodezator) - A generalist Python node editor
+- [rio-labs/rio](https://github.com/rio-labs/rio) - WebApps in pure Python. No JavaScript, HTML and CSS needed
+- [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
+- [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
+- [epezent/implot](https://github.com/epezent/implot) - Immediate Mode Plotting
+- [komodorio/komoplane](https://github.com/komodorio/komoplane) - 🍨 Crossplane Troubleshooting Tool by Komodor
+- [openblocks-dev/openblocks](https://github.com/openblocks-dev/openblocks) - 🔥 🔥 🔥 The Open Source Retool Alternative
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
+- [sqlectron/sqlectron](https://github.com/sqlectron/sqlectron) - A simple and lightweight SQL client desktop with cross database and platform support.
+- [cs01/gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will ope
+- [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
+- [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI
+- [onivim/oni](https://github.com/onivim/oni) - Oni: Modern Modal Editing - powered by Neovim
+- [you-dont-need/You-Dont-Need-GUI](https://github.com/you-dont-need/You-Dont-Need-GUI) - Stop relying on GUI; CLI **ROCKS**
+- [justin-vanwinkle/Docker-GUI-Example](https://github.com/justin-vanwinkle/Docker-GUI-Example) - An example of how run GUI apps with Docker.
+- [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
+- [JAremko/docker-x11-bridge](https://github.com/JAremko/docker-x11-bridge) - Simple Xpra X11 bridge to enable GUI with any docker image
+- [antojoseph/diff-gui](https://github.com/antojoseph/diff-gui) - GUI for Frida -Scripts
+- [IanDarwin/Android-Cookbook-Examples](https://github.com/IanDarwin/Android-Cookbook-Examples) - Contributed code examples from O'Reilly Android Cookbook. See #user-content-table README below!
+- [JAremko/docker-emacs](https://github.com/JAremko/docker-emacs) - Dockerized Emacs (GUI)
 
 ## hackathon 
 
@@ -4211,6 +4239,7 @@
 
 ## markdown 
 
+- [mgks/docmd](https://github.com/mgks/docmd) - Generate minimal, fast & beautiful docs from Markdown. No React, no bloat, just content. Built for developers.
 - [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - README file generator, powered by AI.
 - [basicmachines-co/basic-memory](https://github.com/basicmachines-co/basic-memory) - AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN
 - [owlistic-notes/owlistic](https://github.com/owlistic-notes/owlistic) - 🦉 Free open-source notetaking app with real-time sync 🔄⚡️🚀
@@ -4511,6 +4540,7 @@
 
 ## nodejs 
 
+- [mgks/docmd](https://github.com/mgks/docmd) - Generate minimal, fast & beautiful docs from Markdown. No React, no bloat, just content. Built for developers.
 - [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) - Open Source TypeScript AI Agent Framework with built-in LLM Observability
 - [amplication/amplication](https://github.com/amplication/amplication) - Amplication brings order to the chaos of large-scale software development by creating Golden Paths for developers - streamlined workflows that drive consistency, enable high-quality code practices, si
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
@@ -4553,6 +4583,7 @@
 
 ## npm 
 
+- [mgks/docmd](https://github.com/mgks/docmd) - Generate minimal, fast & beautiful docs from Markdown. No React, no bloat, just content. Built for developers.
 - [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 
@@ -4714,6 +4745,7 @@
 
 ## others 
 
+- [AIDDbot/AIDDbot](https://github.com/AIDDbot/AIDDbot) - AI-Driven development helper bot
 - [terramate-io/terramate-github-as-code](https://github.com/terramate-io/terramate-github-as-code) - Terramate Bundles and Components for a GitHub as Code Terraform/OpenTofu implementation using Terramate Scaffolding.
 - [DaveBurnisonMS/Presentations](https://github.com/DaveBurnisonMS/Presentations) - A place to publicly share my presentations.
 - [modelcontextprotocol/mcpb](https://github.com/modelcontextprotocol/mcpb) - Desktop Extensions: One-click local MCP server installation in desktop apps
@@ -4861,7 +4893,7 @@
 - [Lin-jun-xiang/vscode-prompts-chat-extension](https://github.com/Lin-jun-xiang/vscode-prompts-chat-extension) - An extension to connect to prompts.chat and add prompt templates for VSCode Github Copilot.
 - [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust.
 - [browser-use/workflow-use](https://github.com/browser-use/workflow-use) - ⚙️ Create and run workflows (RPA 2.0)
-- [lapce/lapdev](https://github.com/lapce/lapdev) - Self-Hosted Remote Dev Environment
+- [lapce/lapdev](https://github.com/lapce/lapdev) - Seamless dev environments for Kubernetes
 - [Nutlope/self.so](https://github.com/Nutlope/self.so) - LinkedIn -&gt; personal site generator
 - [f/mcptools](https://github.com/f/mcptools) - A command-line interface for interacting with MCP (Model Context Protocol) servers using both stdio and HTTP transport.
 - [open-webui/mcpo](https://github.com/open-webui/mcpo) - A simple, secure MCP-to-OpenAPI proxy server
@@ -5463,6 +5495,7 @@
 - [javier-lopez/learn](https://github.com/javier-lopez/learn) - random files I've been collecting & programming
 - [Fictizia/taller-survapp-t3chfest-2019](https://github.com/Fictizia/taller-survapp-t3chfest-2019) - Contenidos del taller "Desarrolla tu Survival Alert con Nodejs" del T3chfest'19
 - [checkstyle/sonar-checkstyle](https://github.com/checkstyle/sonar-checkstyle) - Support on Checkstyle in SonarQube. Officially transfered from https://github.com/SonarQubeCommunity/sonar-checkstyle
+- [timqian/open-source-jobs](https://github.com/timqian/open-source-jobs) - A list of Open Source projects offering jobs.
 - [rockneurotiko/tryit19-phoenix](https://github.com/rockneurotiko/tryit19-phoenix) - 
 - [DA-ETSIINF/hunt-solutions](https://github.com/DA-ETSIINF/hunt-solutions) - Repositorio oficial con los recursos, reglas y soluciones de las distintas ediciones del Hunt.
 - [mobile-shell/mosh](https://github.com/mobile-shell/mosh) - Mobile Shell
@@ -5603,7 +5636,6 @@
 - [ciao-lang/docker-ciao](https://github.com/ciao-lang/docker-ciao) - Docker image for Ciao
 - [editorconfig/editorconfig-vscode](https://github.com/editorconfig/editorconfig-vscode) - EditorConfig extension for Visual Studio Code
 - [editorconfig/editorconfig](https://github.com/editorconfig/editorconfig) - EditorConfig universal issue tracker and wiki
-- [antojoseph/diff-gui](https://github.com/antojoseph/diff-gui) - GUI for Frida -Scripts
 - [orso-research-lab/orso-research.github.io](https://github.com/orso-research-lab/orso-research.github.io) - Software Engineering Group at Georgia Tech
 - [intel/haxm](https://github.com/intel/haxm) - Intel® Hardware Accelerated Execution Manager (Intel® HAXM)
 - [docker-saigon/docker-saigon.github.io](https://github.com/docker-saigon/docker-saigon.github.io) - Docker-Saigon Blog
@@ -6025,6 +6057,7 @@
 
 ## python 
 
+- [m15-ai/Faster-Local-Voice-AI](https://github.com/m15-ai/Faster-Local-Voice-AI) - A real-time, fully local voice AI system optimized for low-resource devices like an 8GB Ubuntu laptop with no GPU, achieving sub-second STT-to-TTS latency using Ollama, Vosk, Piper, and JACK/PipeWire.
 - [doganarif/fastapi-radar](https://github.com/doganarif/fastapi-radar) - A powerful debugging dashboard for FastAPI applications. Monitor HTTP requests, SQL queries, and exceptions in real-time with a beautiful React UI. One-line integration, zero configuration needed.
 - [ChaituRajSagar/gemini-youtube-automation](https://github.com/ChaituRajSagar/gemini-youtube-automation) - A fully autonomous AI Agent/Python pipeline that utilizes Large Language Models (LLMs) like Gemini to generate content, produce videos, and automatically upload educational videos to YouTube.
 - [whyisdifficult/jiratui](https://github.com/whyisdifficult/jiratui) - A Textual User Interface for interacting with Atlassian Jira from your shell
@@ -7478,6 +7511,10 @@
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 - [P1xt/p1xt-guides](https://github.com/P1xt/p1xt-guides) - Programming curricula
 - [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - Front End interview preparation materials for busy engineers (updated for 2025)
+
+## web3 
+
+- [amark/gun](https://github.com/amark/gun) - An open source cybersecurity protocol for syncing decentralized graph data.
 
 ## webapp 
 
