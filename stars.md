@@ -859,10 +859,12 @@
 
 ## HTML 
 
+- [DanWahlin/ai-repo-adventures](https://github.com/DanWahlin/ai-repo-adventures) - A fun, Model Context Protocol (MCP) server and/or HTML generator that transforms code repositories into interactive adventures!
 - [surajverma/homehub](https://github.com/surajverma/homehub) - A lightweight, no-login, self-hosted family utility for your home.
 - [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) - DigitalPlat FreeDomain: Free Domain For Everyone
 - [microsoft/lab-study-app](https://github.com/microsoft/lab-study-app) - Hands-on with GitHub Copilot: Building AI-Powered Study Plans with GitHub Models
 - [npatarino/tech-conferences-spain](https://github.com/npatarino/tech-conferences-spain) - A community-curated list of conferences around Spain.
+- [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [BenjaminAster/CSS-Minecraft](https://github.com/BenjaminAster/CSS-Minecraft) - A Minecraft clone made with pure HTML & CSS – no JavaScript.
 - [thomast1906/github-copilot-metric-viewer](https://github.com/thomast1906/github-copilot-metric-viewer) - 
 - [openshifttips/web](https://github.com/openshifttips/web) - Hugo content for the openshift.tips blog
@@ -1051,11 +1053,11 @@
 
 ## JavaScript 
 
+- [AnandChowdhary/github-stars-contributions-mcp](https://github.com/AnandChowdhary/github-stars-contributions-mcp) - 💽 MCP server to update your GitHub Stars contributions
+- [mgks/docmd](https://github.com/mgks/docmd) - Generate minimal, fast & beautiful docs from Markdown. No React, no bloat, just content. Built for developers.
 - [stolinski/css-mcp](https://github.com/stolinski/css-mcp) - 
-- [obra/superpowers](https://github.com/obra/superpowers) - Claude Code superpowers: core skills library
 - [skills/expand-your-team-with-copilot](https://github.com/skills/expand-your-team-with-copilot) - Let Copilot coding agent tackle your issues directly on GitHub. No coding environment needed.
 - [burkeholland/mcp-confirm](https://github.com/burkeholland/mcp-confirm) - 
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [adamyordan/laplace](https://github.com/adamyordan/laplace) - Laplace is an open-source project to enable screen sharing directly via browser. Based on WebRTC for low latency peer-to-peer connections, and WebSocket implemented in golang for signaling.
 - [learnk8s/xlskubectl](https://github.com/learnk8s/xlskubectl) - xlskubectl — a spreadsheet to control your Kubernetes cluster
 - [0GiS0/midudev-lemoncode](https://github.com/0GiS0/midudev-lemoncode) - 🚀 Mis demos en el Twitch de Midudev
@@ -1216,7 +1218,6 @@
 - [hihayk/scale](https://github.com/hihayk/scale) - Color scale generator
 - [lirantal/dockly](https://github.com/lirantal/dockly) - Immersive terminal interface for managing docker containers and services
 - [ottomatica/slim](https://github.com/ottomatica/slim) - Build and run tiny vms from Dockerfiles. Small and sleek.
-- [t9tio/open-source-jobs](https://github.com/t9tio/open-source-jobs) - A list of Open Source projects offering jobs.
 - [remoteinterview/zero](https://github.com/remoteinterview/zero) - Zero is a web server to simplify web development.
 - [CodecrumbsIO/codecrumbs](https://github.com/CodecrumbsIO/codecrumbs) - Learn, design or document codebase by putting breadcrumbs in source code. Live updates, multi-language support and more.
 - [icecrime/docker-mon](https://github.com/icecrime/docker-mon) - Console-based Docker monitoring
@@ -1470,6 +1471,8 @@
 
 ## Others 
 
+- [getmanfred/companies-with-public-salary](https://github.com/getmanfred/companies-with-public-salary) - List of companies with public salary
+- [AIDDbot/AIDDbot](https://github.com/AIDDbot/AIDDbot) - AI-Driven development helper bot
 - [DaveBurnisonMS/Presentations](https://github.com/DaveBurnisonMS/Presentations) - A place to publicly share my presentations.
 - [danielmeppiel/spec2cloud](https://github.com/danielmeppiel/spec2cloud) - 
 - [mbruhler/claude-orchestration](https://github.com/mbruhler/claude-orchestration) - Multi-agent workflow orchestration plugin for Claude Code
@@ -1864,6 +1867,7 @@
 
 ## Python 
 
+- [m15-ai/Faster-Local-Voice-AI](https://github.com/m15-ai/Faster-Local-Voice-AI) - A real-time, fully local voice AI system optimized for low-resource devices like an 8GB Ubuntu laptop with no GPU, achieving sub-second STT-to-TTS latency using Ollama, Vosk, Piper, and JACK/PipeWire.
 - [doganarif/fastapi-radar](https://github.com/doganarif/fastapi-radar) - A powerful debugging dashboard for FastAPI applications. Monitor HTTP requests, SQL queries, and exceptions in real-time with a beautiful React UI. One-line integration, zero configuration needed.
 - [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) - all of the workflows of n8n i could find (also from the site itself)
 - [denizsafak/AutoSubSync](https://github.com/denizsafak/AutoSubSync) - Automatic subtitle synchronization tool.
@@ -2365,10 +2369,9 @@
 - [ferriskey/ferriskey](https://github.com/ferriskey/ferriskey) - FerrisKey is an open-source IAM solution designed for modern cloud-native environments. With its high-performance API written in Rust and its intuitive web interface developed in Typescript/React, Fer
 - [facebook/pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and language server for Python
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
-- [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [theopfr/somo](https://github.com/theopfr/somo) - A human-friendly alternative to netstat for socket and port monitoring on Linux and macOS.
-- [lapce/lapdev](https://github.com/lapce/lapdev) - Self-Hosted Remote Dev Environment
+- [lapce/lapdev](https://github.com/lapce/lapdev) - Seamless dev environments for Kubernetes
 - [Zackriya-Solutions/meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes) - A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding 
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [medialab/xan](https://github.com/medialab/xan) - The CSV magician
@@ -2490,6 +2493,7 @@
 
 - [EmeaAppGbb/spec2cloud](https://github.com/EmeaAppGbb/spec2cloud) - 
 - [zalando/ghe-backup](https://github.com/zalando/ghe-backup) - Github Enterprise backup at ZalandoTech (Kubernetes, AWS, Docker)
+- [obra/superpowers](https://github.com/obra/superpowers) - Claude Code superpowers: core skills library
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [Alejandrolmeida/azure-agent-pro](https://github.com/Alejandrolmeida/azure-agent-pro) - 🤖 Educational research project teaching GitHub Copilot enhanced Azure professional management
 - [Gentleman-Programming/Gentleman.Dots](https://github.com/Gentleman-Programming/Gentleman.Dots) - My personal configuration for LazyVim !
@@ -2688,7 +2692,8 @@
 
 ## Svelte 
 
-- [CriticalMoments/CMSaasStarter](https://github.com/CriticalMoments/CMSaasStarter) - A modern SaaS template/boilerplate built with SvelteKit, Tailwind, and Supabase. Includes marketing page, blog, subscriptions, auth, user dashboard, user settings, pricing page, and more.
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+- [scosman/CMSaasStarter](https://github.com/scosman/CMSaasStarter) - A modern SaaS template/boilerplate built with SvelteKit, Tailwind, and Supabase. Includes marketing page, blog, subscriptions, auth, user dashboard, user settings, pricing page, and more.
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) - 💪🏻 Blazing-fast system monitoring for your desktop (built with Rust, Tauri & Svelte)
 - [janreges/siteone-crawler-gui](https://github.com/janreges/siteone-crawler-gui) - SiteOne Crawler GUI is a cross-platform website crawler and analyzer for SEO, security, accessibility, and performance optimization—ideal for developers, DevOps, QA engineers, and consultants. Support
@@ -3043,6 +3048,7 @@
 - [animavita/animavita](https://github.com/animavita/animavita) - Trigger life-saving alerts, register animals for adoption and find the closest pet friend to adopt :dog:
 - [Graviton-Code-Editor/Graviton-App](https://github.com/Graviton-Code-Editor/Graviton-App) - 🚀 A modern-looking Code Editor
 - [gitkraken/vscode-gitlens](https://github.com/gitkraken/vscode-gitlens) - Supercharge Git inside VS Code and unlock untapped knowledge within each repository — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git 
+- [timqian/open-source-jobs](https://github.com/timqian/open-source-jobs) - A list of Open Source projects offering jobs.
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [LeetCode-OpenSource/vscode-leetcode](https://github.com/LeetCode-OpenSource/vscode-leetcode) - Solve LeetCode problems in VS Code
 - [redhat-developer/vscode-java](https://github.com/redhat-developer/vscode-java) - Java Language Support for Visual Studio Code
