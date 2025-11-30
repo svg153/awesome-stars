@@ -864,7 +864,6 @@
 - [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) - DigitalPlat FreeDomain: Free Domain For Everyone
 - [microsoft/lab-study-app](https://github.com/microsoft/lab-study-app) - Hands-on with GitHub Copilot: Building AI-Powered Study Plans with GitHub Models
 - [npatarino/tech-conferences-spain](https://github.com/npatarino/tech-conferences-spain) - A community-curated list of conferences around Spain.
-- [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [BenjaminAster/CSS-Minecraft](https://github.com/BenjaminAster/CSS-Minecraft) - A Minecraft clone made with pure HTML & CSS – no JavaScript.
 - [thomast1906/github-copilot-metric-viewer](https://github.com/thomast1906/github-copilot-metric-viewer) - 
 - [openshifttips/web](https://github.com/openshifttips/web) - Hugo content for the openshift.tips blog
@@ -1072,12 +1071,10 @@
 - [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.
 - [rados10/youtube-watchlater-mcp](https://github.com/rados10/youtube-watchlater-mcp) - MCP server for accessing YouTube Watch Later playlist
 - [olaservo/mcp-advisor](https://github.com/olaservo/mcp-advisor) - MCP Server to assist LLMs and humans on Model Context Protocol spec compliance and understanding
-- [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
 - [JudiniLabs/mcp-code-graph](https://github.com/JudiniLabs/mcp-code-graph) - MCP Server for code graph analysis and visualization by CodeGPT
 - [marp-team/marpit](https://github.com/marp-team/marpit) - The skinny framework for creating slide deck from Markdown
 - [github/hotkey](https://github.com/github/hotkey) - Trigger an action on an element with a keyboard shortcut.
 - [github/lock](https://github.com/github/lock) - Lock Action to support deployment locking for the branch-deploy Action
-- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
 - [github/github-app-js-sample](https://github.com/github/github-app-js-sample) - Sample of a GitHub App that comments new pull requests
 - [danilat/mcp-dndzgz](https://github.com/danilat/mcp-dndzgz) - A MCP Server to know about Zaragoza bus, tram and bizi services in realtime
 - [skills/getting-started-with-github-copilot](https://github.com/skills/getting-started-with-github-copilot) - Learn, build, debug, and ship faster than ever with your favorite AI pair programmer.
@@ -2316,6 +2313,7 @@
 
 ## Roff 
 
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
 - [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 
 ## Ruby 
@@ -2369,6 +2367,7 @@
 - [ferriskey/ferriskey](https://github.com/ferriskey/ferriskey) - FerrisKey is an open-source IAM solution designed for modern cloud-native environments. With its high-performance API written in Rust and its intuitive web interface developed in Typescript/React, Fer
 - [facebook/pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and language server for Python
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
+- [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [theopfr/somo](https://github.com/theopfr/somo) - A human-friendly alternative to netstat for socket and port monitoring on Linux and macOS.
 - [lapce/lapdev](https://github.com/lapce/lapdev) - Seamless dev environments for Kubernetes
@@ -2794,6 +2793,7 @@
 - [codexu/note-gen](https://github.com/codexu/note-gen) - A cross-platform Markdown AI note-taking software.
 - [sst/opencode](https://github.com/sst/opencode) - The AI coding agent built for the terminal.
 - [microsoft/vscode-copilot-chat](https://github.com/microsoft/vscode-copilot-chat) - Copilot Chat extension for VS Code
+- [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
 - [FidelusAleksander/ai-translate-action](https://github.com/FidelusAleksander/ai-translate-action) - GitHub Action for AI-powered file translation between different languages
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
 - [carlosazaustre/docusaurus-scraper](https://github.com/carlosazaustre/docusaurus-scraper) - A command-line tool to extract documentation from Docusaurus sites and convert it to Markdown format.
