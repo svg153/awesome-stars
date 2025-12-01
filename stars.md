@@ -334,7 +334,7 @@
 - [GH-Event-Demos/gitvision-workshop](https://github.com/GH-Event-Demos/gitvision-workshop) - GitVision Workshop: Build AI-Powered GitHub Commit Analyzer
 - [mulaRahul/keyviz](https://github.com/mulaRahul/keyviz) - Keyviz is a free and open-source tool to visualize your keystrokes ⌨️ and 🖱️ mouse actions in real-time.
 - [omegaui/app_fleet](https://github.com/omegaui/app_fleet) - A brilliant workspace manager & launch automation tool specially designed for GNOME.
-- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music client! Available for both desktop & mobile!
+- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 - [flutter/pinball](https://github.com/flutter/pinball) - Google I/O 2022 Pinball game built with Flutter and Firebase
 - [abuanwar072/Food-App](https://github.com/abuanwar072/Food-App) - 
@@ -1342,6 +1342,7 @@
 - [wisupai/e2m](https://github.com/wisupai/e2m) - E2M converts various file types (doc, docx, epub, html, htm, url, pdf, ppt, pptx, mp3, m4a) into Markdown. It’s easy to install, with dedicated parsers and converters, supporting custom configs. E2M o
 - [lamm-mit/PDF2Audio](https://github.com/lamm-mit/PDF2Audio) - 
 - [AnswerDotAI/llms-txt](https://github.com/AnswerDotAI/llms-txt) - The /llms.txt file, helping language models use your website
+- [HugoBlox/theme-academic-cv](https://github.com/HugoBlox/theme-academic-cv) - 🎓 无需编写任何代码即可轻松创建漂亮的学术网站 Easily create a beautiful academic résumé or educational website using Hugo and GitHub. No code.
 - [github-samples/copilot-hack](https://github.com/github-samples/copilot-hack) - Open form hack for GitHub Copilot
 - [MarkFzp/mobile-aloha](https://github.com/MarkFzp/mobile-aloha) - Mobile ALOHA: Learning Bimanual Mobile Manipulation with Low-Cost Whole-Body Teleoperation
 - [fbaptiste/python-deepdive](https://github.com/fbaptiste/python-deepdive) - Python Deep Dive Course - Accompanying Materials
@@ -2706,7 +2707,6 @@
 ## TeX 
 
 - [apuntes-uam-infomat/apuntes](https://github.com/apuntes-uam-infomat/apuntes) - 
-- [HugoBlox/theme-academic-cv](https://github.com/HugoBlox/theme-academic-cv) - 🎓 无需编写任何代码即可轻松创建漂亮的学术网站 Easily create a beautiful academic résumé or educational website using Hugo and GitHub. No code.
 - [dphang/resume](https://github.com/dphang/resume) - Simple one-page software engineer resume template in LaTeX
 - [sanjib-sen/WebLaTex](https://github.com/sanjib-sen/WebLaTex) - A complete alternative for Overleaf with VSCode + Web + Git Integration + Copilot + Grammar & Spell Checker + Live Collaboration Support. Based on GitHub Codespace and Dev container.
 - [jankapunkt/latexcv](https://github.com/jankapunkt/latexcv) - :necktie: A collection of cv and resume templates written in LaTeX. Leave an issue if your language is not supported!
