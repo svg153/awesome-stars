@@ -419,6 +419,7 @@
 
 ## Go 
 
+- [williammartin/gh-graphql-explorer](https://github.com/williammartin/gh-graphql-explorer) - 
 - [zapier/kubechecks](https://github.com/zapier/kubechecks) - Check your Kubernetes changes before they hit the cluster
 - [asciimoo/wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection
 - [platform-engineering-labs/formae](https://github.com/platform-engineering-labs/formae) - Infrastructure-as-Code Platform Built for the Future
@@ -1468,6 +1469,7 @@
 
 ## Others 
 
+- [SebastienDegodez/copilot-instructions](https://github.com/SebastienDegodez/copilot-instructions) - A comprehensive codebase of best practices, coding rules, and workflow automation for AI-assisted development with GitHub Copilot. Includes DDD, Clean Architecture, testing, commit conventions, and mo
 - [getmanfred/companies-with-public-salary](https://github.com/getmanfred/companies-with-public-salary) - List of companies with public salary
 - [AIDDbot/AIDDbot](https://github.com/AIDDbot/AIDDbot) - AI-Driven development helper bot
 - [DaveBurnisonMS/Presentations](https://github.com/DaveBurnisonMS/Presentations) - A place to publicly share my presentations.
@@ -1864,6 +1866,7 @@
 
 ## Python 
 
+- [DevExpGbb/vibe-engineer-lab](https://github.com/DevExpGbb/vibe-engineer-lab) - A hands-on lab to get started with Vibe Engineering in VSCode with GitHub Copilot
 - [m15-ai/Faster-Local-Voice-AI](https://github.com/m15-ai/Faster-Local-Voice-AI) - A real-time, fully local voice AI system optimized for low-resource devices like an 8GB Ubuntu laptop with no GPU, achieving sub-second STT-to-TTS latency using Ollama, Vosk, Piper, and JACK/PipeWire.
 - [doganarif/fastapi-radar](https://github.com/doganarif/fastapi-radar) - A powerful debugging dashboard for FastAPI applications. Monitor HTTP requests, SQL queries, and exceptions in real-time with a beautiful React UI. One-line integration, zero configuration needed.
 - [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) - all of the workflows of n8n i could find (also from the site itself)
@@ -2491,6 +2494,7 @@
 
 ## Shell 
 
+- [nikeyes/stepwise-dev](https://github.com/nikeyes/stepwise-dev) - Dev workflow for Claude Code
 - [EmeaAppGbb/spec2cloud](https://github.com/EmeaAppGbb/spec2cloud) - 
 - [zalando/ghe-backup](https://github.com/zalando/ghe-backup) - Github Enterprise backup at ZalandoTech (Kubernetes, AWS, Docker)
 - [obra/superpowers](https://github.com/obra/superpowers) - Claude Code superpowers: core skills library
