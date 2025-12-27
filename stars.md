@@ -2041,7 +2041,7 @@
 - [mesop-dev/mesop](https://github.com/mesop-dev/mesop) - Rapidly build AI apps in Python
 - [HariSekhon/DevOps-Python-tools](https://github.com/HariSekhon/DevOps-Python-tools) - 80+ DevOps & Data CLI Tools - AWS, GCP, GCF Python Cloud Functions, Log Anonymizer, Spark, Hadoop, HBase, Hive, Impala, Linux, Docker, Spark Data Converters & Validators (Avro/Parquet/JSON/CSV/INI/XML
 - [qodo-ai/qodo-cover](https://github.com/qodo-ai/qodo-cover) - Qodo-Cover: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The multi-agent toolkit: framework, runtime, and control plane.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Build private and secure AI products that run in your cloud.
 - [docker/genai-stack](https://github.com/docker/genai-stack) - Langchain + Docker + Neo4j + Ollama
 - [discord/access](https://github.com/discord/access) - Access, a centralized portal for employees to transparently discover, request, and manage their access for all internal systems needed to do their jobs
 - [roschart/IaCLab](https://github.com/roschart/IaCLab) - IaCLab: A hands-on project to explore and master Infrastructure as Code (IaC) technologies, including Ansible, Terraform, Kubernetes operators, and Argo CD. Aimed at building a comprehensive understan
@@ -2756,6 +2756,7 @@
 
 ## TypeScript 
 
+- [Shreyas-29/luro-ai](https://github.com/Shreyas-29/luro-ai) - A Modern UI Website for your next generation SaaS
 - [jamesmontemagno/app-fire-calculator](https://github.com/jamesmontemagno/app-fire-calculator) - Private, offline-first FIRE calculators
 - [steipete/summarize](https://github.com/steipete/summarize) - Point at any URL or file. Get the gist.
 - [AmadeusITGroup/prompt-registry](https://github.com/AmadeusITGroup/prompt-registry) - VS Code extension for managing, sharing, and installing AI prompt collections for GitHub Copilot and other AI assistants
