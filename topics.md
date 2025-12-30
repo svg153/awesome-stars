@@ -632,12 +632,13 @@
 
 ## api 
 
+- [AndrewWalsh/openapi-devtools](https://github.com/AndrewWalsh/openapi-devtools) - Browser extension that generates API specs for any app or website
 - [ESJavadex/ree-mcp](https://github.com/ESJavadex/ree-mcp) - MCP para la API de Red Electrica Española
 - [MotiaDev/motia](https://github.com/MotiaDev/motia) - Multi-Language Backend Framework that unifies APIs, background jobs, queues, workflows, streams, and AI agents with a single core primitive with built-in observability and state management.
 - [ComputingVictor/MCP-BOE](https://github.com/ComputingVictor/MCP-BOE) - MCP server para el BOE 🇪🇸 — Acceso a legislación consolidada, sumarios diarios y tablas oficiales del Boletín Oficial del Estado mediante Model Context Protocol y API REST.
 - [amplication/amplication](https://github.com/amplication/amplication) - Amplication brings order to the chaos of large-scale software development by creating Golden Paths for developers - streamlined workflows that drive consistency, enable high-quality code practices, si
 - [CatchTheTornado/text-extract-api](https://github.com/CatchTheTornado/text-extract-api) - Document (PDF, Word, PPTX ...) extraction and parse API using state of the art modern OCRs + Ollama supported models. Anonymize documents. Remove PII. Convert any document or picture to structured JSO
-- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Turn any website into clean data pipelines & structured APIs in minutes!
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Turn websites into clean data pipelines & structured APIs in minutes!
 - [HariSekhon/Diagrams-as-Code](https://github.com/HariSekhon/Diagrams-as-Code) - Cloud & DevOps Architecture Diagrams-as-Code in Python, D2 and MermaidJS languages
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - [gm3dmo/the-power](https://github.com/gm3dmo/the-power) - The Power is a bunch of test scripts that share a single centralized configuration file for use with GitHub API's. It's commonly used by folks with a need to teach, learn, debug against GItHub's API's
@@ -715,7 +716,7 @@
 - [OP5dev/TF-via-PR](https://github.com/OP5dev/TF-via-PR) - Plan and apply Terraform/OpenTofu via PR automation, using best practices for secure and scalable IaC workflows.
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
-- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Turn any website into clean data pipelines & structured APIs in minutes!
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Turn websites into clean data pipelines & structured APIs in minutes!
 - [feder-cr/Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk) - AIHawk aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in a tailored way.
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [antonbabenko/pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform) - pre-commit git hooks to take care of Terraform configurations 🇺🇦
@@ -1349,6 +1350,7 @@
 
 ## chrome-extension 
 
+- [AndrewWalsh/openapi-devtools](https://github.com/AndrewWalsh/openapi-devtools) - Browser extension that generates API specs for any app or website
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 - [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open source alternative to NotebookLM, Perplexity, and Glean. Connects to search engines, Slack, Linear, Jira, ClickUp, Notion, Discord, and 15+ more connectors.  Join our Discord: https://discord.gg/
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
@@ -1575,7 +1577,7 @@
 
 - [pullpo-io/conventional-comments](https://github.com/pullpo-io/conventional-comments) - Chrome and Firefox extension for Conventional Comments in GitHub UI.
 - [mgreiler/code-review-checklist](https://github.com/mgreiler/code-review-checklist) - This code review checklist helps you be a more effective and efficient code reviewer.
-- [qodo-ai/pr-agent](https://github.com/qodo-ai/pr-agent) - 🚀 PR Agent — The Original Open-Source PR Reviewer This repo is not the Qodo free tier. Try the free version on our website.
+- [qodo-ai/pr-agent](https://github.com/qodo-ai/pr-agent) - 🚀 PR Agent - The Original Open-Source PR Reviewer, This repo is not the Qodo free tier! Try the free version on our website.
 - [palantir/policy-bot](https://github.com/palantir/policy-bot) - A GitHub App that enforces approval policies on pull requests
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
@@ -4685,7 +4687,7 @@
 - [rowyio/rowy](https://github.com/rowyio/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
 - [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
-- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Turn any website into clean data pipelines & structured APIs in minutes!
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Turn websites into clean data pipelines & structured APIs in minutes!
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 - [Budibase/budibase](https://github.com/Budibase/budibase) - Create business apps and automate workflows in minutes. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀 No code / Low code platform..
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
@@ -4869,7 +4871,7 @@
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [SawyerHood/draw-a-ui](https://github.com/SawyerHood/draw-a-ui) - Draw a mockup and generate html for it
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI
-- [qodo-ai/pr-agent](https://github.com/qodo-ai/pr-agent) - 🚀 PR Agent — The Original Open-Source PR Reviewer This repo is not the Qodo free tier. Try the free version on our website.
+- [qodo-ai/pr-agent](https://github.com/qodo-ai/pr-agent) - 🚀 PR Agent - The Original Open-Source PR Reviewer, This repo is not the Qodo free tier! Try the free version on our website.
 - [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - CLI platform to experiment with codegen. Precursor to: https://lovable.dev
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
 - [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) - Giving Kubernetes Superpowers to everyone
@@ -4908,6 +4910,7 @@
 
 ## others 
 
+- [cporter202/automate-faceless-content](https://github.com/cporter202/automate-faceless-content) - Learn how to automate faceless short-form + long-form video content and dominate YouTube, TikTok, Facebook & Instagram on autopilot — from idea → script → video → scheduled posts.
 - [endurain-project/endurain](https://github.com/endurain-project/endurain) - Endurain is a self-hosted fitness tracking service designed to give users full control over their data and hosting environment
 - [coder/deploy-code-server](https://github.com/coder/deploy-code-server) - Deploy code-server to the cloud with a few clicks ☁️ 👨🏼‍💻
 - [likec4/likec4](https://github.com/likec4/likec4) - Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code
@@ -6959,7 +6962,7 @@
 - [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [HiEventsDev/Hi.Events](https://github.com/HiEventsDev/Hi.Events) - Open-source event management and ticket selling platform — perfect for concerts, conferences, and everything in between 🎟️  If you find this project helpful, please consider giving us a star ⭐️
-- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Turn any website into clean data pipelines & structured APIs in minutes!
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Turn websites into clean data pipelines & structured APIs in minutes!
 - [BaldissaraMatheus/Tasks.md](https://github.com/BaldissaraMatheus/Tasks.md) - A self-hosted, Markdown file based task management board
 - [runs-on/runs-on](https://github.com/runs-on/runs-on) - Self-hosted GitHub Actions runners made simple. For AWS. 10x cheaper, 40% faster, and unlimited caching. Best alternative to Actions Runner Controller.
 - [machulav/ec2-github-runner](https://github.com/machulav/ec2-github-runner) - On-demand self-hosted AWS EC2 runner for GitHub Actions
