@@ -1913,7 +1913,6 @@
 - [thomast1906/terraform-review-ai-action](https://github.com/thomast1906/terraform-review-ai-action) - 
 - [ansible/pytest-ansible](https://github.com/ansible/pytest-ansible) - A pytest plugin that enables the use of ansible in tests, enables the use of pytest as a collection unit test runner, and exposes molecule scenarios through a pytest fixture.
 - [dryeab/mcp-telegram](https://github.com/dryeab/mcp-telegram) - MCP Server for Telegram
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open source alternative to NotebookLM, Perplexity, and Glean. Connects to search engines, Slack, Linear, Jira, ClickUp, Notion, Discord, and 15+ more connectors.  Join our Discord: https://discord.gg/
 - [HollowMan6/sarif4reviewdog](https://github.com/HollowMan6/sarif4reviewdog) - Static Analysis Results Interchange Format (SARIF) support for reviewdog by converting it into Reviewdog Diagnostic Format (RDFormat)
 - [Goekdeniz-Guelmez/Local-NotebookLM](https://github.com/Goekdeniz-Guelmez/Local-NotebookLM) - Googles NotebookLM but local
 - [ossf/cve-bin-tool](https://github.com/ossf/cve-bin-tool) - The CVE Binary Tool helps you determine if your system includes known vulnerabilities. You can scan binaries for over 350 common, vulnerable components (openssl, libpng, libxml2, expat and others), or
@@ -2811,6 +2810,7 @@
 - [reshaped-ui/reshaped](https://github.com/reshaped-ui/reshaped) - Professionally crafted React & Figma components for building beautiful products or starting your own design system
 - [deors/workshop-mcp-servers](https://github.com/deors/workshop-mcp-servers) - Workshop about MCP Servers: from building simple MCP Servers to advanced use cases for interacting and provisioning development platform resources in a self-service way.
 - [evershopcommerce/evershop](https://github.com/evershopcommerce/evershop) - 🛍️ Typescript E-commerce Platform
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open source alternative to NotebookLM, Perplexity, and Glean. Connects to search engines, Slack, Linear, Jira, ClickUp, Notion, Discord, and 15+ more connectors.  Join our Discord: https://discord.gg/
 - [ad1992/ExcaliReact](https://github.com/ad1992/ExcaliReact) - Turn your Excalidraw sketches into ready-to-use React components
 - [iamsrikanthnani/pluely](https://github.com/iamsrikanthnani/pluely) - The Open Source Alternative to Cluely - A lightning-fast, privacy-first AI assistant that works seamlessly during meetings, interviews, and conversations without anyone knowing. Built with Tauri for n
 - [shanselman/github-artifacts-analyzer](https://github.com/shanselman/github-artifacts-analyzer) - 🧹 Analyze and cleanup GitHub Actions artifacts storage usage across all your repositories. Find what's consuming your 2GB storage quota with detailed reporting and interactive cleanup.
@@ -2851,7 +2851,7 @@
 - [hangwin/mcp-chrome](https://github.com/hangwin/mcp-chrome) - Chrome MCP Server is a Chrome extension-based Model Context Protocol (MCP) server that exposes your Chrome browser functionality to AI assistants like Claude, enabling complex browser automation, cont
 - [microsoft/copilot-metrics-dashboard](https://github.com/microsoft/copilot-metrics-dashboard) - The GitHub Copilot Metrics Dashboard is a solution accelerator designed to visualize metrics from GitHub Copilot using the GitHub Copilot Metrics API and GitHub Copilot User Management API.
 - [codexu/note-gen](https://github.com/codexu/note-gen) - A cross-platform Markdown AI note-taking software.
-- [sst/opencode](https://github.com/sst/opencode) - The open source coding agent.
+- [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [microsoft/vscode-copilot-chat](https://github.com/microsoft/vscode-copilot-chat) - Copilot Chat extension for VS Code
 - [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
 - [FidelusAleksander/ai-translate-action](https://github.com/FidelusAleksander/ai-translate-action) - GitHub Action for AI-powered file translation between different languages
@@ -2933,7 +2933,7 @@
 - [microsoft/vscode-copilot-vision](https://github.com/microsoft/vscode-copilot-vision) - Exploration into leveraging vision capabilities of an LLM
 - [Codehagen/Badget](https://github.com/Codehagen/Badget) - Badget aims to simplify financial management with a user-friendly interface and robust backend
 - [ComBuildersES/ComBuildersES.github.io](https://github.com/ComBuildersES/ComBuildersES.github.io) - Página web de la comunidad de Community Builders. Carta de presentación: quienes somos, qué hacemos, cómo unirse, etc.
-- [sst/sst](https://github.com/sst/sst) - Build full-stack apps on your own infrastructure.
+- [anomalyco/sst](https://github.com/anomalyco/sst) - Build full-stack apps on your own infrastructure.
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
 - [jpoehnelt/secrets-sync-action](https://github.com/jpoehnelt/secrets-sync-action) - A Github Action that can sync secrets from one repository to many others.
 - [stackblitz/bolt.new](https://github.com/stackblitz/bolt.new) - Prompt, run, edit, and deploy full-stack web applications. -- bolt.new -- Help Center: https://support.bolt.new/ -- Community Support: https://discord.com/invite/stackblitz
