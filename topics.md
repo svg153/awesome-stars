@@ -58,6 +58,7 @@
 - [covid-19](#covid-19)
 - [cpp](#cpp)
 - [crawler](#crawler)
+- [cryptocurrency](#cryptocurrency)
 - [cryptography](#cryptography)
 - [csharp](#csharp)
 - [css](#css)
@@ -324,7 +325,7 @@
 - [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letti
 - [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
 - [nottelabs/notte](https://github.com/nottelabs/notte) - 🌸 Best framework to build web agents, and deploy serverless web automation functions on reliable browser infra.
-- [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you & agent need - Learn Agent by writing a Claude Code with only 16 line code
+- [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need！write a claude code with only 16 line code
 - [codexu/note-gen](https://github.com/codexu/note-gen) - A cross-platform Markdown AI note-taking software.
 - [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
@@ -1801,6 +1802,10 @@
 - [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
 - [Nekmo/dirhunt](https://github.com/Nekmo/dirhunt) - Find web directories without bruteforce
 - [lorien/awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) - List of libraries, tools and APIs for web scraping and data processing.
+
+## cryptocurrency 
+
+- [flowsurface-rs/flowsurface](https://github.com/flowsurface-rs/flowsurface) - A native desktop charting platform for crypto markets
 
 ## cryptography 
 
@@ -4290,6 +4295,7 @@
 - [nottelabs/notte](https://github.com/nottelabs/notte) - 🌸 Best framework to build web agents, and deploy serverless web automation functions on reliable browser infra.
 - [NirDiamant/GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents) - This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI s
 - [mattermost/mattermost-plugin-agents](https://github.com/mattermost/mattermost-plugin-agents) - Mattermost Agents plugin supporting multiple LLMs
+- [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need！write a claude code with only 16 line code
 - [idosal/git-mcp](https://github.com/idosal/git-mcp) - Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project
 - [codexu/note-gen](https://github.com/codexu/note-gen) - A cross-platform Markdown AI note-taking software.
 - [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
@@ -4567,7 +4573,7 @@
 - [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) - Official, Anthropic-managed directory of high quality Claude Code Plugins.
 - [BrowserOperator/browser-operator-core](https://github.com/BrowserOperator/browser-operator-core) - Browser Operator - The AI browser with built in Multi-Agent platform! Open source alternative to ChatGPT Atlas, Perplexity Comet, Dia and Microsoft CoPilot Edge Browser
 - [firerpa/lamda](https://github.com/firerpa/lamda) - The most powerful Android RPA agent framework, next generation of mobile automation robots.
-- [deploystackio/deploystack](https://github.com/deploystackio/deploystack) - MCP Management Platform - Centralized credential vault, governance, and token optimization for developers and enterprises.
+- [deploystackio/deploystack](https://github.com/deploystackio/deploystack) - Open source MCP hosting - deploy MCP servers to HTTP endpoints for n8n, Dify, Voiceflow, and any MCP client.
 - [DanWahlin/ai-repo-adventures](https://github.com/DanWahlin/ai-repo-adventures) - A fun, Model Context Protocol (MCP) server and/or HTML generator that transforms code repositories into interactive adventures!
 - [ESJavadex/ree-mcp](https://github.com/ESJavadex/ree-mcp) - MCP para la API de Red Electrica Española
 - [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) - AI Agent Engineering Platform built on an Open Source TypeScript AI Agent Framework
@@ -4871,7 +4877,7 @@
 
 ## nodejs 
 
-- [deploystackio/deploystack](https://github.com/deploystackio/deploystack) - MCP Management Platform - Centralized credential vault, governance, and token optimization for developers and enterprises.
+- [deploystackio/deploystack](https://github.com/deploystackio/deploystack) - Open source MCP hosting - deploy MCP servers to HTTP endpoints for n8n, Dify, Voiceflow, and any MCP client.
 - [docmd-io/docmd](https://github.com/docmd-io/docmd) - Generate minimal, fast & beautiful docs from Markdown. No React, no bloat, just content. Built for developers.
 - [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) - AI Agent Engineering Platform built on an Open Source TypeScript AI Agent Framework
 - [amplication/amplication](https://github.com/amplication/amplication) - Amplication brings order to the chaos of large-scale software development by creating Golden Paths for developers - streamlined workflows that drive consistency, enable high-quality code practices, si
@@ -5088,6 +5094,7 @@
 
 ## others 
 
+- [github/copilot-plugins](https://github.com/github/copilot-plugins) - The official GitHub Copilot plugins collection — MCP servers, skills, hooks, and other extensibility tools for GitHub Copilot.
 - [microsoft/work-iq-mcp](https://github.com/microsoft/work-iq-mcp) - MCP Server and CLI for accessing Work IQ
 - [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) - "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"
 - [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) - 
@@ -6525,6 +6532,7 @@
 - [fatihak/InkyPi](https://github.com/fatihak/InkyPi) - E-Ink Display with a Raspberry Pi and a Web Interface to customize and update the display with various plugins
 - [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners) - This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust and Python. Designed for
 - [AlexanderVanhee/Gradia](https://github.com/AlexanderVanhee/Gradia) - Make your screenshots ready for all
+- [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need！write a claude code with only 16 line code
 - [facebook/pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and language server for Python
 - [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent) - Build effective agents using Model Context Protocol and simple workflow patterns
 - [KoljaB/RealtimeSTT](https://github.com/KoljaB/RealtimeSTT) - A robust, efficient, low-latency speech-to-text library with advanced voice activity detection, wake word activation and instant transcription.
@@ -8051,7 +8059,7 @@
 
 ## vuejs 
 
-- [deploystackio/deploystack](https://github.com/deploystackio/deploystack) - MCP Management Platform - Centralized credential vault, governance, and token optimization for developers and enterprises.
+- [deploystackio/deploystack](https://github.com/deploystackio/deploystack) - Open source MCP hosting - deploy MCP servers to HTTP endpoints for n8n, Dify, Voiceflow, and any MCP client.
 - [benc-uk/kubeview](https://github.com/benc-uk/kubeview) - KubeView is a Kubernetes cluster visualization tool that provides a graphical representation of your cluster's resources and their relationships
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [zincsearch/zincsearch](https://github.com/zincsearch/zincsearch) - ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
