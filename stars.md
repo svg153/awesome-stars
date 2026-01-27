@@ -76,7 +76,6 @@
 - [Shell](#shell)
 - [Starlark](#starlark)
 - [Stylus](#stylus)
-- [SurrealQL](#surrealql)
 - [Svelte](#svelte)
 - [Swift](#swift)
 - [TeX](#tex)
@@ -350,7 +349,6 @@
 - [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI wearables. Put it on, speak, transcribe, automatically
 - [owlistic-notes/owlistic](https://github.com/owlistic-notes/owlistic) - 🦉 Free open-source notetaking app with real-time sync 🔄⚡️🚀
 - [GH-Event-Demos/gitvision-workshop](https://github.com/GH-Event-Demos/gitvision-workshop) - GitVision Workshop: Build AI-Powered GitHub Commit Analyzer
-- [mulaRahul/keyviz](https://github.com/mulaRahul/keyviz) - Keyviz is a free and open-source tool to visualize your keystrokes ⌨️ and 🖱️ mouse actions in real-time.
 - [omegaui/app_fleet](https://github.com/omegaui/app_fleet) - A brilliant workspace manager & launch automation tool specially designed for GNOME.
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
@@ -705,7 +703,7 @@
 - [runatlantis/atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
 - [crossplane/crossplane](https://github.com/crossplane/crossplane) - The Cloud Native Control Plane
 - [slok/sloth](https://github.com/slok/sloth) - 🦥 Easy and simple Prometheus SLO (service level objectives) generator
-- [git-chglog/git-chglog](https://github.com/git-chglog/git-chglog) - CHANGELOG generator implemented in Go (Golang).
+- [git-chglog/git-chglog](https://github.com/git-chglog/git-chglog) - [DEPRECATED] CHANGELOG generator implemented in Go (Golang) -&gt; Use now the actively maintained git-cliff
 - [infracloudio/krius](https://github.com/infracloudio/krius) - A tool to setup Prometheus, Thanos & friends across multiple clusters easily for scale
 - [lotusload/lotus](https://github.com/lotusload/lotus) - Kubernetes controller for running load testing
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
@@ -1099,6 +1097,7 @@
 
 ## JavaScript 
 
+- [shirsakm/nightlio](https://github.com/shirsakm/nightlio) - A minimal mood logger and journal.
 - [marcelscruz/public-apis](https://github.com/marcelscruz/public-apis) - A collaborative list of public APIs for developers
 - [abetusk/neatocal](https://github.com/abetusk/neatocal) - A single page printable calendar
 - [apinanaivot/IKEA-3D-Model-Download-Button](https://github.com/apinanaivot/IKEA-3D-Model-Download-Button) - Adds ability to download models from IKEA website
@@ -1526,6 +1525,7 @@
 
 ## Others 
 
+- [microsoft/playwright-cli](https://github.com/microsoft/playwright-cli) - CLI for common Playwright actions. Record and generate Playwright code, inspect selectors and take screenshots.
 - [github/copilot-plugins](https://github.com/github/copilot-plugins) - The official GitHub Copilot plugins collection — MCP servers, skills, hooks, and other extensibility tools for GitHub Copilot.
 - [microsoft/work-iq-mcp](https://github.com/microsoft/work-iq-mcp) - MCP Server and CLI for accessing Work IQ
 - [unicodeveloper/awesome-opensource-apps](https://github.com/unicodeveloper/awesome-opensource-apps) - :house::information_source: Curated list of awesome open source crafted web & mobile applications - Learn, Fork, Contribute & Most Importantly Enjoy!
@@ -1943,6 +1943,7 @@
 
 ## Python 
 
+- [kinfey/agent-framework-update-everyday](https://github.com/kinfey/agent-framework-update-everyday) - This is Microsoft Agent Framework Update Checking
 - [softaworks/agent-toolkit](https://github.com/softaworks/agent-toolkit) - A curated collection of skills for AI coding agents. Skills are packaged instructions and scripts that extend agent capabilities across development, documentation, planning, and professional workflows
 - [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) - "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"
 - [intellectronica/agent-skills](https://github.com/intellectronica/agent-skills) - @intellectronica's agent skills
@@ -2794,10 +2795,6 @@
 
 - [victorvoid/space-jekyll-template](https://github.com/victorvoid/space-jekyll-template) - A simple spacemacs template on jekyll. https://victorvoid.github.io/space-jekyll-template/
 
-## SurrealQL 
-
-- [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
-
 ## Svelte 
 
 - [scosman/CMSaasStarter](https://github.com/scosman/CMSaasStarter) - A modern SaaS template/boilerplate built with SvelteKit, Tailwind, and Supabase. Includes marketing page, blog, subscriptions, auth, user dashboard, user settings, pricing page, and more.
@@ -2843,8 +2840,11 @@
 
 ## TypeScript 
 
+- [burkeholland/desktop-commander](https://github.com/burkeholland/desktop-commander) - 
+- [hamzamix/LoanDash](https://github.com/hamzamix/LoanDash) - LoanDash is a modern, responsive web application designed to help you effortlessly manage your personal finances
+- [kasuken/vscode-shipit](https://github.com/kasuken/vscode-shipit) - Turn PRDs into Shipped Code
 - [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) - 
-- [vercel-labs/add-skill](https://github.com/vercel-labs/add-skill) - The open agent skills tool
+- [vercel-labs/skills](https://github.com/vercel-labs/skills) - The open agent skills tool - npx skills
 - [tobi/qmd](https://github.com/tobi/qmd) - mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
 - [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com
 - [davideast/stitch-mcp](https://github.com/davideast/stitch-mcp) - 
@@ -3071,6 +3071,7 @@
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [redotvideo/revideo](https://github.com/redotvideo/revideo) - Create Videos with Code
 - [cheeselemon/ophiuchi-desktop](https://github.com/cheeselemon/ophiuchi-desktop) - Localhost SSL Proxy Server Manager using Docker
+- [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [arikchakma/maily.to](https://github.com/arikchakma/maily.to) - Craft beautiful emails effortlessly with Maily, the powerful email editor that ensures impeccable communication across all major clients.
 - [qoomon/actions--access-token](https://github.com/qoomon/actions--access-token) - Get rid of personal access tokens (PAT) and credential management, use temporary GitHub Application access tokens instead!
 - [tillywork/tillywork](https://github.com/tillywork/tillywork) - Opensource work management solution. Manage your sprints, projects, and sales pipelines in one place
@@ -3079,6 +3080,7 @@
 - [hudy9x/namviek](https://github.com/hudy9x/namviek) - The open-source project management tool for tiny teams
 - [DeabLabs/cannoli](https://github.com/DeabLabs/cannoli) - Cannoli allows you to build and run no-code LLM scripts using the Obsidian Canvas editor.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
+- [mulaRahul/keyviz](https://github.com/mulaRahul/keyviz) - Keyviz is a free and open-source tool to visualize your keystrokes ⌨️ and 🖱️ mouse actions in real-time.
 - [midday-ai/midday](https://github.com/midday-ai/midday) - Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers
 - [nsdonato/recursostech](https://github.com/nsdonato/recursostech) - Recursos recopilados para compartir con la comunidad 🚀 Open source, aportes bienvenidos ♥️
 - [tj-actions/changed-files](https://github.com/tj-actions/changed-files) - :octocat: Github action to retrieve all (added, copied, modified, deleted, renamed, type changed, unmerged, unknown) files and directories.
