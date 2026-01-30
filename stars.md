@@ -5,7 +5,6 @@
 
 ## Contents
 
-- [AMPL](#ampl)
 - [Arduino](#arduino)
 - [Assembly](#assembly)
 - [Astro](#astro)
@@ -46,6 +45,7 @@
 - [Jsonnet](#jsonnet)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Just](#just)
+- [KCL](#kcl)
 - [Kotlin](#kotlin)
 - [LLVM](#llvm)
 - [Less](#less)
@@ -87,10 +87,6 @@
 - [YAML](#yaml)
 - [YARA](#yara)
 - [Zig](#zig)
-
-## AMPL 
-
-- [upbound/platform-ref-azure](https://github.com/upbound/platform-ref-azure) - Upbound's reference platform for Microsoft Azure services with Crossplane Resources
 
 ## Arduino 
 
@@ -170,6 +166,7 @@
 
 ## C# # 
 
+- [shanselman/moltbot-windows-hub](https://github.com/shanselman/moltbot-windows-hub) - Windows companion suite for Moltbot - System Tray app, Shared library, and PowerToys Command Palette extension
 - [jamesmontemagno/auto-tweet-rss](https://github.com/jamesmontemagno/auto-tweet-rss) - 
 - [JavierStark/Proyecto-ADAp-WATT](https://github.com/JavierStark/Proyecto-ADAp-WATT) - A full-stack web application designed to manage donations and events for CUDECA, a charitable organization. This platform enables users to make donations, register for events, purchase tickets, and ma
 - [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
@@ -202,6 +199,7 @@
 
 ## C++ 
 
+- [deskflow/deskflow](https://github.com/deskflow/deskflow) - Share a single keyboard and mouse between multiple computers.
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
 - [ambrosiogabe/MathAnimation](https://github.com/ambrosiogabe/MathAnimation) - A simple C++/OpenGL application to create quick and dirty mathematically accurate animations
 - [monocasual/giada](https://github.com/monocasual/giada) - Your Hardcore Loop Machine.
@@ -1096,6 +1094,7 @@
 
 ## JavaScript 
 
+- [ComposioHQ/open-claude-cowork](https://github.com/ComposioHQ/open-claude-cowork) - Open Source version of Claude Cowork with 500+ SaaS app integrations
 - [skills/copilot-code-review](https://github.com/skills/copilot-code-review) - Leverage Copilo to scale feedback, promote code quality, and catch issues before they reach production.
 - [shirsakm/nightlio](https://github.com/shirsakm/nightlio) - A minimal mood logger and journal.
 - [marcelscruz/public-apis](https://github.com/marcelscruz/public-apis) - A collaborative list of public APIs for developers
@@ -1147,6 +1146,7 @@
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [anvaka/map-of-github](https://github.com/anvaka/map-of-github) - Inspirational Mapping
 - [ExamProCo/Github-Examples](https://github.com/ExamProCo/Github-Examples) - A repo containing GitHub for programmatic examples
+- [microsoft/GitHub-Copilot-for-Azure](https://github.com/microsoft/GitHub-Copilot-for-Azure) - GitHub Copilot for Azure
 - [cattr-app/desktop-application](https://github.com/cattr-app/desktop-application) - Electron-based desktop time tracker for Cattr
 - [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate) - Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations. Don't be shy, join here: 
 - [github/command](https://github.com/github/command) - IssueOps commands in GitHub Actions
@@ -1420,6 +1420,10 @@
 - [Piotr1215/terminal-slides-template](https://github.com/Piotr1215/terminal-slides-template) - Quickly setup terminal based presentation slides
 - [Piotr1215/crossplane-box](https://github.com/Piotr1215/crossplane-box) - Crossplane in a box
 
+## KCL 
+
+- [upbound/platform-ref-azure](https://github.com/upbound/platform-ref-azure) - Upbound's reference platform for Microsoft Azure services with Crossplane Resources
+
 ## Kotlin 
 
 - [rainxchzed/Github-Store](https://github.com/rainxchzed/Github-Store) - A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop (Linux, MacOS, Windows).
@@ -1525,6 +1529,7 @@
 
 ## Others 
 
+- [VoltAgent/awesome-moltbot-skills](https://github.com/VoltAgent/awesome-moltbot-skills) - The awesome collection of Moltbot Skills. (Clawdbot has officially been renamed to Moltbot)
 - [microsoft/playwright-cli](https://github.com/microsoft/playwright-cli) - CLI for common Playwright actions. Record and generate Playwright code, inspect selectors and take screenshots.
 - [github/copilot-plugins](https://github.com/github/copilot-plugins) - The official GitHub Copilot plugins collection — MCP servers, skills, hooks, and other extensibility tools for GitHub Copilot.
 - [microsoft/work-iq-mcp](https://github.com/microsoft/work-iq-mcp) - MCP Server and CLI for accessing Work IQ
@@ -1568,7 +1573,6 @@
 - [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) - The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, i
 - [javabuddy/best-system-design-resources](https://github.com/javabuddy/best-system-design-resources) - A collection of best resources to learn System Design, Software architecture, and prepare for System Design Interviews
 - [khru/companies-with-good-practices](https://github.com/khru/companies-with-good-practices) - 
-- [kirodotdev/Kiro](https://github.com/kirodotdev/Kiro) - Kiro is an agentic IDE that works alongside you from prototype to production.
 - [0GiS0/home-assistant-mcp](https://github.com/0GiS0/home-assistant-mcp) - ¡Controla tu casa desde VS Code! 🧠💡 Configura el MCP Server de Home Assistant paso a paso 🛠️🏠
 - [chriswblake/github-copilot-lamp](https://github.com/chriswblake/github-copilot-lamp) - A fun and playful lamp to match the energy of GitHub Copilot.
 - [github-copilot-resources/copilot-metrics-viewer-power-bi](https://github.com/github-copilot-resources/copilot-metrics-viewer-power-bi) - A sample Power BI dashboard that leverages the GitHub Copilot Metrics API.
@@ -1943,6 +1947,7 @@
 
 ## Python 
 
+- [timowhite88/Farnsworth](https://github.com/timowhite88/Farnsworth) - Farnsworth is an autonomous, infinitely-memorable, self-evolving companion AI built entirely with free open-source tools.
 - [yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) - Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
 - [kinfey/agent-framework-update-everyday](https://github.com/kinfey/agent-framework-update-everyday) - This is Microsoft Agent Framework Update Checking
 - [softaworks/agent-toolkit](https://github.com/softaworks/agent-toolkit) - A curated collection of skills for AI coding agents. Skills are packaged instructions and scripts that extend agent capabilities across development, documentation, planning, and professional workflows
@@ -2090,6 +2095,7 @@
 - [bytedance/monolith](https://github.com/bytedance/monolith) - A Lightweight Recommendation System
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [SamurAIGPT/AI-Youtube-Shorts-Generator](https://github.com/SamurAIGPT/AI-Youtube-Shorts-Generator) - A python tool that uses GPT-4, FFmpeg, and OpenCV to automatically analyze videos, extract the most interesting sections, and crop them for an improved viewing experience.
+- [Agenta-AI/agenta](https://github.com/Agenta-AI/agenta) - The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one place.
 - [keephq/keep](https://github.com/keephq/keep) - The open-source AIOps and alert management platform
 - [bndr/pipreqs](https://github.com/bndr/pipreqs) - pipreqs - Generate pip requirements.txt file based on imports of any project. Looking for maintainers to move this project forward.
 - [rio-labs/rio](https://github.com/rio-labs/rio) - WebApps in pure Python. No JavaScript, HTML and CSS needed
@@ -2454,6 +2460,7 @@
 
 ## Rust 
 
+- [scanopy/scanopy](https://github.com/scanopy/scanopy) - Clean network diagrams. One-time setup, zero upkeep.
 - [flowsurface-rs/flowsurface](https://github.com/flowsurface-rs/flowsurface) - A native desktop charting platform for crypto markets
 - [mikeroyal/WSL-Guide](https://github.com/mikeroyal/WSL-Guide) - Windows Subsystem for Linux (WSL) Guide. Use WSL develop to with Kubernetes and in the Cloud (Microsoft Azure, AWS, and Google Cloud).
 - [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Get 10X more out of Claude Code, Codex or any coding agent
@@ -2613,7 +2620,6 @@
 - [kenmuse/github-misc-scripts](https://github.com/kenmuse/github-misc-scripts) - GitHub script samples for automation
 - [codetocloudorg/platform-engineering](https://github.com/codetocloudorg/platform-engineering) - A centralized hub for platform engineering teams, providing resources, best practices, and automation tools. Includes IaC templates, blueprints, and operational guides to help build scalable, secure, 
 - [johanhaleby/kubetail](https://github.com/johanhaleby/kubetail) - Bash script to tail Kubernetes logs from multiple pods at the same time
-- [microsoft/GitHub-Copilot-for-Azure](https://github.com/microsoft/GitHub-Copilot-for-Azure) - GitHub Copilot for Azure
 - [paxtonhare/demo-magic](https://github.com/paxtonhare/demo-magic) - A handy shell script that enables you to write repeatable demos in a bash environment.
 - [Piotr1215/youtube](https://github.com/Piotr1215/youtube) - Youtube recordings from the terminal
 - [sunlei/zsh-ssh](https://github.com/sunlei/zsh-ssh) - Better host completion for ssh in Zsh.
@@ -2842,6 +2848,12 @@
 
 ## TypeScript 
 
+- [suitenumerique/meet](https://github.com/suitenumerique/meet) - Open source video conferencing app powered by LiveKit.
+- [pierceboggan/primer](https://github.com/pierceboggan/primer) - Get your repo ready for AI.
+- [NangoHQ/nango](https://github.com/NangoHQ/nango) - A single API for all your integrations.
+- [projectstorm/react-diagrams](https://github.com/projectstorm/react-diagrams) - a super simple, no-nonsense diagramming library written in react that just works
+- [ui-layouts/uilayouts](https://github.com/ui-layouts/uilayouts) - 🔥 100+ free beautiful, interactive React/Next.js components built with Tailwind CSS, Framer Motion, React Three Fiber, GSAP, and more.
+- [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effo
 - [invoicerr-app/invoicerr](https://github.com/invoicerr-app/invoicerr) - Invoicerr is a freelance-focused invoicing app that lets you create quotes, generate invoices, track payments, and collect secure signatures.
 - [RookieEnough/Orion-Store](https://github.com/RookieEnough/Orion-Store) - The ultimate home for modded apps. OrionStore offers instant access to YouTube ReVanced, Spot Revanced, and essential open-source tools without the clutter. No servers, no tracking, just a beautiful, 
@@ -2953,6 +2965,7 @@
 - [ZubeidHendricks/youtube-mcp-server](https://github.com/ZubeidHendricks/youtube-mcp-server) - MCP Server for YouTube API, enabling video management, Shorts creation, and advanced analytics
 - [claude-did-this/claude-hub](https://github.com/claude-did-this/claude-hub) - A webhook service that connects Claude Code to GitHub repositories, enabling AI-powered code assistance directly   through pull requests and issues. This integration allows Claude to analyze repositor
 - [trymeka/agent](https://github.com/trymeka/agent) - state of the art browsing agent (WebArena 72.7%)
+- [kirodotdev/Kiro](https://github.com/kirodotdev/Kiro) - Kiro is an agentic IDE that works alongside you from prototype to production.
 - [advanced-security/secret-protection-custom-pattern-automation](https://github.com/advanced-security/secret-protection-custom-pattern-automation) - Automate GitHub secret protection custom patterns
 - [signerlabs/Klee](https://github.com/signerlabs/Klee) - Secure and local AI on your desktop with a built-in RAG knowledge base and Markdown note support.
 - [homarr-labs/homarr](https://github.com/homarr-labs/homarr) - A modern and easy to use dashboard. 30+ integrations. 10K+ icons built in. Authentication out of the box. No YAML, drag and drop configuration.
@@ -3039,7 +3052,6 @@
 - [al1abb/invoify](https://github.com/al1abb/invoify) - An invoice generator app built using Next.js, Typescript, and Shadcn
 - [MayGo/tockler](https://github.com/MayGo/tockler) - An application that tracks your time by monitoring your active window title and idle time.
 - [actions/container-toolkit-action](https://github.com/actions/container-toolkit-action) - Template repo for creating container actions using https://github.com/actions/toolkit/
-- [Agenta-AI/agenta](https://github.com/Agenta-AI/agenta) - The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one place.
 - [issue-ops/parser](https://github.com/issue-ops/parser) - Convert issue form responses to JSON
 - [kubernetes-retired/kui](https://github.com/kubernetes-retired/kui) - A hybrid command-line/UI development experience for cloud-native development
 - [achris-alonzo30/github-portfolio](https://github.com/achris-alonzo30/github-portfolio) - 
@@ -3257,7 +3269,7 @@
 - [gdg-x/hoverboard](https://github.com/gdg-x/hoverboard) - Conference website template
 - [editorconfig/editorconfig-vscode](https://github.com/editorconfig/editorconfig-vscode) - EditorConfig extension for Visual Studio Code
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
-- [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
+- [realworld-apps/realworld](https://github.com/realworld-apps/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - Curated coding interview preparation materials for busy software engineers
