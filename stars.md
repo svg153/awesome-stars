@@ -166,7 +166,7 @@
 
 ## C# # 
 
-- [shanselman/moltbot-windows-hub](https://github.com/shanselman/moltbot-windows-hub) - Windows companion suite for Moltbot - System Tray app, Shared library, and PowerToys Command Palette extension
+- [shanselman/openclaw-windows-hub](https://github.com/shanselman/openclaw-windows-hub) - Windows companion suite for Moltbot - System Tray app, Shared library, and PowerToys Command Palette extension
 - [jamesmontemagno/auto-tweet-rss](https://github.com/jamesmontemagno/auto-tweet-rss) - 
 - [JavierStark/Proyecto-ADAp-WATT](https://github.com/JavierStark/Proyecto-ADAp-WATT) - A full-stack web application designed to manage donations and events for CUDECA, a charitable organization. This platform enables users to make donations, register for events, purchase tickets, and ma
 - [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
@@ -178,6 +178,7 @@
 - [microsoft/TechExcel-Accelerate-developer-productivity-with-GitHub-Copilot-and-Dev-Box](https://github.com/microsoft/TechExcel-Accelerate-developer-productivity-with-GitHub-Copilot-and-Dev-Box) - New repo for new Developer Productivity lab
 - [SlavaVedernikov/C4InterFlow](https://github.com/SlavaVedernikov/C4InterFlow) - Architecture as Code (AaC) framework that lets you describe Architecture Model once and then generates many diagrams. Inspired by C4 Model
 - [spectreconsole/spectre.console](https://github.com/spectreconsole/spectre.console) - A .NET library that makes it easier to create beautiful console applications.
+- [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - 📚 A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles.
 - [davidfowl/AspirePulumi](https://github.com/davidfowl/AspirePulumi) - A demo showing pulumi and aspire
 - [DeveloperMetrics/DevOpsMetrics](https://github.com/DeveloperMetrics/DevOpsMetrics) - A project to extract and process high performing DevOps metrics (DORA) from GitHub and Azure DevOps
 - [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types t
@@ -381,6 +382,7 @@
 - [Conhea/docker-android-build-box](https://github.com/Conhea/docker-android-build-box) - An optimized docker image that supplies an Android build environment.
 - [mingchen/docker-android-build-box](https://github.com/mingchen/docker-android-build-box) - An optimized docker image includes Android, Kotlin, Flutter sdk.
 - [uds-se/droidmatedockerenv](https://github.com/uds-se/droidmatedockerenv) - Droidmate Docker environment
+- [Silex/docker-emacs](https://github.com/Silex/docker-emacs) - Run Emacs in docker containers!
 - [tianon/dockerfiles](https://github.com/tianon/dockerfiles) - A semi-random collection of odds and ends.
 - [thedrhax-dockerfiles/android-avd](https://github.com/thedrhax-dockerfiles/android-avd) - Headless Android x86 emulator ready for automated instrumentation testing.
 - [bitrise-io/android](https://github.com/bitrise-io/android) - ARCHIVE: This repository is sunsetted. The new image's repository will be made available later. | Android Docker image
@@ -1619,7 +1621,6 @@
 - [diimdeep/awesome-split-keyboards](https://github.com/diimdeep/awesome-split-keyboards) - A collection of ergonomic split keyboards ⌨
 - [vampy/Makefile](https://github.com/vampy/Makefile) - Makefile Tutorial - learn make by example
 - [aatmmr/octodesk](https://github.com/aatmmr/octodesk) - Provide a self-service experience for your Organization
-- [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - 📚 A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles.
 - [pablokbs/peladonerd-newsletter](https://github.com/pablokbs/peladonerd-newsletter) - 
 - [juancarlospaco/awesome-streaming-tools](https://github.com/juancarlospaco/awesome-streaming-tools) - Awesome Streaming Tools
 - [githubnext/copilot-workspace-user-manual](https://github.com/githubnext/copilot-workspace-user-manual) - 📖 The user manual for GitHub Copilot Workspace
@@ -2024,7 +2025,7 @@
 - [Doriandarko/deepseek-engineer](https://github.com/Doriandarko/deepseek-engineer) - A powerful coding assistant application that integrates with the DeepSeek API to process user conversations and generate structured JSON responses. Through an intuitive command-line interface, it can 
 - [AlexanderVanhee/Gradia](https://github.com/AlexanderVanhee/Gradia) - Make your screenshots ready for all
 - [tinybirdco/ai](https://github.com/tinybirdco/ai) - Tinybird utils for your AI based apps
-- [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need！write a claude code with only 16 line code
+- [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all You need - Write a nano Claude Code 0 - 1
 - [neondatabase/appdotbuild-agent](https://github.com/neondatabase/appdotbuild-agent) - The agent that generates working apps (and maybe some other things)
 - [gyoridavid/ai_agents_az](https://github.com/gyoridavid/ai_agents_az) - 
 - [SuperClaude-Org/SuperClaude_Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework) - A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies.
@@ -2441,7 +2442,6 @@
 - [paul-irolla/androcoverage](https://github.com/paul-irolla/androcoverage) - The AndroCoverage Dataset is a dataset of Android applications for the evaluation of automated testing tools. It comes with tools for instrumenting  the applications, starting/stopping the instrumenta
 - [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
 - [DefactoSoftware/Hours](https://github.com/DefactoSoftware/Hours) - Time registration that doesn't suck
-- [Silex/docker-emacs](https://github.com/Silex/docker-emacs) - Run Emacs in docker containers!
 - [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework) - Metasploit Framework
 - [plum-umd/troyd](https://github.com/plum-umd/troyd) - Troyd: Integration Testing for Android
 - [athityakumar/colorls](https://github.com/athityakumar/colorls) - A Ruby gem that beautifies the terminal's ls command, with color and font-awesome icons. :tada:
@@ -2845,6 +2845,7 @@
 
 ## TypeScript 
 
+- [htekdev/github-sre-agent](https://github.com/htekdev/github-sre-agent) - AI-powered SRE agent for GitHub Actions using GitHub Copilot SDK
 - [estruyf/vscode-ghostwriter](https://github.com/estruyf/vscode-ghostwriter) - AI-powered content creation tool that leverages GitHub Copilot to conduct intelligent interviews and transform transcripts into polished, SEO-optimized articles.
 - [opral/lix](https://github.com/opral/lix) - Embeddable version control system
 - [suitenumerique/meet](https://github.com/suitenumerique/meet) - Open source video conferencing app powered by LiveKit.
@@ -3037,7 +3038,7 @@
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
 - [tradingview/lightweight-charts](https://github.com/tradingview/lightweight-charts) - Performant financial charts built with HTML5 canvas
 - [devcontainers/cli](https://github.com/devcontainers/cli) - A reference implementation for the specification that can create and configure a dev container from a devcontainer.json.
-- [refly-ai/refly](https://github.com/refly-ai/refly) - Vibe Workflow Platform for Non-technical Creators.
+- [refly-ai/refly](https://github.com/refly-ai/refly) - Not just a repo — an open-source agent skills builder.
 - [Expensify/App](https://github.com/Expensify/App) - Welcome to New Expensify: a complete re-imagination of financial collaboration, centered around chat. Help us build the next generation of Expensify by sharing feedback and contributing to the code.
 - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Qualtrics Alternative
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
