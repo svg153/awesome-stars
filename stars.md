@@ -188,7 +188,7 @@
 - [Azure/fta-live-iac](https://github.com/Azure/fta-live-iac) - FTA Live Infrastructure as Code
 - [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
 - [Roemer/plantuml-office](https://github.com/Roemer/plantuml-office) - Office Icons for PlantUML
-- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 - [JosefNemec/Playnite](https://github.com/JosefNemec/Playnite) - Video game library manager with support for wide range of 3rd party libraries and game emulation support, providing one unified interface for your games.
 - [microsoft/ApplicationInspector](https://github.com/microsoft/ApplicationInspector) - A source code analyzer built for surfacing features of interest and other characteristics to answer the question 'What's in the code?' quickly using static analysis with a json based rules engine. Ide
 - [dockersamples/example-voting-app](https://github.com/dockersamples/example-voting-app) - Example distributed app composed of multiple containers for Docker, Compose, Swarm, and Kubernetes
@@ -437,6 +437,7 @@
 
 ## Go 
 
+- [leereilly/gh-dungeons](https://github.com/leereilly/gh-dungeons) - A GitHub CLI extension roguelike dungeon crawler that turns your codebase into a playable game. Procedurally generated, deterministic dungeons are unique to each repository and SHA.
 - [jovandeginste/workout-tracker](https://github.com/jovandeginste/workout-tracker) - A workout tracking web application for personal use (or family, friends), geared towards running and other GPX-based activities
 - [eat-pray-ai/yutu](https://github.com/eat-pray-ai/yutu) - A fully functional MCP server and CLI for YouTube
 - [JanDeDobbeleer/copilot-ralph](https://github.com/JanDeDobbeleer/copilot-ralph) - 
@@ -462,7 +463,7 @@
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [jeessy2/ddns-go](https://github.com/jeessy2/ddns-go) - Simple and easy to use DDNS. Support Aliyun, Tencent Cloud, Dnspod, Cloudflare, Callback, Huawei Cloud, Baidu Cloud, Porkbun, GoDaddy, Namecheap, NameSilo...
 - [smallstep/cli](https://github.com/smallstep/cli) - 🧰  A zero trust swiss army knife for working with X509, OAuth, JWT, OATH OTP, etc.
-- [githubnext/gh-aw](https://github.com/githubnext/gh-aw) - GitHub Agentic Workflows
+- [github/gh-aw](https://github.com/github/gh-aw) - GitHub Agentic Workflows
 - [mcpjungle/MCPJungle](https://github.com/mcpjungle/MCPJungle) - Self-hosted MCP Gateway for AI agents
 - [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source UI-first Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, RADIUS, Google
 - [mattermost/mattermost-plugin-agents](https://github.com/mattermost/mattermost-plugin-agents) - Mattermost Agents plugin supporting multiple LLMs
@@ -1149,7 +1150,6 @@
 - [anvaka/map-of-github](https://github.com/anvaka/map-of-github) - Inspirational Mapping
 - [ExamProCo/Github-Examples](https://github.com/ExamProCo/Github-Examples) - A repo containing GitHub for programmatic examples
 - [cattr-app/desktop-application](https://github.com/cattr-app/desktop-application) - Electron-based desktop time tracker for Cattr
-- [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate) - Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations. Don't be shy, join here: 
 - [github/command](https://github.com/github/command) - IssueOps commands in GitHub Actions
 - [asannou/tfmermaid-action](https://github.com/asannou/tfmermaid-action) - Github Action for converting an output of Terraform graph to Mermaid's syntax.
 - [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
@@ -1476,6 +1476,7 @@
 - [primer/design](https://github.com/primer/design) - Primer Design Guidelines
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 - [trigaten/Learn_Prompting](https://github.com/trigaten/Learn_Prompting) - Prompt Engineering, Generative AI, and LLM Guide by Learn Prompting | Join our discord for the largest Prompt Engineering learning community
+- [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [rauchg/blog](https://github.com/rauchg/blog) - 
 - [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - Front End interview preparation materials for busy engineers (updated for 2025)
 
@@ -1530,6 +1531,7 @@
 
 ## Others 
 
+- [digitarald/loop-agent](https://github.com/digitarald/loop-agent) - Loop: A meta-loop orchestrator for multi-agent Copilot workflows with self-correction, stall detection, and shared memory
 - [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - The awesome collection of OpenClaw Skills. Formerly known as Moltbot, originally Clawdbot.
 - [microsoft/playwright-cli](https://github.com/microsoft/playwright-cli) - CLI for common Playwright actions. Record and generate Playwright code, inspect selectors and take screenshots.
 - [github/copilot-plugins](https://github.com/github/copilot-plugins) - The official GitHub Copilot plugins collection — MCP servers, skills, hooks, and other extensibility tools for GitHub Copilot.
@@ -1947,6 +1949,10 @@
 
 ## Python 
 
+- [agentskills/agentskills](https://github.com/agentskills/agentskills) - Specification and documentation for Agent Skills
+- [BquantFinance/licitaciones-espana](https://github.com/BquantFinance/licitaciones-espana) - 
+- [infobyte/faraday](https://github.com/infobyte/faraday) - Open Source Vulnerability Management Platform
+- [Solomonkassa/Youtube-to-Doc](https://github.com/Solomonkassa/Youtube-to-Doc) - Turn any YouTube video into a documentation link
 - [timowhite88/Farnsworth](https://github.com/timowhite88/Farnsworth) - Farnsworth is an autonomous, infinitely-memorable, self-evolving companion AI built entirely with free open-source tools.
 - [yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) - Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
 - [kinfey/agent-framework-update-everyday](https://github.com/kinfey/agent-framework-update-everyday) - This is Microsoft Agent Framework Update Checking
@@ -2457,10 +2463,10 @@
 
 ## Rust 
 
+- [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN
 - [scanopy/scanopy](https://github.com/scanopy/scanopy) - Clean network diagrams. One-time setup, zero upkeep.
 - [flowsurface-rs/flowsurface](https://github.com/flowsurface-rs/flowsurface) - A native desktop charting platform for crypto markets
 - [mikeroyal/WSL-Guide](https://github.com/mikeroyal/WSL-Guide) - Windows Subsystem for Linux (WSL) Guide. Use WSL develop to with Kubernetes and in the Cloud (Microsoft Azure, AWS, and Google Cloud).
-- [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Get 10X more out of Claude Code, Codex or any coding agent
 - [perstarkse/minne](https://github.com/perstarkse/minne) - Minne, a read-it-later & personal knowledge management solution
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [H-M-H/Weylus](https://github.com/H-M-H/Weylus) - Use your tablet as graphic tablet/touch screen on your computer.
@@ -2810,6 +2816,7 @@
 
 ## Swift 
 
+- [steipete/CodexBar](https://github.com/steipete/CodexBar) - Show usage stats for OpenAI Codex and Claude Code, without having to login.
 - [steipete/RepoBar](https://github.com/steipete/RepoBar) - Show status of GitHub Repos right in your menu bar and terminal: CI, Issues, Pull Requests, Latest Release.
 - [itaybre/CameraController](https://github.com/itaybre/CameraController) - 📷 Control USB Cameras from an app
 - [zalando/SwiftMonkey](https://github.com/zalando/SwiftMonkey) - A framework for doing randomised UI testing of iOS apps
@@ -2845,12 +2852,17 @@
 
 ## TypeScript 
 
+- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - open source rewind | 100% local | dev friendly | 24/7 screen, mic recording
+- [afadil/wealthfolio](https://github.com/afadil/wealthfolio) - A Beautiful Private and Secure Desktop Investment Tracking Application
+- [punkpeye/fastmcp](https://github.com/punkpeye/fastmcp) - A TypeScript framework for building MCP servers.
+- [gavrielc/nanoclaw](https://github.com/gavrielc/nanoclaw) - My personal Claude assistant that runs in Apple containers. Lightweight, secure, and built to be understood and customized for your own needs.
+- [cloudflare/moltworker](https://github.com/cloudflare/moltworker) - Run OpenClaw, (formerly Moltbot, formerly Clawdbot) on Cloudflare Workers
 - [htekdev/github-sre-agent](https://github.com/htekdev/github-sre-agent) - AI-powered SRE agent for GitHub Actions using GitHub Copilot SDK
 - [estruyf/vscode-ghostwriter](https://github.com/estruyf/vscode-ghostwriter) - AI-powered content creation tool that leverages GitHub Copilot to conduct intelligent interviews and transform transcripts into polished, SEO-optimized articles.
 - [opral/lix](https://github.com/opral/lix) - Embeddable version control system
 - [suitenumerique/meet](https://github.com/suitenumerique/meet) - Open source video conferencing app powered by LiveKit.
 - [pierceboggan/primer](https://github.com/pierceboggan/primer) - Get your repo ready for AI.
-- [NangoHQ/nango](https://github.com/NangoHQ/nango) - A single API for all your integrations.
+- [NangoHQ/nango](https://github.com/NangoHQ/nango) - API access for agents & apps.
 - [projectstorm/react-diagrams](https://github.com/projectstorm/react-diagrams) - a super simple, no-nonsense diagramming library written in react that just works
 - [ui-layouts/uilayouts](https://github.com/ui-layouts/uilayouts) - 🔥 100+ free beautiful, interactive React/Next.js components built with Tailwind CSS, Framer Motion, React Three Fiber, GSAP, and more.
 - [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
@@ -2884,13 +2896,14 @@
 - [debs-obrien/ai-learning-hub](https://github.com/debs-obrien/ai-learning-hub) - 🧠 A personal learning management app for organizing AI-related resources
 - [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents
 - [snarktank/ralph](https://github.com/snarktank/ralph) - Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete.
-- [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork) - Openwork™ is the open source Al coworker that lives on your desktop
+- [accomplish-ai/accomplish](https://github.com/accomplish-ai/accomplish) - Accomplish™ (formerly Openwork) is the open source Al coworker that lives on your desktop
 - [github/copilot-sdk](https://github.com/github/copilot-sdk) - Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
 - [subsy/ralph-tui](https://github.com/subsy/ralph-tui) - 
 - [eigent-ai/eigent](https://github.com/eigent-ai/eigent) - Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity.
 - [EpicenterHQ/epicenter](https://github.com/EpicenterHQ/epicenter) - Press shortcut → speak → get text. Free and open source. More local-first apps soon ❤️
 - [aymenfurter/ralph](https://github.com/aymenfurter/ralph) - Ralph for GitHub Copilot
 - [tamnguyenvan/screenarc](https://github.com/tamnguyenvan/screenarc) - ScreenArc – Cross-platform screen recorder & editor with automatic cinematic zooms, mouse tracking, and effortless video creation.
+- [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Get 10X more out of Claude Code, Codex or any coding agent
 - [adrianhajdin/signalist_stock-tracker-app](https://github.com/adrianhajdin/signalist_stock-tracker-app) - Stock Market app built with Next.js, Shadcn, Better Auth, and Inngest. Track prices, set alerts, explore insights, manage watchlists, and automate workflows for notifications and analytics.
 - [kbtale/findthagame](https://github.com/kbtale/findthagame) - A fuzzy game discovery engine built with React 19 and Vite. Uses a custom weighted scoring algorithm and the IGDB API to find games from partial memories.
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
@@ -3038,7 +3051,7 @@
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
 - [tradingview/lightweight-charts](https://github.com/tradingview/lightweight-charts) - Performant financial charts built with HTML5 canvas
 - [devcontainers/cli](https://github.com/devcontainers/cli) - A reference implementation for the specification that can create and configure a dev container from a devcontainer.json.
-- [refly-ai/refly](https://github.com/refly-ai/refly) - Not just a repo — an open-source agent skills builder.
+- [refly-ai/refly](https://github.com/refly-ai/refly) - The first open-source agent skills builder. 🦞
 - [Expensify/App](https://github.com/Expensify/App) - Welcome to New Expensify: a complete re-imagination of financial collaboration, centered around chat. Help us build the next generation of Expensify by sharing feedback and contributing to the code.
 - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Qualtrics Alternative
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
@@ -3053,6 +3066,7 @@
 - [al1abb/invoify](https://github.com/al1abb/invoify) - An invoice generator app built using Next.js, Typescript, and Shadcn
 - [microsoft/GitHub-Copilot-for-Azure](https://github.com/microsoft/GitHub-Copilot-for-Azure) - GitHub Copilot for Azure
 - [MayGo/tockler](https://github.com/MayGo/tockler) - An application that tracks your time by monitoring your active window title and idle time.
+- [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate) - Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations. Don't be shy, join here: 
 - [actions/container-toolkit-action](https://github.com/actions/container-toolkit-action) - Template repo for creating container actions using https://github.com/actions/toolkit/
 - [issue-ops/parser](https://github.com/issue-ops/parser) - Convert issue form responses to JSON
 - [kubernetes-retired/kui](https://github.com/kubernetes-retired/kui) - A hybrid command-line/UI development experience for cloud-native development
@@ -3076,7 +3090,7 @@
 - [Surfer-Org/Protocol](https://github.com/Surfer-Org/Protocol) - Open-source framework for exporting your personal data.
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [TimMikeladze/next-flag](https://github.com/TimMikeladze/next-flag) - 🏁 Feature flags powered by GitHub issues and NextJS. Toggle the features of your app by ticking a checkbox in a GitHub issue. Supports server-side rendering, multiple environments, custom conditions, 
-- [openobserve/openobserve](https://github.com/openobserve/openobserve) - Modern observability platform: 10x easier, 140x lower storage cost, petabyte scale. Open-source alternative to Elasticsearch/Splunk/Datadog for logs, metrics, traces, RUM, and more.
+- [openobserve/openobserve](https://github.com/openobserve/openobserve) - OpenObserve is an open-source observability platform for logs, metrics, traces, and frontend monitoring. A cost-effective alternative to Datadog, Splunk, and Elasticsearch with 140x lower storage cost
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
 - [Azure-Samples/aks-platform-engineering](https://github.com/Azure-Samples/aks-platform-engineering) - Opinionated AKS + OSS stack with ArgoCD, CAPZ/ASO or Crossplane, Terraform, Backstage
 - [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
@@ -3176,7 +3190,6 @@
 - [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast.
 - [interstellard/chatgpt-advanced](https://github.com/interstellard/chatgpt-advanced) - WebChatGPT: A browser extension that augments your ChatGPT prompts with web results.
 - [pnp/cli-microsoft365](https://github.com/pnp/cli-microsoft365) - Manage Microsoft 365 and SharePoint Framework projects on any platform
-- [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [step-security/wait-for-secrets](https://github.com/step-security/wait-for-secrets) - Publish from GitHub Actions using multi-factor authentication
 - [openblocks-dev/openblocks](https://github.com/openblocks-dev/openblocks) - 🔥 🔥 🔥 The Open Source Retool Alternative
 - [Azure/k8s-bake](https://github.com/Azure/k8s-bake) - GitHub Action creating Kubernetes manifest files with Helm, Kustomize, or Kompose
