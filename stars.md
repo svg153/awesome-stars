@@ -836,7 +836,7 @@
 - [cr0hn/dockerscan](https://github.com/cr0hn/dockerscan) - The Most Comprehensive Docker Security Scanner
 - [esimov/caire](https://github.com/esimov/caire) - Content aware image resize library
 - [mkchoi212/fac](https://github.com/mkchoi212/fac) - Easy-to-use CUI for fixing git conflicts
-- [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - 学习和理解Docker容器技术，从真实案例中掌握最佳实践技巧！| Learn and understand Docker&Container technologies, with real DevOps practice!
+- [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - 掌握、理解Docker容器技术，从真实案例中学习最佳实践技巧！| Learn and understand Docker&Container technologies, with real DevOps practice!
 - [harness/harness](https://github.com/harness/harness) - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.
 - [ro31337/libretaxi](https://github.com/ro31337/libretaxi) - Open source Uber
 - [segmentio/analytics-android-simulator](https://github.com/segmentio/analytics-android-simulator) - Simulator for our Android library.
@@ -1562,7 +1562,7 @@
 - [danielmeppiel/spec2cloud](https://github.com/danielmeppiel/spec2cloud) - 
 - [mbruhler/claude-orchestration](https://github.com/mbruhler/claude-orchestration) - Multi-agent workflow orchestration plugin for Claude Code
 - [ShepAlderson/copilot-orchestra](https://github.com/ShepAlderson/copilot-orchestra) - 
-- [DevExpGbb/vscode-ghcp-starter-kit](https://github.com/DevExpGbb/vscode-ghcp-starter-kit) - 
+- [DevExpGbb/vscode-ghcp-starter-kit](https://github.com/DevExpGbb/vscode-ghcp-starter-kit) - 📋 Starter template for unknown
 - [DevExpGbb/platform-mode](https://github.com/DevExpGbb/platform-mode) - An example repo for creating a Custom Agent Mode for GitHub Copilot in VS Code that is focused on performing Platform Engineering Tasks
 - [KalyanKS-NLP/llm-engineer-toolkit](https://github.com/KalyanKS-NLP/llm-engineer-toolkit) - A curated list of  120+ LLM libraries category wise.
 - [microsoft/amplifier](https://github.com/microsoft/amplifier) - 
@@ -1600,6 +1600,7 @@
 - [rohitg00/devops-interview-questions](https://github.com/rohitg00/devops-interview-questions) - Creating this repository as a central hub for all DevOps interview questions to help you land your next job.
 - [nolecram/github-certification-preparation-guide](https://github.com/nolecram/github-certification-preparation-guide) - Study guide to prepare the different GitHub certifications
 - [terramate-io/terramate-github-actions-example](https://github.com/terramate-io/terramate-github-actions-example) - terramate-github-actions-example
+- [piotrkulpinski/openalternative](https://github.com/piotrkulpinski/openalternative) - Curated list of open source alternatives to proprietary software.
 - [EinGuterWaran/awesome-opensource-boilerplates](https://github.com/EinGuterWaran/awesome-opensource-boilerplates) - A curated list of production-ready and free SaaS boilerplates and starter templates. Build your next software-as-a-service project with battle-tested open source foundations.
 - [Pwd9000-ML/terraform-azurerm-plan](https://github.com/Pwd9000-ML/terraform-azurerm-plan) - GitHub Action - Create a Terraform plan with AzureRM backend and uploads plan as workspace artifact (Used with: `Pwd9000-ML/terraform-azurerm-apply`)
 - [gantFDT/icraft](https://github.com/gantFDT/icraft) - iCraft Editor - Help you easily create excellent 3D architecture diagrams
@@ -1949,6 +1950,7 @@
 
 ## Python 
 
+- [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - The Ultimate Collection of 600+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel.
 - [agentskills/agentskills](https://github.com/agentskills/agentskills) - Specification and documentation for Agent Skills
 - [BquantFinance/licitaciones-espana](https://github.com/BquantFinance/licitaciones-espana) - 
 - [infobyte/faraday](https://github.com/infobyte/faraday) - Open Source Vulnerability Management Platform
@@ -3074,7 +3076,6 @@
 - [achris-alonzo30/github-portfolio](https://github.com/achris-alonzo30/github-portfolio) - 
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [lumeland/lume](https://github.com/lumeland/lume) - 🔥🪰 Static site generator for Deno
-- [piotrkulpinski/openalternative](https://github.com/piotrkulpinski/openalternative) - A community driven list of open source alternatives to proprietary software and applications.
 - [amruthpillai/reactive-resume](https://github.com/amruthpillai/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - AI Agent + Coding Agent + 300+ assistants: agentic AI desktop with autonomous coding, intelligent automation, and unified access to frontier LLMs.
