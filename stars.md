@@ -394,6 +394,7 @@
 
 ## Elixir 
 
+- [ClaperCo/Claper](https://github.com/ClaperCo/Claper) - 👋 The ultimate tool to interact with your audience
 - [notesclub/notesclub](https://github.com/notesclub/notesclub) - Discover Livebook notebooks (Elixir)
 - [livebook-dev/livebook](https://github.com/livebook-dev/livebook) - Automate code & data workflows with interactive Elixir notebooks
 - [algora-io/tv](https://github.com/algora-io/tv) - Open source Twitch for developers
@@ -1532,6 +1533,7 @@
 
 ## Others 
 
+- [bigguy345/Github-Copilot-Atlas](https://github.com/bigguy345/Github-Copilot-Atlas) - 
 - [digitarald/loop-agent](https://github.com/digitarald/loop-agent) - Loop: A meta-loop orchestrator for multi-agent Copilot workflows with self-correction, stall detection, and shared memory
 - [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - The awesome collection of OpenClaw Skills. Formerly known as Moltbot, originally Clawdbot.
 - [github/copilot-plugins](https://github.com/github/copilot-plugins) - The official GitHub Copilot plugins collection — MCP servers, skills, hooks, and other extensibility tools for GitHub Copilot.
@@ -1950,6 +1952,9 @@
 
 ## Python 
 
+- [kdeldycke/workflows](https://github.com/kdeldycke/workflows) - 🧩 CLI for GitHub Actions + reusable workflows
+- [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) - Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).
+- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - "🐈 nanobot: The Ultra-Lightweight Clawdbot"
 - [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - The Ultimate Collection of 600+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel.
 - [agentskills/agentskills](https://github.com/agentskills/agentskills) - Specification and documentation for Agent Skills
 - [BquantFinance/licitaciones-espana](https://github.com/BquantFinance/licitaciones-espana) - 
@@ -2070,7 +2075,7 @@
 - [IndieSmiths/nodezator](https://github.com/IndieSmiths/nodezator) - A generalist Python node editor
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
 - [Repello-AI/Agent-Wiz](https://github.com/Repello-AI/Agent-Wiz) - A CLI tool for threat modeling and visualizing AI agents built using popular frameworks like LangGraph, AutoGen, CrewAI, and more.
-- [invariantlabs-ai/mcp-scan](https://github.com/invariantlabs-ai/mcp-scan) - Constrain, log and scan your MCP connections for security vulnerabilities.
+- [invariantlabs-ai/mcp-scan](https://github.com/invariantlabs-ai/mcp-scan) - Security scanner for AI agents, MCP servers and agent skills.
 - [NarimanN2/ollama-playground](https://github.com/NarimanN2/ollama-playground) - Interesting LLM projects that I created for my YouTube channel using Ollama's open-source models.
 - [Vexa-ai/vexa](https://github.com/Vexa-ai/vexa) - Self-hosted, multi-user API that drops bots into Google Meet for real-time transcripts.
 - [0GiS0/hoy-empiezo-con-la-ia-generativa](https://github.com/0GiS0/hoy-empiezo-con-la-ia-generativa) - 🚀🤖 Demos de mi serie sobre IA Generativa para devs 💻✨
@@ -2102,7 +2107,6 @@
 - [bytedance/monolith](https://github.com/bytedance/monolith) - A Lightweight Recommendation System
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [SamurAIGPT/AI-Youtube-Shorts-Generator](https://github.com/SamurAIGPT/AI-Youtube-Shorts-Generator) - A python tool that uses GPT-4, FFmpeg, and OpenCV to automatically analyze videos, extract the most interesting sections, and crop them for an improved viewing experience.
-- [Agenta-AI/agenta](https://github.com/Agenta-AI/agenta) - The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one place.
 - [keephq/keep](https://github.com/keephq/keep) - The open-source AIOps and alert management platform
 - [bndr/pipreqs](https://github.com/bndr/pipreqs) - pipreqs - Generate pip requirements.txt file based on imports of any project. Looking for maintainers to move this project forward.
 - [rio-labs/rio](https://github.com/rio-labs/rio) - WebApps in pure Python. No JavaScript, HTML and CSS needed
@@ -2856,6 +2860,8 @@
 
 ## TypeScript 
 
+- [schelskedevco/ignidash](https://github.com/schelskedevco/ignidash) - An open-source, AI-powered alternative to ProjectionLab for planning your long-term personal finances.
+- [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!
 - [afadil/wealthfolio](https://github.com/afadil/wealthfolio) - A Beautiful Private and Secure Desktop Investment Tracking Application
 - [punkpeye/fastmcp](https://github.com/punkpeye/fastmcp) - A TypeScript framework for building MCP servers.
 - [gavrielc/nanoclaw](https://github.com/gavrielc/nanoclaw) - My personal Claude assistant that runs in Apple containers. Lightweight, secure, and built to be understood and customized for your own needs.
@@ -3054,7 +3060,7 @@
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
 - [tradingview/lightweight-charts](https://github.com/tradingview/lightweight-charts) - Performant financial charts built with HTML5 canvas
 - [devcontainers/cli](https://github.com/devcontainers/cli) - A reference implementation for the specification that can create and configure a dev container from a devcontainer.json.
-- [refly-ai/refly](https://github.com/refly-ai/refly) - The first open-source agent skills builder. 🦞
+- [refly-ai/refly](https://github.com/refly-ai/refly) - The first open-source agent skills builder. Define skills by vibe workflow, run on Claude Code, Cursor, Codex & more. Build Clawdbot 🦞· APIs for Lovable · Bots for Slack & Lark/Feishu · Skills are inf
 - [Expensify/App](https://github.com/Expensify/App) - Welcome to New Expensify: a complete re-imagination of financial collaboration, centered around chat. Help us build the next generation of Expensify by sharing feedback and contributing to the code.
 - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Qualtrics Alternative
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
@@ -3071,6 +3077,7 @@
 - [MayGo/tockler](https://github.com/MayGo/tockler) - An application that tracks your time by monitoring your active window title and idle time.
 - [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate) - Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations. Don't be shy, join here: 
 - [actions/container-toolkit-action](https://github.com/actions/container-toolkit-action) - Template repo for creating container actions using https://github.com/actions/toolkit/
+- [Agenta-AI/agenta](https://github.com/Agenta-AI/agenta) - The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one place.
 - [issue-ops/parser](https://github.com/issue-ops/parser) - Convert issue form responses to JSON
 - [kubernetes-retired/kui](https://github.com/kubernetes-retired/kui) - A hybrid command-line/UI development experience for cloud-native development
 - [achris-alonzo30/github-portfolio](https://github.com/achris-alonzo30/github-portfolio) - 
