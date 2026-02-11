@@ -437,6 +437,7 @@
 
 ## Go 
 
+- [entireio/cli](https://github.com/entireio/cli) - Entire is a new developer platform that hooks into your git workflow to capture AI agent sessions on every push, unifying your code with its context and reasoning.
 - [donetick/donetick](https://github.com/donetick/donetick) - Donetick an open-source, user-friendly app for managing tasks and chores, featuring customizable options to help you and others stay organized
 - [leereilly/gh-dungeons](https://github.com/leereilly/gh-dungeons) - A GitHub CLI extension roguelike dungeon crawler that turns your codebase into a playable game. Procedurally generated, deterministic dungeons are unique to each repository and SHA.
 - [jovandeginste/workout-tracker](https://github.com/jovandeginste/workout-tracker) - A workout tracking web application for personal use (or family, friends), geared towards running and other GPX-based activities
@@ -1957,7 +1958,7 @@
 - [AsyncFuncAI/AsyncReview](https://github.com/AsyncFuncAI/AsyncReview) - Open-source Agentic code review tool inspired by DevinReview, using Recursive Language Models (RLM)
 - [kdeldycke/workflows](https://github.com/kdeldycke/workflows) - 🧩 CLI for GitHub Actions + reusable workflows
 - [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) - Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).
-- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - "🐈 nanobot: The Ultra-Lightweight Clawdbot"
+- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - "🐈 nanobot: The Ultra-Lightweight OpenClaw"
 - [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - The Ultimate Collection of 700+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel.
 - [agentskills/agentskills](https://github.com/agentskills/agentskills) - Specification and documentation for Agent Skills
 - [BquantFinance/licitaciones-espana](https://github.com/BquantFinance/licitaciones-espana) - 
@@ -2865,6 +2866,7 @@
 
 ## TypeScript 
 
+- [pierceboggan/coloring-book](https://github.com/pierceboggan/coloring-book) - AI coloring book generator
 - [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) - FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making i
 - [patniko/copilot-tokens](https://github.com/patniko/copilot-tokens) - GitHub Copilot SDK taken to the MAXX
 - [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - the best agent harness
@@ -2875,11 +2877,11 @@
 - [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!
 - [afadil/wealthfolio](https://github.com/afadil/wealthfolio) - A Beautiful Private and Secure Desktop Investment Tracking Application
 - [punkpeye/fastmcp](https://github.com/punkpeye/fastmcp) - A TypeScript framework for building MCP servers.
-- [gavrielc/nanoclaw](https://github.com/gavrielc/nanoclaw) - A lightweight alternative to Clawdbot / OpenClaw that runs in Apple containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK
+- [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw) - A lightweight alternative to Clawdbot / OpenClaw that runs in Apple containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK
 - [cloudflare/moltworker](https://github.com/cloudflare/moltworker) - Run OpenClaw, (formerly Moltbot, formerly Clawdbot) on Cloudflare Workers
 - [htekdev/github-sre-agent](https://github.com/htekdev/github-sre-agent) - AI-powered SRE agent for GitHub Actions using GitHub Copilot SDK
 - [estruyf/vscode-ghostwriter](https://github.com/estruyf/vscode-ghostwriter) - AI-powered content creation tool that leverages GitHub Copilot to conduct intelligent interviews and transform transcripts into polished, SEO-optimized articles.
-- [opral/lix](https://github.com/opral/lix) - Embeddable version control system
+- [opral/lix](https://github.com/opral/lix) - Embeddable version control system for AI agents
 - [suitenumerique/meet](https://github.com/suitenumerique/meet) - Open source video conferencing app powered by LiveKit.
 - [pierceboggan/primer](https://github.com/pierceboggan/primer) - Get your repo ready for AI.
 - [NangoHQ/nango](https://github.com/NangoHQ/nango) - API access for agents & apps.
