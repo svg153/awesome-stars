@@ -115,6 +115,7 @@
 ## Bru 
 
 - [Facug03/the-simpsons-api](https://github.com/Facug03/the-simpsons-api) - 
+- [realworld-apps/realworld](https://github.com/realworld-apps/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 
 ## C 
 
@@ -1102,6 +1103,7 @@
 ## JavaScript 
 
 - [bugbasesecurity/pentest-copilot](https://github.com/bugbasesecurity/pentest-copilot) - Pentest Copilot is an AI-powered browser based ethical hacking assistant tool designed to streamline pentesting workflows.
+- [digitarald/loop-agent](https://github.com/digitarald/loop-agent) - Loop: A meta-loop orchestrator for multi-agent Copilot workflows with self-correction, stall detection, and shared memory
 - [ComposioHQ/open-claude-cowork](https://github.com/ComposioHQ/open-claude-cowork) - Open Source version of Claude Cowork with 500+ SaaS app integrations
 - [skills/copilot-code-review](https://github.com/skills/copilot-code-review) - Leverage GitHub Copilot code review to promote code quality and catch issues before they reach production.
 - [shirsakm/nightlio](https://github.com/shirsakm/nightlio) - A minimal mood logger and journal.
@@ -1538,7 +1540,6 @@
 
 - [sseanliu/VisionClaw](https://github.com/sseanliu/VisionClaw) - Real-time AI assistant for Meta Ray-Ban smart glasses -- voice + vision + agentic actions via Gemini Live and OpenClaw
 - [bigguy345/Github-Copilot-Atlas](https://github.com/bigguy345/Github-Copilot-Atlas) - 
-- [digitarald/loop-agent](https://github.com/digitarald/loop-agent) - Loop: A meta-loop orchestrator for multi-agent Copilot workflows with self-correction, stall detection, and shared memory
 - [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - The awesome collection of OpenClaw Skills. Formerly known as Moltbot, originally Clawdbot.
 - [github/copilot-plugins](https://github.com/github/copilot-plugins) - The official GitHub Copilot plugins collection — MCP servers, skills, hooks, and other extensibility tools for GitHub Copilot.
 - [microsoft/work-iq-mcp](https://github.com/microsoft/work-iq-mcp) - MCP Server and CLI for accessing Work IQ
@@ -1551,7 +1552,7 @@
 - [thomast1906/github-copilot-skills-terraform](https://github.com/thomast1906/github-copilot-skills-terraform) - Template repository providing specialized GitHub Copilot agents and reusable skills for Terraform Azure
 - [cporter202/vibe-coding-for-dummies](https://github.com/cporter202/vibe-coding-for-dummies) - A beginner-friendly guide to building real software using vibe coding. Learn how to ship apps without traditional coding by using Firebase Studio, GitHub, and Cursor. No gatekeeping. No fluff. Just bu
 - [martinwoodward/octolamp](https://github.com/martinwoodward/octolamp) - A 3D printed, GitHub infused, smart light
-- [braden-w/whispering](https://github.com/braden-w/whispering) - Press shortcut → speak → get text. Free and open source ❤️
+- [braden-w/whispering](https://github.com/braden-w/whispering) - ⚠️ Moved to EpicenterHQ/epicenter—see README for redirect
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
 - [btkrausen/github_certification](https://github.com/btkrausen/github_certification) - Getting GitHub certified is a resounding endorsement that validates your skills, credibility, trust, and knowledge of the technologies and developer tools that are used by more than 100 million develo
 - [Naroh091/licitaciones-contratos-menores-comunidad-de-madrid](https://github.com/Naroh091/licitaciones-contratos-menores-comunidad-de-madrid) - CSVs con licitaciones y contratos menores de la Comunidad de Madrid desde 2014
@@ -1956,13 +1957,15 @@
 
 ## Python 
 
+- [unslop-xyz/noodles](https://github.com/unslop-xyz/noodles) - Your codebase was probably AI-generated. Get a better handle on it. Noodles creates interactive diagrams that visualize how your code actually works, so you can understand what the AI built without re
+- [CursorTouch/Windows-MCP](https://github.com/CursorTouch/Windows-MCP) - MCP Server for Computer Use in Windows
 - [llmsresearch/paperbanana](https://github.com/llmsresearch/paperbanana) - Open source implementation and extension of Google Research’s PaperBanana for automated academic figures, diagrams, and research visuals, expanded to new domains like slide generation.
 - [op7418/Youtube-clipper-skill](https://github.com/op7418/Youtube-clipper-skill) - 
 - [AsyncFuncAI/AsyncReview](https://github.com/AsyncFuncAI/AsyncReview) - Open-source Agentic code review tool inspired by DevinReview, using Recursive Language Models (RLM)
 - [kdeldycke/workflows](https://github.com/kdeldycke/workflows) - 🧩 CLI for GitHub Actions + reusable workflows
 - [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) - Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - "🐈 nanobot: The Ultra-Lightweight OpenClaw"
-- [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - The Ultimate Collection of 700+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel.
+- [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - The Ultimate Collection of 800+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel.
 - [agentskills/agentskills](https://github.com/agentskills/agentskills) - Specification and documentation for Agent Skills
 - [BquantFinance/licitaciones-espana](https://github.com/BquantFinance/licitaciones-espana) - 
 - [infobyte/faraday](https://github.com/infobyte/faraday) - Open Source Vulnerability Management Platform
@@ -2022,6 +2025,7 @@
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [basicmachines-co/basic-memory](https://github.com/basicmachines-co/basic-memory) - AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN
 - [davila7/youtube-gpt](https://github.com/davila7/youtube-gpt) - Youtube GPT: OpenAI Whisper + Embedding + Davinci
+- [MotiaDev/motia](https://github.com/MotiaDev/motia) - Multi-Language Backend Framework that unifies APIs, background jobs, queues, workflows, streams, and AI agents with a single core primitive with built-in observability and state management.
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN) - RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
 - [makalin/KeyForge3D](https://github.com/makalin/KeyForge3D) - KeyForge3D is an app that turns a photo of a key into a 3D-printable STL file. Ideal for locksmiths and hobbyists, it analyzes the key's bitting pattern using image processing and generates an accurat
@@ -2083,7 +2087,7 @@
 - [IndieSmiths/nodezator](https://github.com/IndieSmiths/nodezator) - A generalist Python node editor
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
 - [Repello-AI/Agent-Wiz](https://github.com/Repello-AI/Agent-Wiz) - A CLI tool for threat modeling and visualizing AI agents built using popular frameworks like LangGraph, AutoGen, CrewAI, and more.
-- [invariantlabs-ai/mcp-scan](https://github.com/invariantlabs-ai/mcp-scan) - Security scanner for AI agents, MCP servers and agent skills.
+- [snyk/agent-scan](https://github.com/snyk/agent-scan) - Security scanner for AI agents, MCP servers and agent skills.
 - [NarimanN2/ollama-playground](https://github.com/NarimanN2/ollama-playground) - Interesting LLM projects that I created for my YouTube channel using Ollama's open-source models.
 - [Vexa-ai/vexa](https://github.com/Vexa-ai/vexa) - Self-hosted, multi-user API that drops bots into Google Meet for real-time transcripts.
 - [0GiS0/hoy-empiezo-con-la-ia-generativa](https://github.com/0GiS0/hoy-empiezo-con-la-ia-generativa) - 🚀🤖 Demos de mi serie sobre IA Generativa para devs 💻✨
@@ -2176,7 +2180,7 @@
 - [tox-dev/tox](https://github.com/tox-dev/tox) - Command line driven CI frontend and development task automation tool.
 - [cekit/cekit](https://github.com/cekit/cekit) - CEKit - Container Evolution Kit
 - [jooola/gh-release-install](https://github.com/jooola/gh-release-install) - CLI helper to install Github releases on your system.
-- [Rishang/install-release](https://github.com/Rishang/install-release) - A CLI to install and update any single-binary CLI tools from GitHub & GitLab on Linux and macOS
+- [Rishang/install-release](https://github.com/Rishang/install-release) - A CLI to install and update any single-binary CLI tools from GitHub & GitLab on Linux macOS and WSL
 - [itzrahulyadav/DevOps-Notes](https://github.com/itzrahulyadav/DevOps-Notes) - 
 - [mouredev/roadmap-retos-programacion](https://github.com/mouredev/roadmap-retos-programacion) - Ruta de estudio basada en ejercicios de código de la comunidad MoureDev para aprender y practicar lógica usando cualquier lenguaje de programación.
 - [MarkFzp/act-plus-plus](https://github.com/MarkFzp/act-plus-plus) - Imitation learning algorithms with Co-training for Mobile ALOHA: ACT, Diffusion Policy, VINN
@@ -2868,6 +2872,8 @@
 
 ## TypeScript 
 
+- [patniko/github-copilot-browser](https://github.com/patniko/github-copilot-browser) - 
+- [steipete/mcporter](https://github.com/steipete/mcporter) - Call MCPs via TypeScript, masquerading as simple TypeScript API. Or package them as cli.
 - [pierceboggan/coloring-book](https://github.com/pierceboggan/coloring-book) - AI coloring book generator
 - [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) - FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making i
 - [patniko/copilot-tokens](https://github.com/patniko/copilot-tokens) - GitHub Copilot SDK taken to the MAXX
@@ -2990,7 +2996,6 @@
 - [firecrawl/open-lovable](https://github.com/firecrawl/open-lovable) - 🔥 Clone and recreate any website as a modern React app in seconds
 - [MCP-UI-Org/mcp-ui](https://github.com/MCP-UI-Org/mcp-ui) - UI over MCP. Create next-gen UI experiences with the protocol and SDK!
 - [colindembovsky/octocat-supply-copilot-demo](https://github.com/colindembovsky/octocat-supply-copilot-demo) - A demo application for Copilot Agent Mode
-- [MotiaDev/motia](https://github.com/MotiaDev/motia) - Multi-Language Backend Framework that unifies APIs, background jobs, queues, workflows, streams, and AI agents with a single core primitive with built-in observability and state management.
 - [0xCrunchyy/10x](https://github.com/0xCrunchyy/10x) - ⚡️ 10x - Up to 20x faster AI coding with multi-step Superpowers. Open-source agent with smart model routing, BYOK, fully self-hosted.
 - [amplication/amplication](https://github.com/amplication/amplication) - Amplication brings order to the chaos of large-scale software development by creating Golden Paths for developers - streamlined workflows that drive consistency, enable high-quality code practices, si
 - [microsoft/poml](https://github.com/microsoft/poml) - Prompt Orchestration Markup Language
@@ -3100,7 +3105,7 @@
 - [lumeland/lume](https://github.com/lumeland/lume) - 🔥🪰 Static site generator for Deno
 - [amruthpillai/reactive-resume](https://github.com/amruthpillai/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
-- [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - AI Agent + Coding Agent + 300+ assistants: agentic AI desktop with autonomous coding, intelligent automation, and unified access to frontier LLMs.
+- [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs
 - [getmaxun/maxun](https://github.com/getmaxun/maxun) - ✨ The open-source no-code platform for web scraping, crawling, search and AI data extraction • Turn websites into structured APIs in minutes ✨
 - [microsoft/vscode-copilot-vision](https://github.com/microsoft/vscode-copilot-vision) - Exploration into leveraging vision capabilities of an LLM
 - [Codehagen/Badget](https://github.com/Codehagen/Badget) - Badget aims to simplify financial management with a user-friendly interface and robust backend
@@ -3154,7 +3159,7 @@
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in Headless mode to run async cloud agents or TUI mode as an in sync coding agent
 - [CodelyTV/infrastructure_design-eventbus-aws-course](https://github.com/CodelyTV/infrastructure_design-eventbus-aws-course) - Infrastructure Design: AWS SQS as a Message Queue course examples
 - [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
-- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - Framework for building agent-native applications with Generative UI, shared state, and human-in-the-loop workflows.
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend for Agents. Connect any agent framework to Chat, Generative UI, Frontend Tools, Human-in-the-Loop and Shared State. React & Angular supported.
 - [ipshipyard/github-mgmt](https://github.com/ipshipyard/github-mgmt) - 
 - [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted PaaS alternative to Heroku / Netlify / Coolify / Vercel / Dokku / Portainer running on Kubernetes
 - [midudev/la-velada-web-oficial](https://github.com/midudev/la-velada-web-oficial) - Web oficial de La Velada V de Ibai Llanos
@@ -3309,7 +3314,6 @@
 - [gdg-x/hoverboard](https://github.com/gdg-x/hoverboard) - Conference website template
 - [editorconfig/editorconfig-vscode](https://github.com/editorconfig/editorconfig-vscode) - EditorConfig extension for Visual Studio Code
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
-- [realworld-apps/realworld](https://github.com/realworld-apps/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - Curated coding interview preparation materials for busy software engineers
