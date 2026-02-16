@@ -468,7 +468,7 @@
 - [smallstep/cli](https://github.com/smallstep/cli) - 🧰  A zero trust swiss army knife for working with X509, OAuth, JWT, OATH OTP, etc.
 - [github/gh-aw](https://github.com/github/gh-aw) - GitHub Agentic Workflows
 - [mcpjungle/MCPJungle](https://github.com/mcpjungle/MCPJungle) - Self-hosted MCP Gateway for AI agents
-- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source UI-first Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, RADIUS, Google
+- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source AI-first Identity and Access Management (IAM) /AI MCP gateway and auth server with web UI supporting MCP, A2A, OAuth 2.1, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, Goog
 - [mattermost/mattermost-plugin-agents](https://github.com/mattermost/mattermost-plugin-agents) - Mattermost Agents plugin supporting multiple LLMs
 - [mattermost-community/mattermost-plugin-webex](https://github.com/mattermost-community/mattermost-plugin-webex) - 
 - [mattermost-community/mattermost-plugin-agenda](https://github.com/mattermost-community/mattermost-plugin-agenda) - Mattermost plugin to handle meeting agendas
@@ -839,7 +839,7 @@
 - [cr0hn/dockerscan](https://github.com/cr0hn/dockerscan) - The Most Comprehensive Docker Security Scanner
 - [esimov/caire](https://github.com/esimov/caire) - Content aware image resize library
 - [mkchoi212/fac](https://github.com/mkchoi212/fac) - Easy-to-use CUI for fixing git conflicts
-- [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - 掌握、理解Docker容器技术，从真实案例中学习最佳实践技巧！| Learn and understand Docker&Container technologies, with real DevOps practice!
+- [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - 最新Docker容器技术，从真实案例中学习最佳实践技巧！| Learn and understand Docker&Container technologies, with real DevOps practice!
 - [harness/harness](https://github.com/harness/harness) - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.
 - [ro31337/libretaxi](https://github.com/ro31337/libretaxi) - Open source Uber
 - [segmentio/analytics-android-simulator](https://github.com/segmentio/analytics-android-simulator) - Simulator for our Android library.
@@ -1522,7 +1522,7 @@
 
 ## Nunjucks 
 
-- [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies (jobs) in tech.
+- [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - Source for remoteintech.company — a community-maintained directory of remote-friendly tech companies
 - [h5bp/Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) - A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.
 
 ## OCaml 
@@ -1956,6 +1956,9 @@
 
 ## Python 
 
+- [FreedomIntelligence/TwinMarket](https://github.com/FreedomIntelligence/TwinMarket) - [NeurIPS 2025 & ICLR 2025 Financial AI Best Paper Award] A multi-agent framework that leverages LLMs to simulate socio-economic systems
+- [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader) - "AI-Trader: Can AI Beat the Market?"  Live Trading Bench: https://ai4trade.ai Tech Report Link: https://arxiv.org/abs/2512.10971
+- [OpenShot/openshot-qt](https://github.com/OpenShot/openshot-qt) - OpenShot Video Editor is an award-winning free and open-source video editor for Linux, Mac, and Windows, and is dedicated to delivering high quality video editing and animation solutions to the world.
 - [unslop-xyz/noodles](https://github.com/unslop-xyz/noodles) - Your codebase was probably AI-generated. Get a better handle on it. Noodles creates interactive diagrams that visualize how your code actually works, so you can understand what the AI built without re
 - [CursorTouch/Windows-MCP](https://github.com/CursorTouch/Windows-MCP) - MCP Server for Computer Use in Windows
 - [llmsresearch/paperbanana](https://github.com/llmsresearch/paperbanana) - Open source implementation and extension of Google Research’s PaperBanana for automated academic figures, diagrams, and research visuals, expanded to new domains like slide generation.
@@ -2001,7 +2004,7 @@
 - [ChaituRajSagar/gemini-youtube-automation](https://github.com/ChaituRajSagar/gemini-youtube-automation) - A fully autonomous AI Agent/Python pipeline that utilizes Large Language Models (LLMs) like Gemini to generate content, produce videos, and automatically upload educational videos to YouTube.
 - [apple/pico-banana-400k](https://github.com/apple/pico-banana-400k) - 
 - [langtalks/swe-agent](https://github.com/langtalks/swe-agent) - 🤖 AI-powered software engineering multi-agent system with researcher and developer agents that automate code implementation through intelligent planning and execution. Built with LangGraph multi-agent
-- [danielmeppiel/apm](https://github.com/danielmeppiel/apm) - Agent Package Manager
+- [microsoft/apm](https://github.com/microsoft/apm) - Agent Package Manager
 - [badger/home](https://github.com/badger/home) - Welcome to your Hackable Conference Badge
 - [tonybaloney/llm-github-models](https://github.com/tonybaloney/llm-github-models) - 
 - [ESJavadex/ree-mcp](https://github.com/ESJavadex/ree-mcp) - MCP para la API de Red Electrica Española
@@ -2049,7 +2052,7 @@
 - [Doriandarko/deepseek-engineer](https://github.com/Doriandarko/deepseek-engineer) - A powerful coding assistant application that integrates with the DeepSeek API to process user conversations and generate structured JSON responses. Through an intuitive command-line interface, it can 
 - [AlexanderVanhee/Gradia](https://github.com/AlexanderVanhee/Gradia) - Make your screenshots ready for all
 - [tinybirdco/ai](https://github.com/tinybirdco/ai) - Tinybird utils for your AI based apps
-- [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all You need - Write a nano Claude Code 0 - 1
+- [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all You need - Write a nano Claude-Code-like Agent 0 - 1
 - [neondatabase/appdotbuild-agent](https://github.com/neondatabase/appdotbuild-agent) - The agent that generates working apps (and maybe some other things)
 - [gyoridavid/ai_agents_az](https://github.com/gyoridavid/ai_agents_az) - 
 - [SuperClaude-Org/SuperClaude_Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework) - A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies.
@@ -2103,7 +2106,7 @@
 - [browser-use/web-ui](https://github.com/browser-use/web-ui) - 🖥️ Run AI Agent in your browser.
 - [elastic/oblt-actions](https://github.com/elastic/oblt-actions) - 
 - [Scrapybara/codecapy](https://github.com/Scrapybara/codecapy) - The only PR bot that actually tests your code.
-- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An undetectable, powerful, flexible, high-performance Python library to make Web Scraping Easy and Effortless as it should be!
+- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
 - [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat) - Open Source framework for voice and multimodal conversational AI
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 - [3b1b/videos](https://github.com/3b1b/videos) - Code for the manim-generated scenes used in 3blue1brown videos
