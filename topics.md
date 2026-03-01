@@ -838,7 +838,7 @@
 - [eltociear/awesome-AI-driven-development](https://github.com/eltociear/awesome-AI-driven-development) - Awesome list of AI-Driven Development.
 - [rossant/awesome-math](https://github.com/rossant/awesome-math) - A curated list of awesome mathematics resources
 - [krzemienski/awesome-video](https://github.com/krzemienski/awesome-video) - A curated list of awesome streaming video tools, frameworks, libraries, and learning resources.
-- [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - The awesome collection of OpenClaw Skills. Formerly known as Moltbot, originally Clawdbot.
+- [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞
 - [marcelscruz/public-apis](https://github.com/marcelscruz/public-apis) - A collaborative list of public APIs for developers
 - [unicodeveloper/awesome-opensource-apps](https://github.com/unicodeveloper/awesome-opensource-apps) - :house::information_source: Curated list of awesome open source crafted web & mobile applications - Learn, Fork, Contribute & Most Importantly Enjoy!
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
@@ -964,7 +964,7 @@
 - [eltociear/awesome-AI-driven-development](https://github.com/eltociear/awesome-AI-driven-development) - Awesome list of AI-Driven Development.
 - [rossant/awesome-math](https://github.com/rossant/awesome-math) - A curated list of awesome mathematics resources
 - [krzemienski/awesome-video](https://github.com/krzemienski/awesome-video) - A curated list of awesome streaming video tools, frameworks, libraries, and learning resources.
-- [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - The awesome collection of OpenClaw Skills. Formerly known as Moltbot, originally Clawdbot.
+- [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞
 - [marcelscruz/public-apis](https://github.com/marcelscruz/public-apis) - A collaborative list of public APIs for developers
 - [unicodeveloper/awesome-opensource-apps](https://github.com/unicodeveloper/awesome-opensource-apps) - :house::information_source: Curated list of awesome open source crafted web & mobile applications - Learn, Fork, Contribute & Most Importantly Enjoy!
 - [benthecoder/yt-channels-DS-AI-ML-CS](https://github.com/benthecoder/yt-channels-DS-AI-ML-CS) - A comprehensive list of 180+ YouTube Channels for Data Science,  Data Engineering, Machine Learning, Deep learning, Computer Science, programming, software engineering, etc.
@@ -2376,7 +2376,6 @@
 - [GoogleContainerTools/skaffold](https://github.com/GoogleContainerTools/skaffold) - Easy and Repeatable Kubernetes Development
 - [stepchowfun/toast](https://github.com/stepchowfun/toast) - Containerize your development and continuous integration environments. 🥂
 - [jetstack/version-checker](https://github.com/jetstack/version-checker) - Kubernetes utility for exposing image versions in use, compared to latest available upstream, as metrics.
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [nubenetes/awesome-kubernetes](https://github.com/nubenetes/awesome-kubernetes) - A curated list of awesome references collected since 2018.
 - [timothystewart6/techno-tim.github.io](https://github.com/timothystewart6/techno-tim.github.io) - Open Source, Community Driven, Documentation for Techno Tim YouTube Videos/  Complete with examples for all your copy pasta needs!
 - [hadolint/hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell
@@ -2557,7 +2556,6 @@
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
 - [sqlectron/sqlectron](https://github.com/sqlectron/sqlectron) - A simple and lightweight SQL client desktop with cross database and platform support.
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
-- [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [devhubapp/devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
 - [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
@@ -3117,7 +3115,6 @@
 - [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
 - [jetstack/version-checker](https://github.com/jetstack/version-checker) - Kubernetes utility for exposing image versions in use, compared to latest available upstream, as metrics.
 - [skgsergio/example-golang-api](https://github.com/skgsergio/example-golang-api) - Example API in Golang with GitHub Actions for linting, testing, building and publishing.
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [asobti/kube-monkey](https://github.com/asobti/kube-monkey) - An implementation of Netflix's Chaos Monkey for Kubernetes clusters
 - [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
 - [mvdan/github-actions-golang](https://github.com/mvdan/github-actions-golang) - GitHub Actions as CI for Go
@@ -3254,7 +3251,6 @@
 - [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript
 - [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
 - [skgsergio/example-golang-api](https://github.com/skgsergio/example-golang-api) - Example API in Golang with GitHub Actions for linting, testing, building and publishing.
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [mvdan/github-actions-golang](https://github.com/mvdan/github-actions-golang) - GitHub Actions as CI for Go
 - [akatsuki105/worldwide](https://github.com/akatsuki105/worldwide) - This is my OLD and BAD GameBoy Emulator, please visit DawnGB, my new GameBoy emulator!
 - [pixie-io/pixie](https://github.com/pixie-io/pixie) - Instant Kubernetes-Native Application Observability
@@ -3536,7 +3532,6 @@
 - [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) - A curated list of amazingly awesome Home Assistant resources.
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [devtron-labs/devtron](https://github.com/devtron-labs/devtron) - The only Kubernetes dashboard you need
 - [ilyas-it83/CloudComparer](https://github.com/ilyas-it83/CloudComparer) - Compare the various managed cloud services offered by the major public cloud providers in the market.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
@@ -4174,7 +4169,6 @@
 - [GoogleContainerTools/skaffold](https://github.com/GoogleContainerTools/skaffold) - Easy and Repeatable Kubernetes Development
 - [jetstack/version-checker](https://github.com/jetstack/version-checker) - Kubernetes utility for exposing image versions in use, compared to latest available upstream, as metrics.
 - [kubescape/kubescape](https://github.com/kubescape/kubescape) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes 
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [asobti/kube-monkey](https://github.com/asobti/kube-monkey) - An implementation of Netflix's Chaos Monkey for Kubernetes clusters
 - [devtron-labs/devtron](https://github.com/devtron-labs/devtron) - The only Kubernetes dashboard you need
 - [pixie-io/pixie](https://github.com/pixie-io/pixie) - Instant Kubernetes-Native Application Observability
@@ -5242,6 +5236,9 @@
 
 ## others 
 
+- [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) - Create beautiful slides on the web using Claude's frontend skills
+- [maxciber/myfinancedash](https://github.com/maxciber/myfinancedash) - 
+- [diegomarino/claude-toolshed](https://github.com/diegomarino/claude-toolshed) - A plugin marketplace for Claude Code — pre-packaged skills for diagrams, code audits, dev servers, and markdown optimization.
 - [syi0808/screenize](https://github.com/syi0808/screenize) - Open-source macOS screen recording app with auto-zoom, cursor effects, and timeline editing — Screen Studio alternative.
 - [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) - GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interacti
 - [anthropics/financial-services-plugins](https://github.com/anthropics/financial-services-plugins) - 
@@ -7097,6 +7094,7 @@
 - [ugglr/Remote-Developer-jobs-directory](https://github.com/ugglr/Remote-Developer-jobs-directory) - Document all things for remote developer positions.
 - [animavita/animavita](https://github.com/animavita/animavita) - Trigger life-saving alerts, register animals for adoption and find the closest pet friend to adopt :dog:
 - [remoteinterview/zero](https://github.com/remoteinterview/zero) - Zero is a web server to simplify web development.
+- [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [devhubapp/devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
 - [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era
 - [mdx-js/awesome](https://github.com/mdx-js/awesome) - A curated list of awesome MDX resources
@@ -7292,6 +7290,7 @@
 - [sharkdp/hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [Graviton-Code-Editor/Graviton-App](https://github.com/Graviton-Code-Editor/Graviton-App) - 🚀 A modern-looking Code Editor
+- [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 - [p-e-w/hegemon](https://github.com/p-e-w/hegemon) - A modular system monitor written in Rust
@@ -7361,7 +7360,6 @@
 - [cloudgraphdev/cli](https://github.com/cloudgraphdev/cli) - The universal GraphQL API and CSPM tool for AWS, Azure, GCP, K8s, and tencent.
 - [duo-labs/cloudmapper](https://github.com/duo-labs/cloudmapper) - CloudMapper helps you analyze your Amazon Web Services (AWS) environments.
 - [kubescape/kubescape](https://github.com/kubescape/kubescape) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes 
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or loca
 - [ZupIT/horusec](https://github.com/ZupIT/horusec) - Horusec is an open source tool that improves identification of vulnerabilities in your project with just one command.
 - [hashicorp/boundary](https://github.com/hashicorp/boundary) - Boundary enables identity-based access management for dynamic infrastructure.
@@ -7415,7 +7413,6 @@
 - [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is the world’s most widely used open-source cloud security platform that automates security and compliance across any cloud environment.
 - [crazy-max/ghaction-container-scan](https://github.com/crazy-max/ghaction-container-scan) - GitHub Action to check for vulnerabilities in your container image
 - [cloudgraphdev/cli](https://github.com/cloudgraphdev/cli) - The universal GraphQL API and CSPM tool for AWS, Azure, GCP, K8s, and tencent.
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [tenable/terrascan](https://github.com/tenable/terrascan) - Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
 - [goodwithtech/dockle](https://github.com/goodwithtech/dockle) - Container Image Linter for Security, Helping build the Best-Practice Docker Image, Easy to start
@@ -8122,6 +8119,7 @@
 - [Graviton-Code-Editor/Graviton-App](https://github.com/Graviton-Code-Editor/Graviton-App) - 🚀 A modern-looking Code Editor
 - [remoteinterview/zero](https://github.com/remoteinterview/zero) - Zero is a web server to simplify web development.
 - [CodecrumbsIO/codecrumbs](https://github.com/CodecrumbsIO/codecrumbs) - Learn, design or document codebase by putting breadcrumbs in source code. Live updates, multi-language support and more.
+- [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [devhubapp/devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
 - [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
 - [onivim/oni](https://github.com/onivim/oni) - Oni: Modern Modal Editing - powered by Neovim
@@ -8452,7 +8450,6 @@
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 - [JoseDeFreitas/awesome-youtubers](https://github.com/JoseDeFreitas/awesome-youtubers) - An awesome list of awesome YouTubers that teach about technology. Tutorials about web development, computer science, machine learning, game development, cybersecurity, and more.
 - [timothystewart6/techno-tim.github.io](https://github.com/timothystewart6/techno-tim.github.io) - Open Source, Community Driven, Documentation for Techno Tim YouTube Videos/  Complete with examples for all your copy pasta needs!
-- [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [bnb/awesome-developer-streams](https://github.com/bnb/awesome-developer-streams) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻 Awesome Developers, Streaming
 
 ## zsh 
