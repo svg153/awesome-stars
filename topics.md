@@ -771,6 +771,7 @@
 
 ## automation 
 
+- [FujiwaraChoki/MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) - Automate Creation of YouTube Shorts using MoviePy.
 - [3dg1luk43/ha_washdata](https://github.com/3dg1luk43/ha_washdata) - Home Assistant integration to detect washer cycles from smart plug power, match programs, and estimate time remaining
 - [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing
 - [dend/guildbridge](https://github.com/dend/guildbridge) - 🏰 Remotely hosted MCP server for Discord
@@ -865,7 +866,7 @@
 - [ai-boost/Awesome-GPTs](https://github.com/ai-boost/Awesome-GPTs) - Curated list of awesome GPTs 👍.
 - [steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) - A curated list of modern Generative Artificial Intelligence projects and services
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
-- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
+- [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [toolleeo/awesome-cli-apps-in-a-csv](https://github.com/toolleeo/awesome-cli-apps-in-a-csv) - The largest Awesome Curated list of command line programs (CLI/TUI) with source data organized into CSV files
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
@@ -992,7 +993,7 @@
 - [steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) - A curated list of modern Generative Artificial Intelligence projects and services
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
 - [GerevAI/awesome-chatgpt-plugins](https://github.com/GerevAI/awesome-chatgpt-plugins) - An up-to-date collection of ChatGPT plugins and evolvements
-- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
+- [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [CodelyTV/awesome-bash-challenges](https://github.com/CodelyTV/awesome-bash-challenges) - Awesome Bash Challenges
 - [toolleeo/awesome-cli-apps-in-a-csv](https://github.com/toolleeo/awesome-cli-apps-in-a-csv) - The largest Awesome Curated list of command line programs (CLI/TUI) with source data organized into CSV files
@@ -1395,6 +1396,7 @@
 
 ## chatgpt 
 
+- [FujiwaraChoki/MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) - Automate Creation of YouTube Shorts using MoviePy.
 - [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - the best agent harness
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effo
 - [eat-pray-ai/yutu](https://github.com/eat-pray-ai/yutu) - A fully functional MCP server and CLI for YouTube
@@ -1701,7 +1703,7 @@
 - [joaquimscosta/arkhe-claude-plugins](https://github.com/joaquimscosta/arkhe-claude-plugins) - Supercharge Claude Code with 88 specialized components — 19 agents, 33 commands, 36 skills across 12 modular plugins. Deep reasoning, autonomous dev loops, DDD architecture, design system enforcement,
 - [pullpo-io/conventional-comments](https://github.com/pullpo-io/conventional-comments) - Chrome and Firefox extension for Conventional Comments in GitHub UI.
 - [mgreiler/code-review-checklist](https://github.com/mgreiler/code-review-checklist) - This code review checklist helps you be a more effective and efficient code reviewer.
-- [qodo-ai/pr-agent](https://github.com/qodo-ai/pr-agent) - 🚀 PR Agent - The Original Open-Source PR Reviewer, This repo is not the Qodo free tier! Try the free version on our website.
+- [qodo-ai/pr-agent](https://github.com/qodo-ai/pr-agent) - 🚀 PR Agent - The Original Open-Source PR Reviewer. This repo is not the Qodo free tier! Try the free version on our website.
 - [palantir/policy-bot](https://github.com/palantir/policy-bot) - A GitHub App that enforces approval policies on pull requests
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
@@ -2319,6 +2321,7 @@
 
 ## docker 
 
+- [rebeccapowell/agent-atlas](https://github.com/rebeccapowell/agent-atlas) - A GitOps based MCP mesh to help organizations transform API's to an aggregated MCP tools collection
 - [donetick/donetick](https://github.com/donetick/donetick) - Donetick an open-source, user-friendly app for managing tasks and chores, featuring customizable options to help you and others stay organized
 - [jovandeginste/workout-tracker](https://github.com/jovandeginste/workout-tracker) - A workout tracking web application for personal use (or family, friends), geared towards running and other GPX-based activities
 - [eat-pray-ai/yutu](https://github.com/eat-pray-ai/yutu) - A fully functional MCP server and CLI for YouTube
@@ -4236,6 +4239,7 @@
 
 ## laravel 
 
+- [inovector/mixpost](https://github.com/inovector/mixpost) - 📅 Schedule, 📢 publish, and ⚡ manage your social media content on your server. No subscriptions, no limits. (Buffer alternative)
 - [unicodeveloper/awesome-opensource-apps](https://github.com/unicodeveloper/awesome-opensource-apps) - :house::information_source: Curated list of awesome open source crafted web & mobile applications - Learn, Fork, Contribute & Most Importantly Enjoy!
 - [solidtime-io/solidtime](https://github.com/solidtime-io/solidtime) - Modern open-source time-tracking app
 - [HiEventsDev/Hi.Events](https://github.com/HiEventsDev/Hi.Events) - Open-source event management and ticket selling platform — perfect for concerts, conferences, and everything in between 🎟️  If you find this project helpful, please consider giving us a star ⭐️
@@ -4687,6 +4691,7 @@
 
 ## mcp 
 
+- [rebeccapowell/agent-atlas](https://github.com/rebeccapowell/agent-atlas) - A GitOps based MCP mesh to help organizations transform API's to an aggregated MCP tools collection
 - [nxtg-ai/forge-orchestrator](https://github.com/nxtg-ai/forge-orchestrator) - Forge Orchestrator: Multi-AI task coordination. File locking, knowledge capture, drift detection. Rust.
 - [dend/guildbridge](https://github.com/dend/guildbridge) - 🏰 Remotely hosted MCP server for Discord
 - [steipete/mcporter](https://github.com/steipete/mcporter) - Call MCPs via TypeScript, masquerading as simple TypeScript API. Or package them as cli.
@@ -5194,7 +5199,7 @@
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [SawyerHood/draw-a-ui](https://github.com/SawyerHood/draw-a-ui) - Draw a mockup and generate html for it
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI
-- [qodo-ai/pr-agent](https://github.com/qodo-ai/pr-agent) - 🚀 PR Agent - The Original Open-Source PR Reviewer, This repo is not the Qodo free tier! Try the free version on our website.
+- [qodo-ai/pr-agent](https://github.com/qodo-ai/pr-agent) - 🚀 PR Agent - The Original Open-Source PR Reviewer. This repo is not the Qodo free tier! Try the free version on our website.
 - [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - CLI platform to experiment with codegen. Precursor to: https://lovable.dev
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
 - [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) - Giving Kubernetes Superpowers to everyone
@@ -5236,6 +5241,9 @@
 
 ## others 
 
+- [Azure-Samples/functions-markdown-agent](https://github.com/Azure-Samples/functions-markdown-agent) - 
+- [Gentleman-Programming/agent-teams-lite](https://github.com/Gentleman-Programming/agent-teams-lite) - Spec-Driven Development with AI Sub-Agents. An orchestrator + 9 specialized sub-agents for structured feature development. Zero dependencies. Pure Markdown. Works with Claude Code, OpenCode, Cursor, a
+- [Alejandrolmeida/kitten-agent-blog](https://github.com/Alejandrolmeida/kitten-agent-blog) - Workshop AgentCamp 2026 - Kitten Squad
 - [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) - Create beautiful slides on the web using Claude's frontend skills
 - [maxciber/myfinancedash](https://github.com/maxciber/myfinancedash) - 
 - [diegomarino/claude-toolshed](https://github.com/diegomarino/claude-toolshed) - A plugin marketplace for Claude Code — pre-packaged skills for diagrams, code audits, dev servers, and markdown optimization.
@@ -6509,6 +6517,7 @@
 
 ## php 
 
+- [inovector/mixpost](https://github.com/inovector/mixpost) - 📅 Schedule, 📢 publish, and ⚡ manage your social media content on your server. No subscriptions, no limits. (Buffer alternative)
 - [passbolt/passbolt_api](https://github.com/passbolt/passbolt_api) - Passbolt Community Edition (CE) API. The JSON API for the open source password manager for teams!
 - [kimai/kimai](https://github.com/kimai/kimai) - Kimai is the #1 open-source time-tracking application. From freelancers to companies and organisations - everyone can manage timesheets, generate reports, create invoices and so much more... Web-based
 - [HiEventsDev/Hi.Events](https://github.com/HiEventsDev/Hi.Events) - Open-source event management and ticket selling platform — perfect for concerts, conferences, and everything in between 🎟️  If you find this project helpful, please consider giving us a star ⭐️
@@ -6710,6 +6719,7 @@
 
 ## python 
 
+- [FujiwaraChoki/MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) - Automate Creation of YouTube Shorts using MoviePy.
 - [OpenShot/openshot-qt](https://github.com/OpenShot/openshot-qt) - OpenShot Video Editor is an award-winning free and open-source video editor for Linux, Mac, and Windows, and is dedicated to delivering high quality video editing and animation solutions to the world.
 - [adithya-s-k/AI-Engineering.academy](https://github.com/adithya-s-k/AI-Engineering.academy) - Mastering Applied AI, One Concept at a Time
 - [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) - FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making i
