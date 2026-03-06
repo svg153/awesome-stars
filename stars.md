@@ -732,6 +732,7 @@
 - [camba1/gotempm](https://github.com/camba1/gotempm) - Sample full stack micro services application built using the Micro platform.
 - [skgsergio/example-golang-api](https://github.com/skgsergio/example-golang-api) - Example API in Golang with GitHub Actions for linting, testing, building and publishing.
 - [kubescape/kubescape](https://github.com/kubescape/kubescape) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes 
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [asobti/kube-monkey](https://github.com/asobti/kube-monkey) - An implementation of Netflix's Chaos Monkey for Kubernetes clusters
 - [devtron-labs/devtron](https://github.com/devtron-labs/devtron) - The only Kubernetes dashboard you need
 - [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
@@ -945,6 +946,7 @@
 - [JaimeObregon/observatoriospublicos.es](https://github.com/JaimeObregon/observatoriospublicos.es) - Observatorio de los observatorios públicos de España
 - [salaboy/platforms-on-k8s](https://github.com/salaboy/platforms-on-k8s) - Platform Engineering on Kubernetes :: Book Examples
 - [tensorchord/ai-infra-landscape](https://github.com/tensorchord/ai-infra-landscape) - This is a landscape of the infrastructure that powers the generative AI ecosystem
+- [microlinkhq/unavatar](https://github.com/microlinkhq/unavatar) - Get unified user avatar from social networks, including Instagram, SoundCloud, Telegram, Twitter, YouTube & more.
 - [FidelusAleksander/ghcertified](https://github.com/FidelusAleksander/ghcertified) - Prepare for GitHub Certification exams!
 - [u8views/go-u8views](https://github.com/u8views/go-u8views) - GitHub profile views tracker: displaying monthly view statistics
 - [noeal-dac/Animated-Lower-Thirds](https://github.com/noeal-dac/Animated-Lower-Thirds) - Animated Lower Thirds with dockable Control Panel - OBS Tool
@@ -1213,7 +1215,6 @@
 - [cloudposse/github-action-matrix-outputs-write](https://github.com/cloudposse/github-action-matrix-outputs-write) - Workaround implementation - Write matrix jobs outputs
 - [platformatic/pg-hooks](https://github.com/platformatic/pg-hooks) - Deliver webhooks calls reliably, backed by PostgreSQL, with retry and cron support
 - [TriPSs/conventional-changelog-action](https://github.com/TriPSs/conventional-changelog-action) - Github Action that generates a changelog with the Conventional Changelog CLI
-- [microlinkhq/unavatar](https://github.com/microlinkhq/unavatar) - Get unified user avatar from social networks, including Instagram, SoundCloud, Telegram, Twitter, YouTube & more.
 - [Pradumnasaraf/DevOps](https://github.com/Pradumnasaraf/DevOps) - I created this repository to keep my learning, notes, and code in one place for various tools in DevOps. Now, it's helping thousands of learners, practitioners, and professionals every day in their De
 - [steveseguin/social_stream](https://github.com/steveseguin/social_stream) - Consolidate your live social messaging streams and much more
 - [upgundecha/howtheysre](https://github.com/upgundecha/howtheysre) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
@@ -2001,7 +2002,7 @@
 - [kdeldycke/repomatic](https://github.com/kdeldycke/repomatic) - 🏭 Automate repository maintenance, releases, and CI/CD workflows
 - [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) - Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - "🐈 nanobot: The Ultra-Lightweight OpenClaw"
-- [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - The Ultimate Collection of 900+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel.
+- [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - The Ultimate Collection of 1000+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel.
 - [agentskills/agentskills](https://github.com/agentskills/agentskills) - Specification and documentation for Agent Skills
 - [BquantFinance/licitaciones-espana](https://github.com/BquantFinance/licitaciones-espana) - 
 - [infobyte/faraday](https://github.com/infobyte/faraday) - Open Source Vulnerability Management Platform
@@ -2523,7 +2524,7 @@
 - [lynaghk/vibe](https://github.com/lynaghk/vibe) - Easy Linux virtual machine on MacOS to sandbox LLM agents.
 - [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - screenpipe turns your computer into a personal AI that knows everything you've done. record. search. automate. all local, all private, all yours.
 - [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN
-- [scanopy/scanopy](https://github.com/scanopy/scanopy) - Clean network diagrams. One-time setup, zero upkeep.
+- [scanopy/scanopy](https://github.com/scanopy/scanopy) - Network documentation that updates itself
 - [flowsurface-rs/flowsurface](https://github.com/flowsurface-rs/flowsurface) - A native desktop charting platform for crypto markets
 - [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
 - [mikeroyal/WSL-Guide](https://github.com/mikeroyal/WSL-Guide) - Windows Subsystem for Linux (WSL) Guide. Use WSL develop to with Kubernetes and in the Cloud (Microsoft Azure, AWS, and Google Cloud).
@@ -2534,7 +2535,6 @@
 - [H-M-H/Weylus](https://github.com/H-M-H/Weylus) - Use your tablet as graphic tablet/touch screen on your computer.
 - [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows 🍉
 - [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Data transformation framework for AI. Ultra performant, with incremental processing.  🌟 Star if you like it!
-- [MotiaDev/motia](https://github.com/MotiaDev/motia) - iii (pronounced “three eye”) unifies your existing backend stack with a single engine and two primitives: Function and Trigger.
 - [thomasschafer/scooter](https://github.com/thomasschafer/scooter) - Interactive find-and-replace in the terminal
 - [jhk0530/showmaker](https://github.com/jhk0530/showmaker) - Markdown to Slide
 - [dacort/s3grep](https://github.com/dacort/s3grep) - CLI tool for searching logs and unstructured content in Amazon S3 buckets
@@ -2918,6 +2918,7 @@
 
 ## TypeScript 
 
+- [tokentopapp/tokentop](https://github.com/tokentopapp/tokentop) - htop for your AI costs — real-time terminal monitoring of LLM token usage and spending across providers and coding agents
 - [kasuken/vscode-copilot-insights](https://github.com/kasuken/vscode-copilot-insights) - Understand your GitHub Copilot plan, quotas, and limits at a glance
 - [MrLesk/Backlog.md](https://github.com/MrLesk/Backlog.md) - Backlog.md - A tool for managing project collaboration between humans and AI Agents in a git ecosystem
 - [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered answering engine.
@@ -2962,7 +2963,7 @@
 - [opral/lix](https://github.com/opral/lix) - Version control system for AI agents
 - [suitenumerique/meet](https://github.com/suitenumerique/meet) - Open source video conferencing app powered by LiveKit.
 - [microsoft/agentrc](https://github.com/microsoft/agentrc) - Get your repo ready for AI.
-- [NangoHQ/nango](https://github.com/NangoHQ/nango) - API access for agents & apps.
+- [NangoHQ/nango](https://github.com/NangoHQ/nango) - Build product integrations with AI.
 - [projectstorm/react-diagrams](https://github.com/projectstorm/react-diagrams) - a super simple, no-nonsense diagramming library written in react that just works
 - [ui-layouts/uilayouts](https://github.com/ui-layouts/uilayouts) - UI Layouts isn’t just a library. It’s your complete front-end universe with components, effects, design tools, and ready-to-use blocks, everything you need to build modern interfaces, faster.
 - [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
@@ -3062,6 +3063,7 @@
 - [firecrawl/open-lovable](https://github.com/firecrawl/open-lovable) - 🔥 Clone and recreate any website as a modern React app in seconds
 - [MCP-UI-Org/mcp-ui](https://github.com/MCP-UI-Org/mcp-ui) - UI over MCP. Create next-gen UI experiences with the protocol and SDK!
 - [colindembovsky/octocat-supply-copilot-demo](https://github.com/colindembovsky/octocat-supply-copilot-demo) - A demo application for Copilot Agent Mode
+- [MotiaDev/motia](https://github.com/MotiaDev/motia) - iii (pronounced “three eye”) unifies your existing backend stack with a single engine and two primitives: Function and Trigger.
 - [0xCrunchyy/10x](https://github.com/0xCrunchyy/10x) - ⚡️ 10x - Up to 20x faster AI coding with multi-step Superpowers. Open-source agent with smart model routing, BYOK, fully self-hosted.
 - [amplication/amplication](https://github.com/amplication/amplication) - Amplication brings order to the chaos of large-scale software development by creating Golden Paths for developers - streamlined workflows that drive consistency, enable high-quality code practices, si
 - [microsoft/poml](https://github.com/microsoft/poml) - Prompt Orchestration Markup Language
