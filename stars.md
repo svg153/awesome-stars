@@ -168,7 +168,7 @@
 
 ## C# # 
 
-- [shanselman/openclaw-windows-hub](https://github.com/shanselman/openclaw-windows-hub) - Windows companion suite for OpenClaw - System Tray app, Shared library, Node, and PowerToys Command Palette extension
+- [openclaw/openclaw-windows-node](https://github.com/openclaw/openclaw-windows-node) - Windows companion suite for OpenClaw - System Tray app, Shared library, Node, and PowerToys Command Palette extension
 - [jamesmontemagno/auto-tweet-rss](https://github.com/jamesmontemagno/auto-tweet-rss) - 
 - [JavierStark/Proyecto-ADAp-WATT](https://github.com/JavierStark/Proyecto-ADAp-WATT) - A full-stack web application designed to manage donations and events for CUDECA, a charitable organization. This platform enables users to make donations, register for events, purchase tickets, and ma
 - [SebastienDegodez/copilot-instructions](https://github.com/SebastienDegodez/copilot-instructions) - A comprehensive codebase of best practices, coding rules, and workflow automation for AI-assisted development with GitHub Copilot. Includes DDD, Clean Architecture, testing, commit conventions, and mo
@@ -207,7 +207,6 @@
 - [ambrosiogabe/MathAnimation](https://github.com/ambrosiogabe/MathAnimation) - A simple C++/OpenGL application to create quick and dirty mathematically accurate animations
 - [InCom-0/incplot](https://github.com/InCom-0/incplot) - CLI tool for drawing great looking plots in the terminal focused on user ergonomics and simplicity
 - [monocasual/giada](https://github.com/monocasual/giada) - Your Hardcore Loop Machine.
-- [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
 - [microsoft/WSL](https://github.com/microsoft/WSL) - Windows Subsystem for Linux
 - [windirstat/windirstat](https://github.com/windirstat/windirstat) - WinDirStat is a disk usage statistics viewer and cleanup tool for Microsoft Windows
 - [OPENSPHERE-Inc/branch-output](https://github.com/OPENSPHERE-Inc/branch-output) - This is an OBS Studio plugin that allows to transmit video and audio with RTMP / SRT etc. for each source individually.
@@ -444,6 +443,7 @@
 
 ## Go 
 
+- [Gentleman-Programming/gentle-ai](https://github.com/Gentleman-Programming/gentle-ai) - 
 - [VibiumDev/vibium](https://github.com/VibiumDev/vibium) - Browser automation for AI agents and humans
 - [nextlevelbuilder/goclaw](https://github.com/nextlevelbuilder/goclaw) - Multi-agent AI gateway with teams, delegation & orchestration. Single Go binary, 11+ LLM providers, 5 channels.
 - [htekdev/gh-hookflow](https://github.com/htekdev/gh-hookflow) - Agent hook workflow engine - run GitHub Actions-like workflows triggered by hooks
@@ -1991,6 +1991,7 @@
 
 ## Python 
 
+- [monaccode/astromesh](https://github.com/monaccode/astromesh) - Multi-model AI agent runtime. Define agents in YAML, connect 6 LLM providers, orchestrate with ReAct/Plan&Execute/Fan-Out/Pipeline/Supervisor/Swarm patterns, and deploy    as REST/WebSocket API with R
 - [peteromallet/desloppify](https://github.com/peteromallet/desloppify) - Agent harness to make your slop code well-engineered and beautiful.
 - [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) - CLI-Anything: Making ALL Software Agent-Native
 - [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) - A full-stack AI Red Teaming platform securing AI ecosystems via OpenClaw Security Scan, Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.
@@ -2554,7 +2555,7 @@
 - [thomasschafer/scooter](https://github.com/thomasschafer/scooter) - Interactive find-and-replace in the terminal
 - [jhk0530/showmaker](https://github.com/jhk0530/showmaker) - Markdown to Slide
 - [dacort/s3grep](https://github.com/dacort/s3grep) - CLI tool for searching logs and unstructured content in Amazon S3 buckets
-- [ferriskey/ferriskey](https://github.com/ferriskey/ferriskey) - FerrisKey is an open-source IAM solution designed for modern cloud-native environments. With its high-performance API written in Rust and its intuitive web interface, FerrisKey offers a robust and fle
+- [ferriskey/ferriskey](https://github.com/ferriskey/ferriskey) - FerrisKey is an open-source IAM solution designed for modern cloud-native environments, high-performance and written in Rust.
 - [facebook/pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and language server for Python
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
@@ -2936,6 +2937,7 @@
 
 ## TypeScript 
 
+- [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - Open-source orchestration for zero-human companies
 - [omni-media/omniclip](https://github.com/omni-media/omniclip) - Open source video editing web application
 - [egdev6/agent-teams-docs](https://github.com/egdev6/agent-teams-docs) - VScode extension documentation
 - [EtienneLescot/n8n-as-code](https://github.com/EtienneLescot/n8n-as-code) - Give your AI agent n8n superpowers. 537 nodes with full schemas, 7,700+ templates, Git-like sync, and TypeScript workflows.
@@ -3125,6 +3127,7 @@
 - [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
 - [FidelusAleksander/ai-translate-action](https://github.com/FidelusAleksander/ai-translate-action) - GitHub Action for AI-powered file translation between different languages
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
+- [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
 - [carlosazaustre/docusaurus-scraper](https://github.com/carlosazaustre/docusaurus-scraper) - A command-line tool to extract documentation from Docusaurus sites and convert it to Markdown format.
 - [microsoft/azure-devops-mcp](https://github.com/microsoft/azure-devops-mcp) - The MCP server for Azure DevOps, bringing the power of Azure DevOps directly to your agents.
 - [AndreaGriffiths11/teamxray](https://github.com/AndreaGriffiths11/teamxray) - Human discovery through code analysis - VS Code extension that reveals team expertise.
@@ -3280,7 +3283,7 @@
 - [SawyerHood/draw-a-ui](https://github.com/SawyerHood/draw-a-ui) - Draw a mockup and generate html for it
 - [inception-health/otel-export-trace-action](https://github.com/inception-health/otel-export-trace-action) - 
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
-- [star-history/star-history](https://github.com/star-history/star-history) - The missing star history graph of GitHub repos - https://www.star-history.com
+- [star-history/star-history](https://github.com/star-history/star-history) - The de facto GitHub star history graph.
 - [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Framer, Perplexity, Superhuman, Twilio, Buffer and more.
 - [peter-evans/find-comment](https://github.com/peter-evans/find-comment) - A GitHub action to find an issue or pull request comment
 - [peter-evans/slash-command-dispatch](https://github.com/peter-evans/slash-command-dispatch) - A GitHub action that facilitates "ChatOps" by creating repository dispatch events for slash commands
