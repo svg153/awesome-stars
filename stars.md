@@ -102,6 +102,7 @@
 ## Astro 
 
 - [stelcodes/multiterm-astro](https://github.com/stelcodes/multiterm-astro) - A coder-ready Astro blog theme with 60 of your favorite color schemes to choose from 🎨⚡️
+- [SebastienDegodez/copilot-instructions](https://github.com/SebastienDegodez/copilot-instructions) - A comprehensive codebase of best practices, coding rules, and workflow automation for AI-assisted development with GitHub Copilot. Includes DDD, Clean Architecture, testing, commit conventions, and mo
 - [chrisvdev/CVTalk](https://github.com/chrisvdev/CVTalk) - An Twitch chat viewer with TTS and other things integrated
 - [RyanFitzgerald/devportfolio](https://github.com/RyanFitzgerald/devportfolio) - A modern, minimalist portfolio template built with Astro and Tailwind CSS. Perfect for developers looking to showcase their skills, experience, and projects in a clean, professional way.
 
@@ -175,7 +176,6 @@
 - [openclaw/openclaw-windows-node](https://github.com/openclaw/openclaw-windows-node) - Windows companion suite for OpenClaw - System Tray app, Shared library, Node, and PowerToys Command Palette extension
 - [jamesmontemagno/auto-tweet-rss](https://github.com/jamesmontemagno/auto-tweet-rss) - 
 - [JavierStark/Proyecto-ADAp-WATT](https://github.com/JavierStark/Proyecto-ADAp-WATT) - A full-stack web application designed to manage donations and events for CUDECA, a charitable organization. This platform enables users to make donations, register for events, purchase tickets, and ma
-- [SebastienDegodez/copilot-instructions](https://github.com/SebastienDegodez/copilot-instructions) - A comprehensive codebase of best practices, coding rules, and workflow automation for AI-assisted development with GitHub Copilot. Includes DDD, Clean Architecture, testing, commit conventions, and mo
 - [btcpayserver/btcpayserver](https://github.com/btcpayserver/btcpayserver) - Accept Bitcoin payments. Free, open-source & self-hosted, Bitcoin payment processor.
 - [Devolutions/UniGetUI](https://github.com/Devolutions/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 - [microsoft/mcp](https://github.com/microsoft/mcp) - Catalog of official Microsoft MCP (Model Context Protocol) server implementations for AI-powered data access and tool integration
@@ -206,10 +206,10 @@
 
 ## C++ 
 
+- [Lab-of-AI-and-Robotics/LEGO-SLAM](https://github.com/Lab-of-AI-and-Robotics/LEGO-SLAM) - LEGO-SLAM: Language-Embedded Gaussian Optimization SLAM
 - [deskflow/deskflow](https://github.com/deskflow/deskflow) - Share a single keyboard and mouse between multiple computers.
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
 - [ambrosiogabe/MathAnimation](https://github.com/ambrosiogabe/MathAnimation) - A simple C++/OpenGL application to create quick and dirty mathematically accurate animations
-- [InCom-0/incplot](https://github.com/InCom-0/incplot) - CLI tool for drawing great looking plots in the terminal and in HTML focused on user ergonomics and simplicity
 - [monocasual/giada](https://github.com/monocasual/giada) - Your Hardcore Loop Machine.
 - [microsoft/WSL](https://github.com/microsoft/WSL) - Windows Subsystem for Linux
 - [windirstat/windirstat](https://github.com/windirstat/windirstat) - WinDirStat is a disk usage statistics viewer and cleanup tool for Microsoft Windows
@@ -281,6 +281,7 @@
 
 ## CMake 
 
+- [InCom-0/incplot](https://github.com/InCom-0/incplot) - CLI tool for drawing great looking plots in the terminal and in HTML focused on user ergonomics and simplicity
 - [filipdutescu/modern-cpp-template](https://github.com/filipdutescu/modern-cpp-template) - A template for modern C++ projects using CMake, Clang-Format, CI, unit testing and more, with support for downstream inclusion.
 - [kracejic/cleanCppProject](https://github.com/kracejic/cleanCppProject) - Clean C++ project for you to use. Features: Modern CMake, CPack, Doxygen, PlantUML, Catch Unit testing, static analysis
 - [pr0g/cmake-examples](https://github.com/pr0g/cmake-examples) - A collection of as simple as possible, modern CMake projects
@@ -446,7 +447,7 @@
 - [jongio/dispatch](https://github.com/jongio/dispatch) - A terminal UI for browsing and launching GitHub Copilot CLI sessions. Search,   filter, group, preview, and resume — without leaving the terminal.
 - [Gentleman-Programming/gentle-ai](https://github.com/Gentleman-Programming/gentle-ai) - 
 - [VibiumDev/vibium](https://github.com/VibiumDev/vibium) - Browser automation for AI agents and humans
-- [nextlevelbuilder/goclaw](https://github.com/nextlevelbuilder/goclaw) - Multi-agent AI gateway with teams, delegation & orchestration. Single Go binary, 11+ LLM providers, 5 channels.
+- [nextlevelbuilder/goclaw](https://github.com/nextlevelbuilder/goclaw) - GoClaw - GoClaw is OpenClaw rebuilt in Go — with multi-tenant isolation, 5-layer security, and native concurrency. Deploy AI agent teams at scale without compromising on safety.
 - [htekdev/gh-hookflow](https://github.com/htekdev/gh-hookflow) - Agent hook workflow engine - run GitHub Actions-like workflows triggered by hooks
 - [DevExpGbb/gh-devlake](https://github.com/DevExpGbb/gh-devlake) - Deploy a detailed DevEx metrics dashboards, combining DORA and AI adoption to show ROI. gh-devlake is a GitHub CLI extension for deploying and configuring Apache DevLake which is the platform that agg
 - [ashleywolf/gh-aw-create](https://github.com/ashleywolf/gh-aw-create) - Interactive terminal wizard for creating GitHub Agentic Workflows
@@ -588,7 +589,7 @@
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [GoogleContainerTools/kaniko](https://github.com/GoogleContainerTools/kaniko) - Build Container Images In Kubernetes
 - [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal for free
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers,
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 - [stackrox/stackrox](https://github.com/stackrox/stackrox) - The StackRox Kubernetes Security Platform performs a risk analysis of the container environment, delivers visibility and runtime alerts, and provides recommendations to proactively improve security by
 - [Shopify/kubeaudit](https://github.com/Shopify/kubeaudit) - kubeaudit helps you audit your Kubernetes clusters against common security controls
 - [kserve/kserve](https://github.com/kserve/kserve) - Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes
@@ -1131,6 +1132,7 @@
 
 ## JavaScript 
 
+- [nisalgunawardhana/github-actions-learning](https://github.com/nisalgunawardhana/github-actions-learning) - This repository is designed to help beginners understand GitHub Actions through simple, practical examples. It covers the fundamentals of CI/CD, workflow structure, triggers, jobs, and steps, with han
 - [sgoudelis/ground-station](https://github.com/sgoudelis/ground-station) - Ground Station is all-in-one satellite monitoring suite
 - [f/agentlytics](https://github.com/f/agentlytics) - Comprehensive analytics dashboard for AI coding agents — Cursor, Windsurf, Claude Code, VS Code Copilot, Zed, Antigravity, OpenCode, Command Code
 - [q3ok/coordinated-agent-team](https://github.com/q3ok/coordinated-agent-team) - Coordinated Agent Team is a prompt-driven multi-agent system for autonomous software delivery. It defines clear agent roles, a deterministic workflow, strict I/O contracts, and artifact-based coordina
@@ -1994,6 +1996,8 @@
 
 ## Python 
 
+- [lukasHoel/video_to_world](https://github.com/lukasHoel/video_to_world) - Our method reconstructs 3D worlds from video diffusion models using non-rigid alignment to resolve inherent 3D inconsistencies in the generated sequences.
+- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [HKUDS/ClawTeam](https://github.com/HKUDS/ClawTeam) - ClawTeam: Agent Swarm Intelligence (One Command → Full Automation)
 - [barckcode/canary-tourism-demo](https://github.com/barckcode/canary-tourism-demo) - Experimento con agentes autónomos
 - [monaccode/astromesh](https://github.com/monaccode/astromesh) - Multi-model AI agent runtime. Define agents in YAML, connect 6 LLM providers, orchestrate with ReAct/Plan&Execute/Fan-Out/Pipeline/Supervisor/Swarm patterns, and deploy    as REST/WebSocket API with R
@@ -2045,7 +2049,7 @@
 - [firerpa/lamda](https://github.com/firerpa/lamda) - The most powerful Android RPA agent framework, next generation of mobile automation robots.
 - [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) - "DeepTutor: AI-Powered Personalized Learning Assistant"
 - [marcoradocchia/youterm](https://github.com/marcoradocchia/youterm) - CLI tool to search for YouTube videos and play selected video/audio via MPV
-- [joaquimscosta/arkhe-claude-plugins](https://github.com/joaquimscosta/arkhe-claude-plugins) - Supercharge Claude Code with 88 specialized components — 19 agents, 33 commands, 36 skills across 12 modular plugins. Deep reasoning, autonomous dev loops, DDD architecture, design system enforcement,
+- [joaquimscosta/arkhe-claude-plugins](https://github.com/joaquimscosta/arkhe-claude-plugins) - Supercharge Claude Code with 109 specialized components — 22 agents, 32 commands, 55 skills across 13 modular plugins. Deep reasoning, autonomous dev loops, DDD architecture, design system enforcement
 - [z0m31en7/Uscrapper](https://github.com/z0m31en7/Uscrapper) - Uscrapper Vanta: Dive deeper into the web with this powerful open-source tool. Extract valuable insights with ease and efficiency, from both surface and deep web sources. Empower your data mining and 
 - [endurain-project/endurain](https://github.com/endurain-project/endurain) - Endurain is a self-hosted fitness tracking service designed to give users full control over their data and hosting environment
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
@@ -2114,7 +2118,6 @@
 - [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) - CLI tool for configuring and monitoring Claude Code
 - [microsoft/magentic-ui](https://github.com/microsoft/magentic-ui) - A research prototype of a human-centered web agent
 - [Avanade/ghcp-usage-dashboard](https://github.com/Avanade/ghcp-usage-dashboard) - Analyzes GitHub Copilot usage trends, patterns, and metrics using Python, Streamlit, Azure OpenAI, and PowerShell scripts.
-- [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
 - [MeiGen-AI/PosterCraft](https://github.com/MeiGen-AI/PosterCraft) - [ICLR2026] Rethinking High-Quality Aesthetic Poster Generation in a Unified Framework
 - [rommapp/romm](https://github.com/rommapp/romm) - A beautiful, powerful, self-hosted rom manager and player.
 - [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent) - Build effective agents using Model Context Protocol and simple workflow patterns
@@ -2426,7 +2429,7 @@
 - [vaguileradiaz/tinfoleak](https://github.com/vaguileradiaz/tinfoleak) - The most complete open-source tool for Twitter intelligence analysis
 - [SVelizDonoso/taketv](https://github.com/SVelizDonoso/taketv) - TakeTV permite descubrir dispositivos de red DLNA/UPnP y ayuda a reproducir archivos multimedia en los televisores inteligentes desde nuestra terminal en Linux.
 - [jasimmk/watermarker](https://github.com/jasimmk/watermarker) - A CLI tool for watermarking, converting and resizing images in bulk.  Created for mass watermarking  photos of KochiPython meetup group. Whether you are a photographer, blogger, professional  this too
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources.
 - [pjlantz/droidbox](https://github.com/pjlantz/droidbox) - Dynamic analysis of Android apps
 - [AndroidHooker/hooker](https://github.com/AndroidHooker/hooker) - Hooker is an opensource project for dynamic analyses of Android applications. This project provides various tools and applications that can be use to automaticaly intercept and modify any API calls ma
 - [sensepost/objection](https://github.com/sensepost/objection) - 📱 objection - runtime mobile exploration
@@ -2577,6 +2580,7 @@
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) - Production-grade Rust-native trading engine with deterministic event-driven architecture
 - [samwho/spacer](https://github.com/samwho/spacer) - CLI tool to insert spacers when command output stops
+- [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
 - [PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless) - jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data.
@@ -2692,6 +2696,7 @@
 
 ## Shell 
 
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac.
 - [alibaba/hiclaw](https://github.com/alibaba/hiclaw) - An open-source Collaborative Multi-Agent OS for transparent, human-in-the-loop task coordination via Matrix rooms.
 - [DUBSOpenHub/copilot-cli-quickstart](https://github.com/DUBSOpenHub/copilot-cli-quickstart) - 🚀 Interactive Copilot CLI tutor skill — learn by doing. This is a Copilot CLI quickstart skill with an accompanying agent to run/teach it.
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a
@@ -2948,6 +2953,13 @@
 
 ## TypeScript 
 
+- [vas3k/TaxHacker](https://github.com/vas3k/TaxHacker) - Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories
+- [BigBodyCobain/Shadowbroker](https://github.com/BigBodyCobain/Shadowbroker) - Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. The knowledge is avail
+- [pascalorg/editor](https://github.com/pascalorg/editor) - 
+- [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) - Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.
+- [iamlukethedev/Claw3D](https://github.com/iamlukethedev/Claw3D) - Claw3D is an open source 3D engine built on OpenClaw for creating games, simulations, and high-performance 3D applications.
+- [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills) - 
+- [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 15 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 - [TianyiDataScience/openclaw-control-center](https://github.com/TianyiDataScience/openclaw-control-center) - Turn OpenClaw from a black box into a local control center you can see, trust, and control.
 - [helmcode/agent_crew](https://github.com/helmcode/agent_crew) - Web UI for managing multi-agent AI teams
 - [DatafyingTech/Claude-Agent-Team-Manager](https://github.com/DatafyingTech/Claude-Agent-Team-Manager) - Visual org-chart desktop app for managing Claude Code agent teams, skills, and configurations
@@ -3132,6 +3144,7 @@
 - [wiredoor/wiredoor](https://github.com/wiredoor/wiredoor) - Self hosted ingress-as-a-service platform that allows you to expose applications and services running in private or local networks to the internet
 - [hangwin/mcp-chrome](https://github.com/hangwin/mcp-chrome) - Chrome MCP Server is a Chrome extension-based Model Context Protocol (MCP) server that exposes your Chrome browser functionality to AI assistants like Claude, enabling complex browser automation, cont
 - [microsoft/copilot-metrics-dashboard](https://github.com/microsoft/copilot-metrics-dashboard) - The GitHub Copilot Metrics Dashboard is a solution accelerator designed to visualize metrics from GitHub Copilot using the GitHub Copilot Metrics API and GitHub Copilot User Management API.
+- [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
 - [codexu/note-gen](https://github.com/codexu/note-gen) - A cross-platform Markdown AI note-taking software.
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [microsoft/vscode-copilot-chat](https://github.com/microsoft/vscode-copilot-chat) - Copilot Chat extension for VS Code
@@ -3196,7 +3209,6 @@
 - [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate social media scheduling tool, with a bunch of AI  🤖
 - [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
 - [undb-io/undb](https://github.com/undb-io/undb) - 🚀 Private first self-hosted no code database & BaaS.
-- [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
 - [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene) - AI-powered, vision-driven UI automation for every platform.
 - [kturung/cogent](https://github.com/kturung/cogent) - 
 - [al1abb/invoify](https://github.com/al1abb/invoify) - An invoice generator app built using Next.js, Typescript, and Shadcn
