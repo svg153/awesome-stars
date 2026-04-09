@@ -373,7 +373,6 @@
 - [video-db/call.md](https://github.com/video-db/call.md) - Turn meetings into live agent loops. Record, transcribe, and analyze meetings with real-time AI intelligence — before, during, and after calls.
 - [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) - Clone any website with one command using AI coding agents
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
-- [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) - A full-stack AI Red Teaming platform securing AI ecosystems via OpenClaw Security Scan, Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.
 - [tokentopapp/tokentop](https://github.com/tokentopapp/tokentop) - htop for your AI costs — real-time terminal monitoring of LLM token usage and spending across providers and coding agents
 - [kasuken/vscode-copilot-insights](https://github.com/kasuken/vscode-copilot-insights) - Understand your GitHub Copilot plan, quotas, and limits at a glance
 - [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
@@ -462,6 +461,7 @@
 - [snyk/agent-scan](https://github.com/snyk/agent-scan) - Security scanner for AI agents, MCP servers and agent skills.
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [kagent-dev/kagent](https://github.com/kagent-dev/kagent) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
 - [browserbase/stagehand](https://github.com/browserbase/stagehand) - The SDK For Browser Agents
 - [datolabs-io/opsy](https://github.com/datolabs-io/opsy) - Opsy - Your AI-Powered SRE Colleague
@@ -525,6 +525,7 @@
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [codota/TabNine](https://github.com/codota/TabNine) - AI Code Completions
+- [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 
 ## ai-agents 
@@ -4910,7 +4911,6 @@
 - [playbooks-ai/playbooks](https://github.com/playbooks-ai/playbooks) - ▶📚 Playbooks is a semantic programming system for AI agents
 - [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [FireRedTeam/FireRed-OpenStoryline](https://github.com/FireRedTeam/FireRed-OpenStoryline) - FireRed-OpenStoryline is an AI video editing agent that transforms manual editing into intention-driven directing through natural language interaction, LLM-powered planning, and precise tool orchestra
-- [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) - A full-stack AI Red Teaming platform securing AI ecosystems via OpenClaw Security Scan, Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.
 - [nextlevelbuilder/goclaw](https://github.com/nextlevelbuilder/goclaw) - GoClaw - GoClaw is OpenClaw rebuilt in Go — with multi-tenant isolation, 5-layer security, and native concurrency. Deploy AI agent teams at scale without compromising on safety.
 - [rebeccapowell/agent-atlas](https://github.com/rebeccapowell/agent-atlas) - A GitOps based MCP mesh to help organizations transform API's to an aggregated MCP tools collection
 - [nxtg-ai/forge-orchestrator](https://github.com/nxtg-ai/forge-orchestrator) - Forge Orchestrator: Multi-AI task orchestration. File locking, knowledge capture, drift detection. Rust.
@@ -4920,6 +4920,7 @@
 - [llmsresearch/paperbanana](https://github.com/llmsresearch/paperbanana) - Open source implementation and extension of Google Research’s PaperBanana for automated academic figures, diagrams, and research visuals, expanded to new domains like slide generation.
 - [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) - Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).
 - [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - Installable GitHub library of 1,370+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, and more. Includes installer CLI, bundles, workflows, and official/community skill coll
+- [punkpeye/fastmcp](https://github.com/punkpeye/fastmcp) - A TypeScript framework for building MCP servers.
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effo
 - [yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) - Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
 - [modelcontextprotocol/ext-apps](https://github.com/modelcontextprotocol/ext-apps) - Official repo for spec & SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served by MCP servers
@@ -4970,6 +4971,7 @@
 - [0GiS0/youtube-mcp-server](https://github.com/0GiS0/youtube-mcp-server) - Cómo crear MCP Servers y usarlos con GitHub Copilot Chat 🚀💻🤖
 - [chatmcp/mcpso](https://github.com/chatmcp/mcpso) - directory for Awesome MCP Servers
 - [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) - Playwright MCP server
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [kagent-dev/kagent](https://github.com/kagent-dev/kagent) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
 - [VikashLoomba/copilot-mcp](https://github.com/VikashLoomba/copilot-mcp) - A VSCode extension that lets you find and install Agent Skills and MCP Apps to use with GitHub Copilot, Claude Code, and Codex CLI.
 - [codetocloudorg/platform-engineering](https://github.com/codetocloudorg/platform-engineering) - A centralized hub for platform engineering teams, providing resources, best practices, and automation tools. Includes IaC templates, blueprints, and operational guides to help build scalable, secure, 
@@ -4979,6 +4981,7 @@
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+- [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 
 ## microservices 
@@ -5578,7 +5581,7 @@
 - [jhuckaby/Cronicle](https://github.com/jhuckaby/Cronicle) - A simple, distributed task scheduler and runner with a web based UI.
 - [unitedbyai/droidclaw](https://github.com/unitedbyai/droidclaw) - turn old phones into ai agents - give it a goal in plain english. it reads the screen, thinks about what to do, taps and types via adb, and repeats until the job is done.
 - [HKUDS/ClawWork](https://github.com/HKUDS/ClawWork) - "ClawWork: OpenClaw as Your AI Coworker - 💰 $15K earned in 11 Hours"
-- [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader) - "AI-Trader: 100% Fully-Automated Trading Powered by Agent Swarm Intelligence"
+- [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader) - "AI-Trader: 100% Fully-Automated Agent-Native Trading"
 - [patniko/github-copilot-browser](https://github.com/patniko/github-copilot-browser) - 
 - [unslop-xyz/noodles](https://github.com/unslop-xyz/noodles) - Your codebase was probably AI-generated. Get a better handle on it. Noodles creates interactive diagrams that visualize how your code actually works, so you can understand what the AI built without re
 - [pierceboggan/coloring-book](https://github.com/pierceboggan/coloring-book) - AI coloring book generator
