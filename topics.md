@@ -10,6 +10,7 @@
 - [ai](#ai)
 - [ai-agents](#ai-agents)
 - [algorithm](#algorithm)
+- [algorithmic-trading](#algorithmic-trading)
 - [algorithms](#algorithms)
 - [analytics](#analytics)
 - [android](#android)
@@ -373,8 +374,8 @@
 ## ai 
 
 - [learnhouse/learnhouse](https://github.com/learnhouse/learnhouse) - The Next-gen Open Source learning platform for everyone ✨
-- [bergside/awesome-design-skills](https://github.com/bergside/awesome-design-skills) - List of awesome design md skill files for agentic tools like Claude Design, Google Stitch, Codex, Cursor, and other AI tools
-- [bergside/typeui](https://github.com/bergside/typeui) - Design system skills for agentic tools
+- [bergside/awesome-design-skills](https://github.com/bergside/awesome-design-skills) - List of awesome DESIGN.md and SKILL.md design skill files for agentic tools like Claude Design, Google Stitch, Codex, Cursor, and other AI tools
+- [bergside/typeui](https://github.com/bergside/typeui) - Design skills for agentic tools such as Claude Design, Google Stitch, Codex, Cursor, and more
 - [DanWahlin/agent-arcade](https://github.com/DanWahlin/agent-arcade) - A retro platformer that runs as a transparent overlay on your desktop. Play while waiting for your AI agents to finish planning, thinking, or doing their work.
 - [greyhaven-ai/autocontext](https://github.com/greyhaven-ai/autocontext) - a recursive self-improving harness designed to help your agents (and future iterations of those agents) succeed on any task
 - [Manavarya09/design-extract](https://github.com/Manavarya09/design-extract) - Extract any website's complete design system with one command. DTCG tokens, semantic+primitive+composite, MCP server for Claude Code/Cursor/Windsurf, multi-platform emitters (iOS SwiftUI, Android Comp
@@ -545,7 +546,7 @@
 
 ## ai-agents 
 
-- [bergside/awesome-design-skills](https://github.com/bergside/awesome-design-skills) - List of awesome design md skill files for agentic tools like Claude Design, Google Stitch, Codex, Cursor, and other AI tools
+- [bergside/awesome-design-skills](https://github.com/bergside/awesome-design-skills) - List of awesome DESIGN.md and SKILL.md design skill files for agentic tools like Claude Design, Google Stitch, Codex, Cursor, and other AI tools
 - [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) - Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.
 - [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - 754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Cop
 - [builderz-labs/mission-control](https://github.com/builderz-labs/mission-control) - Self-hosted AI agent orchestration platform: dispatch tasks, run multi-agent workflows, monitor spend, and govern operations from one mission control dashboard.
@@ -563,6 +564,7 @@
 - [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) - Vane is an AI-powered answering engine.
 - [q3ok/coordinated-agent-team](https://github.com/q3ok/coordinated-agent-team) - Coordinated Agent Team is a prompt-driven multi-agent system for autonomous software delivery. It defines clear agent roles, a deterministic workflow, strict I/O contracts, and artifact-based coordina
 - [nxtg-ai/forge-orchestrator](https://github.com/nxtg-ai/forge-orchestrator) - Forge Orchestrator: Multi-AI task orchestration. File locking, knowledge capture, drift detection. Rust.
+- [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) - FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making i
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - "🐈 nanobot: The Ultra-Lightweight Personal AI Agent"
 - [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - Installable GitHub library of 1,400+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, and more. Includes installer CLI, bundles, workflows, and official/community skill coll
@@ -612,6 +614,10 @@
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - Curated coding interview preparation materials for busy software engineers
 - [donnemartin/interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - 120+ interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards.
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
+
+## algorithmic-trading 
+
+- [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) - FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making i
 
 ## algorithms 
 
@@ -755,6 +761,7 @@
 
 ## api 
 
+- [mariostoev/finviz](https://github.com/mariostoev/finviz) - Unofficial API for finviz.com
 - [learnhouse/learnhouse](https://github.com/learnhouse/learnhouse) - The Next-gen Open Source learning platform for everyone ✨
 - [NangoHQ/nango](https://github.com/NangoHQ/nango) - Build product integrations with AI.
 - [presenton/presenton](https://github.com/presenton/presenton) - Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative)
@@ -910,7 +917,7 @@
 ## awesome 
 
 - [rohitg00/awesome-claude-design](https://github.com/rohitg00/awesome-claude-design) - Claude Design DESIGN.md prompts by aesthetic family, remix recipes, skills, video teardowns, X signal, honest community takes.
-- [bergside/awesome-design-skills](https://github.com/bergside/awesome-design-skills) - List of awesome design md skill files for agentic tools like Claude Design, Google Stitch, Codex, Cursor, and other AI tools
+- [bergside/awesome-design-skills](https://github.com/bergside/awesome-design-skills) - List of awesome DESIGN.md and SKILL.md design skill files for agentic tools like Claude Design, Google Stitch, Codex, Cursor, and other AI tools
 - [alvinreal/awesome-opensource-ai](https://github.com/alvinreal/awesome-opensource-ai) - Curated list of the best truly open-source AI projects, models, tools, and infrastructure.
 - [alexpate/awesome-design-systems](https://github.com/alexpate/awesome-design-systems) - 💅🏻 ⚒ A collection of awesome design systems
 - [mnfst/awesome-free-llm-apis](https://github.com/mnfst/awesome-free-llm-apis) - List of Permanent Free LLM API  (API Keys)
@@ -1041,7 +1048,7 @@
 ## awesome-list 
 
 - [rohitg00/awesome-claude-design](https://github.com/rohitg00/awesome-claude-design) - Claude Design DESIGN.md prompts by aesthetic family, remix recipes, skills, video teardowns, X signal, honest community takes.
-- [bergside/awesome-design-skills](https://github.com/bergside/awesome-design-skills) - List of awesome design md skill files for agentic tools like Claude Design, Google Stitch, Codex, Cursor, and other AI tools
+- [bergside/awesome-design-skills](https://github.com/bergside/awesome-design-skills) - List of awesome DESIGN.md and SKILL.md design skill files for agentic tools like Claude Design, Google Stitch, Codex, Cursor, and other AI tools
 - [ebertti/awesome-telegram](https://github.com/ebertti/awesome-telegram) - Collection great groups, channels, bots and libraries for Telegram
 - [alvinreal/awesome-opensource-ai](https://github.com/alvinreal/awesome-opensource-ai) - Curated list of the best truly open-source AI projects, models, tools, and infrastructure.
 - [alexpate/awesome-design-systems](https://github.com/alexpate/awesome-design-systems) - 💅🏻 ⚒ A collection of awesome design systems
@@ -1433,7 +1440,7 @@
 - [gcovr/gcovr](https://github.com/gcovr/gcovr) - Generate code coverage reports with gcc/gcov
 - [davatorium/rofi](https://github.com/davatorium/rofi) - Rofi: A window switcher, application launcher and dmenu replacement
 - [CoatiSoftware/Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail) - Sourcetrail - free and open-source interactive source explorer
-- [danmar/cppcheck](https://github.com/danmar/cppcheck) - static analysis of C/C++ code
+- [cppcheck-opensource/cppcheck](https://github.com/cppcheck-opensource/cppcheck) - static analysis of C/C++ code
 - [alejandrogallo/rooki](https://github.com/alejandrogallo/rooki) - A stupid simple script runner supporting c, c++, rust, haskell and virtually anything
 - [metacall/core](https://github.com/metacall/core) - MetaCall: The ultimate polyglot programming experience.
 - [jhawthorn/fzy](https://github.com/jhawthorn/fzy) - :mag: A simple, fast fuzzy finder for the terminal
@@ -1461,7 +1468,7 @@
 - [defold/defold](https://github.com/defold/defold) - Defold is a completely free to use game engine for development of desktop, mobile and web games.
 - [cs01/gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will ope
 - [mawww/kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor
-- [danmar/cppcheck](https://github.com/danmar/cppcheck) - static analysis of C/C++ code
+- [cppcheck-opensource/cppcheck](https://github.com/cppcheck-opensource/cppcheck) - static analysis of C/C++ code
 - [doctest/doctest](https://github.com/doctest/doctest) - The fastest feature-rich C++11/14/17/20/23 single-header testing framework
 - [CppCon/CppCon2018](https://github.com/CppCon/CppCon2018) - Slides and other materials from CppCon 2018
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
@@ -1593,6 +1600,7 @@
 - [FlorianBruniaux/claude-code-ultimate-guide](https://github.com/FlorianBruniaux/claude-code-ultimate-guide) - A tremendous feat of documentation, this guide covers Claude Code from beginner to power user, with production-ready templates for Claude Code features, guides on agentic workflows, and a lot of great
 - [f/agentlytics](https://github.com/f/agentlytics) - Comprehensive analytics dashboard for AI coding agents — Cursor, Windsurf, Claude Code, VS Code Copilot, Zed, Antigravity, OpenCode, Command Code
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
+- [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) - Create beautiful slides on the web using Claude's frontend skills
 - [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
 - [L1AD/claude-task-viewer](https://github.com/L1AD/claude-task-viewer) - A web-based Kanban board for viewing Claude Code tasks
 - [gastownhall/beads](https://github.com/gastownhall/beads) - Beads - A memory upgrade for your coding agent
@@ -1628,7 +1636,7 @@
 
 ## cli 
 
-- [bergside/typeui](https://github.com/bergside/typeui) - Design system skills for agentic tools
+- [bergside/typeui](https://github.com/bergside/typeui) - Design skills for agentic tools such as Claude Design, Google Stitch, Codex, Cursor, and more
 - [Manavarya09/design-extract](https://github.com/Manavarya09/design-extract) - Extract any website's complete design system with one command. DTCG tokens, semantic+primitive+composite, MCP server for Claude Code/Cursor/Windsurf, multi-platform emitters (iOS SwiftUI, Android Comp
 - [asamassekou10/ship-safe](https://github.com/asamassekou10/ship-safe) - CLI security scanner built for the agentic era. Detects CI/CD misconfigs, agent permission risks, MCP tool injection, hardcoded secrets, and DMCA-flagged AI dependencies.
 - [EvoMap/evolver](https://github.com/EvoMap/evolver) - The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai
@@ -2009,6 +2017,7 @@
 
 ## cpp 
 
+- [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) - FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making i
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
 - [InCom-0/incplot](https://github.com/InCom-0/incplot) - CLI tool for drawing great looking plots in the terminal and in HTML focused on user ergonomics and simplicity
 - [onelang/OneLang](https://github.com/onelang/OneLang) - 
@@ -2030,7 +2039,7 @@
 - [chewax/Ginseng](https://github.com/chewax/Ginseng) - C++ REPL Tool Builder
 - [gcovr/gcovr](https://github.com/gcovr/gcovr) - Generate code coverage reports with gcc/gcov
 - [CoatiSoftware/Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail) - Sourcetrail - free and open-source interactive source explorer
-- [danmar/cppcheck](https://github.com/danmar/cppcheck) - static analysis of C/C++ code
+- [cppcheck-opensource/cppcheck](https://github.com/cppcheck-opensource/cppcheck) - static analysis of C/C++ code
 - [CppCon/CppCon2019](https://github.com/CppCon/CppCon2019) - Slides and other materials from CppCon 2019
 - [alejandrogallo/rooki](https://github.com/alejandrogallo/rooki) - A stupid simple script runner supporting c, c++, rust, haskell and virtually anything
 - [codota/TabNine](https://github.com/codota/TabNine) - AI Code Completions
@@ -2206,6 +2215,7 @@
 
 ## database 
 
+- [mariostoev/finviz](https://github.com/mariostoev/finviz) - Unofficial API for finviz.com
 - [hisorange/artgen](https://github.com/hisorange/artgen) - Next Generation Low Code Headless CMS
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [liam-hq/liam](https://github.com/liam-hq/liam) - Automatically generates beautiful and easy-to-read ER diagrams from your database.
@@ -2275,8 +2285,8 @@
 
 ## design 
 
-- [bergside/awesome-design-skills](https://github.com/bergside/awesome-design-skills) - List of awesome design md skill files for agentic tools like Claude Design, Google Stitch, Codex, Cursor, and other AI tools
-- [bergside/typeui](https://github.com/bergside/typeui) - Design system skills for agentic tools
+- [bergside/awesome-design-skills](https://github.com/bergside/awesome-design-skills) - List of awesome DESIGN.md and SKILL.md design skill files for agentic tools like Claude Design, Google Stitch, Codex, Cursor, and other AI tools
+- [bergside/typeui](https://github.com/bergside/typeui) - Design skills for agentic tools such as Claude Design, Google Stitch, Codex, Cursor, and more
 - [Jakubantalik/border-beam](https://github.com/Jakubantalik/border-beam) - Animated border beam effect for React
 - [Shreyas-29/luro-ai](https://github.com/Shreyas-29/luro-ai) - A Modern UI Website for your next generation SaaS
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
@@ -3072,7 +3082,7 @@
 
 - [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
 - [git-town/git-town](https://github.com/git-town/git-town) - Git branches made easy
-- [j178/prek](https://github.com/j178/prek) - ⚡ A Git hook manager written in Rust, designed as a drop-in alternative to pre-commit.
+- [j178/prek](https://github.com/j178/prek) - ⚡ A fast Git hook manager written in Rust, designed as a drop-in alternative to pre-commit, reimagined.
 - [github/training-kit](https://github.com/github/training-kit) - Open source courseware for Git and GitHub
 - [raghavpillai/branchlet](https://github.com/raghavpillai/branchlet) - Branchlet: A simple CLI Git worktree manager
 - [antonmedv/gitmal](https://github.com/antonmedv/gitmal) - A static page generator for repos
@@ -3716,7 +3726,6 @@
 - [amruthpillai/reactive-resume](https://github.com/amruthpillai/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [comet-ml/opik](https://github.com/comet-ml/opik) - Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.
 - [ComBuildersES/ComBuildersES.github.io](https://github.com/ComBuildersES/ComBuildersES.github.io) - Página web de la comunidad de Community Builders. Carta de presentación: quienes somos, qué hacemos, cómo unirse, etc.
-- [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [mszostok/codeowners-validator](https://github.com/mszostok/codeowners-validator) - The GitHub CODEOWNERS file validator
 - [busser/tfautomv](https://github.com/busser/tfautomv) - Generate Terraform moved blocks automatically for painless refactoring
 - [collabnix/kubetools](https://github.com/collabnix/kubetools) - Kubetools - Curated List of Kubernetes Tools
@@ -3922,6 +3931,7 @@
 
 ## html 
 
+- [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) - Create beautiful slides on the web using Claude's frontend skills
 - [maxciber/myfinancedash](https://github.com/maxciber/myfinancedash) - Private-by-design financial analytics. Drop your bank exports into a single HTML file and visualize your wealth locally
 - [robaho/go-trader](https://github.com/robaho/go-trader) - financial exchange written in Go, designed for algorithmic trading tests
 - [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
@@ -5023,7 +5033,7 @@
 - [llmsresearch/paperbanana](https://github.com/llmsresearch/paperbanana) - Open source implementation and extension of Google Research’s PaperBanana for automated academic figures, diagrams, and research visuals, expanded to new domains like slide generation.
 - [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) - Memory for 24/7 proactive agents like OpenClaw.
 - [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - Installable GitHub library of 1,400+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, and more. Includes installer CLI, bundles, workflows, and official/community skill coll
-- [punkpeye/fastmcp](https://github.com/punkpeye/fastmcp) - A TypeScript framework for building MCP servers.
+- [punkpeye/vitemcp](https://github.com/punkpeye/vitemcp) - A TypeScript framework for building MCP servers.
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effo
 - [yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) - Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
 - [modelcontextprotocol/ext-apps](https://github.com/modelcontextprotocol/ext-apps) - Official repo for spec & SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served by MCP servers
@@ -5613,6 +5623,8 @@
 
 ## others 
 
+- [nicoduclare/moggmon](https://github.com/nicoduclare/moggmon) - pokemon but cc0
+- [ferminrp/agent-skills](https://github.com/ferminrp/agent-skills) - 
 - [haflidif/squad-on-aca](https://github.com/haflidif/squad-on-aca) - Squad agents on Azure Container App Jobs — event-driven, serverless agent orchestration
 - [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
 - [ViktorAxelsen/MemSkill](https://github.com/ViktorAxelsen/MemSkill) - MemSkill: Learning and Evolving Memory Skills for Self-Evolving Agents
@@ -5704,7 +5716,6 @@
 - [Azure-Samples/functions-markdown-agent](https://github.com/Azure-Samples/functions-markdown-agent) - 
 - [Gentleman-Programming/agent-teams-lite](https://github.com/Gentleman-Programming/agent-teams-lite) - Spec-Driven Development with AI Sub-Agents. An orchestrator + 9 specialized sub-agents for structured feature development. Zero dependencies. Pure Markdown. Works with Claude Code, OpenCode, Cursor, a
 - [Alejandrolmeida/kitten-agent-blog](https://github.com/Alejandrolmeida/kitten-agent-blog) - Workshop AgentCamp 2026 - Kitten Squad
-- [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) - Create beautiful slides on the web using Claude's frontend skills
 - [diegomarino/claude-toolshed](https://github.com/diegomarino/claude-toolshed) - A plugin marketplace for Claude Code — pre-packaged skills for diagrams, code audits, dev servers, and markdown optimization.
 - [syi0808/screenize](https://github.com/syi0808/screenize) - Open-source macOS screen recording app with auto-zoom, cursor effects, and timeline editing — Screen Studio alternative.
 - [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) - GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interacti
@@ -7457,6 +7468,7 @@
 
 ## qt 
 
+- [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) - FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making i
 - [ksnip/ksnip](https://github.com/ksnip/ksnip) - ksnip the cross-platform screenshot and annotation tool
 - [Swordfish90/cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display...
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
@@ -8137,6 +8149,7 @@
 
 ## sql 
 
+- [mariostoev/finviz](https://github.com/mariostoev/finviz) - Unofficial API for finviz.com
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [liam-hq/liam](https://github.com/liam-hq/liam) - Automatically generates beautiful and easy-to-read ER diagrams from your database.
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
@@ -8310,7 +8323,7 @@
 
 ## terminal 
 
-- [bergside/typeui](https://github.com/bergside/typeui) - Design system skills for agentic tools
+- [bergside/typeui](https://github.com/bergside/typeui) - Design skills for agentic tools such as Claude Design, Google Stitch, Codex, Cursor, and more
 - [lazylabz/gomander-app](https://github.com/lazylabz/gomander-app) - The simple GUI that lets you launch, monitor, and organize all your commands in one beautiful interface.
 - [matsest/lazyazure](https://github.com/matsest/lazyazure) - The lazy way to view  your Azure resources. TUI for drilling down into Azure subscriptions, resource groups and resources.
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
@@ -8536,6 +8549,7 @@
 
 ## trading 
 
+- [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) - FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making i
 - [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio) - Open Source Wealth Management Software. Angular + NestJS + Prisma + Nx + TypeScript 🤍
 - [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) - Production-grade Rust-native trading engine with deterministic event-driven architecture
 
@@ -8707,7 +8721,7 @@
 
 ## ui 
 
-- [bergside/typeui](https://github.com/bergside/typeui) - Design system skills for agentic tools
+- [bergside/typeui](https://github.com/bergside/typeui) - Design skills for agentic tools such as Claude Design, Google Stitch, Codex, Cursor, and more
 - [standardagents/arrow-js](https://github.com/standardagents/arrow-js) - The first UI framework for the agentic era — tiny, performant, with WASM sandboxes for safe code execution.
 - [modelcontextprotocol/ext-apps](https://github.com/modelcontextprotocol/ext-apps) - Official repo for spec & SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served by MCP servers
 - [tambo-ai/tambo](https://github.com/tambo-ai/tambo) - Generative UI SDK for React
