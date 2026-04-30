@@ -125,6 +125,7 @@
 
 ## C 
 
+- [Mentra-Community/MentraOS](https://github.com/Mentra-Community/MentraOS) - MentraOS is the leading smart glasses platform + SDK. Stream your view, transcribe audio, talk to AI and capture photos hands-free on compatible glasses.
 - [kstenerud/Musashi](https://github.com/kstenerud/Musashi) - Motorola 680x0 emulator written in C
 - [Syllo/nvtop](https://github.com/Syllo/nvtop) - GPU & Accelerator process monitoring for AMD, Apple, Huawei, Intel, NVIDIA and Qualcomm
 - [cowtoolz/webcamize](https://github.com/cowtoolz/webcamize) - Use (almost) any camera as a webcam
@@ -672,7 +673,7 @@
 - [chainguard-dev/darkfiles](https://github.com/chainguard-dev/darkfiles) - Darkfiles finds orphaned files in container images and makes them to bad deeds
 - [containers/skopeo](https://github.com/containers/skopeo) - Work with remote images registries - retrieving information, images, signing content
 - [esnet/gdg](https://github.com/esnet/gdg) - Grafana Dash-n-Grab
-- [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) - Infrastructure as code for DNS!
+- [itstoragesvc/dnscontrol](https://github.com/itstoragesvc/dnscontrol) - Infrastructure as code for DNS!
 - [crossplane-contrib/provider-upjet-azure](https://github.com/crossplane-contrib/provider-upjet-azure) - Azure Provider for Crossplane.
 - [crossplane-contrib/provider-upjet-aws](https://github.com/crossplane-contrib/provider-upjet-aws) - AWS Provider for Crossplane.
 - [grafana/phlare](https://github.com/grafana/phlare) - 🔥 horizontally-scalable, highly-available, multi-tenant continuous profiling aggregation system
@@ -927,6 +928,7 @@
 
 ## HTML 
 
+- [pamelafox/presentation-writeups](https://github.com/pamelafox/presentation-writeups) - Skills and tools to turn my presentations into writeups
 - [TheGreenCedar/codex-autoresearch](https://github.com/TheGreenCedar/codex-autoresearch) - A codex plugin for running optimization loops inside a codebase. It is useful when you have a measurable target and many possible changes to try: test runtime, build speed, bundle size, model loss, Li
 - [tw93/Kami](https://github.com/tw93/Kami) - 👩‍🚒 Good content deserves good paper.
 - [htekdev/copilot-visual-studio-guide](https://github.com/htekdev/copilot-visual-studio-guide) - Comprehensive guide to GitHub Copilot in Visual Studio - docs, presentations, code samples
@@ -1603,8 +1605,9 @@
 
 ## Others 
 
+- [Fralopala2/Epsylon-show](https://github.com/Fralopala2/Epsylon-show) - Epsylon, IA para empleo e impulso profesional
+- [ksimback/tech-debt-skill](https://github.com/ksimback/tech-debt-skill) - Claude Code skill that produces a thorough, file-cited tech debt audit of an entire codebase
 - [google/skills](https://github.com/google/skills) - Agent Skills for Google products and technologies
-- [EvoLinkAI/awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts) - Curated GPT-Image-2 prompts fot the Openai API：image examples across portraits, posters, UI mockups, character sheets, and community experiments.
 - [VoltAgent/awesome-claude-design](https://github.com/VoltAgent/awesome-claude-design) - Awesome Claude Design: 68 ready-to-use design system inspirations in DESIGN.md format. Drop one in, scaffold a full UI in one shot.
 - [ponchotitlan/pyATS-loves-agenticops](https://github.com/ponchotitlan/pyATS-loves-agenticops) - A network automation, low-code demonstration of agentic-ops using n8n and pyATS
 - [ferminrp/agent-skills](https://github.com/ferminrp/agent-skills) - 
@@ -2042,6 +2045,11 @@
 
 ## Python 
 
+- [pamelafox/presentation-skills](https://github.com/pamelafox/presentation-skills) - Skills for AI agents to process presentations - helpful for teachers and speakers.
+- [Git-on-my-level/codex-autorunner](https://github.com/Git-on-my-level/codex-autorunner) - 
+- [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) - "Vibe-Trading: Your Personal Trading Agent"
+- [HKUDS/OpenHarness](https://github.com/HKUDS/OpenHarness) - "OpenHarness: Open Agent Harness with a Built-in Personal Agent--Ohmo!"
+- [EvoLinkAI/awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts) - Curated GPT-Image-2 prompts fot the Openai API：image examples across portraits, posters, UI mockups, character sheets, and community experiments.
 - [mariostoev/finviz](https://github.com/mariostoev/finviz) - Unofficial API for finviz.com
 - [joeseesun/qiaomu-anything-to-notebooklm](https://github.com/joeseesun/qiaomu-anything-to-notebooklm) - Claude Skill: Multi-source content processor for NotebookLM. Supports WeChat articles, web pages, YouTube, PDF, Markdown, search queries → Podcast/PPT/MindMap/Quiz etc.
 - [ViktorAxelsen/MemSkill](https://github.com/ViktorAxelsen/MemSkill) - MemSkill: Learning and Evolving Memory Skills for Self-Evolving Agents
@@ -2133,7 +2141,7 @@
 - [marcoradocchia/youterm](https://github.com/marcoradocchia/youterm) - CLI tool to search for YouTube videos and play selected video/audio via MPV
 - [joaquimscosta/arkhe-claude-plugins](https://github.com/joaquimscosta/arkhe-claude-plugins) - Supercharge Claude Code with 109 specialized components — 22 agents, 32 commands, 55 skills across 13 modular plugins. Deep reasoning, autonomous dev loops, DDD architecture, design system enforcement
 - [z0m31en7/Uscrapper](https://github.com/z0m31en7/Uscrapper) - Uscrapper Vanta: Dive deeper into the web with this powerful open-source tool. Extract valuable insights with ease and efficiency, from both surface and deep web sources. Empower your data mining and 
-- [endurain-project/endurain](https://github.com/endurain-project/endurain) - Endurain is a self-hosted fitness tracking service designed to give users full control over their data and hosting environment
+- [endurain-project/endurain](https://github.com/endurain-project/endurain) - ⚠️ Moved to Codeberg - see link bellow
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
 - [huridocs/pdf-document-layout-analysis](https://github.com/huridocs/pdf-document-layout-analysis) - A Docker-powered service for PDF document layout analysis. This service provides a powerful and flexible PDF analysis service. The service allows for the segmentation and classification of different p
@@ -2785,6 +2793,7 @@
 
 ## Shell 
 
+- [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .claude directory.
 - [haflidif/squad-on-aca](https://github.com/haflidif/squad-on-aca) - Squad agents on Azure Container App Jobs — event-driven, serverless agent orchestration
 - [verkyyi/github-agent-runner](https://github.com/verkyyi/github-agent-runner) - Claude Code plugin to discover and install GitHub agentic workflows (gh-aw) into your repo
 - [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) - Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.
@@ -3049,6 +3058,9 @@
 
 ## TypeScript 
 
+- [OpenCoworkAI/open-codesign](https://github.com/OpenCoworkAI/open-codesign) - Open-source Claude Design alternative. One-click import your Claude Code / Codex API key. Prompt → prototype / slides / PDF. Multi-model (Claude, GPT, Gemini, Kimi, GLM, Ollama). BYOK, local-first, MI
+- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems · 🖼️ sandboxed preview · 📦 HTML/PDF/PPTX export. 🤖 Runs on Claude Code / Codex / Curs
+- [kitlangton/ghui](https://github.com/kitlangton/ghui) - 
 - [microsoft/vscode-chat-customizations-evaluation](https://github.com/microsoft/vscode-chat-customizations-evaluation) - A repository to evaluate the chat customizations
 - [BlackHatDevX/openspot-music-app](https://github.com/BlackHatDevX/openspot-music-app) - OpenSpot is a free and open-source music streaming application designed for a seamless, high-fidelity listening experience. Built with a modern tech stack, it features a beautiful, responsive UI that 
 - [akinloluwami/avnac](https://github.com/akinloluwami/avnac) - 
@@ -3128,7 +3140,7 @@
 - [xiety/HistoryApp](https://github.com/xiety/HistoryApp) - Visualize history timeline
 - [zetavg/Inventory](https://github.com/zetavg/Inventory) - An RFID asset management app for home or businesses.
 - [xivira/miai-api](https://github.com/xivira/miai-api) - 
-- [finanze/finanze](https://github.com/finanze/finanze) - Financial Management, Visualization & Export Application
+- [finanze/finanze](https://github.com/finanze/finanze) - Private & self-hosted portfolio manager that connects to real entities
 - [dend/guildbridge](https://github.com/dend/guildbridge) - 🏰 Remotely hosted MCP server for Discord
 - [unitedbyai/droidclaw](https://github.com/unitedbyai/droidclaw) - turn old phones into ai agents - give it a goal in plain english. it reads the screen, thinks about what to do, taps and types via adb, and repeats until the job is done.
 - [patniko/github-copilot-browser](https://github.com/patniko/github-copilot-browser) - 
