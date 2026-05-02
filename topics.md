@@ -376,6 +376,8 @@
 
 ## ai 
 
+- [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) - Claude + Obsidian knowledge companion. Persistent, compounding wiki vault based on Karpathy's LLM Wiki pattern. /wiki /save /autoresearch
+- [AgriciDaniel/claude-shorts](https://github.com/AgriciDaniel/claude-shorts) - Interactive longform-to-shortform video creator — Claude Code skill with Remotion-rendered animated captions, AI segment scoring, cursor tracking, and audio-aware boundary snapping
 - [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Open-source, secure environment with real-world tools for enterprise-grade agents.
 - [learnhouse/learnhouse](https://github.com/learnhouse/learnhouse) - The Next-gen Open Source learning platform for everyone ✨
 - [bergside/awesome-design-skills](https://github.com/bergside/awesome-design-skills) - List of awesome DESIGN.md and SKILL.md design skill files for agentic tools like Claude Design, Google Stitch, Codex, Cursor, and other AI tools
@@ -554,7 +556,7 @@
 - [eugeniughelbur/obsidian-second-brain](https://github.com/eugeniughelbur/obsidian-second-brain) - Claude Code skill for Obsidian. Turn your vault into a living AI-first second brain. 31 commands, vault-first research, scheduled agents.
 - [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Open-source, secure environment with real-world tools for enterprise-grade agents.
 - [0xNyk/awesome-hermes-agent](https://github.com/0xNyk/awesome-hermes-agent) - A curated list of awesome skills, tools, integrations, and resources for Hermes Agent by Nous Research
-- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems · 🖼️ sandboxed preview · 📦 HTML/PDF/PPTX export. 🤖 Runs on Claude Code / Codex / Curs
+- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames
 - [bergside/awesome-design-skills](https://github.com/bergside/awesome-design-skills) - List of awesome DESIGN.md and SKILL.md design skill files for agentic tools like Claude Design, Google Stitch, Codex, Cursor, and other AI tools
 - [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) - Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.
 - [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - 754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Cop
@@ -642,6 +644,7 @@
 
 ## analytics 
 
+- [aree6/LiftShift](https://github.com/aree6/LiftShift) - Analyze your workout logs from Hevy, Strong, Lyfta, and more, with actionable insights, interactive muscle heatmaps, plateau detection, AI-powered analysis, calendar filtering, shareable progress card
 - [gotempsh/temps](https://github.com/gotempsh/temps) - Self host your own Vercel
 - [f/agentlytics](https://github.com/f/agentlytics) - Comprehensive analytics dashboard for AI coding agents — Cursor, Windsurf, Claude Code, VS Code Copilot, Zed, Antigravity, OpenCode, Command Code
 - [repohistory/repohistory](https://github.com/repohistory/repohistory) - GitHub repo analytics tool without 14 days limit
@@ -757,7 +760,7 @@
 - [JesusMtnez/homelab](https://github.com/JesusMtnez/homelab) - My home infrastructure and Kubernetes cluster. Mirror from: https://codeberg.org/JesusMtnez/homelab
 - [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps
 - [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud 
-- [megabytespace/gas-station](https://github.com/megabytespace/gas-station) - 🎉 An  Ansible  playbook that provisions your network with software from GitHub Awesome lists, developed with disaster recovery in mind ⛽🔥🤤 🐴
+- [heymegabyte/gas-station](https://github.com/heymegabyte/gas-station) - 🎉 An  Ansible  playbook that provisions your network with software from GitHub Awesome lists, developed with disaster recovery in mind ⛽🔥🤤 🐴
 - [eliasnorrby/dotfiles](https://github.com/eliasnorrby/dotfiles) - :computer: Dotfiles for development on MacOS and Manjaro
 - [timothystewart6/techno-tim.github.io](https://github.com/timothystewart6/techno-tim.github.io) - Open Source, Community Driven, Documentation for Techno Tim YouTube Videos/  Complete with examples for all your copy pasta needs!
 - [ansible-community/ara](https://github.com/ansible-community/ara) - ARA Records Ansible and makes it easier to understand and troubleshoot.
@@ -809,7 +812,7 @@
 
 ## archlinux 
 
-- [megabytespace/gas-station](https://github.com/megabytespace/gas-station) - 🎉 An  Ansible  playbook that provisions your network with software from GitHub Awesome lists, developed with disaster recovery in mind ⛽🔥🤤 🐴
+- [heymegabyte/gas-station](https://github.com/heymegabyte/gas-station) - 🎉 An  Ansible  playbook that provisions your network with software from GitHub Awesome lists, developed with disaster recovery in mind ⛽🔥🤤 🐴
 
 ## arduino 
 
@@ -1602,9 +1605,10 @@
 
 ## claude-code 
 
+- [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) - Claude + Obsidian knowledge companion. Persistent, compounding wiki vault based on Karpathy's LLM Wiki pattern. /wiki /save /autoresearch
+- [AgriciDaniel/claude-shorts](https://github.com/AgriciDaniel/claude-shorts) - Interactive longform-to-shortform video creator — Claude Code skill with Remotion-rendered animated captions, AI segment scoring, cursor tracking, and audio-aware boundary snapping
 - [eugeniughelbur/obsidian-second-brain](https://github.com/eugeniughelbur/obsidian-second-brain) - Claude Code skill for Obsidian. Turn your vault into a living AI-first second brain. 31 commands, vault-first research, scheduled agents.
 - [OpenCoworkAI/open-codesign](https://github.com/OpenCoworkAI/open-codesign) - Open-source Claude Design alternative. One-click import your Claude Code / Codex API key. Prompt → prototype / slides / PDF. Multi-model (Claude, GPT, Gemini, Kimi, GLM, Ollama). BYOK, local-first, MI
-- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems · 🖼️ sandboxed preview · 📦 HTML/PDF/PPTX export. 🤖 Runs on Claude Code / Codex / Curs
 - [VoltAgent/awesome-claude-design](https://github.com/VoltAgent/awesome-claude-design) - Awesome Claude Design: 68 ready-to-use design system inspirations in DESIGN.md format. Drop one in, scaffold a full UI in one shot.
 - [rohitg00/awesome-claude-design](https://github.com/rohitg00/awesome-claude-design) - Claude Design DESIGN.md prompts by aesthetic family, remix recipes, skills, video teardowns, X signal, honest community takes.
 - [verkyyi/github-agent-runner](https://github.com/verkyyi/github-agent-runner) - Claude Code plugin to discover and install GitHub agentic workflows (gh-aw) into your repo
@@ -1613,7 +1617,7 @@
 - [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - 754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Cop
 - [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) - Local knowledge graph for Claude Code. Builds a persistent map of your codebase so Claude reads only what matters — 6.8× fewer tokens on reviews and up to 49× on daily coding tasks.
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
-- [safishamsi/graphify](https://github.com/safishamsi/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, GitHub Copilot CLI, OpenClaw, Factory Droid, Trae, Google Antigravity). Turn any folder of code, docs, papers, images, or v
+- [safishamsi/graphify](https://github.com/safishamsi/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable
 - [santifer/career-ops](https://github.com/santifer/career-ops) - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
 - [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) - A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
 - [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
@@ -2228,6 +2232,7 @@
 
 ## data-visualization 
 
+- [aree6/LiftShift](https://github.com/aree6/LiftShift) - Analyze your workout logs from Hevy, Strong, Lyfta, and more, with actionable insights, interactive muscle heatmaps, plateau detection, AI-powered analysis, calendar filtering, shareable progress card
 - [liam-hq/liam](https://github.com/liam-hq/liam) - Automatically generates beautiful and easy-to-read ER diagrams from your database.
 - [ayodejiayodele/github-developer-metrics](https://github.com/ayodejiayodele/github-developer-metrics) - Dashboards and report templates for reporting developer-related metrics inspired by some popular developer productivity frameworks..
 - [rio-labs/rio](https://github.com/rio-labs/rio) - WebApps in pure Python. No JavaScript, HTML and CSS needed
@@ -2316,7 +2321,6 @@
 
 ## design 
 
-- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems · 🖼️ sandboxed preview · 📦 HTML/PDF/PPTX export. 🤖 Runs on Claude Code / Codex / Curs
 - [bergside/awesome-design-skills](https://github.com/bergside/awesome-design-skills) - List of awesome DESIGN.md and SKILL.md design skill files for agentic tools like Claude Design, Google Stitch, Codex, Cursor, and other AI tools
 - [bergside/typeui](https://github.com/bergside/typeui) - Design skills for agentic tools such as Claude Design, Google Stitch, Codex, Cursor, and more
 - [Jakubantalik/border-beam](https://github.com/Jakubantalik/border-beam) - Animated border beam effect for React
@@ -2588,7 +2592,7 @@
 - [0GiS0/jueves-de-quack-cagent-demos](https://github.com/0GiS0/jueves-de-quack-cagent-demos) - Demos que mostré durante el evento Jueves de Quack 🦆 con 🤖`cagent`🤖.
 - [0GiS0/cagent-demos](https://github.com/0GiS0/cagent-demos) - 🎮 Jugando con 🤖cagent🤖
 - [claude-did-this/claude-hub](https://github.com/claude-did-this/claude-hub) - A webhook service that connects Claude Code to GitHub repositories, enabling AI-powered code assistance directly   through pull requests and issues. This integration allows Claude to analyze repositor
-- [homarr-labs/homarr](https://github.com/homarr-labs/homarr) - A modern and easy to use dashboard. 40+ integrations. 10K+ icons built in. Authentication out of the box. No YAML, drag and drop configuration.
+- [homarr-labs/homarr](https://github.com/homarr-labs/homarr) - A modern and easy to use dashboard. 40+ integrations. 20K+ icons built in. Authentication out of the box. No YAML, drag and drop configuration.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
@@ -3073,7 +3077,7 @@
 
 ## generative-ai 
 
-- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems · 🖼️ sandboxed preview · 📦 HTML/PDF/PPTX export. 🤖 Runs on Claude Code / Codex / Curs
+- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames
 - [alvinreal/awesome-opensource-ai](https://github.com/alvinreal/awesome-opensource-ai) - Curated list of the best truly open-source AI projects, models, tools, and infrastructure.
 - [monaccode/astromesh](https://github.com/monaccode/astromesh) - Multi-model AI agent runtime. Define agents in YAML, connect 6 LLM providers, orchestrate with ReAct/Plan&Execute/Fan-Out/Pipeline/Supervisor/Swarm patterns, and deploy    as REST/WebSocket API with R
 - [eltociear/awesome-AI-driven-development](https://github.com/eltociear/awesome-AI-driven-development) - Awesome list of AI-Driven Development.
@@ -3383,7 +3387,7 @@
 - [Exafunction/windsurf.vim](https://github.com/Exafunction/windsurf.vim) - Free, ultrafast Copilot alternative for Vim and Neovim
 - [cycloidio/terracognita](https://github.com/cycloidio/terracognita) - Reads from existing public and private cloud providers (reverse Terraform) and generates your infrastructure as code on Terraform configuration
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
-- [itstoragesvc/dnscontrol](https://github.com/itstoragesvc/dnscontrol) - Infrastructure as code for DNS!
+- [DNSControl/dnscontrol](https://github.com/DNSControl/dnscontrol) - Infrastructure as code for DNS!
 - [ko-build/ko](https://github.com/ko-build/ko) - Build and deploy Go applications
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [zegl/kube-score](https://github.com/zegl/kube-score) - Kubernetes object analysis with recommendations for improved reliability and security. kube-score actively prevents downtime and bugs in your Kubernetes YAML and Charts. Static code analysis for Kuber
@@ -4940,7 +4944,7 @@
 - [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 - [CodelyTV/dotfiles](https://github.com/CodelyTV/dotfiles) - 🐢 💨 Speedup your MacOS setup with this fine tuning settings
-- [megabytespace/gas-station](https://github.com/megabytespace/gas-station) - 🎉 An  Ansible  playbook that provisions your network with software from GitHub Awesome lists, developed with disaster recovery in mind ⛽🔥🤤 🐴
+- [heymegabyte/gas-station](https://github.com/heymegabyte/gas-station) - 🎉 An  Ansible  playbook that provisions your network with software from GitHub Awesome lists, developed with disaster recovery in mind ⛽🔥🤤 🐴
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [donnemartin/gitsome](https://github.com/donnemartin/gitsome) - A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise: https://github.com/works-with/category/desktop-tools
@@ -5334,6 +5338,7 @@
 ## nextjs 
 
 - [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Open-source, secure environment with real-world tools for enterprise-grade agents.
+- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames
 - [BlackHatDevX/openspot-music-app](https://github.com/BlackHatDevX/openspot-music-app) - OpenSpot is a free and open-source music streaming application designed for a seamless, high-fidelity listening experience. Built with a modern tech stack, it features a beautiful, responsive UI that 
 - [calcom/cal.diy](https://github.com/calcom/cal.diy) - Scheduling infrastructure for absolutely everyone.
 - [builderz-labs/mission-control](https://github.com/builderz-labs/mission-control) - Self-hosted AI agent orchestration platform: dispatch tasks, run multi-agent workflows, monitor spend, and govern operations from one mission control dashboard.
@@ -5394,6 +5399,7 @@
 
 ## no-code 
 
+- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames
 - [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe) - 💻 vibe coding 2026 | Your first modern programming course for beginners to master step by step.
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
@@ -5482,6 +5488,7 @@
 
 ## obsidian 
 
+- [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) - Claude + Obsidian knowledge companion. Persistent, compounding wiki vault based on Karpathy's LLM Wiki pattern. /wiki /save /autoresearch
 - [eugeniughelbur/obsidian-second-brain](https://github.com/eugeniughelbur/obsidian-second-brain) - Claude Code skill for Obsidian. Turn your vault into a living AI-first second brain. 31 commands, vault-first research, scheduled agents.
 - [basicmachines-co/basic-memory](https://github.com/basicmachines-co/basic-memory) - AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
@@ -5506,6 +5513,8 @@
 
 ## open-source 
 
+- [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) - Claude + Obsidian knowledge companion. Persistent, compounding wiki vault based on Karpathy's LLM Wiki pattern. /wiki /save /autoresearch
+- [AgriciDaniel/claude-shorts](https://github.com/AgriciDaniel/claude-shorts) - Interactive longform-to-shortform video creator — Claude Code skill with Remotion-rendered animated captions, AI segment scoring, cursor tracking, and audio-aware boundary snapping
 - [dembrandt/dembrandt](https://github.com/dembrandt/dembrandt) - Extract any website’s design system into tokens in seconds: logo, colors, typography, borders & more. One command.
 - [dennisklappe/CloudMeet](https://github.com/dennisklappe/CloudMeet) - Open-source Calendly alternative running on Cloudflare's free tier. Meeting scheduler with Google Calendar and Outlook sync.
 - [calcom/cal.diy](https://github.com/calcom/cal.diy) - Scheduling infrastructure for absolutely everyone.
@@ -6418,7 +6427,6 @@
 - [narakeet/examples](https://github.com/narakeet/examples) - Samples and examples for Narakeet scripts
 - [upbound/platform-ref-azure](https://github.com/upbound/platform-ref-azure) - Upbound's reference platform for Microsoft Azure services with Crossplane Resources
 - [CodelyTV/makefiles-course](https://github.com/CodelyTV/makefiles-course) - 
-- [structurizr/dsl](https://github.com/structurizr/dsl) - Structurizr DSL
 - [tmobile/kardio](https://github.com/tmobile/kardio) - Service Health Dashboard for Kubernetes, Containers and more...
 - [repository-settings/app](https://github.com/repository-settings/app) - Pull Requests for GitHub repository settings
 - [leeoniya/uFuzzy](https://github.com/leeoniya/uFuzzy) - A tiny, efficient fuzzy search that doesn't suck
@@ -7149,7 +7157,7 @@
 - [skalesapp/skales](https://github.com/skalesapp/skales) - Your local AI Desktop Agent for Windows, macOS & Linux. Agent Skills (SKILL.md), autonomous coding (Codework), multi-agent teams, desktop automation, 15+ AI providers, Desktop Buddy. No Docker, no ter
 - [maxciber/myfinancedash](https://github.com/maxciber/myfinancedash) - Private-by-design financial analytics. Drop your bank exports into a single HTML file and visualize your wealth locally
 - [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN) - [MLsys2026]: RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
-- [homarr-labs/homarr](https://github.com/homarr-labs/homarr) - A modern and easy to use dashboard. 40+ integrations. 10K+ icons built in. Authentication out of the box. No YAML, drag and drop configuration.
+- [homarr-labs/homarr](https://github.com/homarr-labs/homarr) - A modern and easy to use dashboard. 40+ integrations. 20K+ icons built in. Authentication out of the box. No YAML, drag and drop configuration.
 - [alphacep/vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
@@ -7578,6 +7586,7 @@
 
 - [erincon01/RAG-Challenge](https://github.com/erincon01/RAG-Challenge) - RAG-Challenge for Football Analysis using Azure OpenAI
 - [alvinreal/awesome-opensource-ai](https://github.com/alvinreal/awesome-opensource-ai) - Curated list of the best truly open-source AI projects, models, tools, and infrastructure.
+- [safishamsi/graphify](https://github.com/safishamsi/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable
 - [monaccode/astromesh](https://github.com/monaccode/astromesh) - Multi-model AI agent runtime. Define agents in YAML, connect 6 LLM providers, orchestrate with ReAct/Plan&Execute/Fan-Out/Pipeline/Supervisor/Swarm patterns, and deploy    as REST/WebSocket API with R
 - [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) - Vane is an AI-powered answering engine.
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
@@ -7631,7 +7640,6 @@
 ## react 
 
 - [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Open-source, secure environment with real-world tools for enterprise-grade agents.
-- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems · 🖼️ sandboxed preview · 📦 HTML/PDF/PPTX export. 🤖 Runs on Claude Code / Codex / Curs
 - [learnhouse/learnhouse](https://github.com/learnhouse/learnhouse) - The Next-gen Open Source learning platform for everyone ✨
 - [VladSez/easy-invoice-pdf](https://github.com/VladSez/easy-invoice-pdf) - Free & Open-Source Invoice Generator – Live PDF Preview, No Sign-Up, 100% In-Browser. Includes a Stripe-style invoice template. Star if you like it 🌟
 - [srizzon/git-city](https://github.com/srizzon/git-city) - Your GitHub profile as a 3D pixel art building in an interactive city
@@ -8701,7 +8709,6 @@
 
 - [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Open-source, secure environment with real-world tools for enterprise-grade agents.
 - [OpenCoworkAI/open-codesign](https://github.com/OpenCoworkAI/open-codesign) - Open-source Claude Design alternative. One-click import your Claude Code / Codex API key. Prompt → prototype / slides / PDF. Multi-model (Claude, GPT, Gemini, Kimi, GLM, Ollama). BYOK, local-first, MI
-- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems · 🖼️ sandboxed preview · 📦 HTML/PDF/PPTX export. 🤖 Runs on Claude Code / Codex / Curs
 - [calcom/cal.diy](https://github.com/calcom/cal.diy) - Scheduling infrastructure for absolutely everyone.
 - [builderz-labs/mission-control](https://github.com/builderz-labs/mission-control) - Self-hosted AI agent orchestration platform: dispatch tasks, run multi-agent workflows, monitor spend, and govern operations from one mission control dashboard.
 - [VladSez/easy-invoice-pdf](https://github.com/VladSez/easy-invoice-pdf) - Free & Open-Source Invoice Generator – Live PDF Preview, No Sign-Up, 100% In-Browser. Includes a Stripe-style invoice template. Star if you like it 🌟
@@ -8814,7 +8821,7 @@
 - [pacstall/pacstall](https://github.com/pacstall/pacstall) - An AUR-inspired package manager for Ubuntu
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) - apt-get for .debs published via GitHub or direct download 📦
 - [Rishang/install-release](https://github.com/Rishang/install-release) - A CLI to install and update any single-binary CLI tools from GitHub & GitLab on Linux macOS and WSL
-- [megabytespace/gas-station](https://github.com/megabytespace/gas-station) - 🎉 An  Ansible  playbook that provisions your network with software from GitHub Awesome lists, developed with disaster recovery in mind ⛽🔥🤤 🐴
+- [heymegabyte/gas-station](https://github.com/heymegabyte/gas-station) - 🎉 An  Ansible  playbook that provisions your network with software from GitHub Awesome lists, developed with disaster recovery in mind ⛽🔥🤤 🐴
 - [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything
 - [Cyclenerd/static_status](https://github.com/Cyclenerd/static_status) - 🚦Bash script to generate a static status page.
 - [oguzhaninan/Stacer](https://github.com/oguzhaninan/Stacer) - Linux System Optimizer and Monitoring - https://oguzhaninan.github.io/Stacer-Web
@@ -9090,7 +9097,7 @@
 - [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal for free
 - [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
-- [megabytespace/gas-station](https://github.com/megabytespace/gas-station) - 🎉 An  Ansible  playbook that provisions your network with software from GitHub Awesome lists, developed with disaster recovery in mind ⛽🔥🤤 🐴
+- [heymegabyte/gas-station](https://github.com/heymegabyte/gas-station) - 🎉 An  Ansible  playbook that provisions your network with software from GitHub Awesome lists, developed with disaster recovery in mind ⛽🔥🤤 🐴
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [donnemartin/gitsome](https://github.com/donnemartin/gitsome) - A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise: https://github.com/works-with/category/desktop-tools
