@@ -41,5 +41,4 @@ jobs:
             --repository "${REPOSITORY}" \
             --message "${MESSAGE}" \
             --sort
-
   
