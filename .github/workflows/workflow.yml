@@ -5,6 +5,10 @@ on:
     - cron: '30 0 * * *'
   workflow_dispatch:
 
+concurrency:
+  group: update-${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
 permissions:
   contents: write
 
@@ -13,22 +17,23 @@ env:
 
 jobs:
   README:
+    timeout-minutes: 10
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - name: Use Node.js 16.x
-        uses: actions/setup-node@v3
+      - uses: actions/checkout@v4
+      - name: Use Node.js 22.12.0
+        uses: actions/setup-node@v6
         with:
-          node-version: 16.x
+          node-version: 22.12.0
+          cache: npm
+          cache-dependency-path: package-lock.json
       - name: Install Package
-        run: 'npm install'
-      - name: Get repository name
-        run: echo "REPOSITORY_NAME=${GITHUB_REPOSITORY#*/}" >> $GITHUB_ENV
+        run: 'npm ci --no-audit --no-fund'
       - name: Update Repo
         env:
           TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-          REPOSITORY: ${{ env.REPOSITORY_NAME }}
+          REPOSITORY: ${{ github.event.repository.name }}
         run: |
           npx stargazed \
             --username "${USERNAME}" \
