@@ -5,6 +5,10 @@ on:
     - cron: '30 0 * * *'
   workflow_dispatch:
 
+concurrency:
+  group: starred-${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
 permissions:
   contents: write
 
@@ -13,24 +17,25 @@ env:
 
 jobs:
   starred:
+    timeout-minutes: 15
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v3
-    - name: Python 3.10
-      uses: actions/setup-python@v4
+    - uses: actions/checkout@v4
+    - name: Python 3.12
+      uses: actions/setup-python@v6
       with:
-        python-version: '3.10'
+        python-version: '3.12'
+        cache: 'pip'
+        cache-dependency-path: 'requirements-starred.txt'
     - name: Install dependencies and starred
       run: |
         python -m pip install --upgrade pip
-        pip install starred
-    - name: Get repository name
-      run: echo "REPOSITORY_NAME=${GITHUB_REPOSITORY#*/}" >> $GITHUB_ENV
+        pip install --requirement requirements-starred.txt
     - name: update repo category by language
       env:
         TOKEN: ${{ secrets.GITHUB_TOKEN }}
         USERNAME: ${{ github.repository_owner }}
-        REPOSITORY: ${{ env.REPOSITORY_NAME }}
+        REPOSITORY: ${{ github.event.repository.name }}
       run: |
         starred \
           --username "${USERNAME}" \
@@ -43,7 +48,7 @@ jobs:
       env:
         TOKEN: ${{ secrets.GITHUB_TOKEN }}
         USERNAME: ${{ github.repository_owner }}
-        REPOSITORY: ${{ env.REPOSITORY_NAME }}
+        REPOSITORY: ${{ github.event.repository.name }}
       run: |
         starred \
           --username "${USERNAME}" \
