@@ -22,6 +22,7 @@
 - [CodeQL](#codeql)
 - [CoffeeScript](#coffeescript)
 - [Common Lisp](#common-lisp)
+- [Crystal](#crystal)
 - [Cuda](#cuda)
 - [D](#d)
 - [D2](#d2)
@@ -126,7 +127,6 @@
 
 ## C 
 
-- [Mentra-Community/MentraOS](https://github.com/Mentra-Community/MentraOS) - MentraOS is the leading smart glasses platform + SDK. Stream your view, transcribe audio, talk to AI and capture photos hands-free on compatible glasses.
 - [kstenerud/Musashi](https://github.com/kstenerud/Musashi) - Motorola 680x0 emulator written in C
 - [Syllo/nvtop](https://github.com/Syllo/nvtop) - GPU & Accelerator process monitoring for AMD, Apple, Huawei, Intel, NVIDIA and Qualcomm
 - [cowtoolz/webcamize](https://github.com/cowtoolz/webcamize) - Use (almost) any camera as a webcam
@@ -337,6 +337,10 @@
 
 - [atlas-engineer/nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt - the hacker's browser.
 
+## Crystal 
+
+- [iv-org/invidious](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube
+
 ## Cuda 
 
 - [luanfujun/deep-painterly-harmonization](https://github.com/luanfujun/deep-painterly-harmonization) - Code and data for paper "Deep Painterly Harmonization": https://arxiv.org/abs/1804.03189
@@ -457,7 +461,7 @@
 - [agentscope-ai/HiClaw](https://github.com/agentscope-ai/HiClaw) - An open-source Collaborative Multi-Agent OS for transparent, human-in-the-loop task coordination via Matrix rooms.
 - [jongio/dispatch](https://github.com/jongio/dispatch) - A terminal UI for browsing and launching GitHub Copilot CLI sessions. Search,   filter, group, preview, and resume — without leaving the terminal.
 - [Gentleman-Programming/gentle-ai](https://github.com/Gentleman-Programming/gentle-ai) - 
-- [VibiumDev/vibium](https://github.com/VibiumDev/vibium) - Browser automation for AI agents and humans
+- [VibiumDev/vibium](https://github.com/VibiumDev/vibium) - The verification layer for coding agents
 - [nextlevelbuilder/goclaw](https://github.com/nextlevelbuilder/goclaw) - GoClaw - GoClaw is OpenClaw rebuilt in Go — with multi-tenant isolation, 5-layer security, and native concurrency. Deploy AI agent teams at scale without compromising on safety.
 - [htekdev/gh-hookflow](https://github.com/htekdev/gh-hookflow) - Agent hook workflow engine - run GitHub Actions-like workflows triggered by hooks
 - [DevExpGbb/gh-devlake](https://github.com/DevExpGbb/gh-devlake) - Deploy a detailed DevEx metrics dashboards, combining DORA and AI adoption to show ROI. gh-devlake is a GitHub CLI extension for deploying and configuring Apache DevLake which is the platform that agg
@@ -557,7 +561,7 @@
 - [padok-team/burrito](https://github.com/padok-team/burrito) - 🌯 Burrito is a TACoS Kubernetes Operator - "Argo CD for Terraform"
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [knqyf263/pet](https://github.com/knqyf263/pet) - Simple command-line snippet manager
-- [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML, INI, HCL and CSV files with a single tool. Also available as a go mod.
+- [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML, INI, HCL, KDL and CSV files with a single tool. Also available as a go mod.
 - [noperator/sol](https://github.com/noperator/sol) - A de-minifier (formatter, exploder, beautifier) for shell one-liners
 - [noperator/jqfmt](https://github.com/noperator/jqfmt) - like gofmt, but for jq
 - [grafana/auto-triager](https://github.com/grafana/auto-triager) - 
@@ -1228,7 +1232,6 @@
 - [AndreaGriffiths11/school-calendar-script](https://github.com/AndreaGriffiths11/school-calendar-script) - Google Apps Script automatically extracts events from your school's emails and adds them to a shared Google Calendar, making it easier to keep track of important school dates and events.
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [anvaka/map-of-github](https://github.com/anvaka/map-of-github) - Inspirational Mapping
-- [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
 - [ExamProCo/Github-Examples](https://github.com/ExamProCo/Github-Examples) - A repo containing GitHub for programmatic examples
 - [cattr-app/desktop-application](https://github.com/cattr-app/desktop-application) - Electron-based desktop time tracker for Cattr
 - [github/command](https://github.com/github/command) - IssueOps commands in GitHub Actions
@@ -1267,6 +1270,7 @@
 - [Pradumnasaraf/DevOps](https://github.com/Pradumnasaraf/DevOps) - I created this repository to keep my learning, notes, and code in one place for various tools in DevOps. Now, it's helping thousands of learners, practitioners, and professionals every day in their De
 - [steveseguin/social_stream](https://github.com/steveseguin/social_stream) - Consolidate your live social messaging streams and much more
 - [upgundecha/howtheysre](https://github.com/upgundecha/howtheysre) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
+- [FidelusAleksander/ghcertified](https://github.com/FidelusAleksander/ghcertified) - Prepare for GitHub Certification exams!
 - [steveseguin/vdo.ninja](https://github.com/steveseguin/vdo.ninja) - VDO.Ninja is a powerful tool that lets you bring remote video feeds into OBS or other studio software via WebRTC.
 - [navicore/azuml](https://github.com/navicore/azuml) - Diagram Generator for Azure Subnets and NSGs
 - [githubocto/repo-visualizer](https://github.com/githubocto/repo-visualizer) - 
@@ -1613,6 +1617,8 @@
 
 ## Others 
 
+- [aj-enns/token-economy](https://github.com/aj-enns/token-economy) - A token-economy playbook for GitHub Copilot Chat & agents under usage-based billing.
+- [serenakeyitan/awesome-notebookLM-prompts](https://github.com/serenakeyitan/awesome-notebookLM-prompts) - A curated collection of the strongest NotebookLM slide prompts sourced from the real creative underground . Your go-to resource for AI powerpoint :P
 - [timschps/copilot-learning-journey](https://github.com/timschps/copilot-learning-journey) - GitHub Copilot CLI skill that analyzes your session history to reveal your learning evolution, suggest next steps, and estimate ROI
 - [OuterSpacee/build-your-own-ai](https://github.com/OuterSpacee/build-your-own-ai) - 
 - [ZeroPointRepo/youtube-skills](https://github.com/ZeroPointRepo/youtube-skills) - YouTube Transcript API skills for AI agents. Get transcripts, search videos, browse channels. Works with OpenClaw, Hermes-Agent, Claude Code, Cursor, Windsurf.
@@ -1624,7 +1630,7 @@
 - [VoltAgent/awesome-claude-design](https://github.com/VoltAgent/awesome-claude-design) - Awesome Claude Design: 68 ready-to-use design system inspirations in DESIGN.md format. Drop one in, scaffold a full UI in one shot.
 - [ponchotitlan/pyATS-loves-agenticops](https://github.com/ponchotitlan/pyATS-loves-agenticops) - A network automation, low-code demonstration of agentic-ops using n8n and pyATS
 - [rohitg00/awesome-claude-design](https://github.com/rohitg00/awesome-claude-design) - Claude Design DESIGN.md prompts by aesthetic family, remix recipes, skills, video teardowns, X signal, honest community takes.
-- [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
+- [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
 - [bergside/awesome-design-skills](https://github.com/bergside/awesome-design-skills) - List of 67 awesome DESIGN.md and SKILL.md design skill files for agentic tools like Claude Design, Google Stitch, Codex, Cursor, and other AI tools
 - [devantler-tech/skills](https://github.com/devantler-tech/skills) - Generic Copilot / agent skills, installable via gh skill
 - [ebertti/awesome-telegram](https://github.com/ebertti/awesome-telegram) - Collection great groups, channels, bots and libraries for Telegram
@@ -3093,6 +3099,7 @@
 
 ## TypeScript 
 
+- [danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) - Agentic AI Infrastructure for magnifying HUMAN capabilities.
 - [Nutlope/make-comics](https://github.com/Nutlope/make-comics) - Create full comics with AI in seconds
 - [garrytan/gbrain](https://github.com/garrytan/gbrain) - Garry's Opinionated OpenClaw/Hermes Agent Brain
 - [kittendevv/Invio](https://github.com/kittendevv/Invio) - Self-hosted invoicing without the bloat.
@@ -3114,6 +3121,7 @@
 - [openclaw/cookbook](https://github.com/openclaw/cookbook) - Example apps for the OpenClaw SDK
 - [OpenCoworkAI/open-codesign](https://github.com/OpenCoworkAI/open-codesign) - Open-source Claude Design alternative. One-click import your Claude Code / Codex API key. Prompt → prototype / slides / PDF. Multi-model (Claude, GPT, Gemini, Kimi, GLM, Ollama). BYOK, local-first, MI
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames
+- [Mentra-Community/MentraOS](https://github.com/Mentra-Community/MentraOS) - MentraOS is the leading smart glasses platform + SDK. Stream your view, transcribe audio, talk to AI and capture photos hands-free on compatible glasses.
 - [kitlangton/ghui](https://github.com/kitlangton/ghui) - A GitHub TUI
 - [microsoft/vscode-chat-customizations-evaluation](https://github.com/microsoft/vscode-chat-customizations-evaluation) - A repository to evaluate the chat customizations
 - [BlackHatDevX/openspot-music-app](https://github.com/BlackHatDevX/openspot-music-app) - OpenSpot is a free, open-source music app that lets you stream and download high-quality tracks across all your devices. With a sleek, intuitive UI built for a seamless experience, it supports Android
@@ -3138,7 +3146,7 @@
 - [CristianOlivera1/openvid](https://github.com/CristianOlivera1/openvid) - Create professional demos and mockups in seconds, directly in your browser
 - [htekdev/gh-cli-telegram-extension](https://github.com/htekdev/gh-cli-telegram-extension) - Telegram ↔ GitHub Copilot CLI bridge extension. Chat with Copilot from your phone. Who needs OpenClaw?
 - [srizzon/git-city](https://github.com/srizzon/git-city) - Your GitHub profile as a 3D pixel art building in an interactive city
-- [skalesapp/skales](https://github.com/skalesapp/skales) - Your local AI Desktop Agent for Windows, macOS & Linux. Agent Skills (SKILL.md), autonomous coding (Codework), multi-agent teams, desktop automation, 15+ AI providers, Desktop Buddy. No Docker, no ter
+- [skalesapp/skales](https://github.com/skalesapp/skales) - Local-first AI desktop agent for Windows, macOS, Linux & Android. Codework, multi-agent teams, desktop automation, 15+ AI providers. No Docker. No terminal. AI Companion. Agent Skills (SKILL.md). Migr
 - [moltlaunch/cashclaw](https://github.com/moltlaunch/cashclaw) - An autonomous agent that takes work, does work, gets paid, and gets better at it.
 - [trycua/launchpad](https://github.com/trycua/launchpad) - 
 - [Yesterday-AI/paperclip-plugin-company-wizard](https://github.com/Yesterday-AI/paperclip-plugin-company-wizard) - Bootstrap AI agent companies from modular templates.
@@ -3408,6 +3416,7 @@
 - [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate agentic social media scheduling tool 🤖
 - [cline/cline](https://github.com/cline/cline) - Autonomous coding agent as an SDK, IDE extension, or CLI assistant.
 - [undb-io/undb](https://github.com/undb-io/undb) - 🚀 Private first self-hosted no code database & BaaS.
+- [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
 - [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene) - AI-powered, vision-driven UI automation for every platform.
 - [kturung/cogent](https://github.com/kturung/cogent) - 
 - [al1abb/invoify](https://github.com/al1abb/invoify) - An invoice generator app built using Next.js, Typescript, and Shadcn
@@ -3452,7 +3461,7 @@
 - [rtfpessoa/diff2html](https://github.com/rtfpessoa/diff2html) - Pretty diff to html javascript library (diff2html)
 - [pomber/stargazer](https://github.com/pomber/stargazer) - Your repo reached a stars milestone? Celebrate with a video of your stargazers!
 - [winglang/wing](https://github.com/winglang/wing) - A programming language for the cloud ☁️ A unified programming model, combining infrastructure and runtime code into one language ⚡
-- [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
+- [lissy93/web-check](https://github.com/lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [midrender/revideo](https://github.com/midrender/revideo) - Create Videos with Code
 - [cheeselemon/ophiuchi-desktop](https://github.com/cheeselemon/ophiuchi-desktop) - Localhost SSL Proxy Server Manager using Docker
@@ -3494,7 +3503,6 @@
 - [cdktf/cdktf-provider-github](https://github.com/cdktf/cdktf-provider-github) - Prebuilt Terraform CDK (cdktf) provider for github.
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
 - [chrisvdev/CVTalk](https://github.com/chrisvdev/CVTalk) - CVTalk is a Twitch chat viewer made with React for use in OBS or any streaming software capable of using a browser as a source including TTS and other cool features.
-- [FidelusAleksander/ghcertified](https://github.com/FidelusAleksander/ghcertified) - Prepare for GitHub Certification exams!
 - [Qovery/Torii](https://github.com/Qovery/Torii) - Torii ⛩️ is a simple, powerful and extensible open-source Internal Developer Portal
 - [onelang/OneLang](https://github.com/onelang/OneLang) - 
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
