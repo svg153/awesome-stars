@@ -175,6 +175,7 @@
 
 ## C# # 
 
+- [h4lfheart/FortnitePorting](https://github.com/h4lfheart/FortnitePorting) - The quickest and most efficient way to extract assets from Fortnite
 - [DamianEdwards/copilotd](https://github.com/DamianEdwards/copilotd) - Auto-dispatch copilot CLI instances based on GitHub issues
 - [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) - OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation requir
 - [openclaw/openclaw-windows-node](https://github.com/openclaw/openclaw-windows-node) - Windows companion suite for OpenClaw - System Tray app, Shared library, Node, and PowerToys Command Palette extension
@@ -452,6 +453,7 @@
 
 ## Go 
 
+- [roborev-dev/roborev](https://github.com/roborev-dev/roborev) - Continuous background code review database for agents, work faster and smarter with accountability for every line of generated code.
 - [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) - Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS / MPEG-TS / RTP media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
 - [microsoft/ghqr](https://github.com/microsoft/ghqr) - GitHub Quick Review. Evaluate your enterprise and organizations with GitHub best practices
 - [achetronic/magec](https://github.com/achetronic/magec) - Multi-agent AI platform with voice and text control. Visual workflows, web interface, and chat integrations (Telegram, Discord, Slack). Long-term memory, any LLM backend, extensible via MCP tools.
@@ -1053,6 +1055,7 @@
 
 ## Java 
 
+- [shibaFoss/AIO-Video-Downloader](https://github.com/shibaFoss/AIO-Video-Downloader) - 📥 Powerful Video/Audio Downloader for Android — Open Source, Ad-Free, and Built on yt-dlp for a Seamless, User-Centric Experience
 - [ctt-gob-es/clienteafirma](https://github.com/ctt-gob-es/clienteafirma) - Cliente @firma
 - [dotCMS/core](https://github.com/dotCMS/core) - The Visual Headless Content Management System for Enterprises
 - [opencast/opencast](https://github.com/opencast/opencast) - The free and open source solution for automated video capture and distribution at scale.
@@ -1150,6 +1153,7 @@
 
 ## JavaScript 
 
+- [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) - Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.
 - [jrubiosainz/squad-budget-tokens-extension](https://github.com/jrubiosainz/squad-budget-tokens-extension) - Token budget guard for GitHub Copilot CLI Squad sessions. Local dashboard + per-agent live token consumption (input/output/cached) + autopilot kill-switch.
 - [darkzOGx/youtube-automation-agent](https://github.com/darkzOGx/youtube-automation-agent) - 🎬 Fully automated YouTube channel management with AI agents. Creates, optimizes & publishes videos 24/7. Works with FREE Gemini API or OpenAI. No coding required!
 - [derek-larson14/obsidian-claude-anywhere](https://github.com/derek-larson14/obsidian-claude-anywhere) - Your Mac's Claude Code, from your phone or tablet
@@ -1621,6 +1625,7 @@
 
 ## Others 
 
+- [himself65/trade-skills](https://github.com/himself65/trade-skills) - 
 - [DirectorySurf/awesome-launch-platforms](https://github.com/DirectorySurf/awesome-launch-platforms) - Curated list of platforms where you can launch, promote, and showcase your startup, product, or side project.
 - [github/app](https://github.com/github/app) - This is the home for releases and issues for the GitHub Copilot app
 - [aj-enns/token-economy](https://github.com/aj-enns/token-economy) - A token-economy playbook for GitHub Copilot Chat & agents under usage-based billing.
@@ -2839,6 +2844,7 @@
 
 ## Shell 
 
+- [DrCatHicks/learning-opportunities](https://github.com/DrCatHicks/learning-opportunities) - A Claude or Codex skill for deliberate skill development during AI-assisted coding
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop
 - [Thakurvaibhav/k8s](https://github.com/Thakurvaibhav/k8s) - Platform In a Box!
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .claude directory.
@@ -3065,6 +3071,7 @@
 
 ## Swift 
 
+- [sylearn/AIUsage](https://github.com/sylearn/AIUsage) - One dashboard for all your AI subscriptions — quotas, costs, accounts, and Claude Code proxy.
 - [pixel-point/media-downloader](https://github.com/pixel-point/media-downloader) - Beautiful native macOS video downloader. Download and trim in one app.
 - [syi0808/screenize](https://github.com/syi0808/screenize) - Open-source macOS screen recording app with auto-zoom, cursor effects, and timeline editing — Screen Studio alternative.
 - [rebornix/Agmente](https://github.com/rebornix/Agmente) - iOS client for coding agents via ACP or Codex app-server
@@ -3106,6 +3113,9 @@
 
 ## TypeScript 
 
+- [thesysdev/openui](https://github.com/thesysdev/openui) - The Open Standard for Generative UI
+- [openfootmanager/openfootmanager](https://github.com/openfootmanager/openfootmanager) - An open source soccer/football manager game
+- [hosenur/portal](https://github.com/hosenur/portal) - Mobile first batteries included web ui for sst/opencode. Git integration, in browser terminal, isolated workspaces.
 - [YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill](https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill) - AI skill for OpenClaw & Claude Code — recommend from 10000+ Nano Banana Pro (Gemini) image prompts. Smart search by use case, content remix, sample images.
 - [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code, or knowledge base (Karpathy LLM wiki), into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claud
 - [danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) - Agentic AI Infrastructure for magnifying HUMAN capabilities.
@@ -3232,7 +3242,7 @@
 - [projectstorm/react-diagrams](https://github.com/projectstorm/react-diagrams) - a super simple, no-nonsense diagramming library written in react that just works
 - [ui-layouts/uilayouts](https://github.com/ui-layouts/uilayouts) - UI Layouts isn’t just a library. It’s your complete front-end universe with components, effects, design tools, and ready-to-use blocks, everything you need to build modern interfaces, faster.
 - [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
-- [lobehub/lobehub](https://github.com/lobehub/lobehub) - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effo
+- [lobehub/lobehub](https://github.com/lobehub/lobehub) - LobeHub organizes your agents into 7×24 operation. It hires, schedules, reports on your entire AI team. You stay in charge — without staying online.
 - [invoicerr-app/invoicerr](https://github.com/invoicerr-app/invoicerr) - Invoicerr is a freelance-focused invoicing app that lets you create quotes, generate invoices, track payments, and collect secure signatures.
 - [RookieEnough/Orion-Store](https://github.com/RookieEnough/Orion-Store) - The ultimate home for modded apps. OrionStore offers instant access to YouTube Morphe, YT Music Morphe, and essential open-source tools without the clutter. No servers, no tracking, just a beautiful, 
 - [modelcontextprotocol/ext-apps](https://github.com/modelcontextprotocol/ext-apps) - Official repo for spec & SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served by MCP servers
@@ -3423,7 +3433,7 @@
 - [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate agentic social media scheduling tool 🤖
 - [cline/cline](https://github.com/cline/cline) - Autonomous coding agent as an SDK, IDE extension, or CLI assistant.
 - [undb-io/undb](https://github.com/undb-io/undb) - 🚀 Private first self-hosted no code database & BaaS.
-- [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
+- [elizaOS/eliza](https://github.com/elizaOS/eliza) - Open source agentic operating system
 - [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene) - AI-powered, vision-driven UI automation for every platform.
 - [kturung/cogent](https://github.com/kturung/cogent) - 
 - [al1abb/invoify](https://github.com/al1abb/invoify) - An invoice generator app built using Next.js, Typescript, and Shadcn
