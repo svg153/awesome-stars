@@ -344,7 +344,7 @@
 - [eltociear/awesome-AI-driven-development](https://github.com/eltociear/awesome-AI-driven-development) - Awesome list of AI-Driven Development.
 - [spacedriveapp/spacebot](https://github.com/spacedriveapp/spacebot) - An AI agent for teams, communities, and multi-user environments.
 - [FreedomIntelligence/TwinMarket](https://github.com/FreedomIntelligence/TwinMarket) - [NeurIPS 2025 & ICLR 2025 Financial AI Best Paper Award] A multi-agent framework that leverages LLMs to simulate socio-economic systems
-- [lobehub/lobehub](https://github.com/lobehub/lobehub) - LobeHub organizes your agents into 7×24 operation. It hires, schedules, reports on your entire AI team. You stay in charge — without staying online.
+- [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 - [intellectronica/agent-skills](https://github.com/intellectronica/agent-skills) - @intellectronica's agent skills
 - [tambo-ai/tambo](https://github.com/tambo-ai/tambo) - Generative UI SDK for React
 - [eat-pray-ai/yutu](https://github.com/eat-pray-ai/yutu) - The AI-powered toolkit that grows your YouTube channel on autopilot.
@@ -442,6 +442,10 @@
 
 ## ai 
 
+- [Finrandojin/alexandria-audiobook](https://github.com/Finrandojin/alexandria-audiobook) - AI-powered multi-voice audiobook generator — LLM script annotation, voice cloning, voice design, LoRA training, per-line style control, and export to MP3, chaptered M4B, or Audacity multi-track. Built
+- [mishushakov/llm-scraper](https://github.com/mishushakov/llm-scraper) - Turn any webpage into structured data using LLMs
+- [SamurAIGPT/Vibe-Workflow](https://github.com/SamurAIGPT/Vibe-Workflow) - Free, open-source alternative to Weavy AI, Krea Nodes, Freepik Spaces & FloraFauna AI — node-based AI workflow builder for generative image & video pipelines
+- [cloudflare/vibesdk](https://github.com/cloudflare/vibesdk) - An open-source vibe coding platform that helps you build your own vibe-coding platform, built entirely on Cloudflare stack
 - [thesysdev/openui](https://github.com/thesysdev/openui) - The Open Standard for Generative UI
 - [hosenur/portal](https://github.com/hosenur/portal) - Mobile first batteries included web ui for sst/opencode. Git integration, in browser terminal, isolated workspaces.
 - [danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) - Agentic AI Infrastructure for magnifying HUMAN capabilities.
@@ -488,7 +492,7 @@
 - [steipete/CodexBar](https://github.com/steipete/CodexBar) - Show usage stats for OpenAI Codex and Claude Code, without having to login.
 - [opral/lix](https://github.com/opral/lix) - Version control system for AI agents
 - [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
-- [lobehub/lobehub](https://github.com/lobehub/lobehub) - LobeHub organizes your agents into 7×24 operation. It hires, schedules, reports on your entire AI team. You stay in charge — without staying online.
+- [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 - [modelcontextprotocol/ext-apps](https://github.com/modelcontextprotocol/ext-apps) - Official repo for spec & SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served by MCP servers
 - [softaworks/agent-toolkit](https://github.com/softaworks/agent-toolkit) - A curated collection of skills for AI coding agents. Skills are packaged instructions and scripts that extend agent capabilities across development, documentation, planning, and professional workflows
 - [tambo-ai/tambo](https://github.com/tambo-ai/tambo) - Generative UI SDK for React
@@ -748,6 +752,7 @@
 
 ## android 
 
+- [sickcodes/dock-droid](https://github.com/sickcodes/dock-droid) - Docker Android - Run QEMU Android in a Docker! X11 Forwarding! CI/CD for Android!
 - [BlackHatDevX/openspot-music-app](https://github.com/BlackHatDevX/openspot-music-app) - OpenSpot is a free, open-source music app that lets you stream and download high-quality tracks across all your devices. With a sleek, intuitive UI built for a seamless experience, it supports Android
 - [skalesapp/skales](https://github.com/skalesapp/skales) - Local-first AI desktop agent for Windows, macOS, Linux & Android. Codework, multi-agent teams, desktop automation, 15+ AI providers. No Docker. No terminal. AI Companion. Agent Skills (SKILL.md). Migr
 - [unicodeveloper/awesome-opensource-apps](https://github.com/unicodeveloper/awesome-opensource-apps) - :house::information_source: Curated list of awesome open source crafted web & mobile applications - Learn, Fork, Contribute & Most Importantly Enjoy!
@@ -903,6 +908,7 @@
 
 ## artificial-intelligence 
 
+- [mishushakov/llm-scraper](https://github.com/mishushakov/llm-scraper) - Turn any webpage into structured data using LLMs
 - [alvinreal/awesome-opensource-ai](https://github.com/alvinreal/awesome-opensource-ai) - Curated list of the best truly open-source AI projects, models, tools, and infrastructure.
 - [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) - Vane is an AI-powered answering engine.
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
@@ -1359,6 +1365,7 @@
 
 ## azure 
 
+- [floci-io/floci-az](https://github.com/floci-io/floci-az) - Light, fluffy, and always free - Local Azure Emulator
 - [Javierif/AzulClaw](https://github.com/Javierif/AzulClaw) - Secure hybrid AI assistant brain reinvented from OpenClaw, combining Microsoft Agent Framework + Azure OpenAI with zero-trust MCP sandboxed desktop tools.
 - [matsest/lazyazure](https://github.com/matsest/lazyazure) - The lazy way to view  your Azure resources. TUI for drilling down into Azure subscriptions, resource groups and resources.
 - [mikeroyal/WSL-Guide](https://github.com/mikeroyal/WSL-Guide) - Windows Subsystem for Linux (WSL) Guide. Use WSL develop to with Kubernetes and in the Cloud (Microsoft Azure, AWS, and Google Cloud).
@@ -1610,6 +1617,7 @@
 
 ## chatgpt 
 
+- [GauravSingh9356/J.A.R.V.I.S](https://github.com/GauravSingh9356/J.A.R.V.I.S) - Personal Assistant built using python libraries. It does almost anything which includes sending emails, Optical Text Recognition, Dynamic News Reporting at any time with API integration, Todo list gen
 - [EvoLinkAI/awesome-gpt-image-2-API-and-Prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts) - GPT-Image-2 API and Prompts
 - [AI4Finance-Foundation/FinRobot](https://github.com/AI4Finance-Foundation/FinRobot) - FinRobot: An Open-Source AI Agent Platform for Financial Analysis using LLMs 🚀 🚀 🚀
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
@@ -1617,7 +1625,7 @@
 - [FujiwaraChoki/MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) - Automate Creation of YouTube Shorts using MoviePy.
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - "🐈 nanobot: The Ultra-Lightweight Personal AI Agent"
-- [lobehub/lobehub](https://github.com/lobehub/lobehub) - LobeHub organizes your agents into 7×24 operation. It hires, schedules, reports on your entire AI team. You stay in charge — without staying online.
+- [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 - [eat-pray-ai/yutu](https://github.com/eat-pray-ai/yutu) - The AI-powered toolkit that grows your YouTube channel on autopilot.
 - [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) - AI Agent Engineering Platform built on an Open Source TypeScript AI Agent Framework
 - [CodeUpdaterBot/ClickUi](https://github.com/CodeUpdaterBot/ClickUi) - The best way to use AI is on your own computer. Use local or paid API models, and ctrl+k to show/hide the chat UI. Experience the future of AI, and help build it too!
@@ -1696,6 +1704,7 @@
 
 ## claude-code 
 
+- [breaking-brake/cc-wf-studio](https://github.com/breaking-brake/cc-wf-studio) - CC Workflow Studio
 - [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code, or knowledge base (Karpathy LLM wiki), into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claud
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop
 - [digitalsamba/claude-code-video-toolkit](https://github.com/digitalsamba/claude-code-video-toolkit) - AI-native video production toolkit for Claude Code
@@ -2681,6 +2690,8 @@
 
 ## docker 
 
+- [sickcodes/dock-droid](https://github.com/sickcodes/dock-droid) - Docker Android - Run QEMU Android in a Docker! X11 Forwarding! CI/CD for Android!
+- [floci-io/floci-az](https://github.com/floci-io/floci-az) - Light, fluffy, and always free - Local Azure Emulator
 - [ScrapeGraphAI/scrapecraft](https://github.com/ScrapeGraphAI/scrapecraft) - 🤖 AI-powered web scraping editor with visual workflow builder. Build, test & deploy web scrapers using natural language. Powered by ScrapeGraphAI & LangGraph.
 - [jcarlosrodicio/opencode-agent-orchestration-kit](https://github.com/jcarlosrodicio/opencode-agent-orchestration-kit) - Starter kit for OpenCode agent orchestration with product-development workflows, Open Design integration, Superpowers, Docker, and docs.
 - [Smaug6739/Alexandrie](https://github.com/Smaug6739/Alexandrie) - Self-hosted knowledge base with extended Markdown, Kanban, OIDC/SSO, PWA & offline support. Deploy in one command.
@@ -2977,6 +2988,7 @@
 
 ## emulator 
 
+- [floci-io/floci-az](https://github.com/floci-io/floci-az) - Light, fluffy, and always free - Local Azure Emulator
 - [HFO4/gameboy.live](https://github.com/HFO4/gameboy.live) - 🕹️ A basic gameboy emulator with terminal "Cloud Gaming" support
 - [akatsuki105/worldwide](https://github.com/akatsuki105/worldwide) - This is my OLD and BAD GameBoy Emulator, please visit DawnGB, my new GameBoy emulator!
 - [Baekalfen/PyBoy](https://github.com/Baekalfen/PyBoy) - Game Boy emulator written in Python
@@ -3006,6 +3018,8 @@
 
 ## fastapi 
 
+- [Finrandojin/alexandria-audiobook](https://github.com/Finrandojin/alexandria-audiobook) - AI-powered multi-voice audiobook generator — LLM script annotation, voice cloning, voice design, LoRA training, per-line style control, and export to MP3, chaptered M4B, or Audacity multi-track. Built
+- [SamurAIGPT/Vibe-Workflow](https://github.com/SamurAIGPT/Vibe-Workflow) - Free, open-source alternative to Weavy AI, Krea Nodes, Freepik Spaces & FloraFauna AI — node-based AI workflow builder for generative image & video pipelines
 - [ScrapeGraphAI/scrapecraft](https://github.com/ScrapeGraphAI/scrapecraft) - 🤖 AI-powered web scraping editor with visual workflow builder. Build, test & deploy web scrapers using natural language. Powered by ScrapeGraphAI & LangGraph.
 - [the-momentum/open-wearables](https://github.com/the-momentum/open-wearables) - Self-hosted platform to unify wearable health data through one AI-ready API.
 - [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
@@ -3029,7 +3043,7 @@
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The personal finance app for everyone
 - [midday-ai/midday](https://github.com/midday-ai/midday) - Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers
 - [AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) - FinGPT: Open-Source Financial Large Language Models!  Revolutionize 🔥    We release the trained model on HuggingFace.
-- [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
+- [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorizati
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
 
 ## firebase 
@@ -3188,6 +3202,7 @@
 
 ## generative-ai 
 
+- [SamurAIGPT/Vibe-Workflow](https://github.com/SamurAIGPT/Vibe-Workflow) - Free, open-source alternative to Weavy AI, Krea Nodes, Freepik Spaces & FloraFauna AI — node-based AI workflow builder for generative image & video pipelines
 - [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) - Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.
 - [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn it. Build it. Ship it for others.
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames
@@ -3237,6 +3252,7 @@
 
 ## git 
 
+- [git-truck/git-truck](https://github.com/git-truck/git-truck) - Git repository visualizations, cumulative contribution statistics and more. Run `npx -y git-truck` to try Git Truck today!
 - [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
 - [git-town/git-town](https://github.com/git-town/git-town) - Git branches made easy
 - [j178/prek](https://github.com/j178/prek) - ⚡ A fast Git hook manager written in Rust, designed as a drop-in alternative to pre-commit, reimagined.
@@ -3847,6 +3863,9 @@
 
 ## hacktoberfest 
 
+- [vinitshahdeo/github-stars-feed](https://github.com/vinitshahdeo/github-stars-feed) - Get the latest feed of GitHub Stars out there! 🌟  ⭐  ✨
+- [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses) - A list of /uses pages detailing developer setups, gear, software and configs.
+- [GauravSingh9356/J.A.R.V.I.S](https://github.com/GauravSingh9356/J.A.R.V.I.S) - Personal Assistant built using python libraries. It does almost anything which includes sending emails, Optical Text Recognition, Dynamic News Reporting at any time with API integration, Todo list gen
 - [iv-org/invidious](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube
 - [ScrapeGraphAI/scrapecraft](https://github.com/ScrapeGraphAI/scrapecraft) - 🤖 AI-powered web scraping editor with visual workflow builder. Build, test & deploy web scrapers using natural language. Powered by ScrapeGraphAI & LangGraph.
 - [cagnulein/qdomyos-zwift](https://github.com/cagnulein/qdomyos-zwift) - Zwift bridge for smart treadmills and bike/cyclette
@@ -3936,7 +3955,7 @@
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) - Terraform GitHub provider
-- [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
+- [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorizati
 - [pnp/cli-microsoft365](https://github.com/pnp/cli-microsoft365) - Manage Microsoft 365 and SharePoint Framework projects on any platform
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [SCons/scons](https://github.com/SCons/scons) - SCons - a software construction tool
@@ -4735,6 +4754,7 @@
 
 ## linux 
 
+- [sickcodes/dock-droid](https://github.com/sickcodes/dock-droid) - Docker Android - Run QEMU Android in a Docker! X11 Forwarding! CI/CD for Android!
 - [BlackHatDevX/openspot-music-app](https://github.com/BlackHatDevX/openspot-music-app) - OpenSpot is a free, open-source music app that lets you stream and download high-quality tracks across all your devices. With a sleek, intuitive UI built for a seamless experience, it supports Android
 - [skalesapp/skales](https://github.com/skalesapp/skales) - Local-first AI desktop agent for Windows, macOS, Linux & Android. Codework, multi-agent teams, desktop automation, 15+ AI providers. No Docker. No terminal. AI Companion. Agent Skills (SKILL.md). Migr
 - [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished screen recordings without editing. Mac/Windows/Linux
@@ -4835,9 +4855,11 @@
 
 ## llm 
 
+- [mishushakov/llm-scraper](https://github.com/mishushakov/llm-scraper) - Turn any webpage into structured data using LLMs
 - [thesysdev/openui](https://github.com/thesysdev/openui) - The Open Standard for Generative UI
 - [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn it. Build it. Ship it for others.
 - [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models & providers. One command to find what runs on your hardware.
+- [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) - Claude + Obsidian knowledge companion. Persistent, compounding wiki vault based on Karpathy's LLM Wiki pattern. /wiki /save /autoresearch
 - [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Open-source, secure environment with real-world tools for enterprise-grade agents.
 - [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) - "Vibe-Trading: Your Personal Trading Agent"
 - [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - 754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Cop
@@ -5223,7 +5245,7 @@
 - [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) - Memory for 24/7 proactive agents like OpenClaw.
 - [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - Installable GitHub library of 1,400+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, and more. Includes installer CLI, bundles, workflows, and official/community skill coll
 - [punkpeye/fastmcp](https://github.com/punkpeye/fastmcp) - A TypeScript framework for building MCP servers.
-- [lobehub/lobehub](https://github.com/lobehub/lobehub) - LobeHub organizes your agents into 7×24 operation. It hires, schedules, reports on your entire AI team. You stay in charge — without staying online.
+- [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 - [yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) - Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
 - [modelcontextprotocol/ext-apps](https://github.com/modelcontextprotocol/ext-apps) - Official repo for spec & SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served by MCP servers
 - [microsoft/DebugMCP](https://github.com/microsoft/DebugMCP) - Gift your VS Code agent a real debugger: breakpoints, stepping, inspection.
@@ -5471,6 +5493,7 @@
 
 ## nextjs 
 
+- [SamurAIGPT/Vibe-Workflow](https://github.com/SamurAIGPT/Vibe-Workflow) - Free, open-source alternative to Weavy AI, Krea Nodes, Freepik Spaces & FloraFauna AI — node-based AI workflow builder for generative image & video pipelines
 - [Microck/opencode-studio](https://github.com/Microck/opencode-studio) - web GUI for securely managing local OpenCode configuration
 - [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Open-source, secure environment with real-world tools for enterprise-grade agents.
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames
@@ -5560,6 +5583,7 @@
 
 ## nodejs 
 
+- [git-truck/git-truck](https://github.com/git-truck/git-truck) - Git repository visualizations, cumulative contribution statistics and more. Run `npx -y git-truck` to try Git Truck today!
 - [darkzOGx/youtube-automation-agent](https://github.com/darkzOGx/youtube-automation-agent) - 🎬 Fully automated YouTube channel management with AI agents. Creates, optimizes & publishes videos 24/7. Works with FREE Gemini API or OpenAI. No coding required!
 - [dembrandt/dembrandt](https://github.com/dembrandt/dembrandt) - Extract any website’s design system into tokens in seconds: logo, colors, typography, borders & more. One command.
 - [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) - Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.
@@ -5609,6 +5633,7 @@
 
 ## npm 
 
+- [git-truck/git-truck](https://github.com/git-truck/git-truck) - Git repository visualizations, cumulative contribution statistics and more. Run `npx -y git-truck` to try Git Truck today!
 - [asamassekou10/ship-safe](https://github.com/asamassekou10/ship-safe) - CLI security scanner built for the agentic era. Detects CI/CD misconfigs, agent permission risks, MCP tool injection, hardcoded secrets, and DMCA-flagged AI dependencies.
 - [rohitg00/kubectl-mcp-server](https://github.com/rohitg00/kubectl-mcp-server) - Published in CNCF Landscape: A MCP server for Kubernetes.
 - [Devolutions/UniGetUI](https://github.com/Devolutions/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
@@ -5640,6 +5665,7 @@
 
 ## obsidian-plugin 
 
+- [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) - Claude + Obsidian knowledge companion. Persistent, compounding wiki vault based on Karpathy's LLM Wiki pattern. /wiki /save /autoresearch
 - [eugeniughelbur/obsidian-second-brain](https://github.com/eugeniughelbur/obsidian-second-brain) - Cross-CLI skill for Obsidian. Turns your vault into a living AI-first second brain across Claude Code, Codex CLI, Gemini CLI, and OpenCode. 32 commands, vault-first research, scheduled agents, write-t
 
 ## open-data 
@@ -5650,6 +5676,7 @@
 
 ## open-source 
 
+- [SamurAIGPT/Vibe-Workflow](https://github.com/SamurAIGPT/Vibe-Workflow) - Free, open-source alternative to Weavy AI, Krea Nodes, Freepik Spaces & FloraFauna AI — node-based AI workflow builder for generative image & video pipelines
 - [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) - Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.
 - [digitalsamba/claude-code-video-toolkit](https://github.com/digitalsamba/claude-code-video-toolkit) - AI-native video production toolkit for Claude Code
 - [bergside/design-md-chrome](https://github.com/bergside/design-md-chrome) - Chrome extension to extract styles from any website and generate DESIGN.md files and design skills for AI based on TypeUI
@@ -5722,7 +5749,7 @@
 - [github/github-ospo](https://github.com/github/github-ospo) - Helping open source program offices get started
 - [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics
 - [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed tracing, and more.
-- [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
+- [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorizati
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
@@ -5746,6 +5773,7 @@
 
 ## openai 
 
+- [mishushakov/llm-scraper](https://github.com/mishushakov/llm-scraper) - Turn any webpage into structured data using LLMs
 - [darkzOGx/youtube-automation-agent](https://github.com/darkzOGx/youtube-automation-agent) - 🎬 Fully automated YouTube channel management with AI agents. Creates, optimizes & publishes videos 24/7. Works with FREE Gemini API or OpenAI. No coding required!
 - [wuyoscar/gpt_image_2_skill](https://github.com/wuyoscar/gpt_image_2_skill) - GPT Image 2 prompt gallery, image prompt library, agentic skill, and CLI for OpenAI image generation/editing
 - [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2) - 🚀 World's largest GPT Image 2 prompt library, updated daily — 2000+ curated prompts with preview images, 16 languages. OpenAI's next-gen image model with pixel-perfect text rendering, cross-image cons
@@ -5763,7 +5791,7 @@
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
 - [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - "🐈 nanobot: The Ultra-Lightweight Personal AI Agent"
-- [lobehub/lobehub](https://github.com/lobehub/lobehub) - LobeHub organizes your agents into 7×24 operation. It hires, schedules, reports on your entire AI team. You stay in charge — without staying online.
+- [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
 - [BrowserOperator/browser-operator-core](https://github.com/BrowserOperator/browser-operator-core) - Browser Operator - The AI browser with built in Multi-Agent platform! Open source alternative to ChatGPT Atlas, Perplexity Comet, Dia and Microsoft CoPilot Edge Browser
 - [MrSibe/KnowNote](https://github.com/MrSibe/KnowNote) - A local-first AI knowledge base & NotebookLM alternative built with Electron. More convenient, more lightweight, and understands you better!
@@ -5814,6 +5842,7 @@
 
 ## opencv 
 
+- [GauravSingh9356/J.A.R.V.I.S](https://github.com/GauravSingh9356/J.A.R.V.I.S) - Personal Assistant built using python libraries. It does almost anything which includes sending emails, Optical Text Recognition, Dynamic News Reporting at any time with API integration, Todo list gen
 - [makalin/KeyForge3D](https://github.com/makalin/KeyForge3D) - KeyForge3D is an app that turns a photo of a key into a 3D-printable STL file. Ideal for locksmiths and hobbyists, it analyzes the key's bitting pattern using image processing and generates an accurat
 - [initialcommit-com/git-sim](https://github.com/initialcommit-com/git-sim) - Visually simulate Git operations in your own repos with a single terminal command.
 
@@ -5840,6 +5869,10 @@
 
 ## others 
 
+- [oxylabs/google-news-scraper](https://github.com/oxylabs/google-news-scraper) - Use Google News Scraper API to obtain the latest global news for your project, including a wide range of sources, headlines, URLs, and publication dates from the Google News platform.
+- [OvenMediaLabs/OvenMediaEngine](https://github.com/OvenMediaLabs/OvenMediaEngine) - OvenMediaEngine (OME) is a Sub-Second Latency Live Streaming Server with Large-Scale and High-Definition. #WebRTC #LLHLS
+- [egdev6/engram-monitor](https://github.com/egdev6/engram-monitor) - Dashboard to monitorize Engram events
+- [Noi1r/beamer-skill](https://github.com/Noi1r/beamer-skill) - A Claude Code skill for creating, compiling, reviewing, and polishing academic Beamer LaTeX presentations. Full lifecycle workflow with quality scoring, pedagogical review, TikZ audit, and more.
 - [DrCatHicks/learning-opportunities](https://github.com/DrCatHicks/learning-opportunities) - A Claude or Codex skill for deliberate skill development during AI-assisted coding
 - [sylearn/AIUsage](https://github.com/sylearn/AIUsage) - One dashboard for all your AI subscriptions — quotas, costs, accounts, and Claude Code proxy.
 - [h4lfheart/FortnitePorting](https://github.com/h4lfheart/FortnitePorting) - The quickest and most efficient way to extract assets from Fortnite
@@ -5889,7 +5922,7 @@
 - [ksimback/tech-debt-skill](https://github.com/ksimback/tech-debt-skill) - Claude Code skill that produces a thorough, file-cited tech debt audit of an entire codebase
 - [microsoft/vscode-chat-customizations-evaluation](https://github.com/microsoft/vscode-chat-customizations-evaluation) - A repository to evaluate the chat customizations
 - [TheGreenCedar/codex-autoresearch](https://github.com/TheGreenCedar/codex-autoresearch) - A codex plugin for running optimization loops inside a codebase. It is useful when you have a measurable target and many possible changes to try: test runtime, build speed, bundle size, model loss, Li
-- [microsoft/ghqr](https://github.com/microsoft/ghqr) - GitHub Quick Review. Evaluate your enterprise and organizations with GitHub best practices
+- [microsoft/ghqr](https://github.com/microsoft/ghqr) - GitHub Quick Review: Evaluate your enterprise and organizations against GitHub best practices
 - [akinloluwami/avnac](https://github.com/akinloluwami/avnac) - Free browser-based design software.
 - [achetronic/magec](https://github.com/achetronic/magec) - Multi-agent AI platform with voice and text control. Visual workflows, web interface, and chat integrations (Telegram, Discord, Slack). Long-term memory, any LLM backend, extensible via MCP tools.
 - [nicoduclare/moggmon](https://github.com/nicoduclare/moggmon) - pokemon but cc0
@@ -7466,6 +7499,8 @@
 
 ## python 
 
+- [Finrandojin/alexandria-audiobook](https://github.com/Finrandojin/alexandria-audiobook) - AI-powered multi-voice audiobook generator — LLM script annotation, voice cloning, voice design, LoRA training, per-line style control, and export to MP3, chaptered M4B, or Audacity multi-track. Built
+- [GauravSingh9356/J.A.R.V.I.S](https://github.com/GauravSingh9356/J.A.R.V.I.S) - Personal Assistant built using python libraries. It does almost anything which includes sending emails, Optical Text Recognition, Dynamic News Reporting at any time with API integration, Todo list gen
 - [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn it. Build it. Ship it for others.
 - [ScrapeGraphAI/scrapecraft](https://github.com/ScrapeGraphAI/scrapecraft) - 🤖 AI-powered web scraping editor with visual workflow builder. Build, test & deploy web scrapers using natural language. Powered by ScrapeGraphAI & LangGraph.
 - [dudanov/hassio-ftms](https://github.com/dudanov/hassio-ftms) - Home Assistant custom component for Bluetooth Fitness Equipment (FTMS).
@@ -7703,6 +7738,7 @@
 
 ## python3 
 
+- [GauravSingh9356/J.A.R.V.I.S](https://github.com/GauravSingh9356/J.A.R.V.I.S) - Personal Assistant built using python libraries. It does almost anything which includes sending emails, Optical Text Recognition, Dynamic News Reporting at any time with API integration, Todo list gen
 - [zohaibbashir/Google-Maps-Scrapper](https://github.com/zohaibbashir/Google-Maps-Scrapper) - This code is used to perform web scraping and data extraction from Google Maps. It is particularly designed for obtaining information about businesses, including their name, address, website, phone nu
 - [GodsScion/Auto_job_applier_linkedIn](https://github.com/GodsScion/Auto_job_applier_linkedIn) - Make your job hunt easy by automating your application process with this Auto Applier
 - [Goekdeniz-Guelmez/Local-NotebookLM](https://github.com/Goekdeniz-Guelmez/Local-NotebookLM) - Googles NotebookLM but local
@@ -7764,6 +7800,7 @@
 
 ## rag 
 
+- [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) - Claude + Obsidian knowledge companion. Persistent, compounding wiki vault based on Karpathy's LLM Wiki pattern. /wiki /save /autoresearch
 - [erincon01/RAG-Challenge](https://github.com/erincon01/RAG-Challenge) - RAG-Challenge for Football Analysis using Azure OpenAI
 - [alvinreal/awesome-opensource-ai](https://github.com/alvinreal/awesome-opensource-ai) - Curated list of the best truly open-source AI projects, models, tools, and infrastructure.
 - [safishamsi/graphify](https://github.com/safishamsi/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable
@@ -8072,7 +8109,7 @@
 - [mouredev/one-day-one-language](https://github.com/mouredev/one-day-one-language) - Cómo dar en un día tus primeros pasos en cada lenguaje de programación. Introducción, configuración e instalación, usos habituales, fundamentos, sintaxis y próximos pasos.
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
 - [ArroyoSystems/arroyo](https://github.com/ArroyoSystems/arroyo) - Distributed stream processing engine in Rust
-- [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
+- [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorizati
 - [Exafunction/windsurf.vim](https://github.com/Exafunction/windsurf.vim) - Free, ultrafast Copilot alternative for Vim and Neovim
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
@@ -8838,6 +8875,7 @@
 
 ## text-to-speech 
 
+- [Finrandojin/alexandria-audiobook](https://github.com/Finrandojin/alexandria-audiobook) - AI-powered multi-voice audiobook generator — LLM script annotation, voice cloning, voice design, LoRA training, per-line style control, and export to MP3, chaptered M4B, or Audacity multi-track. Built
 - [debpalash/OmniVoice-Studio](https://github.com/debpalash/OmniVoice-Studio) - The open-source ElevenLabs alternative for local voice cloning, design, create, dubbing and dictation Desktop App
 - [digitalsamba/claude-code-video-toolkit](https://github.com/digitalsamba/claude-code-video-toolkit) - AI-native video production toolkit for Claude Code
 - [jianchang512/pyvideotrans](https://github.com/jianchang512/pyvideotrans) - Translate the video from one language to another and embed dubbing & subtitles.
@@ -9138,6 +9176,7 @@
 
 ## visualization 
 
+- [git-truck/git-truck](https://github.com/git-truck/git-truck) - Git repository visualizations, cumulative contribution statistics and more. Run `npx -y git-truck` to try Git Truck today!
 - [srizzon/git-city](https://github.com/srizzon/git-city) - Your GitHub profile as a 3D pixel art building in an interactive city
 - [projectstorm/react-diagrams](https://github.com/projectstorm/react-diagrams) - a super simple, no-nonsense diagramming library written in react that just works
 - [scanopy/scanopy](https://github.com/scanopy/scanopy) - Network diagrams that update themselves
