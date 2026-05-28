@@ -460,7 +460,6 @@
 - [The-Swarm-Corporation/AutoHedge](https://github.com/The-Swarm-Corporation/AutoHedge) - Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.
 - [ScrapeGraphAI/scrapecraft](https://github.com/ScrapeGraphAI/scrapecraft) - 🤖 AI-powered web scraping editor with visual workflow builder. Build, test & deploy web scrapers using natural language. Powered by ScrapeGraphAI & LangGraph.
 - [bergside/design-md-chrome](https://github.com/bergside/design-md-chrome) - Chrome extension to extract styles from any website and generate DESIGN.md files and design skills for AI based on TypeUI
-- [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) - Claude + Obsidian knowledge companion. Persistent, compounding wiki vault based on Karpathy's LLM Wiki pattern. /wiki /save /autoresearch
 - [AgriciDaniel/claude-shorts](https://github.com/AgriciDaniel/claude-shorts) - Interactive longform-to-shortform video creator — Claude Code skill with Remotion-rendered animated captions, AI segment scoring, cursor tracking, and audio-aware boundary snapping
 - [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Open-source, secure environment with real-world tools for enterprise-grade agents.
 - [learnhouse/learnhouse](https://github.com/learnhouse/learnhouse) - The Next-gen Open Source learning platform for everyone ✨
@@ -638,6 +637,8 @@
 
 ## ai-agents 
 
+- [study8677/awesome-architecture](https://github.com/study8677/awesome-architecture) - 🗺️ Think like a software architect, not just a coder — 21 architecture maps (incl. AI gateway, RAG, agents, inference serving, vector DB) + a language-agnostic system-design tutorial. Every template l
+- [microsoft/agent-governance-toolkit](https://github.com/microsoft/agent-governance-toolkit) - AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.
 - [arcasilesgroup/ai-engineering](https://github.com/arcasilesgroup/ai-engineering) - Turn any repo into a governed AI workspace. Quality gates, security scanning, and risk management — enforced locally via git hooks. Works with Claude Code, GitHub Copilot, Cursor, Gemini & Codex.
 - [nexu-io/html-anything](https://github.com/nexu-io/html-anything) - ✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed pre
 - [getnao/sylph](https://github.com/getnao/sylph) - The open-source company brain. Run your entire company with AI agents, skills, and a self-improving context.
@@ -648,7 +649,7 @@
 - [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn it. Build it. Ship it for others.
 - [mutonby/pleng](https://github.com/mutonby/pleng) - Your AI Platform Engineer. Self-hosted cloud built for AI agents — deploy, monitor, and operate your infrastructure through natural language. One VPS. One command.
 - [jcarlosrodicio/opencode-agent-orchestration-kit](https://github.com/jcarlosrodicio/opencode-agent-orchestration-kit) - Starter kit for OpenCode agent orchestration with product-development workflows, Open Design integration, Superpowers, Docker, and docs.
-- [eugeniughelbur/obsidian-second-brain](https://github.com/eugeniughelbur/obsidian-second-brain) - Cross-CLI skill for Obsidian. Turns your vault into a living AI-first second brain across Claude Code, Codex CLI, Gemini CLI, and OpenCode. 32 commands, vault-first research, scheduled agents, write-t
+- [eugeniughelbur/obsidian-second-brain](https://github.com/eugeniughelbur/obsidian-second-brain) - Cross-CLI skill for Obsidian. Turns your vault into a living AI-first second brain across Claude Code, Codex CLI, Gemini CLI, and OpenCode. 34 commands, vault-first research, scheduled agents, write-t
 - [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Open-source, secure environment with real-world tools for enterprise-grade agents.
 - [0xNyk/awesome-hermes-agent](https://github.com/0xNyk/awesome-hermes-agent) - A curated list of awesome skills, tools, integrations, and resources for Hermes Agent by Nous Research
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source  Claude Design alternative. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed p
@@ -1034,6 +1035,7 @@
 
 ## awesome 
 
+- [study8677/awesome-architecture](https://github.com/study8677/awesome-architecture) - 🗺️ Think like a software architect, not just a coder — 21 architecture maps (incl. AI gateway, RAG, agents, inference serving, vector DB) + a language-agnostic system-design tutorial. Every template l
 - [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) - Learn System Design concepts and prepare for interviews using free resources.
 - [lirantal/npm-security-best-practices](https://github.com/lirantal/npm-security-best-practices) - Collection of npm package manager Security Best Practices
 - [ComposioHQ/awesome-codex-skills](https://github.com/ComposioHQ/awesome-codex-skills) - A curated list of practical Codex skills for automating workflows across the Codex CLI and API.
@@ -1171,6 +1173,7 @@
 
 ## awesome-list 
 
+- [study8677/awesome-architecture](https://github.com/study8677/awesome-architecture) - 🗺️ Think like a software architect, not just a coder — 21 architecture maps (incl. AI gateway, RAG, agents, inference serving, vector DB) + a language-agnostic system-design tutorial. Every template l
 - [lirantal/npm-security-best-practices](https://github.com/lirantal/npm-security-best-practices) - Collection of npm package manager Security Best Practices
 - [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2) - 🚀 World's largest GPT Image 2 prompt library, updated daily — 2000+ curated prompts with preview images, 16 languages. OpenAI's next-gen image model with pixel-perfect text rendering, cross-image cons
 - [0xNyk/awesome-hermes-agent](https://github.com/0xNyk/awesome-hermes-agent) - A curated list of awesome skills, tools, integrations, and resources for Hermes Agent by Nous Research
@@ -1433,6 +1436,7 @@
 
 ## backend 
 
+- [study8677/awesome-architecture](https://github.com/study8677/awesome-architecture) - 🗺️ Think like a software architect, not just a coder — 21 architecture maps (incl. AI gateway, RAG, agents, inference serving, vector DB) + a language-agnostic system-design tutorial. Every template l
 - [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) - Learn System Design concepts and prepare for interviews using free resources.
 - [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
 - [iii-hq/iii](https://github.com/iii-hq/iii) - Effortlessly compose, extend, and observe every service in real-time for the first time ever.
@@ -1732,9 +1736,9 @@
 - [digitalsamba/claude-code-video-toolkit](https://github.com/digitalsamba/claude-code-video-toolkit) - AI-native video production toolkit for Claude Code
 - [himself65/finance-skills](https://github.com/himself65/finance-skills) - A collection of skills for AI financial analysis and trading.
 - [mksglu/context-mode](https://github.com/mksglu/context-mode) - Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 15 platforms
-- [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) - Claude + Obsidian knowledge companion. Persistent, compounding wiki vault based on Karpathy's LLM Wiki pattern. /wiki /save /autoresearch
+- [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) - Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal
 - [AgriciDaniel/claude-shorts](https://github.com/AgriciDaniel/claude-shorts) - Interactive longform-to-shortform video creator — Claude Code skill with Remotion-rendered animated captions, AI segment scoring, cursor tracking, and audio-aware boundary snapping
-- [eugeniughelbur/obsidian-second-brain](https://github.com/eugeniughelbur/obsidian-second-brain) - Cross-CLI skill for Obsidian. Turns your vault into a living AI-first second brain across Claude Code, Codex CLI, Gemini CLI, and OpenCode. 32 commands, vault-first research, scheduled agents, write-t
+- [eugeniughelbur/obsidian-second-brain](https://github.com/eugeniughelbur/obsidian-second-brain) - Cross-CLI skill for Obsidian. Turns your vault into a living AI-first second brain across Claude Code, Codex CLI, Gemini CLI, and OpenCode. 34 commands, vault-first research, scheduled agents, write-t
 - [OpenCoworkAI/open-codesign](https://github.com/OpenCoworkAI/open-codesign) - Open-source Claude Design alternative. One-click import your Claude Code / Codex API key. Prompt → prototype / slides / PDF. Multi-model (Claude, GPT, Gemini, Kimi, GLM, Ollama). BYOK, local-first, MI
 - [VoltAgent/awesome-claude-design](https://github.com/VoltAgent/awesome-claude-design) - Awesome Claude Design: 68 ready-to-use design system inspirations in DESIGN.md format. Drop one in, scaffold a full UI in one shot.
 - [rohitg00/awesome-claude-design](https://github.com/rohitg00/awesome-claude-design) - Claude Design DESIGN.md prompts by aesthetic family, remix recipes, skills, video teardowns, X signal, honest community takes.
@@ -1758,7 +1762,7 @@
 - [FlorianBruniaux/claude-code-ultimate-guide](https://github.com/FlorianBruniaux/claude-code-ultimate-guide) - A tremendous feat of documentation, this guide covers Claude Code from beginner to power user, with production-ready templates for Claude Code features, guides on agentic workflows, and a lot of great
 - [f/agentlytics](https://github.com/f/agentlytics) - Comprehensive analytics dashboard for AI coding agents — Cursor, Windsurf, Claude Code, VS Code Copilot, Zed, Antigravity, OpenCode, Command Code
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
-- [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) - Create beautiful slides on the web using Claude's frontend skills
+- [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) - Create beautiful slides on the web using a coding agent's frontend skills
 - [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
 - [L1AD/claude-task-viewer](https://github.com/L1AD/claude-task-viewer) - A web-based Kanban board for viewing Claude Code tasks
 - [gastownhall/beads](https://github.com/gastownhall/beads) - Beads - A memory upgrade for your coding agent
@@ -1795,6 +1799,7 @@
 
 ## cli 
 
+- [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub.
 - [tlipinski/rura](https://github.com/tlipinski/rura) - Interactive TUI scratchpad for building shell pipelines
 - [prasadhonrao/ghcp-cli-cheatsheet](https://github.com/prasadhonrao/ghcp-cli-cheatsheet) - Searchable GitHub Copilot CLI cheatsheet built with React, Vite, and TypeScript.
 - [wuyoscar/GPT-Image2-Skill](https://github.com/wuyoscar/GPT-Image2-Skill) - GPT Image 2 prompt gallery, image prompt library, agentic skill, and CLI for OpenAI image generation/editing
@@ -2042,7 +2047,7 @@
 - [joaquimscosta/arkhe-claude-plugins](https://github.com/joaquimscosta/arkhe-claude-plugins) - Supercharge Claude Code with 109 specialized components — 22 agents, 32 commands, 55 skills across 13 modular plugins. Deep reasoning, autonomous dev loops, DDD architecture, design system enforcement
 - [pullpo-io/conventional-comments](https://github.com/pullpo-io/conventional-comments) - Chrome and Firefox extension for Conventional Comments in GitHub UI.
 - [mgreiler/code-review-checklist](https://github.com/mgreiler/code-review-checklist) - This code review checklist helps you be a more effective and efficient code reviewer.
-- [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) - 🚀 PR Agent: The Original Open-Source PR Reviewer.
+- [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) - 🚀 PR Agent: The Original Open-Source PR Reviewer.  This project It is not the Qodo free tier.
 - [palantir/policy-bot](https://github.com/palantir/policy-bot) - A GitHub App that enforces approval policies on pull requests
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
@@ -2064,7 +2069,7 @@
 ## command-line 
 
 - [lazylabz/gomander-app](https://github.com/lazylabz/gomander-app) - The simple GUI that lets you launch, monitor, and organize all your commands in one beautiful interface.
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac.
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.
 - [git-town/git-town](https://github.com/git-town/git-town) - Git branches made easy
 - [hugovk/github-tools](https://github.com/hugovk/github-tools) - Command-line Python scripts to do things with GitHub.
 - [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
@@ -2688,6 +2693,7 @@
 
 ## distributed-systems 
 
+- [study8677/awesome-architecture](https://github.com/study8677/awesome-architecture) - 🗺️ Think like a software architect, not just a coder — 21 architecture maps (incl. AI gateway, RAG, agents, inference serving, vector DB) + a language-agnostic system-design tutorial. Every template l
 - [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) - Learn System Design concepts and prepare for interviews using free resources.
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [cadence-workflow/cadence](https://github.com/cadence-workflow/cadence) - Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
@@ -3285,6 +3291,7 @@
 
 ## git 
 
+- [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub.
 - [git-truck/git-truck](https://github.com/git-truck/git-truck) - Git repository visualizations, cumulative contribution statistics and more. Run `npx -y git-truck` to try Git Truck today!
 - [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
 - [git-town/git-town](https://github.com/git-town/git-town) - Git branches made easy
@@ -3368,6 +3375,7 @@
 
 ## github 
 
+- [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub.
 - [github/GitHub-Copilot-Dev-Days](https://github.com/github/GitHub-Copilot-Dev-Days) - Repo for GitHub Copilot Dev Days content, global in-person series of events focused on GitHub Copilot.
 - [prasadhonrao/ghcp-cli-cheatsheet](https://github.com/prasadhonrao/ghcp-cli-cheatsheet) - Searchable GitHub Copilot CLI cheatsheet built with React, Vite, and TypeScript.
 - [srizzon/git-city](https://github.com/srizzon/git-city) - Your GitHub profile as a 3D pixel art building in an interactive city
@@ -3622,6 +3630,7 @@
 
 ## golang 
 
+- [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub.
 - [rivo/tview](https://github.com/rivo/tview) - Terminal UI library with rich, interactive widgets — written in Golang
 - [spr-networks/super](https://github.com/spr-networks/super) - 📡 SPR: Open Source, secure, user friendly and fast wifi routers for your home. One wifi password per device. Ad Blocking & Privacy Blocklists. Policy Based Network Access
 - [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) - Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS / MPEG-TS / RTP media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
@@ -4151,7 +4160,7 @@
 ## html 
 
 - [nexu-io/html-anything](https://github.com/nexu-io/html-anything) - ✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed pre
-- [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) - Create beautiful slides on the web using Claude's frontend skills
+- [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) - Create beautiful slides on the web using a coding agent's frontend skills
 - [maxciber/myfinancedash](https://github.com/maxciber/myfinancedash) - Private-by-design financial analytics. Drop your bank exports into a single HTML file and visualize your wealth locally
 - [robaho/go-trader](https://github.com/robaho/go-trader) - financial exchange written in Go, designed for algorithmic trading tests
 - [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
@@ -4550,6 +4559,7 @@
 
 ## kubernetes 
 
+- [ai-infra-curriculum/ai-infra-engineer-learning](https://github.com/ai-infra-curriculum/ai-infra-engineer-learning) - AI Infrastructure Engineer Learning Track - Production ML infrastructure curriculum (2-4 years experience)
 - [Thakurvaibhav/k8s](https://github.com/Thakurvaibhav/k8s) - Platform In a Box!
 - [terrakube-io/terrakube](https://github.com/terrakube-io/terrakube) - Open source IaC Automation and Collaboration Software.
 - [mmorejon/microservices-docker-go-mongodb](https://github.com/mmorejon/microservices-docker-go-mongodb) - Example of Microservices in Go with Docker, Kubernetes and MongoDB
@@ -4762,6 +4772,7 @@
 
 ## learning 
 
+- [ai-infra-curriculum/ai-infra-engineer-learning](https://github.com/ai-infra-curriculum/ai-infra-engineer-learning) - AI Infrastructure Engineer Learning Track - Production ML infrastructure curriculum (2-4 years experience)
 - [learnhouse/learnhouse](https://github.com/learnhouse/learnhouse) - The Next-gen Open Source learning platform for everyone ✨
 - [DUBSOpenHub/copilot-cli-quickstart](https://github.com/DUBSOpenHub/copilot-cli-quickstart) - 🚀 Interactive Copilot CLI tutor skill — learn by doing. This is a Copilot CLI quickstart skill with an accompanying agent to run/teach it.
 - [kasuken/LearnStack](https://github.com/kasuken/LearnStack) - LearnStack is a personal learning queue that helps you collect, prioritize, and turn knowledge into output.
@@ -4891,13 +4902,13 @@
 
 ## llm 
 
+- [ai-infra-curriculum/ai-infra-engineer-learning](https://github.com/ai-infra-curriculum/ai-infra-engineer-learning) - AI Infrastructure Engineer Learning Track - Production ML infrastructure curriculum (2-4 years experience)
 - [ComposioHQ/awesome-codex-skills](https://github.com/ComposioHQ/awesome-codex-skills) - A curated list of practical Codex skills for automating workflows across the Codex CLI and API.
 - [mishushakov/llm-scraper](https://github.com/mishushakov/llm-scraper) - Turn any webpage into structured data using LLMs
 - [thesysdev/openui](https://github.com/thesysdev/openui) - The Open Standard for Generative UI
 - [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) - Harness engineering official style beginner tutorial, from 0 to 1
 - [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn it. Build it. Ship it for others.
 - [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models & providers. One command to find what runs on your hardware.
-- [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) - Claude + Obsidian knowledge companion. Persistent, compounding wiki vault based on Karpathy's LLM Wiki pattern. /wiki /save /autoresearch
 - [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Open-source, secure environment with real-world tools for enterprise-grade agents.
 - [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) - "Vibe-Trading: Your Personal Trading Agent"
 - [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - 754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Cop
@@ -5048,7 +5059,7 @@
 
 ## mac 
 
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac.
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
 - [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (
 - [juancarlospaco/awesome-streaming-tools](https://github.com/juancarlospaco/awesome-streaming-tools) - Awesome Streaming Tools
@@ -5059,6 +5070,7 @@
 
 ## machine-learning 
 
+- [ai-infra-curriculum/ai-infra-engineer-learning](https://github.com/ai-infra-curriculum/ai-infra-engineer-learning) - AI Infrastructure Engineer Learning Track - Production ML infrastructure curriculum (2-4 years experience)
 - [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn it. Build it. Ship it for others.
 - [alvinreal/awesome-opensource-ai](https://github.com/alvinreal/awesome-opensource-ai) - Curated list of the best truly open-source AI projects, models, tools, and infrastructure.
 - [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) - Vane is an AI-powered answering engine.
@@ -5115,7 +5127,7 @@
 - [BlackHatDevX/openspot-music-app](https://github.com/BlackHatDevX/openspot-music-app) - OpenSpot is a free, open-source music app that lets you stream and download high-quality tracks across all your devices. With a sleek, intuitive UI built for a seamless experience, it supports Android
 - [skalesapp/skales](https://github.com/skalesapp/skales) - Local-first AI desktop agent for Windows, macOS, Linux & Android. Codework, multi-agent teams, desktop automation, 15+ AI providers. No Docker. No terminal. AI Companion. Agent Skills (SKILL.md). Migr
 - [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished screen recordings without editing. Mac/Windows/Linux
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac.
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.
 - [f/agentlytics](https://github.com/f/agentlytics) - Comprehensive analytics dashboard for AI coding agents — Cursor, Windsurf, Claude Code, VS Code Copilot, Zed, Antigravity, OpenCode, Command Code
 - [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN
 - [eat-pray-ai/yutu](https://github.com/eat-pray-ai/yutu) - The AI-powered toolkit that grows your YouTube channel on autopilot.
@@ -5356,6 +5368,7 @@
 
 ## microservices 
 
+- [study8677/awesome-architecture](https://github.com/study8677/awesome-architecture) - 🗺️ Think like a software architect, not just a coder — 21 architecture maps (incl. AI gateway, RAG, agents, inference serving, vector DB) + a language-agnostic system-design tutorial. Every template l
 - [mmorejon/microservices-docker-go-mongodb](https://github.com/mmorejon/microservices-docker-go-mongodb) - Example of Microservices in Go with Docker, Kubernetes and MongoDB
 - [karatelabs/karate](https://github.com/karatelabs/karate) - Test Automation Made Simple
 - [kubevela/kubevela](https://github.com/kubevela/kubevela) - The Modern Application Platform.
@@ -5380,6 +5393,7 @@
 
 ## microsoft 
 
+- [microsoft/agent-governance-toolkit](https://github.com/microsoft/agent-governance-toolkit) - AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.
 - [microsoft/lab-study-app](https://github.com/microsoft/lab-study-app) - Hands-on with GitHub Copilot: Building AI-Powered Study Plans with GitHub Models
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
 - [microsoft/Mastering-GitHub-Copilot-for-Paired-Programming](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming) - A multi-module course teaching everything you need to know about using GitHub Copilot as an AI Peer Programming resource.
@@ -5700,8 +5714,8 @@
 
 ## obsidian 
 
-- [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) - Claude + Obsidian knowledge companion. Persistent, compounding wiki vault based on Karpathy's LLM Wiki pattern. /wiki /save /autoresearch
-- [eugeniughelbur/obsidian-second-brain](https://github.com/eugeniughelbur/obsidian-second-brain) - Cross-CLI skill for Obsidian. Turns your vault into a living AI-first second brain across Claude Code, Codex CLI, Gemini CLI, and OpenCode. 32 commands, vault-first research, scheduled agents, write-t
+- [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) - Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal
+- [eugeniughelbur/obsidian-second-brain](https://github.com/eugeniughelbur/obsidian-second-brain) - Cross-CLI skill for Obsidian. Turns your vault into a living AI-first second brain across Claude Code, Codex CLI, Gemini CLI, and OpenCode. 34 commands, vault-first research, scheduled agents, write-t
 - [basicmachines-co/basic-memory](https://github.com/basicmachines-co/basic-memory) - AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [HugoBlox/hugo-theme-academic-cv](https://github.com/HugoBlox/hugo-theme-academic-cv) - 🎓 Academic portfolio that boosts citations. AI generates pages, you own as Markdown. BibTeX auto-import, Jupyter, LaTeX, slides, visual block editor — free to host forever. 学术主页，AI 生成，Markdown 拥有 👇
@@ -5709,14 +5723,14 @@
 
 ## obsidian-md 
 
-- [eugeniughelbur/obsidian-second-brain](https://github.com/eugeniughelbur/obsidian-second-brain) - Cross-CLI skill for Obsidian. Turns your vault into a living AI-first second brain across Claude Code, Codex CLI, Gemini CLI, and OpenCode. 32 commands, vault-first research, scheduled agents, write-t
+- [eugeniughelbur/obsidian-second-brain](https://github.com/eugeniughelbur/obsidian-second-brain) - Cross-CLI skill for Obsidian. Turns your vault into a living AI-first second brain across Claude Code, Codex CLI, Gemini CLI, and OpenCode. 34 commands, vault-first research, scheduled agents, write-t
 - [basicmachines-co/basic-memory](https://github.com/basicmachines-co/basic-memory) - AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 
 ## obsidian-plugin 
 
-- [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) - Claude + Obsidian knowledge companion. Persistent, compounding wiki vault based on Karpathy's LLM Wiki pattern. /wiki /save /autoresearch
-- [eugeniughelbur/obsidian-second-brain](https://github.com/eugeniughelbur/obsidian-second-brain) - Cross-CLI skill for Obsidian. Turns your vault into a living AI-first second brain across Claude Code, Codex CLI, Gemini CLI, and OpenCode. 32 commands, vault-first research, scheduled agents, write-t
+- [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) - Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal
+- [eugeniughelbur/obsidian-second-brain](https://github.com/eugeniughelbur/obsidian-second-brain) - Cross-CLI skill for Obsidian. Turns your vault into a living AI-first second brain across Claude Code, Codex CLI, Gemini CLI, and OpenCode. 34 commands, vault-first research, scheduled agents, write-t
 
 ## open-data 
 
@@ -5731,7 +5745,7 @@
 - [digitalsamba/claude-code-video-toolkit](https://github.com/digitalsamba/claude-code-video-toolkit) - AI-native video production toolkit for Claude Code
 - [bergside/design-md-chrome](https://github.com/bergside/design-md-chrome) - Chrome extension to extract styles from any website and generate DESIGN.md files and design skills for AI based on TypeUI
 - [mutonby/pleng](https://github.com/mutonby/pleng) - Your AI Platform Engineer. Self-hosted cloud built for AI agents — deploy, monitor, and operate your infrastructure through natural language. One VPS. One command.
-- [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) - Claude + Obsidian knowledge companion. Persistent, compounding wiki vault based on Karpathy's LLM Wiki pattern. /wiki /save /autoresearch
+- [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) - Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal
 - [AgriciDaniel/claude-shorts](https://github.com/AgriciDaniel/claude-shorts) - Interactive longform-to-shortform video creator — Claude Code skill with Remotion-rendered animated captions, AI segment scoring, cursor tracking, and audio-aware boundary snapping
 - [dembrandt/dembrandt](https://github.com/dembrandt/dembrandt) - Extract any website’s design system into tokens in seconds: logo, colors, typography, borders & more. One command.
 - [dennisklappe/CloudMeet](https://github.com/dennisklappe/CloudMeet) - Open-source Calendly alternative running on Cloudflare's free tier. Meeting scheduler with Google Calendar and Outlook sync.
@@ -5875,7 +5889,7 @@
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [SawyerHood/draw-a-ui](https://github.com/SawyerHood/draw-a-ui) - Draw a mockup and generate html for it
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI
-- [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) - 🚀 PR Agent: The Original Open-Source PR Reviewer.
+- [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) - 🚀 PR Agent: The Original Open-Source PR Reviewer.  This project It is not the Qodo free tier.
 - [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - CLI platform to experiment with codegen. Precursor to: https://lovable.dev
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
 - [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) - Giving Kubernetes Superpowers to everyone
@@ -5920,13 +5934,21 @@
 
 ## others 
 
+- [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop) - A skill file for removing AI tells from prose
+- [tamasi17/musicBox](https://github.com/tamasi17/musicBox) - 
+- [silvertakana/worldwideview](https://github.com/silvertakana/worldwideview) - 
+- [hoodini/ai-agents-skills](https://github.com/hoodini/ai-agents-skills) - 🧠 AI Agent Skills Repository - A curated collection of specialized skills for AI coding agents (Claude Code, GitHub Copilot, Cursor, Windsurf). Created by Yuval Avidani using GitHub Copilot via VS Cod
+- [datacurve-ai/deep-swe](https://github.com/datacurve-ai/deep-swe) - Measuring frontier coding agents on original, long-horizon engineering tasks
+- [Conway-Research/automaton](https://github.com/Conway-Research/automaton) - The first AI that can earn its own existence, replicate, and evolve — without needing a human
+- [microsoft/Webwright](https://github.com/microsoft/Webwright) - A simple SWE style browser agent framework that achieves SOTA results on long horizon web tasks.
+- [manufosela/karajan-code](https://github.com/manufosela/karajan-code) - Local multi-agent coding orchestrator with 22 pipeline roles, TDD enforcement, SonarQube integration, and automated code review. Supports Claude, Codex, Gemini, OpenCode and Aider. MCP server included
 - [Gentleman-Programming/engram](https://github.com/Gentleman-Programming/engram) - Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI.
 - [kenn-io/agentsview](https://github.com/kenn-io/agentsview) - Local-first session intelligence and analytics for coding agents, supporting Claude Code, Codex, and more than 20 other agents. Also: 100x faster replacement for ccusage!
 - [21st-dev/agent-elements](https://github.com/21st-dev/agent-elements) - 
 - [freshtechbro/claudedesignskills](https://github.com/freshtechbro/claudedesignskills) - A comprehensive collection of Claude Code skills for modern web development, specializing in 3D graphics, animation, and interactive web experiences.
 - [Helvesec/rmux-demos](https://github.com/Helvesec/rmux-demos) - RMUX implementations demos
 - [jrubiosainz/copilot-spaces-iac](https://github.com/jrubiosainz/copilot-spaces-iac) - Infrastructure as Code for GitHub Copilot Spaces - define, plan, and sync Spaces via YAML
-- [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
+- [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
 - [microsoft/AI-Engineering-Coach](https://github.com/microsoft/AI-Engineering-Coach) - better agentic engineering
 - [helmcode/agentcrew-job-search](https://github.com/helmcode/agentcrew-job-search) - Autonomous job search agent team built on AgentCrew
 - [pixlcore/xyops](https://github.com/pixlcore/xyops) - A complete workflow automation and server monitoring system.
@@ -5974,7 +5996,7 @@
 - [pamelafox/presentation-writeups](https://github.com/pamelafox/presentation-writeups) - Skills and tools to turn my presentations into writeups
 - [pamelafox/presentation-skills](https://github.com/pamelafox/presentation-skills) - Skills for AI agents to process presentations - helpful for teachers and speakers.
 - [Fralopala2/Epsylon-show](https://github.com/Fralopala2/Epsylon-show) - Epsylon, IA para empleo e impulso profesional
-- [Mentra-Community/MentraOS](https://github.com/Mentra-Community/MentraOS) - MentraOS is the leading smart glasses platform + SDK. Stream your view, transcribe audio, talk to AI and capture photos hands-free on compatible glasses.
+- [Mentra-Community/MentraOS](https://github.com/Mentra-Community/MentraOS) - MentraOS is the leading smart glasses OS. See live captions, stream your view, talk to AI, and capture photos hands-free on compatible glasses.
 - [Git-on-my-level/codex-autorunner](https://github.com/Git-on-my-level/codex-autorunner) - 
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .claude directory.
 - [kitlangton/ghui](https://github.com/kitlangton/ghui) - A GitHub TUI
@@ -7562,6 +7584,7 @@
 
 ## python 
 
+- [microsoft/agent-governance-toolkit](https://github.com/microsoft/agent-governance-toolkit) - AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.
 - [Finrandojin/alexandria-audiobook](https://github.com/Finrandojin/alexandria-audiobook) - AI-powered multi-voice audiobook generator — LLM script annotation, voice cloning, voice design, LoRA training, per-line style control, and export to MP3, chaptered M4B, or Audacity multi-track. Built
 - [GauravSingh9356/J.A.R.V.I.S](https://github.com/GauravSingh9356/J.A.R.V.I.S) - Personal Assistant built using python libraries. It does almost anything which includes sending emails, Optical Text Recognition, Dynamic News Reporting at any time with API integration, Todo list gen
 - [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn it. Build it. Ship it for others.
@@ -7863,7 +7886,6 @@
 
 ## rag 
 
-- [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) - Claude + Obsidian knowledge companion. Persistent, compounding wiki vault based on Karpathy's LLM Wiki pattern. /wiki /save /autoresearch
 - [erincon01/RAG-Challenge](https://github.com/erincon01/RAG-Challenge) - RAG-Challenge for Football Analysis using Azure OpenAI
 - [alvinreal/awesome-opensource-ai](https://github.com/alvinreal/awesome-opensource-ai) - Curated list of the best truly open-source AI projects, models, tools, and infrastructure.
 - [safishamsi/graphify](https://github.com/safishamsi/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable
@@ -8240,6 +8262,7 @@
 
 ## security 
 
+- [microsoft/agent-governance-toolkit](https://github.com/microsoft/agent-governance-toolkit) - AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.
 - [lirantal/npm-security-best-practices](https://github.com/lirantal/npm-security-best-practices) - Collection of npm package manager Security Best Practices
 - [spr-networks/super](https://github.com/spr-networks/super) - 📡 SPR: Open Source, secure, user friendly and fast wifi routers for your home. One wifi password per device. Ad Blocking & Privacy Blocklists. Policy Based Network Access
 - [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - 754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Cop
@@ -8464,7 +8487,7 @@
 ## shell 
 
 - [tlipinski/rura](https://github.com/tlipinski/rura) - Interactive TUI scratchpad for building shell pipelines
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac.
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.
 - [plengauer/Thoth](https://github.com/plengauer/Thoth) - 
 - [paxtonhare/demo-magic](https://github.com/paxtonhare/demo-magic) - A handy shell script that enables you to write repeatable demos in a bash environment.
 - [sunlei/zsh-ssh](https://github.com/sunlei/zsh-ssh) - Better host completion for ssh in Zsh.
@@ -8821,6 +8844,7 @@
 
 ## terraform 
 
+- [ai-infra-curriculum/ai-infra-engineer-learning](https://github.com/ai-infra-curriculum/ai-infra-engineer-learning) - AI Infrastructure Engineer Learning Track - Production ML infrastructure curriculum (2-4 years experience)
 - [terrakube-io/terrakube](https://github.com/terrakube-io/terrakube) - Open source IaC Automation and Collaboration Software.
 - [antonbabenko/terraform-skill](https://github.com/antonbabenko/terraform-skill) - Terraform & OpenTofu Skill for AI Agents - testing, modules, CI/CD, and production patterns
 - [terrateamio/openinfraquote](https://github.com/terrateamio/openinfraquote) - Fast, open-source tool for estimating infrastructure costs from Terraform plans and state files
@@ -8969,6 +8993,7 @@
 
 ## tui 
 
+- [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub.
 - [tlipinski/rura](https://github.com/tlipinski/rura) - Interactive TUI scratchpad for building shell pipelines
 - [matsest/lazyazure](https://github.com/matsest/lazyazure) - The lazy way to view  your Azure resources. TUI for drilling down into Azure subscriptions, resource groups and resources.
 - [tokentopapp/tokentop](https://github.com/tokentopapp/tokentop) - htop for your AI costs — real-time terminal monitoring of LLM token usage and spending across providers and coding agents
@@ -9291,6 +9316,7 @@
 
 ## vue 
 
+- [study8677/awesome-architecture](https://github.com/study8677/awesome-architecture) - 🗺️ Think like a software architect, not just a coder — 21 architecture maps (incl. AI gateway, RAG, agents, inference serving, vector DB) + a language-agnostic system-design tutorial. Every template l
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 - [flohoss/gocron](https://github.com/flohoss/gocron) - A task scheduler built with Go and Vue.js that allows users to specify recurring jobs via a simple YAML configuration file. The scheduler reads job definitions, executes commands at specified times us
 - [solidtime-io/solidtime](https://github.com/solidtime-io/solidtime) - Modern open-source time-tracking app
