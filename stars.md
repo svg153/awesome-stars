@@ -461,6 +461,7 @@
 
 ## Go 
 
+- [janekbaraniewski/openusage](https://github.com/janekbaraniewski/openusage) - The one dashboard you’ve been looking for — track spend and usage across Claude, Cursor, OpenRouter, Copilot, Gemini, Codex, and more.
 - [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL inje
 - [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub.
 - [Gentleman-Programming/engram](https://github.com/Gentleman-Programming/engram) - Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI.
@@ -524,7 +525,7 @@
 - [charmbracelet/fang](https://github.com/charmbracelet/fang) - The CLI starter kit
 - [cdnetworks-api/terraform-provider-cdnetworks](https://github.com/cdnetworks-api/terraform-provider-cdnetworks) - Terraform Cdnetworks Provider
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
-- [grafana/tempo-mcp-server](https://github.com/grafana/tempo-mcp-server) - An MCP ( Model Context Protocol ) Server for Grafana Tempo
+- [grafana-cold-storage/tempo-mcp-server](https://github.com/grafana-cold-storage/tempo-mcp-server) - An MCP ( Model Context Protocol ) Server for Grafana Tempo
 - [kaito-project/kaito](https://github.com/kaito-project/kaito) - Kubernetes AI Toolchain Operator
 - [giantswarm/mcp-debug](https://github.com/giantswarm/mcp-debug) - Command-line tool for debugging MCP servers
 - [mattermost-community/mattermost-plugin-autolink](https://github.com/mattermost-community/mattermost-plugin-autolink) - Automatically rewrite text matching a regular expression into a markdown link.
@@ -600,7 +601,7 @@
 - [mona-actions/gh-pma](https://github.com/mona-actions/gh-pma) - Post-Migration Audit (PMA) Extension For GitHub CLI
 - [lrstanley/bubblezone](https://github.com/lrstanley/bubblezone) - helper utility for BubbleTea, allowing easy mouse event tracking
 - [overmindtech/cli](https://github.com/overmindtech/cli) - Identify the blast radius and risks for Terraform changes in real time
-- [grafana/grizzly](https://github.com/grafana/grizzly) - A utility for managing Jsonnet dashboards against the Grafana API
+- [grafana-cold-storage/grizzly](https://github.com/grafana-cold-storage/grizzly) - A utility for managing Jsonnet dashboards against the Grafana API
 - [grafana/Kost](https://github.com/grafana/Kost) - K8s Cost Calculator that provides estimated reports for workloads running in Kubernetes.
 - [danvergara/dblab](https://github.com/danvergara/dblab) - The database client every command line junkie deserves.
 - [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) - Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
@@ -701,7 +702,7 @@
 - [DNSControl/dnscontrol](https://github.com/DNSControl/dnscontrol) - Infrastructure as code for DNS!
 - [crossplane-contrib/provider-upjet-azure](https://github.com/crossplane-contrib/provider-upjet-azure) - Azure Provider for Crossplane.
 - [crossplane-contrib/provider-upjet-aws](https://github.com/crossplane-contrib/provider-upjet-aws) - AWS Provider for Crossplane.
-- [grafana/phlare](https://github.com/grafana/phlare) - 🔥 horizontally-scalable, highly-available, multi-tenant continuous profiling aggregation system
+- [grafana-cold-storage/phlare](https://github.com/grafana-cold-storage/phlare) - 🔥 horizontally-scalable, highly-available, multi-tenant continuous profiling aggregation system
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 - [ko-build/ko](https://github.com/ko-build/ko) - Build and deploy Go applications
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
@@ -952,6 +953,7 @@
 
 ## HTML 
 
+- [nexu-io/html-video](https://github.com/nexu-io/html-video) - Programmatic video for coding agents — HTML to video on your laptop. Turn HTML, CSS & data into real MP4s with pluggable render engines, 21 templates, AI soundtrack. Apache-2.0, no per-render fees. An
 - [nexu-io/html-anything](https://github.com/nexu-io/html-anything) - ✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed pre
 - [githubnext/repo-assist-impact](https://github.com/githubnext/repo-assist-impact) - Repo-assist impact analysis for F# open source repositories
 - [datarhei/restreamer](https://github.com/datarhei/restreamer) - The Restreamer is a complete streaming server solution for self-hosting. It has a visually appealing user interface and no ongoing license costs. Upload your live stream to YouTube, Twitch, Facebook, 
@@ -1298,7 +1300,7 @@
 - [ClickHouse/adsb.exposed](https://github.com/ClickHouse/adsb.exposed) - Interactive visualization and analytics on ADS-B data with ClickHouse
 - [gr2m/register-github-app-cli](https://github.com/gr2m/register-github-app-cli) - CLI to register a GitHub App using the manifest flow
 - [github/gh-migration-analyzer](https://github.com/github/gh-migration-analyzer) - 
-- [grafana/k6-oss-workshop](https://github.com/grafana/k6-oss-workshop) - Grafana k6 - OSS Workshop
+- [grafana-cold-storage/k6-oss-workshop](https://github.com/grafana-cold-storage/k6-oss-workshop) - Grafana k6 - OSS Workshop
 - [cloudposse/github-action-matrix-outputs-write](https://github.com/cloudposse/github-action-matrix-outputs-write) - Workaround implementation - Write matrix jobs outputs
 - [platformatic/pg-hooks](https://github.com/platformatic/pg-hooks) - Deliver webhooks calls reliably, backed by PostgreSQL, with retry and cron support
 - [TriPSs/conventional-changelog-action](https://github.com/TriPSs/conventional-changelog-action) - Github Action that generates a changelog with the Conventional Changelog CLI
@@ -1310,7 +1312,7 @@
 - [navicore/azuml](https://github.com/navicore/azuml) - Diagram Generator for Azure Subnets and NSGs
 - [githubocto/repo-visualizer](https://github.com/githubocto/repo-visualizer) - 
 - [githubocto/flat-demo-bitcoin-price](https://github.com/githubocto/flat-demo-bitcoin-price) - A Flat Data GitHub Action demo repo
-- [grafana/k6-learn](https://github.com/grafana/k6-learn) - 
+- [grafana-cold-storage/k6-learn](https://github.com/grafana-cold-storage/k6-learn) - 
 - [oversizedhat/plantuml-watcher](https://github.com/oversizedhat/plantuml-watcher) - Small productivity util that watches for changes in plantuml files and (re)draws diagrams
 - [jsonresume/resume-schema](https://github.com/jsonresume/resume-schema) - JSON-Schema is used here to define and validate our proposed resume json
 - [brunosimon/my-room-in-3d](https://github.com/brunosimon/my-room-in-3d) - 
@@ -2106,6 +2108,10 @@
 
 ## Python 
 
+- [HKUDS/ViMax](https://github.com/HKUDS/ViMax) - "ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)"
+- [AIDC-AI/Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video) - 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
+- [anthropics/defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness) - Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize
+- [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) - Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.
 - [razzant/ouroboros](https://github.com/razzant/ouroboros) - Ouroboros — self-creating AI agent. Born Feb 16, 2026.
 - [sethkarten/pokechamp](https://github.com/sethkarten/pokechamp) - Official repository of the spotlight ICML 2025 paper, PokeChamp: an Expert-level Minimax Language Agent.
 - [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) - VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning
@@ -2390,6 +2396,7 @@
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [excludarr/excludarr](https://github.com/excludarr/excludarr) - 
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
+- [feder-cr/Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk) - AIHawk aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in a tailored way.
 - [izanamador/mercadata](https://github.com/izanamador/mercadata) - Analisis de datos de tickets mercadona
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
 - [Doriandarko/claude-engineer](https://github.com/Doriandarko/claude-engineer) - Claude Engineer is an interactive command-line interface (CLI) that leverages the power of Anthropic's Claude-3.5-Sonnet model to assist with software development tasks.This framework enables Claude t
@@ -3170,6 +3177,7 @@
 
 ## TypeScript 
 
+- [ni5arga/sightline](https://github.com/ni5arga/sightline) - An OSINT search engine for mapping real-world infrastructure from OpenStreetMap data
 - [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) - An Open Source implementation of Notebook LM with more flexibility and features
 - [cloudflare/agentic-inbox](https://github.com/cloudflare/agentic-inbox) - A self-hosted email client with an AI agent, running entirely on Cloudflare Workers
 - [reconurge/flowsint](https://github.com/reconurge/flowsint) - A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.
@@ -3221,7 +3229,7 @@
 - [microsoft/vscode-chat-customizations-evaluation](https://github.com/microsoft/vscode-chat-customizations-evaluation) - A repository to evaluate the chat customizations
 - [BlackHatDevX/openspot-music-app](https://github.com/BlackHatDevX/openspot-music-app) - OpenSpot is a free, open-source music app that lets you stream and download high-quality tracks across all your devices. With a sleek, intuitive UI built for a seamless experience, it supports Android
 - [TheGreenCedar/codex-autoresearch](https://github.com/TheGreenCedar/codex-autoresearch) - A codex plugin for running optimization loops inside a codebase. It is useful when you have a measurable target and many possible changes to try: test runtime, build speed, bundle size, model loss, Li
-- [akinloluwami/avnac](https://github.com/akinloluwami/avnac) - Free browser-based design software.
+- [xt42io/avnac](https://github.com/xt42io/avnac) - Free browser-based design software.
 - [nicoduclare/moggmon](https://github.com/nicoduclare/moggmon) - pokemon but cc0
 - [dennisklappe/CloudMeet](https://github.com/dennisklappe/CloudMeet) - Open-source Calendly alternative running on Cloudflare's free tier. Meeting scheduler with Google Calendar and Outlook sync.
 - [calcom/cal.diy](https://github.com/calcom/cal.diy) - Scheduling infrastructure for absolutely everyone.
@@ -3234,7 +3242,7 @@
 - [builderz-labs/mission-control](https://github.com/builderz-labs/mission-control) - Self-hosted AI agent orchestration platform: dispatch tasks, run multi-agent workflows, monitor spend, and govern operations from one mission control dashboard.
 - [Jakubantalik/border-beam](https://github.com/Jakubantalik/border-beam) - Animated border beam effect for React
 - [Nutlope/logocreator](https://github.com/Nutlope/logocreator) - A free + OSS logo generator powered by Flux on Together AI
-- [VladSez/easy-invoice-pdf](https://github.com/VladSez/easy-invoice-pdf) - Free & Open-Source Invoice Generator – No Sign-Up, No Ads, Instant PDF export, 100% In-Browser,  Customizable Invoice Templates. Star if you like it 🌟
+- [VladSez/easy-invoice-pdf](https://github.com/VladSez/easy-invoice-pdf) - Free & Open-Source Invoice Generator - No Sign-Up, No Ads, Instant PDF Export, 100% In-Browser, and Fully Customizable Templates. ⭐ Star the repo if you like it
 - [Chudroy/csv-importer](https://github.com/Chudroy/csv-importer) - 
 - [Stack-and-Flow/design-system](https://github.com/Stack-and-Flow/design-system) - Community Design System
 - [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) - OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.
@@ -3338,7 +3346,7 @@
 - [adrianhajdin/uber](https://github.com/adrianhajdin/uber) - Build a full-stack Uber Clone Application with Expo’s latest features and lightning-fast edge-ready Postgres database in React Native.
 - [nexmoe/VidBee](https://github.com/nexmoe/VidBee) - Download videos from almost any website worldwide
 - [presenton/presenton](https://github.com/presenton/presenton) - Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative)
-- [akinloluwami/db-thing](https://github.com/akinloluwami/db-thing) - 
+- [xt42io/db-thing](https://github.com/xt42io/db-thing) - 
 - [tambo-ai/tambo](https://github.com/tambo-ai/tambo) - Generative UI SDK for React
 - [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) - A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualiza
 - [burkeholland/video-promo](https://github.com/burkeholland/video-promo) - 
@@ -3549,7 +3557,7 @@
 - [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) - Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
 - [docker/labs-ai-tools-vscode](https://github.com/docker/labs-ai-tools-vscode) - Run & debug workflows for AI agents running Dockerized tools in VSCode
 - [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
-- [grafana/grafana-resources-exporter-plugin](https://github.com/grafana/grafana-resources-exporter-plugin) - 
+- [grafana-cold-storage/grafana-resources-exporter-plugin](https://github.com/grafana-cold-storage/grafana-resources-exporter-plugin) - 
 - [komodorio/komoplane](https://github.com/komodorio/komoplane) - 🍨 Crossplane Troubleshooting Tool by Komodor
 - [rtfpessoa/diff2html](https://github.com/rtfpessoa/diff2html) - Pretty diff to html javascript library (diff2html)
 - [pomber/stargazer](https://github.com/pomber/stargazer) - Your repo reached a stars milestone? Celebrate with a video of your stargazers!
