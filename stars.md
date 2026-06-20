@@ -165,7 +165,6 @@
 - [clibs/clib](https://github.com/clibs/clib) - Package manager for the C programming language.
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [opsxcq/docker-tor-hiddenservice-nginx](https://github.com/opsxcq/docker-tor-hiddenservice-nginx) - Easily setup a hidden service inside the Tor network
-- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [rhdunn/espeak](https://github.com/rhdunn/espeak) - eSpeak NG is an open source speech synthesizer that supports 101 languages and accents.
 - [WaTF-Team/WaTF-Bank](https://github.com/WaTF-Team/WaTF-Bank) - WaTF Bank - What a Terrible Failure Mobile Banking Application for Android and iOS
 - [Xfennec/progress](https://github.com/Xfennec/progress) - Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)
@@ -879,6 +878,7 @@
 - [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [git-bug/git-bug](https://github.com/git-bug/git-bug) - Distributed, offline-first bug tracker embedded in git
 - [openshift/source-to-image](https://github.com/openshift/source-to-image) - A tool for building artifacts from source and injecting into container images
+- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
@@ -1178,6 +1178,7 @@
 
 ## JavaScript 
 
+- [ulsklyc/yuvomi](https://github.com/ulsklyc/yuvomi) - Self-hosted family planner - tasks, calendars, shopping, meals, budget. Your data, your server.
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [decolua/9router](https://github.com/decolua/9router) - Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
 - [manufosela/karajan-code](https://github.com/manufosela/karajan-code) - Local multi-agent coding orchestrator with 22 pipeline roles, TDD enforcement, SonarQube integration, and automated code review. Supports Claude, Codex, Gemini, OpenCode and Aider. MCP server included
@@ -2243,7 +2244,7 @@
 - [op7418/Youtube-clipper-skill](https://github.com/op7418/Youtube-clipper-skill) - 
 - [AsyncFuncAI/AsyncReview](https://github.com/AsyncFuncAI/AsyncReview) - Open-source Agentic code review tool inspired by DevinReview, using Recursive Language Models (RLM)
 - [kdeldycke/repomatic](https://github.com/kdeldycke/repomatic) - 🏭 Automate repository maintenance, releases, and CI/CD workflows
-- [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) - The memory harness for proactive AI agents — structured storage, intent capture, 10x token reduction.
+- [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) - File System as Memory, Memory Shapes the Agent
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Lightweight, open-source AI agent for your tools, chats, and workflows.
 - [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - Installable GitHub library of 1,500+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, and more. Includes specialized plugins, installer CLI, bundles, workflows, and official
 - [agentskills/agentskills](https://github.com/agentskills/agentskills) - Specification and documentation for Agent Skills
@@ -2784,7 +2785,7 @@
 - [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | AI that knows what you've seen, said, or heard. Records everything you do, say, hear 24/7, local, private, secure. Connect to OpenClaw, Hermes agent and 100+ apps
 - [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN
 - [wealthfolio/wealthfolio](https://github.com/wealthfolio/wealthfolio) - A beautiful, private, local-first personal finance tracker. Investments, net worth, spending, and simulations.
-- [opral/lix](https://github.com/opral/lix) - Version control system for AI agents
+- [opral/lix](https://github.com/opral/lix) - Version control system for any file format
 - [scanopy/scanopy](https://github.com/scanopy/scanopy) - Network diagrams that update themselves
 - [flowsurface-rs/flowsurface](https://github.com/flowsurface-rs/flowsurface) - A native desktop charting platform for crypto markets
 - [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
