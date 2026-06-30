@@ -558,7 +558,7 @@
 - [workflowkit/issue-assistant](https://github.com/workflowkit/issue-assistant) - AI Assistant for your GitHub issues. 🤖
 - [termkit/gama](https://github.com/termkit/gama) - Manage your GitHub Actions from Terminal with great UI 🧪
 - [kubernetes-sigs/kro](https://github.com/kubernetes-sigs/kro) - kro | Kube Resource Orchestrator
-- [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - An easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services.
+- [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - An easy-to-use OAuth 2.0 and OpenID Connect provider that lets users sign in to your services with their passkeys.
 - [ssulei7/gh-dormant-users](https://github.com/ssulei7/gh-dormant-users) - A GH CLI extension to generate a dormant users report based on issue, commit, and PR activity.
 - [magodo/pipeform](https://github.com/magodo/pipeform) - Terraform runtime TUI 🫧
 - [pulumi/kubespy](https://github.com/pulumi/kubespy) - Tools for observing Kubernetes resources in real time, powered by Pulumi.
@@ -1178,6 +1178,7 @@
 
 ## JavaScript 
 
+- [ioniks/MarkdownTaskManager](https://github.com/ioniks/MarkdownTaskManager) - Local-first Kanban task manager
 - [jongio/skills](https://github.com/jongio/skills) - A plugin of cross-agent skills for AI coding agents — GitHub Copilot, Claude, and Codex — installable with the skills CLI (npx skills add). Includes create-canvas-kit for building Copilot canvas exten
 - [danielmeppiel/finops-workshop](https://github.com/danielmeppiel/finops-workshop) - Minimalist, speaker-driven 1-hour workshop on controlling GitHub Copilot agentic-coding cost (FinOps): deck, demos, and a stdlib-only session cost meter.
 - [plugin87/ux-ui-agent-skills](https://github.com/plugin87/ux-ui-agent-skills) - Turn Claude into a Senior Design Architect — DTCG design tokens, 42 components, WCAG 2.2 accessibility, any-framework code, 138 design systems, and runnable skills.
@@ -1669,6 +1670,7 @@
 
 ## Others 
 
+- [bobvibes/Awesome-Vibecoding-Guide](https://github.com/bobvibes/Awesome-Vibecoding-Guide) - A compendium drawn from real commercial projects and hundreds of thousands of lines of AI‑assisted code. Read it end‑to‑end or feed this repo to your AI agent for summaries and Q&A. Stars and watches 
 - [leestott/copilot-canvas-runtime](https://github.com/leestott/copilot-canvas-runtime) - Canvas as a runtime for shaping agent-driven systems — a GitHub Copilot Canvas extension (Multi-Agent Dev Canvas) with a worked scenario, blog posts, and a demo prompt.
 - [The-Cool-Coders/Project-Ideas-And-Resources](https://github.com/The-Cool-Coders/Project-Ideas-And-Resources) - A Collection of application ideas that can be used to improve your coding skills ❤.
 - [kyrolabs/awesome-agents](https://github.com/kyrolabs/awesome-agents) - 🤖 Awesome list of AI Agents
@@ -1680,7 +1682,7 @@
 - [GoogleChrome/modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance) - 
 - [wcpaxx/spec-kit-brownfield-extensions](https://github.com/wcpaxx/spec-kit-brownfield-extensions) - spec-kit Brownfield Bootstrap Extension
 - [ComBuildersES/opentechevents-spec](https://github.com/ComBuildersES/opentechevents-spec) - Proyecto para definir un estándar para la difusion de eventos
-- [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide which might benefit you a lot 🎉 . 人生进阶指南 离谱的人生 离谱的英语学习指南/英语学习教程/英语学习/学英语
+- [byoungd/up](https://github.com/byoungd/up) - An advanced guide which might benefit you a lot 🎉 . 人生进阶指南 离谱的人生 离谱的英语学习指南/英语学习教程/英语学习/学英语
 - [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop) - A skill file for removing AI tells from prose
 - [lirantal/npm-security-best-practices](https://github.com/lirantal/npm-security-best-practices) - Collection of npm package manager Security Best Practices
 - [github/GitHub-Copilot-Dev-Days](https://github.com/github/GitHub-Copilot-Dev-Days) - Repo for GitHub Copilot Dev Days content, global in-person series of events focused on GitHub Copilot.
@@ -2129,6 +2131,7 @@
 
 ## Python 
 
+- [leeyeel/Sketch2Motion](https://github.com/leeyeel/Sketch2Motion) - convert photo or sketch to motion video
 - [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) - LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-f
 - [HKUDS/VideoAgent](https://github.com/HKUDS/VideoAgent) - "VideoAgent: All-in-One Agentic Framework for Video Understanding, Editing, and Remaking"
 - [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) - World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.
@@ -2184,7 +2187,7 @@
 - [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) - Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal
 - [AgriciDaniel/claude-shorts](https://github.com/AgriciDaniel/claude-shorts) - Interactive longform-to-shortform video creator — Claude Code skill with Remotion-rendered animated captions, AI segment scoring, cursor tracking, and audio-aware boundary snapping
 - [the-momentum/open-wearables](https://github.com/the-momentum/open-wearables) - Self-hosted platform to unify wearable health data through one AI-ready API.
-- [eugeniughelbur/obsidian-second-brain](https://github.com/eugeniughelbur/obsidian-second-brain) - Cross-CLI skill for Obsidian: turn your vault into a living AI-first second brain across Claude Code, Codex, Gemini, and OpenCode. 43 commands - now with /obsidian-architect to document your codebase,
+- [eugeniughelbur/obsidian-second-brain](https://github.com/eugeniughelbur/obsidian-second-brain) - Cross-CLI skill for Obsidian: turn your vault into a living AI-first second brain across Claude Code, Codex, Gemini, OpenCode, Hermes, and Pi. 44 commands - self-rewriting notes, local+hybrid semantic
 - [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Open-source, secure environment with real-world tools for enterprise-grade agents.
 - [pamelafox/presentation-skills](https://github.com/pamelafox/presentation-skills) - Skills for AI agents to process presentations - helpful for teachers and speakers.
 - [Git-on-my-level/codex-autorunner](https://github.com/Git-on-my-level/codex-autorunner) - 
@@ -2778,6 +2781,7 @@
 
 ## Rust 
 
+- [second-state/fintool](https://github.com/second-state/fintool) - A suite of Rust CLI tools for agentic trading and market intelligence. Each exchange has its own dedicated binary — hyperliquid, binance, coinbase, okx, polymarket — plus a shared fintool for exchange
 - [sentrux/sentrux](https://github.com/sentrux/sentrux) - Real-time architectural sensor that helps AI agents close the feedback loop, enabling recursive self-improvement of code quality. Pure Rust.
 - [Canopix/WhisloAI](https://github.com/Canopix/WhisloAI) - Desktop AI assistant for fast translation and dictation from any app.
 - [tlipinski/rura](https://github.com/tlipinski/rura) - Interactive TUI scratchpad for building shell pipelines
@@ -2950,6 +2954,7 @@
 
 ## Shell 
 
+- [yosoyvilla/setup](https://github.com/yosoyvilla/setup) - 
 - [deors/workshop-platform-eng](https://github.com/deors/workshop-platform-eng) - Workshop with detailed step by step instructions on how to build a basic platform engineering self-service to request new application environments based on GitHub Actions, Terraform and Azure Web App 
 - [DrCatHicks/learning-opportunities](https://github.com/DrCatHicks/learning-opportunities) - A Claude or Codex skill for deliberate skill development during AI-assisted coding
 - [Thakurvaibhav/k8s](https://github.com/Thakurvaibhav/k8s) - Platform In a Box!
