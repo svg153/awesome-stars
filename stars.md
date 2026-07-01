@@ -326,7 +326,7 @@
 
 ## Clojure 
 
-- [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
+- [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design platform for Product teams that need scalable collaboration.
 
 ## CodeQL 
 
@@ -388,7 +388,7 @@
 
 ## Dockerfile 
 
-- [686f6c61/NaN-Open-WebUI](https://github.com/686f6c61/NaN-Open-WebUI) - Tu propio ChatGPT con todos los modelos de NaN (qwen, deepseek, gemma, mimo, whisper, kokoro), self-hosted en Docker. Pones tu API key y listo.
+- [686f6c61/NaN-Open-WebUI](https://github.com/686f6c61/NaN-Open-WebUI) - Tu propio "ChatGPT" con todos los modelos de NaN (qwen, deepseek, gemma, mimo, whisper, kokoro), self-hosted en Docker. Pones tu API key y listo.
 - [helmcode/agentcrew-job-search](https://github.com/helmcode/agentcrew-job-search) - Autonomous job search agent team built on AgentCrew
 - [sickcodes/dock-droid](https://github.com/sickcodes/dock-droid) - Docker Android - Run QEMU Android in a Docker! X11 Forwarding! CI/CD for Android!
 - [0GiS0/github-copilot-byok-ollama](https://github.com/0GiS0/github-copilot-byok-ollama) - 
@@ -459,6 +459,7 @@
 
 ## Go 
 
+- [0xMassi/pocketdev](https://github.com/0xMassi/pocketdev) - One command to run the AI coding CLI you already pay for (Claude Code, Codex, Cursor, Gemini, Grok, aider) on a Tailscale-only Hetzner box — code from your phone.
 - [ivorpad/mercadona-cli](https://github.com/ivorpad/mercadona-cli) - 
 - [Paca-AI/paca](https://github.com/Paca-AI/paca) - AI-native, free, open-source alternative to Jira, Trello, ClickUp & Monday. Built for Scrum teams where humans and AI agents collaborate as equals — on the same board, the same sprints, the same goals
 - [minamijoyo/hcledit](https://github.com/minamijoyo/hcledit) - A command line editor for HCL
@@ -1186,6 +1187,7 @@
 - [ulsklyc/yuvomi](https://github.com/ulsklyc/yuvomi) - Self-hosted family planner - tasks, calendars, shopping, meals, budget. Your data, your server.
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [decolua/9router](https://github.com/decolua/9router) - Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
+- [byoungd/up](https://github.com/byoungd/up) - An advanced guide which might benefit you a lot 🎉 . 人生进阶指南 离谱的人生 离谱的英语学习指南/英语学习教程/英语学习/学英语
 - [manufosela/karajan-code](https://github.com/manufosela/karajan-code) - Local multi-agent coding orchestrator with 22 pipeline roles, TDD enforcement, SonarQube integration, and automated code review. Supports Claude, Codex, Gemini, OpenCode and Aider. MCP server included
 - [jrubiosainz/copilot-spaces-iac](https://github.com/jrubiosainz/copilot-spaces-iac) - Infrastructure as Code for GitHub Copilot Spaces - define, plan, and sync Spaces via YAML
 - [getnao/sylph](https://github.com/getnao/sylph) - The open-source company brain. Run your entire company with AI agents, skills, and a self-improving context.
@@ -1265,7 +1267,7 @@
 - [jjimenezshaw/Zona-SER-Madrid](https://github.com/jjimenezshaw/Zona-SER-Madrid) - Mapa con las distintas plazas (verdes, azules, naranjas, ...) de la Zona SER de Madrid
 - [rados10/youtube-watchlater-mcp](https://github.com/rados10/youtube-watchlater-mcp) - MCP server for accessing YouTube Watch Later playlist
 - [olaservo/mcp-advisor](https://github.com/olaservo/mcp-advisor) - MCP Server to assist LLMs and humans on Model Context Protocol spec compliance and understanding
-- [JudiniLabs/mcp-code-graph](https://github.com/JudiniLabs/mcp-code-graph) - MCP Server for code graph analysis and visualization by CodeGPT
+- [diffbot/mcp-code-graph](https://github.com/diffbot/mcp-code-graph) - MCP Server for code graph analysis and visualization by CodeGPT
 - [marp-team/marpit](https://github.com/marp-team/marpit) - The skinny framework for creating slide deck from Markdown
 - [github/hotkey](https://github.com/github/hotkey) - Trigger an action on an element with a keyboard shortcut.
 - [github/lock](https://github.com/github/lock) - Lock Action to support deployment locking for the branch-deploy Action
@@ -1549,7 +1551,7 @@
 - [Weenkus/data-what-now](https://github.com/Weenkus/data-what-now) - All codes from the DataWhatNow blog.
 - [shekit/mirror-selfie](https://github.com/shekit/mirror-selfie) - Removing the phone from the notorious mirror selfie using deep learning
 - [virgili0/Virgilio](https://github.com/virgili0/Virgilio) - Your new Mentor for Data Science E-Learning.
-- [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content
+- [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes Community Documentation
 - [elastic/examples](https://github.com/elastic/examples) - Home for Elasticsearch examples available to everyone. It's a great way to get started.
 - [uds-se/fuzzingbook](https://github.com/uds-se/fuzzingbook) - Project page for "The Fuzzing Book"
 
@@ -1682,7 +1684,6 @@
 - [GoogleChrome/modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance) - 
 - [wcpaxx/spec-kit-brownfield-extensions](https://github.com/wcpaxx/spec-kit-brownfield-extensions) - spec-kit Brownfield Bootstrap Extension
 - [ComBuildersES/opentechevents-spec](https://github.com/ComBuildersES/opentechevents-spec) - Proyecto para definir un estándar para la difusion de eventos
-- [byoungd/up](https://github.com/byoungd/up) - An advanced guide which might benefit you a lot 🎉 . 人生进阶指南 离谱的人生 离谱的英语学习指南/英语学习教程/英语学习/学英语
 - [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop) - A skill file for removing AI tells from prose
 - [lirantal/npm-security-best-practices](https://github.com/lirantal/npm-security-best-practices) - Collection of npm package manager Security Best Practices
 - [github/GitHub-Copilot-Dev-Days](https://github.com/github/GitHub-Copilot-Dev-Days) - Repo for GitHub Copilot Dev Days content, global in-person series of events focused on GitHub Copilot.
@@ -2781,6 +2782,7 @@
 
 ## Rust 
 
+- [moghtech/komodo](https://github.com/moghtech/komodo) - 🦎 a tool to build and deploy software on many servers 🦎
 - [second-state/fintool](https://github.com/second-state/fintool) - A suite of Rust CLI tools for agentic trading and market intelligence. Each exchange has its own dedicated binary — hyperliquid, binance, coinbase, okx, polymarket — plus a shared fintool for exchange
 - [sentrux/sentrux](https://github.com/sentrux/sentrux) - Real-time architectural sensor that helps AI agents close the feedback loop, enabling recursive self-improvement of code quality. Pure Rust.
 - [Canopix/WhisloAI](https://github.com/Canopix/WhisloAI) - Desktop AI assistant for fast translation and dictation from any app.
@@ -3317,7 +3319,7 @@
 - [standardagents/arrow-js](https://github.com/standardagents/arrow-js) - The first UI framework for the agentic era — tiny, performant, with WASM sandboxes for safe code execution.
 - [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) - Clone any website with one command using AI coding agents
 - [microsoft/GitHubCopilot_Customized](https://github.com/microsoft/GitHubCopilot_Customized) - GitHub Universe 2025: GitHub Copilot, Customized
-- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning swarm intelligen
+- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RA
 - [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
 - [dweng0/Mooch](https://github.com/dweng0/Mooch) - Mooch - Your Interview Pal
 - [vas3k/TaxHacker](https://github.com/vas3k/TaxHacker) - Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories
