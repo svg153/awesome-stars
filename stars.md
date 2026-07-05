@@ -1854,7 +1854,6 @@
 - [TeamTopologies/TeamAPI-As-Code](https://github.com/TeamTopologies/TeamAPI-As-Code) - The TeamAPI specification allows you to create machine-readable definitions of your team APIs.
 - [finos/compliant-financial-infrastructure](https://github.com/finos/compliant-financial-infrastructure) - Compliant Financial Infrastructure accelerates the development, deployment and adoption of cloud services in a way that adheres to common security and regulatory controls.
 - [techiescamp/kubernetes-learning-path](https://github.com/techiescamp/kubernetes-learning-path) - A roadmap to learn Kubernetes from scratch (Beginner to Advanced level)
-- [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [bregman-arie/sre-checklist](https://github.com/bregman-arie/sre-checklist) - A checklist of anyone practicing Site Reliability Engineering
 - [JuanCrg90/Clean-Code-Notes](https://github.com/JuanCrg90/Clean-Code-Notes) - My notes of Clean Code book
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
@@ -2180,7 +2179,7 @@
 - [oxylabs/google-news-scraper](https://github.com/oxylabs/google-news-scraper) - Use Google News Scraper API to obtain the latest global news for your project, including a wide range of sources, headlines, URLs, and publication dates from the Google News platform.
 - [debpalash/OmniVoice-Studio](https://github.com/debpalash/OmniVoice-Studio) - The open-source ElevenLabs alternative for local voice cloning, design, create, dubbing and dictation Desktop App
 - [wuyoscar/GPT-Image2-Skill](https://github.com/wuyoscar/GPT-Image2-Skill) - GPT Image 2 prompt gallery, image prompt library, agentic skill, and CLI for OpenAI image generation/editing
-- [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) - AI generates a real, editable PowerPoint from any document — native shapes & animations, speaker notes voiced as audio narration, and the option to follow your own .pptx template, not slide images · b
+- [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) - AI generates a real, editable PowerPoint from any document — native shapes & animations, editable charts & tables you can change the data on, speaker notes voiced as audio narration, and the option to
 - [digitalsamba/claude-code-video-toolkit](https://github.com/digitalsamba/claude-code-video-toolkit) - AI-native video production toolkit for Claude Code
 - [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn it. Build it. Ship it for others.
 - [freemocap/freemocap](https://github.com/freemocap/freemocap) - Free Motion Capture for Everyone 💀✨
@@ -2376,7 +2375,7 @@
 - [github-community-projects/evergreen](https://github.com/github-community-projects/evergreen) - GitHub Action to enable automated security updates and open a issue/PR in repos in an org that have dependency files but no dependabot.yaml file
 - [mohammadmahdi-termux/hackCCTV](https://github.com/mohammadmahdi-termux/hackCCTV) - Hackcctv
 - [rohitg00/kubectl-mcp-server](https://github.com/rohitg00/kubectl-mcp-server) - Published in CNCF Landscape: A MCP server for Kubernetes.
-- [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.
+- [suitenumerique/docs](https://github.com/suitenumerique/docs) - Docs is an open-source text editor: web-native, made for real-time collaboration, cleanly structured documents and sub-documents with full ownership of your data. Built to scale with Django and React.
 - [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust.
 - [browser-use/workflow-use](https://github.com/browser-use/workflow-use) - ⚙️ Create and run workflows (RPA 2.0)
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
@@ -2514,6 +2513,7 @@
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
 - [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by AI large language models like GPT-5, will help you accomplish your tasks faster and more efficiently.
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
+- [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud 
 - [initialcommit-com/git-sim](https://github.com/initialcommit-com/git-sim) - Visually simulate Git operations in your own repos with a single terminal command.
 - [robusta-dev/kubernetes-chatgpt-bot](https://github.com/robusta-dev/kubernetes-chatgpt-bot) - A ChatGPT bot for Kubernetes issues.
@@ -3234,6 +3234,7 @@
 
 ## TypeScript 
 
+- [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki) - OpenWiki is a CLI that writes and maintains agent documentation for your codebase.
 - [foundation50/classroom50](https://github.com/foundation50/classroom50) - The free, open-source alternative to GitHub Classroom
 - [cmintey/wishlist](https://github.com/cmintey/wishlist) - Wishlist is a self-hosted wishlist application that you can share with your friends and family. You no longer have to wonder what to get your family for the holidays, simply check their wishlist and c
 - [steipete/birdclaw](https://github.com/steipete/birdclaw) - Stores all your tweets nicely claw-able for agents.
@@ -3267,7 +3268,7 @@
 - [hosenur/portal](https://github.com/hosenur/portal) - Mobile first batteries included web ui for sst/opencode. Git integration, in browser terminal, isolated workspaces.
 - [YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill](https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill) - AI skill for OpenClaw & Claude Code — recommend from 10000+ Nano Banana Pro (Gemini) image prompts. Smart search by use case, content remix, sample images.
 - [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini C
-- [danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS) - Agentic AI Infrastructure for magnifying HUMAN capabilities.
+- [danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS) - An AI-powered Life Operating System for Magnifying Human Capabilities
 - [Nutlope/make-comics](https://github.com/Nutlope/make-comics) - Create full comics with AI in seconds
 - [garrytan/gbrain](https://github.com/garrytan/gbrain) - Garry's Opinionated OpenClaw/Hermes Agent Brain
 - [kittendevv/Invio](https://github.com/kittendevv/Invio) - Self-hosted invoicing without the bloat.
@@ -3449,7 +3450,7 @@
 - [Shreyas-29/luro-ai](https://github.com/Shreyas-29/luro-ai) - A Modern UI Website for your next generation SaaS
 - [jamesmontemagno/app-fire-calculator](https://github.com/jamesmontemagno/app-fire-calculator) - Private, offline-first FIRE calculators
 - [steipete/summarize](https://github.com/steipete/summarize) - Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.
-- [AmadeusITGroup/ai-primitives-hub](https://github.com/AmadeusITGroup/ai-primitives-hub) - VS Code extension for managing, sharing, and installing AI prompt collections for GitHub Copilot and other AI assistants
+- [AmadeusITGroup/ai-primitives-hub](https://github.com/AmadeusITGroup/ai-primitives-hub) - VS Code extension for managing, sharing, and installing AI primitives (Agents, Skills, Prompts, Instructions, MCP) collections for GitHub Copilot and other AI assistants
 - [timheuer/vscode-awesome-copilot](https://github.com/timheuer/vscode-awesome-copilot) - 
 - [danielmeppiel/corporate-website](https://github.com/danielmeppiel/corporate-website) - APM demonstrator app
 - [SanjulaGanepola/github-local-actions](https://github.com/SanjulaGanepola/github-local-actions) - ✨ Run your GitHub Actions locally in VS Code!
