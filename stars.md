@@ -1524,6 +1524,7 @@
 - [AI4Finance-Foundation/FinRobot](https://github.com/AI4Finance-Foundation/FinRobot) - FinRobot: An Open-Source AI Agent Platform for Financial Analysis using LLMs 🚀 🚀 🚀
 - [adithya-s-k/AI-Engineering.academy](https://github.com/adithya-s-k/AI-Engineering.academy) - Mastering Applied AI, One Concept at a Time
 - [microsoft/community-content](https://github.com/microsoft/community-content) - A curated collection of presentations-in-a-box created by Microsoft for speakers to use at user groups and meetups
+- [Alejandrolmeida/azure-agent-pro](https://github.com/Alejandrolmeida/azure-agent-pro) - Educational research project teaching GitHub Copilot enhanced Azure professional management
 - [NirDiamant/GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents) - 50+ tutorials and implementations for Generative AI Agent techniques, from basic conversational bots to complex multi-agent systems.
 - [roboflow/notebooks](https://github.com/roboflow/notebooks) - A collection of tutorials on state-of-the-art computer vision models and techniques. Explore everything from foundational architectures like ResNet to cutting-edge models like RF-DETR, YOLO11, SAM 3, 
 - [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners) - This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust and Python. Designed for
@@ -2253,7 +2254,7 @@
 - [3dg1luk43/ha_washdata](https://github.com/3dg1luk43/ha_washdata) - Home Assistant integration for smart-plug appliance monitoring: detects cycles, matches programs, estimates time remaining. Supports washing machines, dryers, dishwashers and more.
 - [anthropics/financial-services](https://github.com/anthropics/financial-services) - 
 - [MeiGen-AI/MultiTalk](https://github.com/MeiGen-AI/MultiTalk) - [NeurIPS 2025] Let Them Talk: Audio-Driven Multi-Person Conversational Video Generation
-- [JeffSteinbok/agenteye](https://github.com/JeffSteinbok/agenteye) - Dashboard to track your currently running GitHub Copilot active and recent sessions.
+- [JeffSteinbok/agenteye](https://github.com/JeffSteinbok/agenteye) - A real-time dashboard for all your GitHub Copilot CLI & Claude Code sessions: live state, checkpoints, history, desktop notifications, and one-click terminal focus.
 - [cisco-ai-defense/skill-scanner](https://github.com/cisco-ai-defense/skill-scanner) - Security Scanner for Agent Skills
 - [uvejota/homeassistant-edata](https://github.com/uvejota/homeassistant-edata) - Home Assistant integration for spanish energy data providers (e.g., datadis)
 - [rossant/awesome-math](https://github.com/rossant/awesome-math) - A curated list of awesome mathematics resources
@@ -2269,7 +2270,7 @@
 - [kdeldycke/repomatic](https://github.com/kdeldycke/repomatic) - 🏭 Automate repository maintenance, releases, and CI/CD workflows
 - [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) - Personal memory for agents - fast memory retrieval, self-evolving skills, and lower cost.
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Lightweight, open-source AI agent for your tools, chats, and workflows.
-- [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - Installable GitHub library of 1,800+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, and more. Includes specialized plugins, installer CLI, bundles, workflows, and official
+- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - Installable GitHub library of 1,935+ agentic skills for Claude Code, Cursor, Codex CLI, Autohand Code, Gemini CLI, Antigravity, and more. Includes specialized plugins, installer CLI, bundles, workflow
 - [agentskills/agentskills](https://github.com/agentskills/agentskills) - Specification and documentation for Agent Skills
 - [BquantFinance/licitaciones-espana](https://github.com/BquantFinance/licitaciones-espana) - 
 - [infobyte/faraday](https://github.com/infobyte/faraday) - Open Source Vulnerability Management Platform
@@ -2288,7 +2289,7 @@
 - [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
 - [andrediasbr/github-certification-ranking](https://github.com/andrediasbr/github-certification-ranking) - 
 - [firerpa/lamda](https://github.com/firerpa/lamda) - Android Full-Stack Device Control Platform: WebRTC/H.264 remote desktop, UI/OCR/image-matching automation, one-click MITM, built-in Frida, proxy/VPN/frp/P2P networking, MCP/Agent, 160+ APIs, designed 
-- [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) - DeepTutor: Agent-native Personalized Tutoring. https://deeptutor.info/.
+- [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) - DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
 - [marcoradocchia/youterm](https://github.com/marcoradocchia/youterm) - CLI tool to search for YouTube videos and play selected video/audio via MPV
 - [joaquimscosta/arkhe-claude-plugins](https://github.com/joaquimscosta/arkhe-claude-plugins) - Supercharge Claude Code with 109 specialized components — 22 agents, 32 commands, 55 skills across 13 modular plugins. Deep reasoning, autonomous dev loops, DDD architecture, design system enforcement
 - [z0m31en7/Uscrapper](https://github.com/z0m31en7/Uscrapper) - Uscrapper Vanta: Dive deeper into the web with this powerful open-source tool. Extract valuable insights with ease and efficiency, from both surface and deep web sources. Empower your data mining and 
@@ -2990,7 +2991,6 @@
 - [boltmcp/boltmcp](https://github.com/boltmcp/boltmcp) - 
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [github/copilot-cli](https://github.com/github/copilot-cli) - GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.
-- [Alejandrolmeida/azure-agent-pro](https://github.com/Alejandrolmeida/azure-agent-pro) - Educational research project teaching GitHub Copilot enhanced Azure professional management
 - [Gentleman-Programming/Gentleman.Dots](https://github.com/Gentleman-Programming/Gentleman.Dots) - My personal configuration for LazyVim !
 - [taigaio/taiga-docker](https://github.com/taigaio/taiga-docker) - 
 - [JamesTurland/JimsGarage](https://github.com/JamesTurland/JimsGarage) - Homelab Goodies
@@ -3317,7 +3317,7 @@
 - [Chudroy/csv-importer](https://github.com/Chudroy/csv-importer) - 
 - [Stack-and-Flow/design-system](https://github.com/Stack-and-Flow/design-system) - Community Design System
 - [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) - OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.
-- [CristianOlivera1/openvid](https://github.com/CristianOlivera1/openvid) - Create professional demos and mockups in seconds, directly in your browser
+- [CristianOlivera1/openvid](https://github.com/CristianOlivera1/openvid) - Create professional demos and 3D mockups in seconds, directly in your browser
 - [htekdev/gh-cli-telegram-extension](https://github.com/htekdev/gh-cli-telegram-extension) - Telegram ↔ GitHub Copilot CLI bridge extension. Chat with Copilot from your phone. Who needs OpenClaw?
 - [srizzon/git-city](https://github.com/srizzon/git-city) - Your GitHub profile as a 3D pixel art building in an interactive city
 - [skalesapp/skales](https://github.com/skalesapp/skales) - Your personal AI desktop agent for Windows, macOS, Linux & Android. Set a goal, it works on its own. Teams (pair two desktops, agents + humans), Agent2Agent, Workflows, Codework, multi-agent orgs, des
