@@ -712,6 +712,7 @@
 
 ## ai-agents 
 
+- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.
 - [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) - The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.
 - [avinash201199/free-ai-agents-resources](https://github.com/avinash201199/free-ai-agents-resources) - Free AI Agents Resources – Your All-in-One 2026 Learning Hub
 - [bobvibes/Awesome-Vibecoding-Guide](https://github.com/bobvibes/Awesome-Vibecoding-Guide) - A compendium drawn from real commercial projects and hundreds of thousands of lines of AI‑assisted code. Read it end‑to‑end or feed this repo to your AI agent for summaries and Q&A. Stars and watches 
@@ -1882,6 +1883,7 @@
 
 ## claude-code 
 
+- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.
 - [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) - The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.
 - [gtrabanco/agentic-workflow](https://github.com/gtrabanco/agentic-workflow) - Stack-agnostic agentic-programming workflow skills + documentation scaffold
 - [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary
@@ -1969,6 +1971,8 @@
 
 ## cli 
 
+- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.
+- [legostin/cull](https://github.com/legostin/cull) - Interactive TUI disk space analyzer
 - [govctl-org/govctl](https://github.com/govctl-org/govctl) - A governance harness for AI coding.
 - [foundation50/classroom50](https://github.com/foundation50/classroom50) - The free, open-source alternative to GitHub Classroom
 - [0xMassi/pocketdev](https://github.com/0xMassi/pocketdev) - One command to run the AI coding CLI you already pay for (Claude Code, Codex, Cursor, Gemini, Grok, aider) on a Tailscale-only Hetzner box — code from your phone.
@@ -1977,7 +1981,7 @@
 - [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
 - [SayYoungMan/tfui](https://github.com/SayYoungMan/tfui) - Interactive TUI for performing Terraform workflows
 - [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub.
-- [tlipinski/rura](https://github.com/tlipinski/rura) - Interactive TUI scratchpad for building shell pipelines
+- [tlipinski/rura](https://github.com/tlipinski/rura) - Interactive terminal UI for building shell pipelines.
 - [prasadhonrao/ghcp-cli-cheatsheet](https://github.com/prasadhonrao/ghcp-cli-cheatsheet) - Searchable GitHub Copilot CLI cheatsheet built with React, Vite, and TypeScript.
 - [wuyoscar/GPT-Image2-Skill](https://github.com/wuyoscar/GPT-Image2-Skill) - GPT Image 2 prompt gallery, image prompt library, agentic skill, and CLI for OpenAI image generation/editing
 - [bergside/typeui](https://github.com/bergside/typeui) - Build better UI with AI
@@ -2248,6 +2252,7 @@
 
 ## command-line 
 
+- [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
 - [ivorpad/mercadona-cli](https://github.com/ivorpad/mercadona-cli) - Unofficial, agent-friendly Mercadona shopping CLI (Go) — search products, read prices, build a cart and prepare checkout from the terminal. BYO credentials.
 - [lazylabz/gomander-app](https://github.com/lazylabz/gomander-app) - The simple GUI that lets you launch, monitor, and organize all your commands in one beautiful interface.
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.
@@ -3167,6 +3172,7 @@
 - [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished demo videos without editing skills. Mac/Windows/Linux
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
 - [MrSibe/KnowNote](https://github.com/MrSibe/KnowNote) - A local-first AI knowledge base & NotebookLM alternative built with Electron. More convenient, more lightweight, and understands you better!
+- [AmintaCCCP/GithubStarsManager](https://github.com/AmintaCCCP/GithubStarsManager) - AI-powered GitHub stars manager with semantic search, auto-categorization, and release tracking
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
 - [janreges/siteone-crawler-gui](https://github.com/janreges/siteone-crawler-gui) - SiteOne Crawler GUI is a cross-platform website crawler and analyzer for SEO, security, accessibility, and performance optimization—ideal for developers, DevOps, QA engineers, and consultants. Support
 - [MayGo/tockler](https://github.com/MayGo/tockler) - An application that tracks your time by monitoring your active window title and idle time.
@@ -3692,6 +3698,7 @@
 ## github-api 
 
 - [braedonsaunders/codeflow](https://github.com/braedonsaunders/codeflow) - Paste any GitHub URL → interactive architecture map. See how files connect, find what breaks if you change something. No install, no accounts — runs entirely in your browser.
+- [AmintaCCCP/GithubStarsManager](https://github.com/AmintaCCCP/GithubStarsManager) - AI-powered GitHub stars manager with semantic search, auto-categorization, and release tracking
 - [ksatirli/terraform-github-repository](https://github.com/ksatirli/terraform-github-repository) - :octocat: Terraform Module: Github Repositories and associated Resources
 - [mszostok/codeowners-validator](https://github.com/mszostok/codeowners-validator) - The GitHub CODEOWNERS file validator
 - [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - Data pipelines for cloud config and security data. Build cloud asset inventory, CSPM, FinOps, and vulnerability management solutions. Extract from AWS, Azure, GCP, and 70+ cloud and SaaS sources.
@@ -3713,6 +3720,7 @@
 
 ## go 
 
+- [legostin/cull](https://github.com/legostin/cull) - Interactive TUI disk space analyzer
 - [foundation50/classroom50](https://github.com/foundation50/classroom50) - The free, open-source alternative to GitHub Classroom
 - [minamijoyo/hcledit](https://github.com/minamijoyo/hcledit) - A command line editor for HCL
 - [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) - Ready-to-use Media-over-QUIC / SRT / WebRTC / RTSP / RTMP / LL-HLS / MPEG-TS / RTP live media server and media proxy that allows to read, publish, proxy, record and playback real-time video and audio 
@@ -4118,6 +4126,7 @@
 
 ## hacktoberfest 
 
+- [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
 - [The-Cool-Coders/Project-Ideas-And-Resources](https://github.com/The-Cool-Coders/Project-Ideas-And-Resources) - A Collection of application ideas that can be used to improve your coding skills ❤.
 - [vinitshahdeo/github-stars-feed](https://github.com/vinitshahdeo/github-stars-feed) - Get the latest feed of GitHub Stars out there! 🌟  ⭐  ✨
 - [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses) - A list of /uses pages detailing developer setups, gear, software and configs.
@@ -5029,6 +5038,7 @@
 
 ## linux 
 
+- [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
 - [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) Terminal-first AI-native dev workspace
 - [sickcodes/dock-droid](https://github.com/sickcodes/dock-droid) - Docker Android - Run QEMU Android in a Docker! X11 Forwarding! CI/CD for Android!
 - [BlackHatDevX/openspot-music-app](https://github.com/BlackHatDevX/openspot-music-app) - OpenSpot is a free, open-source music app that lets you stream and download high-quality tracks across all your devices. With a sleek, intuitive UI built for a seamless experience, it supports Android
@@ -6609,7 +6619,6 @@
 - [jeessy2/ddns-go](https://github.com/jeessy2/ddns-go) - Simple and easy to use DDNS. Support Aliyun, Tencent Cloud, Dnspod, Cloudflare, Callback, Huawei Cloud, Baidu Cloud, Porkbun, GoDaddy, Namecheap, NameSilo...
 - [javabuddy/best-system-design-resources](https://github.com/javabuddy/best-system-design-resources) - A collection of best resources to learn System Design, Software architecture, and prepare for System Design Interviews
 - [xebia/github-copilot-premium-reqs-usage](https://github.com/xebia/github-copilot-premium-reqs-usage) - Quickly get an overview of your CSV export of GitHub Copilot Premium Requests
-- [AmintaCCCP/GithubStarsManager](https://github.com/AmintaCCCP/GithubStarsManager) - An app for managing github starred repositories.
 - [dacort/s3grep](https://github.com/dacort/s3grep) - CLI tool for searching logs and unstructured content in Amazon S3 buckets
 - [githubnext/agentics](https://github.com/githubnext/agentics) - A sample pack of GitHub Agentic Workflows!
 - [ZubeidHendricks/youtube-mcp-server](https://github.com/ZubeidHendricks/youtube-mcp-server) - MCP Server for YouTube API, enabling video management, Shorts creation, and advanced analytics
@@ -7778,6 +7787,7 @@
 - [mhss1/MyBrain](https://github.com/mhss1/MyBrain) - All-in-one productivity app and AI assistant with Tasks, Notes, Calendar, Diary and Bookmarks.
 - [basicmachines-co/basic-memory](https://github.com/basicmachines-co/basic-memory) - AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN
 - [passbolt/passbolt_api](https://github.com/passbolt/passbolt_api) - Passbolt Community Edition (CE) API. The JSON API for the open source password manager for teams!
+- [AmintaCCCP/GithubStarsManager](https://github.com/AmintaCCCP/GithubStarsManager) - AI-powered GitHub stars manager with semantic search, auto-categorization, and release tracking
 - [owlistic-notes/owlistic](https://github.com/owlistic-notes/owlistic) - 🦉 Free open-source notetaking app with real-time sync 🔄⚡️🚀
 - [alainm23/planify](https://github.com/alainm23/planify) - Task manager with Todoist, Nextcloud & CalDAV support designed for GNOME
 - [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
@@ -8493,13 +8503,13 @@
 
 ## rust 
 
+- [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
 - [pocket-stack/pocketjs](https://github.com/pocket-stack/pocketjs) - High-performance JSX UI outside the browser, with hardware rendering, standard Vue Vapor and Solid support, a Tailwind design system, and 60 FPS animation under an 8 MB memory budget.
 - [sentrux/sentrux](https://github.com/sentrux/sentrux) - Real-time architectural sensor that helps AI agents close the feedback loop, enabling recursive self-improvement of code quality. Pure Rust.
 - [phuc-nt/my-translator](https://github.com/phuc-nt/my-translator) - Real-time speech translation — macOS & Windows, free TTS, no server, your API keys only
 - [rzru/nightingale](https://github.com/rzru/nightingale) - Machine learning powered Karaoke app (with scores!)
 - [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) Terminal-first AI-native dev workspace
 - [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec) - A vector index built on TurboQuant, written in Rust with Python bindings
-- [tlipinski/rura](https://github.com/tlipinski/rura) - Interactive TUI scratchpad for building shell pipelines
 - [Uranid/mnem](https://github.com/Uranid/mnem) - Git for AI Agent Knowledge. A persistent, versioned memory layer for AI systems. Hybrid GraphRAG retrieval. Runs entirely offline.
 - [openfootmanager/openfootmanager](https://github.com/openfootmanager/openfootmanager) - An open source soccer/football manager game
 - [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn it. Build it. Ship it for others.
@@ -8844,7 +8854,7 @@
 
 ## shell 
 
-- [tlipinski/rura](https://github.com/tlipinski/rura) - Interactive TUI scratchpad for building shell pipelines
+- [tlipinski/rura](https://github.com/tlipinski/rura) - Interactive terminal UI for building shell pipelines.
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.
 - [plengauer/Thoth](https://github.com/plengauer/Thoth) - 
 - [paxtonhare/demo-magic](https://github.com/paxtonhare/demo-magic) - A handy shell script that enables you to write repeatable demos in a bash environment.
@@ -9115,9 +9125,11 @@
 
 ## terminal 
 
+- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.
+- [legostin/cull](https://github.com/legostin/cull) - Interactive TUI disk space analyzer
 - [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) Terminal-first AI-native dev workspace
 - [SayYoungMan/tfui](https://github.com/SayYoungMan/tfui) - Interactive TUI for performing Terraform workflows
-- [tlipinski/rura](https://github.com/tlipinski/rura) - Interactive TUI scratchpad for building shell pipelines
+- [tlipinski/rura](https://github.com/tlipinski/rura) - Interactive terminal UI for building shell pipelines.
 - [bergside/typeui](https://github.com/bergside/typeui) - Build better UI with AI
 - [lazylabz/gomander-app](https://github.com/lazylabz/gomander-app) - The simple GUI that lets you launch, monitor, and organize all your commands in one beautiful interface.
 - [matsest/lazyazure](https://github.com/matsest/lazyazure) - The lazy way to view  your Azure resources. TUI for drilling down into Azure subscriptions, resource groups and resources.
@@ -9359,10 +9371,11 @@
 
 ## tui 
 
+- [legostin/cull](https://github.com/legostin/cull) - Interactive TUI disk space analyzer
 - [0xMassi/pocketdev](https://github.com/0xMassi/pocketdev) - One command to run the AI coding CLI you already pay for (Claude Code, Codex, Cursor, Gemini, Grok, aider) on a Tailscale-only Hetzner box — code from your phone.
 - [SayYoungMan/tfui](https://github.com/SayYoungMan/tfui) - Interactive TUI for performing Terraform workflows
 - [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub.
-- [tlipinski/rura](https://github.com/tlipinski/rura) - Interactive TUI scratchpad for building shell pipelines
+- [tlipinski/rura](https://github.com/tlipinski/rura) - Interactive terminal UI for building shell pipelines.
 - [matsest/lazyazure](https://github.com/matsest/lazyazure) - The lazy way to view  your Azure resources. TUI for drilling down into Azure subscriptions, resource groups and resources.
 - [tokentopapp/tokentop](https://github.com/tokentopapp/tokentop) - htop for your AI costs — real-time terminal monitoring of LLM token usage and spending across providers and coding agents
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, for your OpenCode
