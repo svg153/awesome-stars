@@ -336,6 +336,7 @@
 
 ## agent 
 
+- [RKiding/Awesome-finance-skills](https://github.com/RKiding/Awesome-finance-skills) - A collection of Awesome Finance Agent Skills for free and easy to start | 一系列开源免费的金融分析Agent Skills
 - [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) - World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.
 - [nesquena/hermes-webui](https://github.com/nesquena/hermes-webui) - Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta
@@ -372,7 +373,7 @@
 - [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
 - [codexu/note-gen](https://github.com/codexu/note-gen) - A cross-platform Markdown AI note-taking software.
 - [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
-- [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
+- [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
 - [camel-ai/owl](https://github.com/camel-ai/owl) - 🦉 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [Repello-AI/Agent-Wiz](https://github.com/Repello-AI/Agent-Wiz) - A CLI tool for threat modeling and visualizing AI agents built using popular frameworks like LangGraph, AutoGen, CrewAI, and more.
@@ -393,6 +394,7 @@
 
 ## agent-skills 
 
+- [RKiding/Awesome-finance-skills](https://github.com/RKiding/Awesome-finance-skills) - A collection of Awesome Finance Agent Skills for free and easy to start | 一系列开源免费的金融分析Agent Skills
 - [jongio/skills](https://github.com/jongio/skills) - A plugin of cross-agent skills for AI coding agents — GitHub Copilot, Claude, and Codex — installable with the skills CLI (npx skills add). Includes create-canvas-kit for building Copilot canvas exten
 - [Forward-Future/loopy](https://github.com/Forward-Future/loopy) - A library of practical AI-agent loops and an installable skill for finding, adapting, and designing repeatable agent workflows.
 - [LLMQuant/awesome-trading-agents](https://github.com/LLMQuant/awesome-trading-agents) - Curated list of LLM-driven trading agents, MCP servers, and agent skills for market research, strategy, and execution.
@@ -418,12 +420,12 @@
 - [addyosmani/web-quality-skills](https://github.com/addyosmani/web-quality-skills) - Agent Skills for optimizing web quality based on Lighthouse and Core Web Vitals.
 - [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
 - [cisco-ai-defense/skill-scanner](https://github.com/cisco-ai-defense/skill-scanner) - Security Scanner for Agent Skills
-- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core preview is the local, agent-first control plane for discovering, recommending, validating, and planning exact skill stacks, backed by 1,965+ agentic skills. Includes CLI, local MCP, catalog, 
+- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 1,969+ agentic skills. Includes CLI, local MCP, catalo
 - [agentskills/agentskills](https://github.com/agentskills/agentskills) - Specification and documentation for Agent Skills
 - [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞
 - [softaworks/agent-toolkit](https://github.com/softaworks/agent-toolkit) - A curated collection of skills for AI coding agents. Skills are packaged instructions and scripts that extend agent capabilities across development, documentation, planning, and professional workflows
 - [antonbabenko/terraform-skill](https://github.com/antonbabenko/terraform-skill) - Terraform & OpenTofu Skill for AI Agents - testing, modules, CI/CD, and production patterns
-- [eigent-ai/eigent](https://github.com/eigent-ai/eigent) - Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity. Local and Free Alternative to Claude Cowork.
+- [eigent-ai/eigent](https://github.com/eigent-ai/eigent) - Eigent: The Open Source Cowork Desktop - Local and Free Alternative to Claude Cowork and Codex
 - [23blocks-OS/ai-maestro](https://github.com/23blocks-OS/ai-maestro) - AI Agent Orchestrator with Skills System - Give AI Agents superpowers: memory search, code graph queries, agent-to-agent messaging. Manage Claude, Codex or any AI Agent from one dashboard. Move Agents
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
@@ -488,11 +490,12 @@
 - [kagent-dev/kagent](https://github.com/kagent-dev/kagent) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
 - [browserbase/stagehand](https://github.com/browserbase/stagehand) - The SDK For Browser Agents
 - [coder/coder](https://github.com/coder/coder) - Secure environments for developers and their agents
-- [Agenta-AI/agenta](https://github.com/Agenta-AI/agenta) - The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one place.
+- [Agenta-AI/agenta](https://github.com/Agenta-AI/agenta) - The open-source workspace for building and running AI agents. Build agents through chat, share them with your team, and run background agents on schedules or app events.
 - [getmaxun/maxun](https://github.com/getmaxun/maxun) - 🔥 The open-source no-code platform for web scraping, crawling, search and AI data extraction • Turn websites into structured APIs in minutes 🔥
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 - [qodo-ai/qodo-cover](https://github.com/qodo-ai/qodo-cover) - Qodo-Cover: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞
 - [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, and manage agent platforms.
+- [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - Open-source security automation platform for teams and AI agents
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol
@@ -506,6 +509,8 @@
 
 ## ai 
 
+- [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it's free.
+- [0xK3vin/MegaMemory](https://github.com/0xK3vin/MegaMemory) - Persistent project knowledge graph for coding agents. MCP server with semantic search, in-process embeddings, and web explorer.
 - [achetronic/parakeet](https://github.com/achetronic/parakeet) - OpenAI Whisper-compatible ASR server using NVIDIA Parakeet TDT 0.6B (ONNX). Super fast CPU/GPU transcriptions
 - [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) - The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.
 - [avinash201199/free-ai-agents-resources](https://github.com/avinash201199/free-ai-agents-resources) - Free AI Agents Resources – Your All-in-One 2026 Learning Hub
@@ -545,7 +550,7 @@
 - [AndreaGriffiths11/proof-agent](https://github.com/AndreaGriffiths11/proof-agent) - Adversarial verification for AI-generated work
 - [olivomarco/genai-development-techniques](https://github.com/olivomarco/genai-development-techniques) - A comprehensive, evidence-based comparison of techniques, methodologies, and frameworks for structured AI-assisted software development
 - [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) - OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation requir
-- [santifer/career-ops](https://github.com/santifer/career-ops) - Open-source AI job search: scan job portals, score listings A-F, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Gemini, Codex, OpenCode…)
+- [santifer/career-ops](https://github.com/santifer/career-ops) - Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, 
 - [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe) - 💻 vibe coding 2026 | Your First Modern Coding course beginners to master step by step.
 - [video-db/call.md](https://github.com/video-db/call.md) - Turn meetings into live agent loops. Record, transcribe, and analyze meetings with real-time AI intelligence — before, during, and after calls.
 - [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) - Clone any website with one command using AI coding agents
@@ -623,7 +628,7 @@
 - [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent) - Build effective agents using Model Context Protocol and simple workflow patterns
 - [kaito-project/kaito](https://github.com/kaito-project/kaito) - Kubernetes AI Toolchain Operator
 - [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) - In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
-- [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
+- [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
 - [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
 - [golf-mcp/golf](https://github.com/golf-mcp/golf) - Production-Ready MCP Server Framework • Build, deploy & scale secure AI agent infrastructure • Includes Auth, Observability, Debugger, Telemetry & Runtime • Run real-world MCPs powering AI Agents
 - [rohitg00/kubectl-mcp-server](https://github.com/rohitg00/kubectl-mcp-server) - Published in CNCF Landscape: A MCP server for Kubernetes.
@@ -673,6 +678,7 @@
 - [qodo-ai/qodo-cover](https://github.com/qodo-ai/qodo-cover) - Qodo-Cover: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞
 - [loiccoyle/zsh-github-copilot](https://github.com/loiccoyle/zsh-github-copilot) - 🧠 GitHub Copilot for your command line
 - [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, and manage agent platforms.
+- [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Complete API layer for private AI applications on local models: RAG, skills, tools, MCP, text-to-sql, and more. Works with any OpenAI-compatible inference server.
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [RayVentura/ShortGPT](https://github.com/RayVentura/ShortGPT) - 🚀🎬 ShortGPT - Experimental AI framework for youtube shorts / tiktok channel automation
@@ -713,9 +719,10 @@
 
 ## ai-agents 
 
+- [0xK3vin/MegaMemory](https://github.com/0xK3vin/MegaMemory) - Persistent project knowledge graph for coding agents. MCP server with semantic search, in-process embeddings, and web explorer.
 - [enescingoz/awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates) - 280+ free n8n automation templates — ready-to-use workflows for Gmail, Telegram, Slack, Discord, WhatsApp, Google Drive, Notion, OpenAI, and more. AI agents, RAG   chatbots, email automation, social m
 - [FareedKhan-dev/all-agentic-architectures](https://github.com/FareedKhan-dev/all-agentic-architectures) - 35 production-grade agentic AI architectures (Reflexion, LATS, GraphRAG, MemGPT, Voyager, BrowserAgent, ...) — a Python library and runnable textbook with multi-provider LLM support and a 17-task benc
-- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.
+- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.
 - [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) - The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.
 - [avinash201199/free-ai-agents-resources](https://github.com/avinash201199/free-ai-agents-resources) - Free AI Agents Resources – Your All-in-One 2026 Learning Hub
 - [bobvibes/Awesome-Vibecoding-Guide](https://github.com/bobvibes/Awesome-Vibecoding-Guide) - A compendium drawn from real commercial projects and hundreds of thousands of lines of AI‑assisted code. Read it end‑to‑end or feed this repo to your AI agent for summaries and Q&A. Stars and watches 
@@ -750,6 +757,7 @@
 - [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with
 - [builderz-labs/mission-control](https://github.com/builderz-labs/mission-control) - Self-hosted control plane for AI agents: dispatch tasks, review runs, track spend, and operate OpenClaw, Claude Code, Codex, and other runtimes.
 - [ksimback/hermes-ecosystem](https://github.com/ksimback/hermes-ecosystem) - 🗺️ Hermes Atlas — the community map of every tool, skill, and integration for Hermes Agent by Nous Research. Live at hermesatlas.com
+- [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e
 - [Yesterday-AI/paperclip-plugin-company-wizard](https://github.com/Yesterday-AI/paperclip-plugin-company-wizard) - Bootstrap AI agent companies from modular templates.
 - [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) - Clone any website with one command using AI coding agents
 - [playbooks-ai/playbooks](https://github.com/playbooks-ai/playbooks) - ▶📚 Playbooks is a semantic programming system for AI agents
@@ -767,7 +775,7 @@
 - [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) - FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making i
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, for your OpenCode
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Lightweight, open-source AI agent for your tools, chats, and workflows.
-- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core preview is the local, agent-first control plane for discovering, recommending, validating, and planning exact skill stacks, backed by 1,965+ agentic skills. Includes CLI, local MCP, catalog, 
+- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 1,969+ agentic skills. Includes CLI, local MCP, catalo
 - [nanocoai/nanoclaw](https://github.com/nanocoai/nanoclaw) - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs direct
 - [cloudflare/moltworker](https://github.com/cloudflare/moltworker) - Run OpenClaw, (formerly Moltbot, formerly Clawdbot) on Cloudflare Workers
 - [opral/lix](https://github.com/opral/lix) - Version control system for any file format
@@ -799,6 +807,7 @@
 - [Repello-AI/Agent-Wiz](https://github.com/Repello-AI/Agent-Wiz) - A CLI tool for threat modeling and visualizing AI agents built using popular frameworks like LangGraph, AutoGen, CrewAI, and more.
 - [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) - 18 Lessons to Get Started Building AI Agents
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
+- [Agenta-AI/agenta](https://github.com/Agenta-AI/agenta) - The open-source workspace for building and running AI agents. Build agents through chat, share them with your team, and run background agents on schedules or app events.
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The API to search, scrape, and interact with the web at scale. 🔥
 - [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, and manage agent platforms.
@@ -1062,7 +1071,7 @@
 - [ScrapeGraphAI/scrapecraft](https://github.com/ScrapeGraphAI/scrapecraft) - 🤖 AI-powered web scraping editor with visual workflow builder. Build, test & deploy web scrapers using natural language. Powered by ScrapeGraphAI & LangGraph.
 - [joeseesun/qiaomu-anything-to-notebooklm](https://github.com/joeseesun/qiaomu-anything-to-notebooklm) - Claude Skill: Multi-source content processor for NotebookLM. Supports WeChat articles, web pages, YouTube, PDF, Markdown, search queries → Podcast/PPT/MindMap/Quiz etc.
 - [GodsScion/Auto_job_applier_linkedIn](https://github.com/GodsScion/Auto_job_applier_linkedIn) - Make your job hunt easy by automating your application process with this Auto Applier
-- [santifer/career-ops](https://github.com/santifer/career-ops) - Open-source AI job search: scan job portals, score listings A-F, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Gemini, Codex, OpenCode…)
+- [santifer/career-ops](https://github.com/santifer/career-ops) - Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, 
 - [skalesapp/skales](https://github.com/skalesapp/skales) - Personal AI desktop agent for Windows, macOS, Linux, Android & iOS. Set a goal, it works on its own. Teams (pair two desktops, agents + humans), Agent2Agent, Workflows, Codework, multi-agent orgs, des
 - [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) - Clone any website with one command using AI coding agents
 - [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) - Automate the process of making money online.
@@ -1071,7 +1080,7 @@
 - [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
 - [FujiwaraChoki/MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) - Automate Creation of YouTube Shorts using MoviePy.
 - [3dg1luk43/ha_washdata](https://github.com/3dg1luk43/ha_washdata) - Home Assistant integration for smart-plug appliance monitoring: detects cycles, matches programs, estimates time remaining. Supports washing machines, dryers, dishwashers and more.
-- [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing
+- [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - 📦🚀 Fully automated version management and package publishing
 - [spacedriveapp/spacebot](https://github.com/spacedriveapp/spacebot) - An AI agent for teams, communities, and multi-user environments.
 - [dend/guildbridge](https://github.com/dend/guildbridge) - 🏰 Remotely hosted MCP server for Discord
 - [yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) - Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
@@ -1085,7 +1094,7 @@
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 - [nottelabs/notte](https://github.com/nottelabs/notte) - 🌸 Best framework to build web agents, and deploy serverless web automation functions on reliable browser infra.
 - [claude-did-this/claude-hub](https://github.com/claude-did-this/claude-hub) - A webhook service that connects Claude Code to GitHub repositories, enabling AI-powered code assistance directly   through pull requests and issues. This integration allows Claude to analyze repositor
-- [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
+- [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
 - [kestra-io/kestra](https://github.com/kestra-io/kestra) - Event Driven Orchestration & Scheduling Platform for Mission Critical Applications
 - [github/combine-prs](https://github.com/github/combine-prs) - GitHub Action to combine multiple PRs into a single one
 - [github/gh-combine](https://github.com/github/gh-combine) - A gh cli extension to automatically combine multiple pull requests into one
@@ -1845,7 +1854,7 @@
 - [greyhaven-ai/autocontext](https://github.com/greyhaven-ai/autocontext) - a recursive self-improving harness designed to help your agents (and future iterations of those agents) succeed on any task
 - [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) - Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.
 - [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) - Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo w
-- [santifer/career-ops](https://github.com/santifer/career-ops) - Open-source AI job search: scan job portals, score listings A-F, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Gemini, Codex, OpenCode…)
+- [santifer/career-ops](https://github.com/santifer/career-ops) - Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, 
 - [moltlaunch/cashclaw](https://github.com/moltlaunch/cashclaw) - An autonomous agent that takes work, does work, gets paid, and gets better at it.
 - [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) - Clone any website with one command using AI coding agents
 - [centminmod/my-claude-code-setup](https://github.com/centminmod/my-claude-code-setup) - Shared starter template configuration and CLAUDE.md memory bank system for Claude Code
@@ -1878,6 +1887,7 @@
 - [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
 - [idosal/git-mcp](https://github.com/idosal/git-mcp) - Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project
 - [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) - CLI tool for configuring and monitoring Claude Code
+- [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT GPT-5.6, Codex GPT-5.6, GPT-5.5. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI -
 - [workflowkit/issue-assistant](https://github.com/workflowkit/issue-assistant) - AI Assistant for your GitHub issues. 🤖
 - [refly-ai/refly](https://github.com/refly-ai/refly) - The first open-source agent skills builder. Define skills by vibe workflow, run on Claude Code, Cursor, Codex & more. Build Clawdbot 🦞· APIs for Lovable · Bots for Slack & Lark/Feishu · Skills are inf
@@ -1888,7 +1898,8 @@
 
 ## claude-code 
 
-- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.
+- [0xK3vin/MegaMemory](https://github.com/0xK3vin/MegaMemory) - Persistent project knowledge graph for coding agents. MCP server with semantic search, in-process embeddings, and web explorer.
+- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.
 - [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) - The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.
 - [gtrabanco/agentic-workflow](https://github.com/gtrabanco/agentic-workflow) - Stack-agnostic agentic-programming workflow skills + documentation scaffold
 - [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary
@@ -1926,9 +1937,9 @@
 - [builderz-labs/mission-control](https://github.com/builderz-labs/mission-control) - Self-hosted control plane for AI agents: dispatch tasks, review runs, track spend, and operate OpenClaw, Claude Code, Codex, and other runtimes.
 - [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) - Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo w
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
-- [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable
+- [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e
 - [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) - OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation requir
-- [santifer/career-ops](https://github.com/santifer/career-ops) - Open-source AI job search: scan job portals, score listings A-F, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Gemini, Codex, OpenCode…)
+- [santifer/career-ops](https://github.com/santifer/career-ops) - Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, 
 - [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) - A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
 - [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
 - [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) - Clone any website with one command using AI coding agents
@@ -1947,7 +1958,7 @@
 - [gastownhall/beads](https://github.com/gastownhall/beads) - Beads - A memory upgrade for your coding agent
 - [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Free, local, open-source 24/7 Cowork app for OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, Gemini CLI and 20+ more CLI | Customize your assistants | Star if you like it!
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Lightweight, open-source AI agent for your tools, chats, and workflows.
-- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core preview is the local, agent-first control plane for discovering, recommending, validating, and planning exact skill stacks, backed by 1,965+ agentic skills. Includes CLI, local MCP, catalog, 
+- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 1,969+ agentic skills. Includes CLI, local MCP, catalo
 - [nanocoai/nanoclaw](https://github.com/nanocoai/nanoclaw) - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs direct
 - [steipete/CodexBar](https://github.com/steipete/CodexBar) - Show usage stats for OpenAI Codex and Claude Code, without having to login.
 - [composio-community/open-claude-cowork](https://github.com/composio-community/open-claude-cowork) - Open Source version of Claude Cowork with 500+ SaaS app integrations
@@ -1977,7 +1988,7 @@
 
 ## cli 
 
-- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.
+- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.
 - [legostin/cull](https://github.com/legostin/cull) - Interactive TUI disk space analyzer
 - [govctl-org/govctl](https://github.com/govctl-org/govctl) - A governance harness for AI coding.
 - [foundation50/classroom50](https://github.com/foundation50/classroom50) - The free, open-source alternative to GitHub Classroom
@@ -1994,7 +2005,7 @@
 - [asamassekou10/ship-safe](https://github.com/asamassekou10/ship-safe) - CLI security scanner built for the agentic era. Detects CI/CD misconfigs, agent permission risks, MCP tool injection, hardcoded secrets, and DMCA-flagged AI dependencies.
 - [EvoMap/evolver](https://github.com/EvoMap/evolver) - The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai
 - [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) - OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation requir
-- [santifer/career-ops](https://github.com/santifer/career-ops) - Open-source AI job search: scan job portals, score listings A-F, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Gemini, Codex, OpenCode…)
+- [santifer/career-ops](https://github.com/santifer/career-ops) - Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, 
 - [Yesterday-AI/paperclip-plugin-company-wizard](https://github.com/Yesterday-AI/paperclip-plugin-company-wizard) - Bootstrap AI agent companies from modular templates.
 - [matsest/lazyazure](https://github.com/matsest/lazyazure) - The lazy way to view  your Azure resources. TUI for drilling down into Azure subscriptions, resource groups and resources.
 - [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) - Automate the process of making money online.
@@ -2334,6 +2345,7 @@
 
 ## computer-vision 
 
+- [arcships/light-ocr](https://github.com/arcships/light-ocr) - Fast, offline OCR for Node.js & C++. PP-OCRv6 with Core ML / WebGPU hardware acceleration — recognize text in images with confidence scores & coordinates. npm: @arcships/light-ocr
 - [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn it. Build it. Ship it for others.
 - [Lab-of-AI-and-Robotics/LEGO-SLAM](https://github.com/Lab-of-AI-and-Robotics/LEGO-SLAM) - LEGO-SLAM: Language-Embedded Gaussian Optimization SLAM
 - [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Record your screen 24/7 and plug into your agents. Local, private, secure. Connect to OpenClaw, Hermes agent and 100+ apps
@@ -2686,6 +2698,7 @@
 - [digitalsamba/claude-code-video-toolkit](https://github.com/digitalsamba/claude-code-video-toolkit) - AI-native video production toolkit for Claude Code
 - [Microck/opencode-studio](https://github.com/Microck/opencode-studio) - web GUI for securely managing local OpenCode configuration
 - [builderz-labs/mission-control](https://github.com/builderz-labs/mission-control) - Self-hosted control plane for AI agents: dispatch tasks, review runs, track spend, and operate OpenClaw, Claude Code, Codex, and other runtimes.
+- [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e
 - [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
 - [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) - Clone any website with one command using AI coding agents
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
@@ -2700,7 +2713,7 @@
 - [eltociear/awesome-AI-driven-development](https://github.com/eltociear/awesome-AI-driven-development) - Awesome list of AI-Driven Development.
 - [spacedriveapp/spacebot](https://github.com/spacedriveapp/spacebot) - An AI agent for teams, communities, and multi-user environments.
 - [L1AD/claude-task-viewer](https://github.com/L1AD/claude-task-viewer) - A web-based Kanban board for viewing Claude Code tasks
-- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core preview is the local, agent-first control plane for discovering, recommending, validating, and planning exact skill stacks, backed by 1,965+ agentic skills. Includes CLI, local MCP, catalog, 
+- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 1,969+ agentic skills. Includes CLI, local MCP, catalo
 - [braedonsaunders/codeflow](https://github.com/braedonsaunders/codeflow) - Paste any GitHub URL → interactive architecture map. See how files connect, find what breaks if you change something. No install, no accounts — runs entirely in your browser.
 - [23blocks-OS/ai-maestro](https://github.com/23blocks-OS/ai-maestro) - AI Agent Orchestrator with Skills System - Give AI Agents superpowers: memory search, code graph queries, agent-to-agent messaging. Manage Claude, Codex or any AI Agent from one dashboard. Move Agents
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
@@ -3263,6 +3276,7 @@
 
 ## fastapi 
 
+- [suislanchez/polymarket-kalshi-weather-bot](https://github.com/suislanchez/polymarket-kalshi-weather-bot) - Multi-platform prediction market trading bot: trades weather temperature markets on Kalshi (KXHIGH series) and Polymarket using 31-member GFS ensemble forecasts + BTC 5-min microstructure signals. Kel
 - [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
 - [Finrandojin/alexandria-audiobook](https://github.com/Finrandojin/alexandria-audiobook) - AI-powered multi-voice audiobook generator — LLM script annotation, voice cloning, voice design, LoRA training, per-line style control, and export to MP3, chaptered M4B, or Audacity multi-track. Built
 - [SamurAIGPT/Vibe-Workflow](https://github.com/SamurAIGPT/Vibe-Workflow) - Free, open-source alternative to Weavy AI, Krea Nodes, Freepik Spaces & FloraFauna AI — node-based AI workflow builder for generative image & video pipelines
@@ -3858,7 +3872,7 @@
 - [spr-networks/super](https://github.com/spr-networks/super) - One wifi password per device. Ad Blocking & Privacy Blocklists. Policy Based Network Access
 - [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) - Ready-to-use Media-over-QUIC / SRT / WebRTC / RTSP / RTMP / LL-HLS / MPEG-TS / RTP live media server and media proxy that allows to read, publish, proxy, record and playback real-time video and audio 
 - [Smaug6739/Alexandrie](https://github.com/Smaug6739/Alexandrie) - 📚 The open-source, offline-first Notion, Obsidian & Confluence alternative. Advanced Markdown, multi-tenant teams, OIDC/SSO, and local S3 backups. Deploy in one command.
-- [santifer/career-ops](https://github.com/santifer/career-ops) - Open-source AI job search: scan job portals, score listings A-F, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Gemini, Codex, OpenCode…)
+- [santifer/career-ops](https://github.com/santifer/career-ops) - Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, 
 - [matsest/lazyazure](https://github.com/matsest/lazyazure) - The lazy way to view  your Azure resources. TUI for drilling down into Azure subscriptions, resource groups and resources.
 - [nextlevelbuilder/goclaw](https://github.com/nextlevelbuilder/goclaw) - GoClaw - GoClaw is OpenClaw rebuilt in Go — with multi-tenant isolation, 5-layer security, and native concurrency. Deploy AI agent teams at scale without compromising on safety.
 - [donetick/donetick](https://github.com/donetick/donetick) - Donetick an open-source, user-friendly app for managing tasks and chores, featuring customizable options to help you and others stay organized
@@ -4004,7 +4018,7 @@
 
 ## good-first-issue 
 
-- [santifer/career-ops](https://github.com/santifer/career-ops) - Open-source AI job search: scan job portals, score listings A-F, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Gemini, Codex, OpenCode…)
+- [santifer/career-ops](https://github.com/santifer/career-ops) - Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, 
 - [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) - FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making i
 - [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
 - [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate) - Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations. Don't be shy, join here: 
@@ -4443,6 +4457,7 @@
 
 ## image-processing 
 
+- [arcships/light-ocr](https://github.com/arcships/light-ocr) - Fast, offline OCR for Node.js & C++. PP-OCRv6 with Core ML / WebGPU hardware acceleration — recognize text in images with confidence scores & coordinates. npm: @arcships/light-ocr
 - [makalin/KeyForge3D](https://github.com/makalin/KeyForge3D) - KeyForge3D is an app that turns a photo of a key into a 3D-printable STL file. Ideal for locksmiths and hobbyists, it analyzes the key's bitting pattern using image processing and generates an accurat
 - [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background
@@ -5152,6 +5167,8 @@
 
 ## llm 
 
+- [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it's free.
+- [0xK3vin/MegaMemory](https://github.com/0xK3vin/MegaMemory) - Persistent project knowledge graph for coding agents. MCP server with semantic search, in-process embeddings, and web explorer.
 - [FareedKhan-dev/all-agentic-architectures](https://github.com/FareedKhan-dev/all-agentic-architectures) - 35 production-grade agentic AI architectures (Reflexion, LATS, GraphRAG, MemGPT, Voyager, BrowserAgent, ...) — a Python library and runnable textbook with multi-provider LLM support and a 17-task benc
 - [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) - LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-f
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta
@@ -5175,6 +5192,7 @@
 - [aiming-lab/MetaClaw](https://github.com/aiming-lab/MetaClaw) - 🦞 Just talk to your agent — it learns and EVOLVES 🧬.
 - [openai/openai-agents-python](https://github.com/openai/openai-agents-python) - A lightweight, powerful framework for multi-agent workflows
 - [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) - Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo w
+- [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e
 - [skalesapp/skales](https://github.com/skalesapp/skales) - Personal AI desktop agent for Windows, macOS, Linux, Android & iOS. Set a goal, it works on its own. Teams (pair two desktops, agents + humans), Agent2Agent, Workflows, Codework, multi-agent orgs, des
 - [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe) - 💻 vibe coding 2026 | Your First Modern Coding course beginners to master step by step.
 - [moltlaunch/cashclaw](https://github.com/moltlaunch/cashclaw) - An autonomous agent that takes work, does work, gets paid, and gets better at it.
@@ -5227,7 +5245,7 @@
 - [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent) - Build effective agents using Model Context Protocol and simple workflow patterns
 - [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
 - [carlosazaustre/docusaurus-scraper](https://github.com/carlosazaustre/docusaurus-scraper) - A command-line tool to extract documentation from Docusaurus sites and convert it to Markdown format.
-- [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
+- [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT GPT-5.6, Codex GPT-5.6, GPT-5.5. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI -
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [unbody-io/unbody](https://github.com/unbody-io/unbody) - The Supabase of AI era. A modular, open-source backend for building AI-native software — designed for knowledge, not static data.
@@ -5287,7 +5305,7 @@
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
 - [amplication/amplication](https://github.com/amplication/amplication) - Amplication brings order to the chaos of large-scale software development by creating Golden Paths for developers - streamlined workflows that drive consistency, enable high-quality code practices, si
 - [obsei/obsei](https://github.com/obsei/obsei) - Obsei is a low code AI powered automation tool. It can be used in various business flows like social listening, AI based alerting, brand image analysis, comparative study and more .
-- [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
+- [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
 - [kestra-io/kestra](https://github.com/kestra-io/kestra) - Event Driven Orchestration & Scheduling Platform for Mission Critical Applications
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
@@ -5328,6 +5346,7 @@
 
 ## machine-learning 
 
+- [arcships/light-ocr](https://github.com/arcships/light-ocr) - Fast, offline OCR for Node.js & C++. PP-OCRv6 with Core ML / WebGPU hardware acceleration — recognize text in images with confidence scores & coordinates. npm: @arcships/light-ocr
 - [rzru/nightingale](https://github.com/rzru/nightingale) - Machine learning powered Karaoke app (with scores!)
 - [ai-infra-curriculum/ai-infra-engineer-learning](https://github.com/ai-infra-curriculum/ai-infra-engineer-learning) - AI Infrastructure Engineer Learning Track - Production ML infrastructure curriculum (2-4 years experience)
 - [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn it. Build it. Ship it for others.
@@ -5534,6 +5553,8 @@
 
 ## mcp 
 
+- [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it's free.
+- [0xK3vin/MegaMemory](https://github.com/0xK3vin/MegaMemory) - Persistent project knowledge graph for coding agents. MCP server with semantic search, in-process embeddings, and web explorer.
 - [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary
 - [sentrux/sentrux](https://github.com/sentrux/sentrux) - Real-time architectural sensor that helps AI agents close the feedback loop, enabling recursive self-improvement of code quality. Pure Rust.
 - [Paca-AI/paca](https://github.com/Paca-AI/paca) - AI-native, free, open-source alternative to Jira, Trello, ClickUp & Monday. Built for Scrum teams where humans and AI agents collaborate as equals — on the same board, the same sprints, the same goals
@@ -5557,6 +5578,7 @@
 - [AzulClaw/AzulClaw-Core](https://github.com/AzulClaw/AzulClaw-Core) - Secure hybrid AI assistant brain reinvented from OpenClaw, combining Microsoft Agent Framework + Azure OpenAI with zero-trust MCP sandboxed desktop tools.
 - [EvoMap/evolver](https://github.com/EvoMap/evolver) - The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai
 - [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) - Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo w
+- [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e
 - [skalesapp/skales](https://github.com/skalesapp/skales) - Personal AI desktop agent for Windows, macOS, Linux, Android & iOS. Set a goal, it works on its own. Teams (pair two desktops, agents + humans), Agent2Agent, Workflows, Codework, multi-agent orgs, des
 - [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe) - 💻 vibe coding 2026 | Your First Modern Coding course beginners to master step by step.
 - [video-db/call.md](https://github.com/video-db/call.md) - Turn meetings into live agent loops. Record, transcribe, and analyze meetings with real-time AI intelligence — before, during, and after calls.
@@ -5573,7 +5595,7 @@
 - [CursorTouch/Windows-MCP](https://github.com/CursorTouch/Windows-MCP) - MCP Server for Computer Use in Windows
 - [llmsresearch/paperbanana](https://github.com/llmsresearch/paperbanana) - Open source implementation and extension of Google Research’s PaperBanana for automated academic figures, diagrams, and research visuals, expanded to new domains like slide generation.
 - [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) - Personal memory across agents
-- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core preview is the local, agent-first control plane for discovering, recommending, validating, and planning exact skill stacks, backed by 1,965+ agentic skills. Includes CLI, local MCP, catalog, 
+- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 1,969+ agentic skills. Includes CLI, local MCP, catalo
 - [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Record your screen 24/7 and plug into your agents. Local, private, secure. Connect to OpenClaw, Hermes agent and 100+ apps
 - [punkpeye/fastmcp](https://github.com/punkpeye/fastmcp) - A TypeScript framework for building MCP servers.
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
@@ -5616,7 +5638,7 @@
 - [grafana-cold-storage/tempo-mcp-server](https://github.com/grafana-cold-storage/tempo-mcp-server) - An MCP ( Model Context Protocol ) Server for Grafana Tempo
 - [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent) - Build effective agents using Model Context Protocol and simple workflow patterns
 - [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) - In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
-- [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
+- [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
 - [golf-mcp/golf](https://github.com/golf-mcp/golf) - Production-Ready MCP Server Framework • Build, deploy & scale secure AI agent infrastructure • Includes Auth, Observability, Debugger, Telemetry & Runtime • Run real-world MCPs powering AI Agents
 - [rohitg00/kubectl-mcp-server](https://github.com/rohitg00/kubectl-mcp-server) - Published in CNCF Landscape: A MCP server for Kubernetes.
 - [f/mcptools](https://github.com/f/mcptools) - A command-line interface for interacting with MCP (Model Context Protocol) servers using both stdio and HTTP transport.
@@ -5635,6 +5657,7 @@
 - [codetocloudorg/platform-engineering](https://github.com/codetocloudorg/platform-engineering) - A centralized hub for platform engineering teams, providing resources, best practices, and automation tools. Includes IaC templates, blueprints, and operational guides to help build scalable, secure, 
 - [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
 - [intuitem/ciso-assistant-community](https://github.com/intuitem/ciso-assistant-community) - CISO Assistant is a one-stop-shop GRC platform for Risk Management, AppSec, Compliance & Audit, TPRM, BIA, Privacy, and Reporting. It supports 150+ global frameworks with automatic control mapping, in
+- [Agenta-AI/agenta](https://github.com/Agenta-AI/agenta) - The open-source workspace for building and running AI agents. Build agents through chat, share them with your team, and run background agents on schedules or app events.
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 - [kucherenko/jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for programming source code, supports 223 formats. AI-ready with token-efficient reporter, skill and MCP server.
@@ -5853,7 +5876,7 @@
 - [ixartz/SaaS-Boilerplate](https://github.com/ixartz/SaaS-Boilerplate) - 🚀🎉📚 SaaS Boilerplate built with Next.js + Tailwind CSS + Shadcn UI + TypeScript. ⚡️ Full-stack React application with Auth, Multi-tenancy, Roles & Permissions, i18n, Landing Page, DB, Logging, Testing
 - [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letti
 - [codexu/note-gen](https://github.com/codexu/note-gen) - A cross-platform Markdown AI note-taking software.
-- [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
+- [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 - [vercel/chatbot](https://github.com/vercel/chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.
@@ -5900,7 +5923,7 @@
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTM
 - [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe) - 💻 vibe coding 2026 | Your First Modern Coding course beginners to master step by step.
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
-- [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
+- [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
 - [buildship-ai/rowy](https://github.com/buildship-ai/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
@@ -5922,6 +5945,7 @@
 
 ## nodejs 
 
+- [arcships/light-ocr](https://github.com/arcships/light-ocr) - Fast, offline OCR for Node.js & C++. PP-OCRv6 with Core ML / WebGPU hardware acceleration — recognize text in images with confidence scores & coordinates. npm: @arcships/light-ocr
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta
 - [lirantal/npm-security-best-practices](https://github.com/lirantal/npm-security-best-practices) - Collection of npm package manager Security Best Practices
 - [git-truck/git-truck](https://github.com/git-truck/git-truck) - Git repository visualizations, cumulative contribution statistics and more. Run `npx -y git-truck` to try Git Truck today!
@@ -6042,7 +6066,7 @@
 - [builderz-labs/mission-control](https://github.com/builderz-labs/mission-control) - Self-hosted control plane for AI agents: dispatch tasks, review runs, track spend, and operate OpenClaw, Claude Code, Codex, and other runtimes.
 - [VladSez/easy-invoice-pdf](https://github.com/VladSez/easy-invoice-pdf) - Free & Open-Source Invoice Generator - No Sign-Up, No Ads, Instant PDF Export, 100% In-Browser, and Fully Customizable Templates. ⭐ Star the repo if you like it
 - [CristianOlivera1/openvid](https://github.com/CristianOlivera1/openvid) - Create professional demos and 3D mockups in seconds, directly in your browser
-- [santifer/career-ops](https://github.com/santifer/career-ops) - Open-source AI job search: scan job portals, score listings A-F, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Gemini, Codex, OpenCode…)
+- [santifer/career-ops](https://github.com/santifer/career-ops) - Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, 
 - [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished demo videos without editing skills. Mac/Windows/Linux
 - [Pantheon-Security/medusa](https://github.com/Pantheon-Security/medusa) - AI-first security scanner. NEW in v2026.7: Claude Code compromise detection — vet .claude/ hooks, permissions & skills before you clone — plus an always-on AI attack-signature scanner and native Rust 
 - [gotempsh/temps](https://github.com/gotempsh/temps) - Own your PaaS
@@ -6075,6 +6099,7 @@
 - [fleetdm/fleet](https://github.com/fleetdm/fleet) - Open device management
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
 - [SamurAIGPT/AI-Youtube-Shorts-Generator](https://github.com/SamurAIGPT/AI-Youtube-Shorts-Generator) - Open-source alternative to Opus Clip, Vidyo.ai, Klap & SubMagic. Turn long-form YouTube videos into viral 9:16 shorts using LLM highlight detection, Whisper transcription, and auto vertical cropping —
+- [Agenta-AI/agenta](https://github.com/Agenta-AI/agenta) - The open-source workspace for building and running AI agents. Build agents through chat, share them with your team, and run background agents on schedules or app events.
 - [piotrkulpinski/openalternative](https://github.com/piotrkulpinski/openalternative) - Curated list of open source alternatives to proprietary software.
 - [EinGuterWaran/awesome-opensource-boilerplates](https://github.com/EinGuterWaran/awesome-opensource-boilerplates) - A curated list of production-ready and free SaaS boilerplates and starter templates. Build your next software-as-a-service project with battle-tested open source foundations.
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
@@ -6157,7 +6182,7 @@
 - [nottelabs/notte](https://github.com/nottelabs/notte) - 🌸 Best framework to build web agents, and deploy serverless web automation functions on reliable browser infra.
 - [CodeUpdaterBot/ClickUi](https://github.com/CodeUpdaterBot/ClickUi) - The best way to use AI is on your own computer. Use local or paid API models, and ctrl+k to show/hide the chat UI. Experience the future of AI, and help build it too!
 - [NirDiamant/GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents) - 50+ tutorials and implementations for Generative AI Agent techniques, from basic conversational bots to complex multi-agent systems.
-- [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
+- [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT GPT-5.6, Codex GPT-5.6, GPT-5.5. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI -
 - [Repello-AI/Agent-Wiz](https://github.com/Repello-AI/Agent-Wiz) - A CLI tool for threat modeling and visualizing AI agents built using popular frameworks like LangGraph, AutoGen, CrewAI, and more.
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.
@@ -6225,6 +6250,11 @@
 
 ## others 
 
+- [jason8745/llm-agent-trader](https://github.com/jason8745/llm-agent-trader) - AI-powered stock trading backtesting system with LLM-based decision analysis, FastAPI backend, and Next.js frontend.
+- [MeisnerDan/mission-control](https://github.com/MeisnerDan/mission-control) - Open-source task management for the agentic era. The command center for solo entrepreneurs who delegate work to AI agents.
+- [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine) - Very low latency speech to text, intent recognition, and text to speech, for building voice agents and interfaces
+- [tandpfun/wardrobe](https://github.com/tandpfun/wardrobe) - Your clothes, extracted and organized with gpt-image.
+- [pixel-point/aval](https://github.com/pixel-point/aval) - A new open-source format for interactive video on the web, with a built-in state machine, frame-accurate transitions, and packed-alpha transparency.
 - [thebuggeddev/football-stadium](https://github.com/thebuggeddev/football-stadium) - A 3D football stadium to visualize where you sit in the seat before you buy it
 - [Inakitajes/convoy](https://github.com/Inakitajes/convoy) - Convoy is a higher-level orchestration harness for OpenCode that turns a PRD into a structured, reviewable implementation workflow.
 - [Orange-Cyberdefense/awesome-industrial-protocols](https://github.com/Orange-Cyberdefense/awesome-industrial-protocols) - Security-oriented list of resources about industrial network protocols.
@@ -6399,7 +6429,7 @@
 - [sergioramosv/squeezr](https://github.com/sergioramosv/squeezr) - AI-powered Claude Code proxy that uses Haiku to semantically compress context and save thousands of tokens
 - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.
 - [crystian/skills](https://github.com/crystian/skills) - Open collection of AI agent skills — reusable, framework-agnostic SKILL.md packages for Claude Code and beyond. Install with npx skills add crystian/skills
-- [sbom-tool/sbom-tools](https://github.com/sbom-tool/sbom-tools) - Semantic SBOM/CBOM diff, quality scoring, and TUI analysis tool for CycloneDX/SPDX — covering component changes, dependency shifts, license conflicts, vulnerabilities, cryptographic inventory grading,
+- [sbom-tool/sbom-tools](https://github.com/sbom-tool/sbom-tools) - Semantic SBOM/CBOM/AI-BOM diff, quality scoring, and compliance validation for CycloneDX/SPDX — component, license, and vulnerability change analysis, cryptographic inventory grading, PQC readiness (C
 - [averygan/reclip](https://github.com/averygan/reclip) - Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.
 - [amanaiproduct/personal-os](https://github.com/amanaiproduct/personal-os) - Framework for a local AI agent powered task management system
 - [Redherring32/OpenTendo-AGB](https://github.com/Redherring32/OpenTendo-AGB) - 
@@ -7903,7 +7933,6 @@
 - [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT GPT-5.6, Codex GPT-5.6, GPT-5.5. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI -
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integrates with OpenTelemetry, LangChain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
-- [Agenta-AI/agenta](https://github.com/Agenta-AI/agenta) - The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one place.
 - [comet-ml/opik](https://github.com/comet-ml/opik) - Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.
 - [swyxio/ai-notes](https://github.com/swyxio/ai-notes) - notes for software engineers getting up to speed on new AI developments. Serves as datastore for https://latent.space writing, and product brainstorming, but has cleaned up canonical references under 
 - [AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) - FinGPT: Open-Source Financial Large Language Models!  Revolutionize 🔥    We release the trained model on HuggingFace.
@@ -7928,6 +7957,8 @@
 
 ## python 
 
+- [suislanchez/polymarket-kalshi-weather-bot](https://github.com/suislanchez/polymarket-kalshi-weather-bot) - Multi-platform prediction market trading bot: trades weather temperature markets on Kalshi (KXHIGH series) and Polymarket using 31-member GFS ensemble forecasts + BTC 5-min microstructure signals. Kel
+- [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it's free.
 - [The-Cool-Coders/Project-Ideas-And-Resources](https://github.com/The-Cool-Coders/Project-Ideas-And-Resources) - A Collection of application ideas that can be used to improve your coding skills ❤.
 - [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) - World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta
@@ -7994,7 +8025,7 @@
 - [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent) - Build effective agents using Model Context Protocol and simple workflow patterns
 - [KoljaB/RealtimeSTT](https://github.com/KoljaB/RealtimeSTT) - A robust, efficient, low-latency speech-to-text library with advanced voice activity detection, wake word activation and instant transcription.
 - [alphacep/vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
-- [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
+- [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
 - [golf-mcp/golf](https://github.com/golf-mcp/golf) - Production-Ready MCP Server Framework • Build, deploy & scale secure AI agent infrastructure • Includes Auth, Observability, Debugger, Telemetry & Runtime • Run real-world MCPs powering AI Agents
 - [mohammadmahdi-termux/hackCCTV](https://github.com/mohammadmahdi-termux/hackCCTV) - Hackcctv
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
@@ -8244,7 +8275,7 @@
 - [study8677/awesome-architecture](https://github.com/study8677/awesome-architecture) - 🧭 Architecture-first system design: 26 bilingual tutorials, 25 architecture templates, and 6 end-to-end cases covering distributed systems, AI-native systems, RAG, coding Agents, and production trade-
 - [erincon01/RAG-Challenge](https://github.com/erincon01/RAG-Challenge) - RAG-Challenge for Football Analysis using Azure OpenAI
 - [alvinreal/awesome-opensource-ai](https://github.com/alvinreal/awesome-opensource-ai) - Curated list of the best truly open-source AI projects, models, tools, and infrastructure. Daily updated.
-- [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable
+- [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e
 - [monaccode/astromesh](https://github.com/monaccode/astromesh) - Multi-model AI agent runtime. Define agents in YAML, connect 6 LLM providers, orchestrate with ReAct/Plan&Execute/Fan-Out/Pipeline/Supervisor/Swarm patterns, and deploy    as REST/WebSocket API with R
 - [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) - Vane is an AI-powered answering engine.
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
@@ -8260,7 +8291,7 @@
 - [codexu/note-gen](https://github.com/codexu/note-gen) - A cross-platform Markdown AI note-taking software.
 - [NanoNets/docext](https://github.com/NanoNets/docext) - An on-premises, OCR-free unstructured data extraction, markdown conversion and benchmarking toolkit. (https://idp-leaderboard.org/)
 - [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) - In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
-- [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
+- [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
 - [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [unbody-io/unbody](https://github.com/unbody-io/unbody) - The Supabase of AI era. A modular, open-source backend for building AI-native software — designed for knowledge, not static data.
@@ -8299,6 +8330,7 @@
 
 ## react 
 
+- [suislanchez/polymarket-kalshi-weather-bot](https://github.com/suislanchez/polymarket-kalshi-weather-bot) - Multi-platform prediction market trading bot: trades weather temperature markets on Kalshi (KXHIGH series) and Polymarket using 31-member GFS ensemble forecasts + BTC 5-min microstructure signals. Kel
 - [potatameister/PaperKnife](https://github.com/potatameister/PaperKnife) - Privacy-first PDF utility (Zero-Server Architecture). Merge, split, compress, and edit PDFs 100% locally on your device. No uploads, no servers, no tracking.
 - [foundation50/classroom50](https://github.com/foundation50/classroom50) - The free, open-source alternative to GitHub Classroom
 - [plugin87/ux-ui-agent-skills](https://github.com/plugin87/ux-ui-agent-skills) - Turn Claude into a Senior Design Architect — DTCG design tokens, 42 components, WCAG 2.2 accessibility, any-framework code, 138 design systems, and runnable skills.
@@ -8815,6 +8847,7 @@
 - [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - The most user-friendly OpenID Connect Certified™ and OAuth 2.0 provider that lets users sign in to your applications with passkeys.
 - [undb-io/undb](https://github.com/undb-io/undb) - 🚀 Private first self-hosted no code database & BaaS.
 - [kimai/kimai](https://github.com/kimai/kimai) - Kimai is the #1 open-source time-tracking application. From freelancers to companies and organisations - everyone can manage timesheets, generate reports, create invoices and so much more... Web-based
+- [Agenta-AI/agenta](https://github.com/Agenta-AI/agenta) - The open-source workspace for building and running AI agents. Build agents through chat, share them with your team, and run background agents on schedules or app events.
 - [solidtime-io/solidtime](https://github.com/solidtime-io/solidtime) - Modern open-source time-tracking app
 - [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
 - [amruthpillai/reactive-resume](https://github.com/amruthpillai/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
@@ -9000,6 +9033,7 @@
 
 ## sqlite 
 
+- [0xK3vin/MegaMemory](https://github.com/0xK3vin/MegaMemory) - Persistent project knowledge graph for coding agents. MCP server with semantic search, in-process embeddings, and web explorer.
 - [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary
 - [builderz-labs/mission-control](https://github.com/builderz-labs/mission-control) - Self-hosted control plane for AI agents: dispatch tasks, review runs, track spend, and operate OpenClaw, Claude Code, Codex, and other runtimes.
 - [f/agentlytics](https://github.com/f/agentlytics) - Comprehensive analytics dashboard for AI coding agents — Cursor, Windsurf, Claude Code, VS Code Copilot, Zed, Antigravity, OpenCode, Command Code
@@ -9152,7 +9186,7 @@
 
 ## terminal 
 
-- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.
+- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.
 - [legostin/cull](https://github.com/legostin/cull) - Interactive TUI disk space analyzer
 - [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) Terminal-first AI-native dev workspace
 - [SayYoungMan/tfui](https://github.com/SayYoungMan/tfui) - Interactive TUI for performing Terraform workflows
@@ -9452,6 +9486,9 @@
 
 ## typescript 
 
+- [suislanchez/polymarket-kalshi-weather-bot](https://github.com/suislanchez/polymarket-kalshi-weather-bot) - Multi-platform prediction market trading bot: trades weather temperature markets on Kalshi (KXHIGH series) and Polymarket using 31-member GFS ensemble forecasts + BTC 5-min microstructure signals. Kel
+- [0xK3vin/MegaMemory](https://github.com/0xK3vin/MegaMemory) - Persistent project knowledge graph for coding agents. MCP server with semantic search, in-process embeddings, and web explorer.
+- [arcships/light-ocr](https://github.com/arcships/light-ocr) - Fast, offline OCR for Node.js & C++. PP-OCRv6 with Core ML / WebGPU hardware acceleration — recognize text in images with confidence scores & coordinates. npm: @arcships/light-ocr
 - [potatameister/PaperKnife](https://github.com/potatameister/PaperKnife) - Privacy-first PDF utility (Zero-Server Architecture). Merge, split, compress, and edit PDFs 100% locally on your device. No uploads, no servers, no tracking.
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta
 - [viperrcrypto/Siftly](https://github.com/viperrcrypto/Siftly) - Local Twitter/X bookmark organizer with AI categorization and mindmap visualization
@@ -9904,7 +9941,7 @@
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 - [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letti
 - [obsei/obsei](https://github.com/obsei/obsei) - Obsei is a low code AI powered automation tool. It can be used in various business flows like social listening, AI based alerting, brand image analysis, comparative study and more .
-- [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
+- [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
 - [kestra-io/kestra](https://github.com/kestra-io/kestra) - Event Driven Orchestration & Scheduling Platform for Mission Critical Applications
 - [refly-ai/refly](https://github.com/refly-ai/refly) - The first open-source agent skills builder. Define skills by vibe workflow, run on Claude Code, Cursor, Codex & more. Build Clawdbot 🦞· APIs for Lovable · Bots for Slack & Lark/Feishu · Skills are inf
 - [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
