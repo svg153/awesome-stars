@@ -210,6 +210,7 @@
 
 ## C++ 
 
+- [arcships/light-ocr](https://github.com/arcships/light-ocr) - Fast, offline OCR for Node.js & C++. PP-OCRv6 with Core ML / WebGPU hardware acceleration — recognize text in images with confidence scores & coordinates. npm: @arcships/light-ocr
 - [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine) - Very low latency speech to text, intent recognition, and text to speech, for building voice agents and interfaces
 - [OvenMediaLabs/OvenMediaEngine](https://github.com/OvenMediaLabs/OvenMediaEngine) - OvenMediaEngine (OME) is a Sub-Second Latency Live Streaming Server with Large-Scale and High-Definition. #WebRTC #LLHLS
 - [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high-efficiency, real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH, and GB28181, with codec support for H.264, H.265, AV1, VP9, AAC, Opus, and G.7
@@ -1228,7 +1229,7 @@
 - [skills/secure-code-game](https://github.com/skills/secure-code-game) - Learn to code securely while having fun through our popular open source in-editor experience, designed for developers, students, and anyone curious about security. Get started for free in under 2 minu
 - [olivomarco/genai-development-techniques](https://github.com/olivomarco/genai-development-techniques) - A comprehensive, evidence-based comparison of techniques, methodologies, and frameworks for structured AI-assisted software development
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
-- [santifer/career-ops](https://github.com/santifer/career-ops) - Open-source AI job search: scan job portals, score listings A-F, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Gemini, Codex, OpenCode…)
+- [santifer/career-ops](https://github.com/santifer/career-ops) - Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, 
 - [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe) - 💻 vibe coding 2026 | Your First Modern Coding course beginners to master step by step.
 - [aatmmr/github-copilot-timeline](https://github.com/aatmmr/github-copilot-timeline) - A timeline of all changes and updates made for GitHub Copilot
 - [mnfst/awesome-free-llm-apis](https://github.com/mnfst/awesome-free-llm-apis) - List of Permanent Free LLM API  (API Keys)
@@ -2148,7 +2149,9 @@
 
 ## Python 
 
-- [arcships/light-ocr](https://github.com/arcships/light-ocr) - C++17 PP-OCRv6 small OCR core with an asynchronous Node-API adapter
+- [suislanchez/polymarket-kalshi-weather-bot](https://github.com/suislanchez/polymarket-kalshi-weather-bot) - Multi-platform prediction market trading bot: trades weather temperature markets on Kalshi (KXHIGH series) and Polymarket using 31-member GFS ensemble forecasts + BTC 5-min microstructure signals. Kel
+- [jason8745/llm-agent-trader](https://github.com/jason8745/llm-agent-trader) - AI-powered stock trading backtesting system with LLM-based decision analysis, FastAPI backend, and Next.js frontend.
+- [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it's free.
 - [RKiding/Awesome-finance-skills](https://github.com/RKiding/Awesome-finance-skills) - A collection of Awesome Finance Agent Skills for free and easy to start | 一系列开源免费的金融分析Agent Skills
 - [leeyeel/Sketch2Motion](https://github.com/leeyeel/Sketch2Motion) - convert photo or sketch to motion video
 - [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) - LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-f
@@ -2198,7 +2201,6 @@
 - [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) - AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support
 - [digitalsamba/claude-code-video-toolkit](https://github.com/digitalsamba/claude-code-video-toolkit) - AI-native video production toolkit for Claude Code
 - [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn it. Build it. Ship it for others.
-- [freemocap/freemocap](https://github.com/freemocap/freemocap) - Free Motion Capture for Everyone 💀✨
 - [The-Swarm-Corporation/AutoHedge](https://github.com/The-Swarm-Corporation/AutoHedge) - Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.
 - [ScrapeGraphAI/scrapecraft](https://github.com/ScrapeGraphAI/scrapecraft) - 🤖 AI-powered web scraping editor with visual workflow builder. Build, test & deploy web scrapers using natural language. Powered by ScrapeGraphAI & LangGraph.
 - [dudanov/hassio-ftms](https://github.com/dudanov/hassio-ftms) - Home Assistant custom component for Bluetooth Fitness Equipment (FTMS).
@@ -3261,7 +3263,7 @@
 - [Inakitajes/convoy](https://github.com/Inakitajes/convoy) - Convoy is a higher-level orchestration harness for OpenCode that turns a PRD into a structured, reviewable implementation workflow.
 - [coderamp-labs/pad.ws](https://github.com/coderamp-labs/pad.ws) - Whiteboard as an IDE, draw and code in your browser
 - [potatameister/PaperKnife](https://github.com/potatameister/PaperKnife) - Privacy-first PDF utility (Zero-Server Architecture). Merge, split, compress, and edit PDFs 100% locally on your device. No uploads, no servers, no tracking.
-- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.
+- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.
 - [antoniolg/next-dj](https://github.com/antoniolg/next-dj) - 
 - [lak7/devildev](https://github.com/lak7/devildev) - DevilDev aims to be spec driven lovable which is better and open src
 - [jamesmontemagno/captionstack](https://github.com/jamesmontemagno/captionstack) - Fast, private subtitle conversion in your browser.
@@ -3309,6 +3311,7 @@
 - [hkaanturgut/github-copilot-receipt-generator](https://github.com/hkaanturgut/github-copilot-receipt-generator) - 
 - [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) - Harness engineering beginner tutorial, from 0 to 1
 - [Microck/opencode-studio](https://github.com/Microck/opencode-studio) - web GUI for securely managing local OpenCode configuration
+- [freemocap/freemocap](https://github.com/freemocap/freemocap) - Free Motion Capture for Everyone 💀✨
 - [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2) - 🚀 World's largest GPT Image 2 prompt library, updated daily — 2000+ curated prompts with preview images, 16 languages. OpenAI's next-gen image model with pixel-perfect text rendering, cross-image cons
 - [AIEraDev/Clypra](https://github.com/AIEraDev/Clypra) - A modern video editor built with Tauri, React, and TypeScript. Focus on building free capabilities of premium capcut functionalities
 - [Augani/openreel-video](https://github.com/Augani/openreel-video) - OpenReel Video - Professional browser-based video editor. Open source CapCut alternative. 100% browser-based, no installation, no cloud uploads, no watermarks.
