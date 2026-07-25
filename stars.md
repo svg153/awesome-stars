@@ -1213,7 +1213,7 @@
 - [vinitshahdeo/github-stars-feed](https://github.com/vinitshahdeo/github-stars-feed) - Get the latest feed of GitHub Stars out there! 🌟  ⭐  ✨
 - [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses) - A list of /uses pages detailing developer setups, gear, software and configs.
 - [SamurAIGPT/Vibe-Workflow](https://github.com/SamurAIGPT/Vibe-Workflow) - Free, open-source alternative to Weavy AI, Krea Nodes, Freepik Spaces & FloraFauna AI — node-based AI workflow builder for generative image & video pipelines
-- [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) - Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT license
+- [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) - Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 500+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT license
 - [jrubiosainz/squad-budget-tokens-extension](https://github.com/jrubiosainz/squad-budget-tokens-extension) - Token budget guard for GitHub Copilot CLI Squad sessions. Local dashboard + per-agent live token consumption (input/output/cached) + autopilot kill-switch.
 - [darkzOGx/youtube-automation-agent](https://github.com/darkzOGx/youtube-automation-agent) - 🎬 Fully automated YouTube channel management with AI agents. Creates, optimizes & publishes videos 24/7. Works with FREE Gemini API or OpenAI. No coding required!
 - [derek-larson14/obsidian-claude-anywhere](https://github.com/derek-larson14/obsidian-claude-anywhere) - Your Mac's Claude Code, from your phone or tablet
@@ -1485,7 +1485,7 @@
 - [bafolts/plantcode](https://github.com/bafolts/plantcode) - Provides a javascript utility to generate code in various languages given a plantuml class diagram.
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - React-based framework with performance, scalability, and security built in.
 - [atashbahar/ecardcanvas](https://github.com/atashbahar/ecardcanvas) - HTML5 Canvas eCard Editor
-- [jorgebucaran/hyperapp](https://github.com/jorgebucaran/hyperapp) - 1kB-ish JavaScript framework for building hypertext applications
+- [hyperapp/hyperapp](https://github.com/hyperapp/hyperapp) - 1kB-ish JavaScript framework for building hypertext applications
 - [Azure-Samples/raspberry-pi-web-simulator](https://github.com/Azure-Samples/raspberry-pi-web-simulator) - Raspberry Pi web simulator. Demo address:
 - [marmelab/gremlins.js](https://github.com/marmelab/gremlins.js) - Monkey testing library for web apps and Node.js
 - [jakubgarfield/expenses](https://github.com/jakubgarfield/expenses) - 💰Expense tracker using Google Sheets 📉 as a storage written in React
@@ -3258,6 +3258,7 @@
 
 ## TypeScript 
 
+- [kenlasko/monize](https://github.com/kenlasko/monize) - My unabashedly vibe-coded Microsoft Money/Quicken replacement
 - [liketrek/TREK](https://github.com/liketrek/TREK) - A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.
 - [Danilaa1/cuelume](https://github.com/Danilaa1/cuelume) - Cuelume is a curated sound palette, not an audio engine. It gives buttons, links, toggles, and completed actions clear feedback without asking developers to design sounds themselves. Add an attribute,
 - [0xK3vin/MegaMemory](https://github.com/0xK3vin/MegaMemory) - Persistent project knowledge graph for coding agents. MCP server with semantic search, in-process embeddings, and web explorer.
