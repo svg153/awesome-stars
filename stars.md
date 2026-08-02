@@ -658,7 +658,7 @@
 - [form3tech-oss/terraform-provider-githubfile](https://github.com/form3tech-oss/terraform-provider-githubfile) - A Terraform provider for managing files in GitHub repositories.
 - [form3tech-oss/terraform-provider-codeowners](https://github.com/form3tech-oss/terraform-provider-codeowners) - A terraform provider for your GitHub CODEOWNERS files
 - [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - The standard of database governance. Govern changes and access across every major database type - by humans and agents.
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - Database governance built for humans and agents — controlling changes and access across every major database.
 - [yonahd/kor](https://github.com/yonahd/kor) - A Golang Tool to discover unused Kubernetes Resources
 - [grafana/quickpizza](https://github.com/grafana/quickpizza) - Demo app for learning observability with Grafana and performance testing with k6.
 - [minamijoyo/tfmigrate](https://github.com/minamijoyo/tfmigrate) - A Terraform / OpenTofu state migration tool for GitOps
@@ -710,7 +710,7 @@
 - [terramate-io/terramate](https://github.com/terramate-io/terramate) - Open-source Infrastructure as Code (IaC) orchestration platform: GitOps workflows, orchestration, code generation, observability, drift detection, asset management, policies, Slack notifications, and 
 - [thangchung/go-coffeeshop](https://github.com/thangchung/go-coffeeshop) - ☕ A practical event-driven microservices demo built with Golang. Nomad, Consul Connect, Vault, and Terraform for deployment
 - [cycloidio/terracognita](https://github.com/cycloidio/terracognita) - Reads from existing public and private cloud providers (reverse Terraform) and generates your infrastructure as code on Terraform configuration
-- [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
+- [d2lang/d2](https://github.com/d2lang/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [opencost/opencost](https://github.com/opencost/opencost) - Cost monitoring for Kubernetes workloads and cloud costs
 - [crossplane/upjet](https://github.com/crossplane/upjet) - A code generation framework and runtime for Crossplane providers
 - [chainguard-dev/darkfiles](https://github.com/chainguard-dev/darkfiles) - Darkfiles finds orphaned files in container images and makes them to bad deeds
@@ -1088,6 +1088,7 @@
 
 ## Java 
 
+- [freeplane/freeplane](https://github.com/freeplane/freeplane) - Application for Mind Mapping, Knowledge Management, Project Management. Develop, organize and communicate your ideas and knowledge in the most effective way.
 - [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) - Learn System Design concepts and prepare for interviews using free resources.
 - [floci-io/floci-az](https://github.com/floci-io/floci-az) - Light, fluffy, and always free - Local Azure Emulator
 - [shibaFoss/AIO-Video-Downloader](https://github.com/shibaFoss/AIO-Video-Downloader) - 📥 Powerful Video/Audio Downloader for Android — Open Source, Ad-Free, and Built on yt-dlp for a Seamless, User-Centric Experience
@@ -1189,6 +1190,7 @@
 
 ## JavaScript 
 
+- [rdumasia303/deepseek_ocr_app](https://github.com/rdumasia303/deepseek_ocr_app) - A quick vibe coded app for deepseek OCR
 - [ksky521/nodeppt](https://github.com/ksky521/nodeppt) - This is probably the best web presentation tool so far!
 - [oso95/scroll-world](https://github.com/oso95/scroll-world) - A skill that turn any brand into a scrollable 3D world
 - [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) - A library of agent skills for CAD, CAE and CAM
@@ -1588,6 +1590,7 @@
 
 ## Kotlin 
 
+- [iamgio/quarkdown](https://github.com/iamgio/quarkdown) - 🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases.
 - [MetrolistGroup/Metrolist](https://github.com/MetrolistGroup/Metrolist) - YouTube Music client for Android
 - [block/agent-task-queue](https://github.com/block/agent-task-queue) - Local task queuing for AI agents. Prevents multiple agents from running expensive operations concurrently and thrashing your machine.
 - [kurikomi-labs/komi-store](https://github.com/kurikomi-labs/komi-store) - 🩵 A free, open-source app store for developers' releases on GitHub, Codeberg & Forgejo — browse, discover, and install apps with one click. Formerly GitHub Store.
@@ -3141,7 +3144,6 @@
 - [elastic/stack-docker](https://github.com/elastic/stack-docker) - Project no longer maintained.
 - [nikita-skobov/create-bash-script](https://github.com/nikita-skobov/create-bash-script) - A bash script designed to create other bash scripts with argument parsing
 - [rcmdnk/shell-logger](https://github.com/rcmdnk/shell-logger) - Logger for shell script
-- [nicknisi/dotfiles](https://github.com/nicknisi/dotfiles) - vim, zsh, git, homebrew, neovim - my whole world
 - [fatih/dotfiles](https://github.com/fatih/dotfiles) - My personal dotfiles
 - [deviantony/docker-elk](https://github.com/deviantony/docker-elk) - The Elastic stack (ELK) powered by Docker and Compose.
 - [markdownslides/markdownslides](https://github.com/markdownslides/markdownslides) - 
@@ -3279,10 +3281,13 @@
 
 ## TypeScript 
 
+- [1weiho/open-slide](https://github.com/1weiho/open-slide) - A slide framework built for agents.
+- [dream-num/univer](https://github.com/dream-num/univer) - Univer is a full-stack framework for creating and editing spreadsheets / word processor / presentation on both web and server.
+- [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas) - Visualize Your Ideas With Code
 - [FormidableLabs/spectacle](https://github.com/FormidableLabs/spectacle) - A React-based library for creating sleek presentations using JSX syntax that gives you the ability to live demo your code.
 - [anomalyco/opentui](https://github.com/anomalyco/opentui) - OpenTUI is a library for building terminal user interfaces (TUIs)
 - [vercel/eve](https://github.com/vercel/eve) - The Framework for Building Agents
-- [Prism-Shadow/penguin-harness](https://github.com/Prism-Shadow/penguin-harness) - 🐧 Automated Agent Builder on Your Desktop: Create Self-Evolving Agents in One Click
+- [Prism-Shadow/penguin-harness](https://github.com/Prism-Shadow/penguin-harness) - 🐧 Automated Agent Builder. Use DeepSeek, Gemini to Create Self-Evolving Agents in One Click
 - [dmotz/trystero](https://github.com/dmotz/trystero) - ✨🤝✨ Build instant multiplayer webapps, no server required — Magic WebRTC matchmaking over BitTorrent, Nostr, MQTT, IPFS, Supabase, and Firebase
 - [Azure/Azurite](https://github.com/Azure/Azurite) - A lightweight server clone of Azure Storage that simulates most of the commands supported by it with minimal dependencies
 - [do-md/domd](https://github.com/do-md/domd) - 20KB Markdown-native WYSIWYG editor for React, built for AI streaming, human editing, huge files, macOS, Web, and agent workflows.
@@ -3402,7 +3407,7 @@
 - [standardagents/arrow-js](https://github.com/standardagents/arrow-js) - The first UI framework for the agentic era — tiny, performant, with WASM sandboxes for safe code execution.
 - [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) - Clone any website with one command using AI coding agents
 - [microsoft/GitHubCopilot_Customized](https://github.com/microsoft/GitHubCopilot_Customized) - GitHub Universe 2025: GitHub Copilot, Customized
-- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RA
+- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, R
 - [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
 - [dweng0/Mooch](https://github.com/dweng0/Mooch) - Mooch - Your Interview Pal
 - [vas3k/TaxHacker](https://github.com/vas3k/TaxHacker) - Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories
@@ -3666,7 +3671,7 @@
 - [MayGo/tockler](https://github.com/MayGo/tockler) - An application that tracks your time by monitoring your active window title and idle time.
 - [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate) - Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations. Don't be shy, join here: 
 - [actions/container-toolkit-action](https://github.com/actions/container-toolkit-action) - Template repo for creating container actions using https://github.com/actions/toolkit/
-- [Agenta-AI/agenta](https://github.com/Agenta-AI/agenta) - The open-source workspace for building and running AI agents. Build agents through chat, share them with your team, and run background agents on schedules or app events.
+- [Agenta-AI/agenta](https://github.com/Agenta-AI/agenta) - The open-source workspace for building AI agents and automations for teams.
 - [issue-ops/parser](https://github.com/issue-ops/parser) - Convert issue form responses to JSON
 - [kubernetes-retired/kui](https://github.com/kubernetes-retired/kui) - A hybrid command-line/UI development experience for cloud-native development
 - [OP5dev/TF-via-PR](https://github.com/OP5dev/TF-via-PR) - Plan and apply Terraform/OpenTofu via PR automation, using best practices for secure and scalable IaC workflows.
@@ -3870,6 +3875,7 @@
 - [metaseed/metaGo](https://github.com/metaseed/metaGo) - MetaGo provides fast cursor movement/selection for keyboard focused users in vscode
 - [stencila/dockta](https://github.com/stencila/dockta) - 🐳 A Docker image builder for researchers
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
+- [nicknisi/dotfiles](https://github.com/nicknisi/dotfiles) - vim, zsh, git, homebrew, neovim - my whole world
 - [agurod42/bashme](https://github.com/agurod42/bashme) - 👨‍💻👩‍💻 The first command line interface about you
 - [devhubapp/devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
 - [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
