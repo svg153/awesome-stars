@@ -468,6 +468,7 @@
 
 ## Go 
 
+- [jongio/grut](https://github.com/jongio/grut) - A terminal file explorer with full Git and GitHub integration, AI chat, and reactive panels that stay in sync as you navigate.
 - [nicksenap/grove](https://github.com/nicksenap/grove) - Git worktree workspace orchestrator. One command creates a workspace folder with worktrees from multiple repos on the same branch.
 - [Untrivial-ai/agent-orchestrator](https://github.com/Untrivial-ai/agent-orchestrator) - Agent IDE that enables you to manage fleets of coding agents. It comes with an agentic orchestrator that plans tasks, spawns agents, and autonomously handles CI fixes, merge conflicts, and code review
 - [k1lgor/container-diet](https://github.com/k1lgor/container-diet) - Slim down your Docker images with the power of AI. Container Diet analyzes your images and Dockerfiles to provide actionable, context-aware optimization advice.
@@ -1493,6 +1494,7 @@
 - [nprapps/waterbug](https://github.com/nprapps/waterbug) - REPO DEPRECATED; see the current version in Lunchbox http://github.com/nprapps/lunchbox
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [OSWeekends/curratelo](https://github.com/OSWeekends/curratelo) - Portal Open Source con ofertas de empleo de calidad para desarrolladores de calidad
+- [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - Front End interview preparation materials for busy engineers (updated for 2026)
 - [vincentcox/StaCoAn](https://github.com/vincentcox/StaCoAn) - StaCoAn is a crossplatform tool which aids developers, bugbounty hunters and ethical hackers performing static code analysis on mobile applications.
 - [awalgarg/cv-maker](https://github.com/awalgarg/cv-maker) - simple elegant markdown based resumes
 - [google/tie](https://github.com/google/tie) - 
@@ -1660,7 +1662,6 @@
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 - [trigaten/Learn_Prompting](https://github.com/trigaten/Learn_Prompting) - Prompt Engineering, Generative AI, and LLM Guide by Learn Prompting | Join our discord for the largest Prompt Engineering learning community
 - [rauchg/blog](https://github.com/rauchg/blog) - 
-- [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - Front End interview preparation materials for busy engineers (updated for 2026)
 
 ## Makefile 
 
@@ -1777,6 +1778,7 @@
 - [thomast1906/github-copilot-skills-terraform](https://github.com/thomast1906/github-copilot-skills-terraform) - Template repository providing specialized GitHub Copilot agents and reusable skills for Terraform Azure
 - [cporter202/vibe-coding-for-dummies](https://github.com/cporter202/vibe-coding-for-dummies) - A beginner-friendly guide to building real software using vibe coding. Learn how to ship apps without traditional coding by using Firebase Studio, GitHub, and Cursor. No gatekeeping. No fluff. Just bu
 - [martinwoodward/octolamp](https://github.com/martinwoodward/octolamp) - A 3D printed, GitHub infused, smart light
+- [accomplish-ai/coworker](https://github.com/accomplish-ai/coworker) - 
 - [braden-w/whispering](https://github.com/braden-w/whispering) - ⚠️ Moved to EpicenterHQ/epicenter—see README for redirect
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
 - [btkrausen/github_certification](https://github.com/btkrausen/github_certification) - Getting GitHub certified is a resounding endorsement that validates your skills, credibility, trust, and knowledge of the technologies and developer tools that are used by more than 100 million develo
@@ -2173,6 +2175,7 @@
 
 ## Python 
 
+- [ericosiu/ai-marketing-skills](https://github.com/ericosiu/ai-marketing-skills) - Open-source AI marketing skills — growth experiments, sales pipeline, content ops, outbound, SEO, and finance automation
 - [JuanBindez/pytubefix](https://github.com/JuanBindez/pytubefix) - Python3 library for downloading YouTube Videos.
 - [openhome-dev/abilities](https://github.com/openhome-dev/abilities) - Open-source abilities for OpenHome agents.
 - [ChrispyBacon-dev/DockFlare](https://github.com/ChrispyBacon-dev/DockFlare) - DockFlare: Automate Cloudflare Tunnels with Docker Labels
@@ -2339,7 +2342,7 @@
 - [yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) - Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
 - [kinfey/agent-framework-update-everyday](https://github.com/kinfey/agent-framework-update-everyday) - This is Microsoft Agent Framework Update Checking
 - [softaworks/agent-toolkit](https://github.com/softaworks/agent-toolkit) - A curated collection of skills for AI coding agents. Skills are packaged instructions and scripts that extend agent capabilities across development, documentation, planning, and professional workflows
-- [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) - "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"
+- [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) - "DeepCode: Open Agentic Coding ((Agent Harness & Loop Engineering & Multi-Agent Orchestration)"
 - [intellectronica/agent-skills](https://github.com/intellectronica/agent-skills) - @intellectronica's agent skills
 - [hugovk/github-tools](https://github.com/hugovk/github-tools) - Command-line Python scripts to do things with GitHub.
 - [antoniolg/agent-kit](https://github.com/antoniolg/agent-kit) - A collection of skills for AI agents
@@ -2851,6 +2854,7 @@
 
 ## Rust 
 
+- [pythops/bluetui](https://github.com/pythops/bluetui) - 🛜 TUI for managing bluetooth on Linux
 - [makeev/alphai-tui](https://github.com/makeev/alphai-tui) - Terminal stock dashboard: live quotes and charts plus AI-scored news and SEC Form 4 insider activity from AlphaAI. Rust + ratatui.
 - [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [pmaojo/vord](https://github.com/pmaojo/vord) - 
@@ -2865,7 +2869,7 @@
 - [sentrux/sentrux](https://github.com/sentrux/sentrux) - Real-time architectural sensor that helps AI agents close the feedback loop, enabling recursive self-improvement of code quality. Pure Rust.
 - [Canopix/WhisloAI](https://github.com/Canopix/WhisloAI) - Desktop AI assistant for fast translation and dictation from any app.
 - [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec) - A vector index built on TurboQuant, written in Rust with Python bindings
-- [tlipinski/rura](https://github.com/tlipinski/rura) - Build shell pipelines interactively, without the edit-rerun loop
+- [tlipinski/rura](https://github.com/tlipinski/rura) - Terminal UI for building shell pipelines
 - [Uranid/mnem](https://github.com/Uranid/mnem) - Git for AI Agent Knowledge. A persistent, versioned memory layer for AI systems. Hybrid GraphRAG retrieval. Runs entirely offline.
 - [Helvesec/rmux-demos](https://github.com/Helvesec/rmux-demos) - RMUX implementations demos
 - [openfootmanager/openfootmanager](https://github.com/openfootmanager/openfootmanager) - An open source soccer/football manager game
@@ -3311,6 +3315,9 @@
 
 ## TypeScript 
 
+- [shadcnstudio/shadcn-studio](https://github.com/shadcnstudio/shadcn-studio) - An open-source collection of copy-and-paste shadcn components, blocks, and templates - paired with a powerful theme generator to craft, customize, and ship faster.
+- [itechmeat/open-second-brain](https://github.com/itechmeat/open-second-brain) - Local-first 🧠 memory for Hermes Agent that lives in your Obsidian vault and remembers project context. Nightly 😴 dream passes turn repeat corrections into confirmed preferences with measurable confide
+- [ad-on-is/rachoon](https://github.com/ad-on-is/rachoon) - 🦝 Rachoon — A self-hostable way to handle invoices
 - [filiksyos/gitreverse](https://github.com/filiksyos/gitreverse) - Reverse engineer any repo into it's original prompt
 - [trycompai/crm](https://github.com/trycompai/crm) - Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 - [Kaliiiiiiiiii-Vinyzu/patchright](https://github.com/Kaliiiiiiiiii-Vinyzu/patchright) - Undetected version of the Playwright testing and automation library.
@@ -3325,7 +3332,7 @@
 - [FormidableLabs/spectacle](https://github.com/FormidableLabs/spectacle) - A React-based library for creating sleek presentations using JSX syntax that gives you the ability to live demo your code.
 - [anomalyco/opentui](https://github.com/anomalyco/opentui) - OpenTUI is a library for building terminal user interfaces (TUIs)
 - [vercel/eve](https://github.com/vercel/eve) - The Open Framework for Building Agents
-- [Prism-Shadow/penguin-harness](https://github.com/Prism-Shadow/penguin-harness) - 🐧 Harness for RSI. AI Build Better AI
+- [Prism-Shadow/penguin-harness](https://github.com/Prism-Shadow/penguin-harness) - 🐧 Harness for RSI. Let AI Build AI
 - [dmotz/trystero](https://github.com/dmotz/trystero) - ✨🤝✨ Build instant multiplayer webapps, no server required — Magic WebRTC matchmaking over BitTorrent, Nostr, MQTT, IPFS, Supabase, and Firebase
 - [Azure/Azurite](https://github.com/Azure/Azurite) - A lightweight server clone of Azure Storage that simulates most of the commands supported by it with minimal dependencies
 - [do-md/domd](https://github.com/do-md/domd) - 20KB Markdown-native WYSIWYG editor for React, built for AI streaming, human editing, huge files, macOS, Web, and agent workflows.
@@ -3536,7 +3543,6 @@
 - [Nearcyan/vibecraft](https://github.com/Nearcyan/vibecraft) - It's Vibecraft!
 - [debs-obrien/ai-learning-hub](https://github.com/debs-obrien/ai-learning-hub) - 🧠 A personal learning management app for organizing AI-related resources
 - [snarktank/ralph](https://github.com/snarktank/ralph) - Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete.
-- [accomplish-ai/coworker](https://github.com/accomplish-ai/coworker) - Coworker is the open source Al coworker that lives on your desktop
 - [subsy/ralph-tui](https://github.com/subsy/ralph-tui) - 
 - [eigent-ai/eigent](https://github.com/eigent-ai/eigent) - Eigent: The Open Source Cowork Desktop - Local and Free Alternative to Claude Cowork and Codex
 - [EpicenterHQ/epicenter](https://github.com/EpicenterHQ/epicenter) - Open-source, local-first apps.
