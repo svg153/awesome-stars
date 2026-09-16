@@ -766,6 +766,8 @@
 
 ## ai-agents 
 
+- [socragpt/agent-governance-harness](https://github.com/socragpt/agent-governance-harness) - Policy-as-code for authority, delegation, approvals, and evidence in multi-agent systems.
+- [open-coder-ai/chock](https://github.com/open-coder-ai/chock) - Governance-as-code for AI coding agents: author a policy once, enforce it on every agent (Claude, Copilot, Cursor, Codex) via git hooks, CI, and native controls.
 - [hypit-ai/hypit](https://github.com/hypit-ai/hypit) - Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.
 - [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector) - Open-source auth gateway connecting 1500+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
@@ -791,7 +793,7 @@
 - [leestott/copilot-canvas-runtime](https://github.com/leestott/copilot-canvas-runtime) - Canvas as a runtime for shaping agent-driven systems — a GitHub Copilot Canvas extension (Multi-Agent Dev Canvas) with a worked scenario, blog posts, and a demo prompt.
 - [jongio/skills](https://github.com/jongio/skills) - A plugin of cross-agent skills for AI coding agents — GitHub Copilot, Claude, and Codex — installable with the skills CLI (npx skills add). Includes create-canvas-kit for building Copilot canvas exten
 - [ivorpad/mercadona-cli](https://github.com/ivorpad/mercadona-cli) - Unofficial, agent-friendly Mercadona shopping CLI (Go) — search products, read prices, build a cart and prepare checkout from the terminal. BYO credentials.
-- [plugin87/ux-ui-agent-skills](https://github.com/plugin87/ux-ui-agent-skills) - Turn Claude into a senior design architect - DTCG design tokens, 50 components, WCAG 2.2 AA to AAA, 138 design systems, any-framework code, and 38 objective gates that fail the build instead of claimi
+- [plugin87/ux-ui-agent-skills](https://github.com/plugin87/ux-ui-agent-skills) - Turn Claude into a senior design architect: DTCG tokens, 50 components, WCAG 2.2 AA-AAA, 138 design systems, any-framework code, and 43 objective gates that fail the build instead of faking success.
 - [nesquena/hermes-webui](https://github.com/nesquena/hermes-webui) - Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!
 - [Forward-Future/loopy](https://github.com/Forward-Future/loopy) - A library of practical AI-agent loops and an installable skill for finding, adapting, and designing repeatable agent workflows.
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta
@@ -1937,7 +1939,7 @@
 - [opus-pro/opusclip-mcp](https://github.com/opus-pro/opusclip-mcp) - OpusClip MCP — turn long videos into AI-curated short clips, from your agent. Hosted (remote) MCP server.
 - [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
 - [jongio/skills](https://github.com/jongio/skills) - A plugin of cross-agent skills for AI coding agents — GitHub Copilot, Claude, and Codex — installable with the skills CLI (npx skills add). Includes create-canvas-kit for building Copilot canvas exten
-- [plugin87/ux-ui-agent-skills](https://github.com/plugin87/ux-ui-agent-skills) - Turn Claude into a senior design architect - DTCG design tokens, 50 components, WCAG 2.2 AA to AAA, 138 design systems, any-framework code, and 38 objective gates that fail the build instead of claimi
+- [plugin87/ux-ui-agent-skills](https://github.com/plugin87/ux-ui-agent-skills) - Turn Claude into a senior design architect: DTCG tokens, 50 components, WCAG 2.2 AA-AAA, 138 design systems, any-framework code, and 43 objective gates that fail the build instead of faking success.
 - [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) - World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video produc
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
@@ -1998,6 +2000,8 @@
 
 ## claude-code 
 
+- [trionnemesis/AI-NativeSTDD-VDD](https://github.com/trionnemesis/AI-NativeSTDD-VDD) - AI-native governance system for agentic software delivery — spec-driven gates, role-isolated test/implementation, and evidence over green CI.
+- [open-coder-ai/chock](https://github.com/open-coder-ai/chock) - Governance-as-code for AI coding agents: author a policy once, enforce it on every agent (Claude, Copilot, Cursor, Codex) via git hooks, CI, and native controls.
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [Vincentwei1021/video-talkcraft](https://github.com/Vincentwei1021/video-talkcraft) - Agent skill that turns Claude Code / Codex into a motion-design studio for voiceover-driven explainer videos — word-level voiceover sync, 109 motion recipe cards, an anti-slideshow camera system, Remo
 - [Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft) - AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 152 shot recipe cards, 209 motion previews, a production-ready template
@@ -2016,7 +2020,7 @@
 - [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary
 - [0xMassi/pocketdev](https://github.com/0xMassi/pocketdev) - One command to run the AI coding CLI you already pay for (Claude Code, Codex, Cursor, Gemini, Grok, aider) on a Tailscale-only Hetzner box — code from your phone.
 - [ivorpad/mercadona-cli](https://github.com/ivorpad/mercadona-cli) - Unofficial, agent-friendly Mercadona shopping CLI (Go) — search products, read prices, build a cart and prepare checkout from the terminal. BYO credentials.
-- [plugin87/ux-ui-agent-skills](https://github.com/plugin87/ux-ui-agent-skills) - Turn Claude into a senior design architect - DTCG design tokens, 50 components, WCAG 2.2 AA to AAA, 138 design systems, any-framework code, and 38 objective gates that fail the build instead of claimi
+- [plugin87/ux-ui-agent-skills](https://github.com/plugin87/ux-ui-agent-skills) - Turn Claude into a senior design architect: DTCG tokens, 50 components, WCAG 2.2 AA-AAA, 138 design systems, any-framework code, and 43 objective gates that fail the build instead of faking success.
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
 - [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
@@ -2110,7 +2114,7 @@
 - [Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft) - AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 152 shot recipe cards, 209 motion previews, a production-ready template
 - [opus-pro/opus-skills](https://github.com/opus-pro/opus-skills) - Official OpusClip skill for AI coding agents — clip long videos and post to social, from Claude Code, Codex, OpenClaw, or Claude.ai. Bundled CLI, bring your own API key.
 - [gtrabanco/agentic-workflow](https://github.com/gtrabanco/agentic-workflow) - Stack-agnostic agentic-programming workflow skills + documentation scaffold
-- [plugin87/ux-ui-agent-skills](https://github.com/plugin87/ux-ui-agent-skills) - Turn Claude into a senior design architect - DTCG design tokens, 50 components, WCAG 2.2 AA to AAA, 138 design systems, any-framework code, and 38 objective gates that fail the build instead of claimi
+- [plugin87/ux-ui-agent-skills](https://github.com/plugin87/ux-ui-agent-skills) - Turn Claude into a senior design architect: DTCG tokens, 50 components, WCAG 2.2 AA-AAA, 138 design systems, any-framework code, and 43 objective gates that fail the build instead of faking success.
 - [LLMQuant/awesome-trading-agents](https://github.com/LLMQuant/awesome-trading-agents) - Curated list of LLM-driven trading agents, MCP servers, and agent skills for market research, strategy, and execution.
 - [nexu-io/html-anything](https://github.com/nexu-io/html-anything) - ✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed pre
 - [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini C
@@ -2857,6 +2861,7 @@
 
 ## developer-tools 
 
+- [open-coder-ai/chock](https://github.com/open-coder-ai/chock) - Governance-as-code for AI coding agents: author a policy once, enforce it on every agent (Claude, Copilot, Cursor, Codex) via git hooks, CI, and native controls.
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [tt-a1i/archify](https://github.com/tt-a1i/archify) - Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
 - [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate multiple coding agents from desktop and mobile
@@ -4416,7 +4421,6 @@
 - [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [estruyf/vscode-demo-time](https://github.com/estruyf/vscode-demo-time) - A Visual Studio Code extension to help you script your demos
 - [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
-- [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
 - [openSUSE/osem](https://github.com/openSUSE/osem) - Open Source Event Manager. An event management tool tailored to Free and Open Source Software conferences.
 - [mattermost-community/mattermost-plugin-autolink](https://github.com/mattermost-community/mattermost-plugin-autolink) - Automatically rewrite text matching a regular expression into a markdown link.
 - [kestra-io/kestra](https://github.com/kestra-io/kestra) - Event Driven Orchestration & Scheduling Platform for Mission Critical Applications
@@ -6580,6 +6584,8 @@
 
 ## others 
 
+- [anmolkapil/plexo](https://github.com/anmolkapil/plexo) - Speed up downloads by combining multiple network connections in parallel
+- [xebia-actions/GitHub-Copilot-Budget-Guardian](https://github.com/xebia-actions/GitHub-Copilot-Budget-Guardian) - Automate GitHub Copilot User Budget Management, Governance and Alerts
 - [legalize-dev/legalize-es](https://github.com/legalize-dev/legalize-es) - Legislación de España en Markdown, versionada como git. Cada ley es un archivo, cada reforma un commit.
 - [gtrabanco/pi-nan-provider](https://github.com/gtrabanco/pi-nan-provider) - Pi Plugin to add NaN.builders as provider with NaN mcps.
 - [DanWahlin/esp32-agent-companion](https://github.com/DanWahlin/esp32-agent-companion) - ESP32 agent companion animation and local sprite review studio
@@ -8780,7 +8786,7 @@
 - [suislanchez/polymarket-kalshi-weather-bot](https://github.com/suislanchez/polymarket-kalshi-weather-bot) - Multi-platform prediction market trading bot: trades weather temperature markets on Kalshi (KXHIGH series) and Polymarket using 31-member GFS ensemble forecasts + BTC 5-min microstructure signals. Kel
 - [potatameister/PaperKnife](https://github.com/potatameister/PaperKnife) - Privacy-first PDF utility (Zero-Server Architecture). Merge, split, compress, and edit PDFs 100% locally on your device. No uploads, no servers, no tracking.
 - [foundation50/classroom50](https://github.com/foundation50/classroom50) - The free, open-source alternative to GitHub Classroom
-- [plugin87/ux-ui-agent-skills](https://github.com/plugin87/ux-ui-agent-skills) - Turn Claude into a senior design architect - DTCG design tokens, 50 components, WCAG 2.2 AA to AAA, 138 design systems, any-framework code, and 38 objective gates that fail the build instead of claimi
+- [plugin87/ux-ui-agent-skills](https://github.com/plugin87/ux-ui-agent-skills) - Turn Claude into a senior design architect: DTCG tokens, 50 components, WCAG 2.2 AA-AAA, 138 design systems, any-framework code, and 43 objective gates that fail the build instead of faking success.
 - [The-Cool-Coders/Project-Ideas-And-Resources](https://github.com/The-Cool-Coders/Project-Ideas-And-Resources) - A Collection of application ideas that can be used to improve your coding skills ❤.
 - [rzru/nightingale](https://github.com/rzru/nightingale) - Machine learning powered Karaoke app (with scores!)
 - [prasadhonrao/ghcp-cli-cheatsheet](https://github.com/prasadhonrao/ghcp-cli-cheatsheet) - Searchable GitHub Copilot CLI cheatsheet built with React, Vite, and TypeScript.
@@ -9604,7 +9610,7 @@
 - [Abhi1992002/course-gpt](https://github.com/Abhi1992002/course-gpt) - course-gpt  🤖 combines OpenAI API, YouTube API, and Unsplash API to enable easy course creation. Transform ideas into educational content with AI assistance and rich media integration.
 - [shadcnstudio/shadcn-studio](https://github.com/shadcnstudio/shadcn-studio) - An open-source collection of copy-and-paste shadcn components, blocks, and templates - paired with a powerful theme generator to craft, customize, and ship faster.
 - [pocket-stack/pocketjs](https://github.com/pocket-stack/pocketjs) - PocketJS is a portable application runtime that turns modern component code into native pixels across radically different hardware.
-- [plugin87/ux-ui-agent-skills](https://github.com/plugin87/ux-ui-agent-skills) - Turn Claude into a senior design architect - DTCG design tokens, 50 components, WCAG 2.2 AA to AAA, 138 design systems, any-framework code, and 38 objective gates that fail the build instead of claimi
+- [plugin87/ux-ui-agent-skills](https://github.com/plugin87/ux-ui-agent-skills) - Turn Claude into a senior design architect: DTCG tokens, 50 components, WCAG 2.2 AA-AAA, 138 design systems, any-framework code, and 43 objective gates that fail the build instead of faking success.
 - [calcom/cal.diy](https://github.com/calcom/cal.diy) - Scheduling infrastructure for absolutely everyone.
 - [VladSez/easy-invoice-pdf](https://github.com/VladSez/easy-invoice-pdf) - Free & Open-Source Invoice Generator - No Sign-Up, No Ads, Instant PDF Export, 100% In-Browser, and Fully Customizable Templates. ⭐ Star the repo if you like it
 - [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) - Clone any website with one command using AI coding agents
@@ -10147,7 +10153,7 @@
 ## ui 
 
 - [DavidHDev/canvas-ui](https://github.com/DavidHDev/canvas-ui) - A library of creative canvas components. Real HTML with WebGL effects running over it. React, Vue, Svelte, vanilla.
-- [plugin87/ux-ui-agent-skills](https://github.com/plugin87/ux-ui-agent-skills) - Turn Claude into a senior design architect - DTCG design tokens, 50 components, WCAG 2.2 AA to AAA, 138 design systems, any-framework code, and 38 objective gates that fail the build instead of claimi
+- [plugin87/ux-ui-agent-skills](https://github.com/plugin87/ux-ui-agent-skills) - Turn Claude into a senior design architect: DTCG tokens, 50 components, WCAG 2.2 AA-AAA, 138 design systems, any-framework code, and 43 objective gates that fail the build instead of faking success.
 - [austin-starks/NextTrade](https://github.com/austin-starks/NextTrade) - (Predecessor to NexusTrade) A no-code algorithmic trading system
 - [bergside/typeui](https://github.com/bergside/typeui) - Build better UI with AI
 - [standardagents/arrow-js](https://github.com/standardagents/arrow-js) - The first UI framework for the agentic era — tiny, performant, with WASM sandboxes for safe code execution.
