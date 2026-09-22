@@ -406,6 +406,7 @@
 
 ## agent-skills 
 
+- [imxv/Pretty-mermaid-skills](https://github.com/imxv/Pretty-mermaid-skills) - AI Agent Skill to generate and render beautiful Mermaid diagrams as SVG or terminal ASCII — 15 themes, 6 diagram types, batch CLI, no browser.
 - [coldteadotai/pr-lens](https://github.com/coldteadotai/pr-lens) - Review code 100X faster. Lens draws every PR as animated architecture and data-flow walkthroughs, inside the pull request itself. Use it as a GitHub App, GitHub Action, CLI, or a skill for your coding
 - [egdev6/github-repository-bootstrap](https://github.com/egdev6/github-repository-bootstrap) - Pi skill that plans and applies repeatable GitHub repository governance: labels, milestones, templates, and Projects v2
 - [Vincentwei1021/video-talkcraft](https://github.com/Vincentwei1021/video-talkcraft) - Agent skill that turns Claude Code / Codex into a motion-design studio for voiceover-driven explainer videos — word-level voiceover sync, 109 motion recipe cards, an anti-slideshow camera system, Remo
@@ -672,7 +673,7 @@
 - [microsoft/magentic-ui](https://github.com/microsoft/magentic-ui) - MagenticLite is an experimental agent that works across the browser and local file system
 - [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
 - [mattnigh/follow-the-ai-leaders](https://github.com/mattnigh/follow-the-ai-leaders) - A list of AI leaders and communities you can follow
-- [FidelusAleksander/ai-translate-action](https://github.com/FidelusAleksander/ai-translate-action) - GitHub Action for AI-powered file translation between different languages
+- [v-fidelusaleksander/ai-translate-action](https://github.com/v-fidelusaleksander/ai-translate-action) - GitHub Action for AI-powered file translation between different languages
 - [githubnext/awesome-continuous-ai](https://github.com/githubnext/awesome-continuous-ai) - An awesome list of Continuous AI Actions and Frameworks
 - [grafana-cold-storage/tempo-mcp-server](https://github.com/grafana-cold-storage/tempo-mcp-server) - An MCP ( Model Context Protocol ) Server for Grafana Tempo
 - [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent) - Build effective agents using Model Context Protocol and simple workflow patterns
@@ -685,7 +686,7 @@
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok B
 - [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams for any GitHub repository
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.
-- [FidelusAleksander/prompt-action](https://github.com/FidelusAleksander/prompt-action) - GitHub Action to prompt GitHub Models about... well, anything!
+- [v-fidelusaleksander/prompt-action](https://github.com/v-fidelusaleksander/prompt-action) - GitHub Action to prompt GitHub Models about... well, anything!
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [vercel/chatbot](https://github.com/vercel/chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.
@@ -771,6 +772,11 @@
 
 ## ai-agents 
 
+- [ai-sdlc-framework/ai-sdlc](https://github.com/ai-sdlc-framework/ai-sdlc) - Declarative governance framework for AI-augmented software development lifecycles
+- [HarnessRouter/harnessrouter](https://github.com/HarnessRouter/harnessrouter) - HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run Codex, Claude Code, Hermes, PI, DSH, and more through one API, with sessions, str
+- [ferdinandobons/startup-skill](https://github.com/ferdinandobons/startup-skill) - AI agent skills for startup validation, competitive intelligence, and planning
+- [ethanplusai/astra-flash-orchestrator](https://github.com/ethanplusai/astra-flash-orchestrator) - Astra plans and reviews; DeepSeek Flash builds. A native Codex workflow with phased tasks, verification, safe installation and reversible setup.
+- [imxv/Pretty-mermaid-skills](https://github.com/imxv/Pretty-mermaid-skills) - AI Agent Skill to generate and render beautiful Mermaid diagrams as SVG or terminal ASCII — 15 themes, 6 diagram types, batch CLI, no browser.
 - [code-yeongyu/lazycodex](https://github.com/code-yeongyu/lazycodex) - The one and only agent harness for complex codebases. Project memory, planning, execution, and verified completion inside Codex.
 - [Sumanth077/Hands-On-AI-Engineering](https://github.com/Sumanth077/Hands-On-AI-Engineering) - A curated collection of practical AI projects implementing OCR systems, RAG, AI agents, and other AI use cases.
 - [mutonby/vibetube](https://github.com/mutonby/vibetube) - Desktop multicam recorder for macOS: records your screen and webcam in sync, then Claude Code or Codex edits the final video — shot selection, subtitles, graphics and SFX.
@@ -940,7 +946,7 @@
 - [Avanade/ghcp-usage-dashboard](https://github.com/Avanade/ghcp-usage-dashboard) - Analyzes GitHub Copilot usage trends, patterns, and metrics using Python, Streamlit, Azure OpenAI, and PowerShell scripts.
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by ClickHouse and OpenTelemetry.
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.
-- [openobserve/openobserve](https://github.com/openobserve/openobserve) - Open source observability platform for logs, metrics, traces, RUM, Session replay, pipelines, SLO and LLM observability. A sophisticated, simple and highly performant alternative to Datadog, Splunk, a
+- [openobserve/openobserve](https://github.com/openobserve/openobserve) - Open source observability platform for logs, metrics, traces, RUM (web, android, ios), Session replay, pipelines, SLO and LLM observability. A sophisticated, simple and highly performant alternative t
 - [HariSekhon/Diagrams-as-Code](https://github.com/HariSekhon/Diagrams-as-Code) - Cloud & DevOps Architecture Diagrams-as-Code in Python, D2 and MermaidJS languages
 - [rcoh/angle-grinder](https://github.com/rcoh/angle-grinder) - Slice and dice logs on the command line
 - [devops-actions/load-available-actions](https://github.com/devops-actions/load-available-actions) - Load all actions stored in the current organization
@@ -1925,6 +1931,7 @@
 
 ## chrome-extension 
 
+- [westpoint-io/mimik](https://github.com/westpoint-io/mimik) - 🪄 A browser extension that captures your workflow as you click and turns it into a step-by-step guide with annotated screenshots 📸
 - [totec448-spec/chat-on-steroids](https://github.com/totec448-spec/chat-on-steroids) - Cross-platform local MCP capabilities for ChatGPT with Chrome integration, Goal, Compact & Resume, and durable multi-agent workflows.
 - [sheepzh/time-tracker-4-browser](https://github.com/sheepzh/time-tracker-4-browser) - A browser extension that helps you track time, analyze your habits and block addictive sites
 - [bergside/design-md-chrome](https://github.com/bergside/design-md-chrome) - Chrome extension to extract styles from any website and generate DESIGN.md files and design skills for AI based on TypeUI
@@ -2013,6 +2020,8 @@
 
 ## claude-code 
 
+- [ferdinandobons/startup-skill](https://github.com/ferdinandobons/startup-skill) - AI agent skills for startup validation, competitive intelligence, and planning
+- [imxv/Pretty-mermaid-skills](https://github.com/imxv/Pretty-mermaid-skills) - AI Agent Skill to generate and render beautiful Mermaid diagrams as SVG or terminal ASCII — 15 themes, 6 diagram types, batch CLI, no browser.
 - [code-yeongyu/lazycodex](https://github.com/code-yeongyu/lazycodex) - The one and only agent harness for complex codebases. Project memory, planning, execution, and verified completion inside Codex.
 - [mutonby/vibetube](https://github.com/mutonby/vibetube) - Desktop multicam recorder for macOS: records your screen and webcam in sync, then Claude Code or Codex edits the final video — shot selection, subtitles, graphics and SFX.
 - [trionnemesis/AI-NativeSTDD-VDD](https://github.com/trionnemesis/AI-NativeSTDD-VDD) - AI-native governance system for agentic software delivery — spec-driven gates, role-isolated test/implementation, and evidence over green CI.
@@ -2125,6 +2134,7 @@
 
 ## claude-skills 
 
+- [ferdinandobons/startup-skill](https://github.com/ferdinandobons/startup-skill) - AI agent skills for startup validation, competitive intelligence, and planning
 - [coldteadotai/pr-lens](https://github.com/coldteadotai/pr-lens) - Review code 100X faster. Lens draws every PR as animated architecture and data-flow walkthroughs, inside the pull request itself. Use it as a GitHub App, GitHub Action, CLI, or a skill for your coding
 - [Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft) - AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 152 shot recipe cards, 209 motion previews, a production-ready template
 - [opus-pro/opus-skills](https://github.com/opus-pro/opus-skills) - Official OpusClip skill for AI coding agents — clip long videos and post to social, from Claude Code, Codex, OpenClaw, or Claude.ai. Bundled CLI, bring your own API key.
@@ -2879,6 +2889,8 @@
 
 ## developer-tools 
 
+- [ai-sdlc-framework/ai-sdlc](https://github.com/ai-sdlc-framework/ai-sdlc) - Declarative governance framework for AI-augmented software development lifecycles
+- [ethanplusai/astra-flash-orchestrator](https://github.com/ethanplusai/astra-flash-orchestrator) - Astra plans and reviews; DeepSeek Flash builds. A native Codex workflow with phased tasks, verification, safe installation and reversible setup.
 - [code-yeongyu/lazycodex](https://github.com/code-yeongyu/lazycodex) - The one and only agent harness for complex codebases. Project memory, planning, execution, and verified completion inside Codex.
 - [monid-ai/monid](https://github.com/monid-ai/monid) - Monid - OpenRouter for agent tools
 - [open-coder-ai/chock](https://github.com/open-coder-ai/chock) - Governance-as-code for AI coding agents: author a policy once, enforce it on every agent (Claude, Copilot, Cursor, Codex) via git hooks, CI, and native controls.
@@ -2998,6 +3010,7 @@
 
 ## devops 
 
+- [ai-sdlc-framework/ai-sdlc](https://github.com/ai-sdlc-framework/ai-sdlc) - Declarative governance framework for AI-augmented software development lifecycles
 - [BagelHole/DevOps-Security-Agent-Skills](https://github.com/BagelHole/DevOps-Security-Agent-Skills) - Agent-ready DevOps, security, infrastructure, and compliance knowledge base with 80+ skills across Kubernetes, Terraform, AWS/Azure/GCP, AI platform operations, container hardening, SOC2/ISO27001, and
 - [ai-infra-curriculum/ai-infra-engineer-learning](https://github.com/ai-infra-curriculum/ai-infra-engineer-learning) - AI Infrastructure Engineer Learning Track - Production ML infrastructure curriculum (2-4 years experience)
 - [mutonby/pleng](https://github.com/mutonby/pleng) - Your AI Platform Engineer. Self-hosted cloud built for AI agents — deploy, monitor, and operate your infrastructure through natural language. One VPS. One command.
@@ -3326,6 +3339,8 @@
 
 ## documentation 
 
+- [westpoint-io/mimik](https://github.com/westpoint-io/mimik) - 🪄 A browser extension that captures your workflow as you click and turns it into a step-by-step guide with annotated screenshots 📸
+- [imxv/Pretty-mermaid-skills](https://github.com/imxv/Pretty-mermaid-skills) - AI Agent Skill to generate and render beautiful Mermaid diagrams as SVG or terminal ASCII — 15 themes, 6 diagram types, batch CLI, no browser.
 - [davidbuenov/dbv-md-reader](https://github.com/davidbuenov/dbv-md-reader) - Lector nativo de Markdown (.md) para Windows, Linux y macOS, ultra-ligero  de lectura y edición, construido con Rust + Tauri v2. TOC, búsqueda, Mermaid, GFM completo, Always on Top, multi-ventana, aut
 - [iamgio/quarkdown](https://github.com/iamgio/quarkdown) - 🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases.
 - [harnessworks/harness-starter-kit](https://github.com/harnessworks/harness-starter-kit) - 🐴 Prompt-first harness engineering for safer AI coding agent workflows.
@@ -3669,7 +3684,7 @@
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [nsdonato/recursostech](https://github.com/nsdonato/recursostech) - Recursos recopilados para compartir con la comunidad 🚀 Open source, aportes bienvenidos ♥️
 - [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
-- [FidelusAleksander/ghcertified](https://github.com/FidelusAleksander/ghcertified) - Prepare for GitHub Certification exams!
+- [v-fidelusaleksander/ghcertified](https://github.com/v-fidelusaleksander/ghcertified) - Prepare for GitHub Certification exams!
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [apptension/saas-boilerplate](https://github.com/apptension/saas-boilerplate) - SaaS Boilerplate - Open Source and free SaaS stack that lets you build SaaS products faster in React, Django and AWS. Focus on essential business logic instead of coding repeatable features!
 - [cs01/gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will ope
@@ -3928,7 +3943,7 @@
 - [Rishang/install-release](https://github.com/Rishang/install-release) - A CLI to install and update any single-binary CLI tools from GitHub & GitLab on Linux macOS and WSL
 - [github/forgoodfirstissue](https://github.com/github/forgoodfirstissue) - Find your first issue for good to contribute to
 - [cdktf/cdktf-provider-github](https://github.com/cdktf/cdktf-provider-github) - Prebuilt Terraform CDK (cdktf) provider for github.
-- [FidelusAleksander/ghcertified](https://github.com/FidelusAleksander/ghcertified) - Prepare for GitHub Certification exams!
+- [v-fidelusaleksander/ghcertified](https://github.com/v-fidelusaleksander/ghcertified) - Prepare for GitHub Certification exams!
 - [LadyKerr/github-certification-guide](https://github.com/LadyKerr/github-certification-guide) - Resources to help you get GitHub certified ✨
 - [microsoft/Mastering-GitHub-Copilot-for-Paired-Programming](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming) - A multi-module course teaching everything you need to know about using GitHub Copilot as an AI Peer Programming resource.
 - [remotion-dev/github-unwrapped](https://github.com/remotion-dev/github-unwrapped) - Your coding year in review
@@ -4131,6 +4146,7 @@
 
 ## golang 
 
+- [ai-sdlc-framework/ai-sdlc](https://github.com/ai-sdlc-framework/ai-sdlc) - Declarative governance framework for AI-augmented software development lifecycles
 - [marvinvr/docktail](https://github.com/marvinvr/docktail) - Expose Docker containers as Tailscale Services using label-based configuration.
 - [nicksenap/grove](https://github.com/nicksenap/grove) - Git worktree workspace orchestrator. One command creates a workspace folder with worktrees from multiple repos on the same branch.
 - [0xMassi/pocketdev](https://github.com/0xMassi/pocketdev) - One command to run the AI coding CLI you already pay for (Claude Code, Codex, Cursor, Gemini, Grok, aider) on a Tailscale-only Hetzner box — code from your phone.
@@ -5466,6 +5482,7 @@
 
 ## llm 
 
+- [HarnessRouter/harnessrouter](https://github.com/HarnessRouter/harnessrouter) - HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run Codex, Claude Code, Hermes, PI, DSH, and more through one API, with sessions, str
 - [hypit-ai/hypit](https://github.com/hypit-ai/hypit) - Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.
 - [rub3n88/orca-nan](https://github.com/rub3n88/orca-nan) - Tu suscripción de NaN (nan.builders) dentro de Orca: script nan + plugin NaN Usage
 - [deeplethe/utopia](https://github.com/deeplethe/utopia) - World's first open-source enterprise world model.
@@ -5597,7 +5614,7 @@
 
 ## localization 
 
-- [krillinai/OpenCreator](https://github.com/krillinai/OpenCreator) - Formerly KrillinAI. Open-source AI workspace for creators, powered by Codex. Create videos, images, voice, avatars, translations, and edits with Agents in one place.
+- [krillinai/OpenCreator](https://github.com/krillinai/OpenCreator) - Formerly KrillinAI. Open-source AI workspace for creators, powered by Codex. Create videos, images, voice, avatars, video translation, and edits with Agents in one place.
 - [github/relative-time-element](https://github.com/github/relative-time-element) - Web component extensions to the standard &lt;time&gt; element.
 
 ## login 
@@ -5658,6 +5675,7 @@
 
 ## machine-learning 
 
+- [mizorewww/laya-mlx](https://github.com/mizorewww/laya-mlx) - Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.
 - [arcships/light-ocr](https://github.com/arcships/light-ocr) - Fast, offline OCR for Node.js & C++. PP-OCRv6 with Core ML / WebGPU hardware acceleration — recognize text in images with confidence scores & coordinates. npm: @arcships/light-ocr
 - [rzru/nightingale](https://github.com/rzru/nightingale) - Machine learning powered Karaoke app (with scores!)
 - [ai-infra-curriculum/ai-infra-engineer-learning](https://github.com/ai-infra-curriculum/ai-infra-engineer-learning) - AI Infrastructure Engineer Learning Track - Production ML infrastructure curriculum (2-4 years experience)
@@ -6092,7 +6110,7 @@
 - [keephq/keep](https://github.com/keephq/keep) - The open-source AIOps and alert management platform
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
-- [openobserve/openobserve](https://github.com/openobserve/openobserve) - Open source observability platform for logs, metrics, traces, RUM, Session replay, pipelines, SLO and LLM observability. A sophisticated, simple and highly performant alternative to Datadog, Splunk, a
+- [openobserve/openobserve](https://github.com/openobserve/openobserve) - Open source observability platform for logs, metrics, traces, RUM (web, android, ios), Session replay, pipelines, SLO and LLM observability. A sophisticated, simple and highly performant alternative t
 - [collabnix/kubetools](https://github.com/collabnix/kubetools) - Kubetools - Curated List of Kubernetes Tools
 - [grafana/alloy](https://github.com/grafana/alloy) - OpenTelemetry Collector distribution with programmable pipelines
 - [techiescamp/devops-tools](https://github.com/techiescamp/devops-tools) - Curated List of Best DevOps Tools
@@ -6402,6 +6420,8 @@
 
 ## open-source 
 
+- [ai-sdlc-framework/ai-sdlc](https://github.com/ai-sdlc-framework/ai-sdlc) - Declarative governance framework for AI-augmented software development lifecycles
+- [HarnessRouter/harnessrouter](https://github.com/HarnessRouter/harnessrouter) - HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run Codex, Claude Code, Hermes, PI, DSH, and more through one API, with sessions, str
 - [Chuloo/mural](https://github.com/Chuloo/mural) - The language app you eventually delete. A native iPhone companion for learning through conversation.
 - [mateusz-bak/openreads](https://github.com/mateusz-bak/openreads) - A mobile books tracker written in Flutter that respects your privacy.
 - [nyblnet/bento](https://github.com/nyblnet/bento) - Bento, the office suite that fits in a file
@@ -6617,6 +6637,12 @@
 
 ## others 
 
+- [CTNicholas/jev-workflow-builder](https://github.com/CTNicholas/jev-workflow-builder) - 
+- [google/ax](https://github.com/google/ax) - Google's open agentic orchestration runtime
+- [usetrmnl/trmnl-firmware](https://github.com/usetrmnl/trmnl-firmware) - TRMNL ePaper device firmware
+- [sdras/jev-webmcp-extension](https://github.com/sdras/jev-webmcp-extension) - 
+- [craft-ai-agents/craft-agents-oss](https://github.com/craft-ai-agents/craft-agents-oss) - 
+- [lukilabs/beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid) - 
 - [Albert-Weasker/niubigeo](https://github.com/Albert-Weasker/niubigeo) - Open-source AI brand visibility and competitor reports. Official website: https://niubigeo.ai/ | Paid services: AI testing by real people and GEO optimization. Pricing: https://niubigeo.ai/pricing
 - [nilbuild/video-demo](https://github.com/nilbuild/video-demo) - Skill to record video demos of your web app with zoom-ins and voiceover
 - [javierpa95/harness-wiki](https://github.com/javierpa95/harness-wiki) - Segundo cerebro local-first: Obsidian como interfaz humana, OpenCode como capa de agentes. Plantilla para clonar.
@@ -8276,6 +8302,7 @@
 
 ## productivity 
 
+- [westpoint-io/mimik](https://github.com/westpoint-io/mimik) - 🪄 A browser extension that captures your workflow as you click and turns it into a step-by-step guide with annotated screenshots 📸
 - [nicksenap/grove](https://github.com/nicksenap/grove) - Git worktree workspace orchestrator. One command creates a workspace folder with worktrees from multiple repos on the same branch.
 - [Santofer/Remindian](https://github.com/Santofer/Remindian) - Sync Obsidian Tasks or TaskNotes with Apple Reminders or Things 3 — two-way sync, surgical edits, tag mapping, menu-bar app for macOS
 - [viperrcrypto/Siftly](https://github.com/viperrcrypto/Siftly) - Local Twitter/X bookmark organizer with AI categorization and mindmap visualization
@@ -8302,7 +8329,7 @@
 - [ankitpokhrel/jira-cli](https://github.com/ankitpokhrel/jira-cli) - 🔥 Feature-rich interactive Jira command line.
 - [MayGo/tockler](https://github.com/MayGo/tockler) - An application that tracks your time by monitoring your active window title and idle time.
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - top #1 and most feature rich GPT wrapper for git — generate commit messages with an LLM in 1 sec — works with Claude, GPT and every other provider, supports local Ollama models too
-- [feder-cr/AIHawk](https://github.com/feder-cr/AIHawk) - Anti detect browser and web browsing agent: an open-source MCP server for undetected browsing, AI web scraping and computer use agents. No captchas.
+- [feder-cr/AIHawk](https://github.com/feder-cr/AIHawk) - Anti-detect agentic browser: undetected browsing, browser automation, MCP server, AI web browsing agent, computer use, scraping, lead generation. No captchas.
 - [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted PaaS alternative to Heroku / Netlify / Coolify / Vercel / Dokku / Portainer running on Kubernetes
 - [lindell/multi-gitter](https://github.com/lindell/multi-gitter) - Update multiple repositories in with one command
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
@@ -8420,6 +8447,8 @@
 
 ## python 
 
+- [ai-sdlc-framework/ai-sdlc](https://github.com/ai-sdlc-framework/ai-sdlc) - Declarative governance framework for AI-augmented software development lifecycles
+- [agustinprod/vclights](https://github.com/agustinprod/vclights) - Control de lamparas LED VC-BLELIGHT (DoHome / app Raingel) por Bluetooth desde Python. Protocolo extraido del APK: 18 modos del firmware, animaciones propias y medidor de proximidad.
 - [Sumanth077/Hands-On-AI-Engineering](https://github.com/Sumanth077/Hands-On-AI-Engineering) - A curated collection of practical AI projects implementing OCR systems, RAG, AI agents, and other AI use cases.
 - [SenteLabsAI/OpenExecutive](https://github.com/SenteLabsAI/OpenExecutive) - AI-powered virtual executive team — a single coherent executive persona backed by 8 specialist agents (FastAPI + Next.js).
 - [DemonDamon/AgenticX](https://github.com/DemonDamon/AgenticX) - AgenticX is a unified, production-ready multi-agent platform — Python SDK + CLI (agx) + Studio server + Machi desktop app. Features Meta-Agent orchestration, 15+ LLM providers, MCP Hub, hierarchical m
@@ -8818,6 +8847,7 @@
 
 ## react 
 
+- [westpoint-io/mimik](https://github.com/westpoint-io/mimik) - 🪄 A browser extension that captures your workflow as you click and turns it into a step-by-step guide with annotated screenshots 📸
 - [xevrion/breakscale](https://github.com/xevrion/breakscale) - Build a system, load it until it breaks, and watch why. A system design simulator for learning distributed systems.
 - [surveyjs/survey-library](https://github.com/surveyjs/survey-library) - Open-source JavaScript form library for React, Angular, Vue, and plain JavaScript. Render dynamic JSON-driven forms, multi-step form wizards, surveys, quizzes, and other data-entry tools.
 - [shuaiplus/inkstone](https://github.com/shuaiplus/inkstone) - A self-hosted Markdown notebook that runs entirely on Cloudflare Workers.
@@ -8998,6 +9028,7 @@
 
 ## reverse-engineering 
 
+- [agustinprod/vclights](https://github.com/agustinprod/vclights) - Control de lamparas LED VC-BLELIGHT (DoHome / app Raingel) por Bluetooth desde Python. Protocolo extraido del APK: 18 modos del firmware, animaciones propias y medidor de proximidad.
 - [adidshaft/atria](https://github.com/adidshaft/atria) - Open-source, local-first iOS companion for compatible WHOOP straps. Live HR and evidence-qualified personal metrics over Bluetooth—no WHOOP account, subscription, or cloud.
 - [filiksyos/gitreverse](https://github.com/filiksyos/gitreverse) - Reverse engineer any repo into it's original prompt
 - [dembrandt/dembrandt](https://github.com/dembrandt/dembrandt) - Extract any website’s design system into tokens in seconds: logo, colors, typography, borders & more. One command.
@@ -9316,6 +9347,7 @@
 
 ## self-hosted 
 
+- [HarnessRouter/harnessrouter](https://github.com/HarnessRouter/harnessrouter) - HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run Codex, Claude Code, Hermes, PI, DSH, and more through one API, with sessions, str
 - [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector) - Open-source auth gateway connecting 1500+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.
 - [deeplethe/utopia](https://github.com/deeplethe/utopia) - World's first open-source enterprise world model.
 - [potalora/strand](https://github.com/potalora/strand) - Local-first, self-hosted personal health records. Ingests FHIR, Epic EHI, and CDA/XDM exports plus scanned PDFs/RTF/TIFF into one FHIR timeline, with de-identified AI summaries. HIPAA-informed control
@@ -10046,6 +10078,8 @@
 
 ## typescript 
 
+- [ai-sdlc-framework/ai-sdlc](https://github.com/ai-sdlc-framework/ai-sdlc) - Declarative governance framework for AI-augmented software development lifecycles
+- [westpoint-io/mimik](https://github.com/westpoint-io/mimik) - 🪄 A browser extension that captures your workflow as you click and turns it into a step-by-step guide with annotated screenshots 📸
 - [code-yeongyu/lazycodex](https://github.com/code-yeongyu/lazycodex) - The one and only agent harness for complex codebases. Project memory, planning, execution, and verified completion inside Codex.
 - [hypit-ai/hypit](https://github.com/hypit-ai/hypit) - Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.
 - [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector) - Open-source auth gateway connecting 1500+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.
@@ -10531,6 +10565,7 @@
 
 ## workflow 
 
+- [westpoint-io/mimik](https://github.com/westpoint-io/mimik) - 🪄 A browser extension that captures your workflow as you click and turns it into a step-by-step guide with annotated screenshots 📸
 - [gtrabanco/agentic-workflow](https://github.com/gtrabanco/agentic-workflow) - Stack-agnostic agentic-programming workflow skills + documentation scaffold
 - [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) - VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
 - [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe) - 💻  vibe coding 101｜The first course for AI-native product builders.
