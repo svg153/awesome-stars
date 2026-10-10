@@ -562,7 +562,7 @@
 - [awslabs/diagram-as-code](https://github.com/awslabs/diagram-as-code) - Diagram-as-code for AWS architecture.
 - [charmbracelet/fang](https://github.com/charmbracelet/fang) - The CLI starter kit
 - [cdnetworks-api/terraform-provider-cdnetworks](https://github.com/cdnetworks-api/terraform-provider-cdnetworks) - Terraform Cdnetworks Provider
-- [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices, users, and agents into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) - NetBird securely connects people, machines and AI agents across any network with one identity-based Zero Trust platform. Powered by peer-to-peer WireGuard®
 - [grafana-cold-storage/tempo-mcp-server](https://github.com/grafana-cold-storage/tempo-mcp-server) - An MCP ( Model Context Protocol ) Server for Grafana Tempo
 - [kaito-project/kaito](https://github.com/kaito-project/kaito) - Kubernetes AI Toolchain Operator
 - [giantswarm/mcp-debug](https://github.com/giantswarm/mcp-debug) - Command-line tool for debugging MCP servers
@@ -893,7 +893,7 @@
 - [amazon-archives/aws-lambda-container-image-converter](https://github.com/amazon-archives/aws-lambda-container-image-converter) - The AWS Lambda container image converter tool (img2lambda) repackages container images (such as Docker images) into AWS Lambda function deployment packages and Lambda layers.
 - [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes
 - [martinraison/ascii-tv](https://github.com/martinraison/ascii-tv) - Stream ASCII movies over HTTP
-- [micro/go-micro](https://github.com/micro/go-micro) - A framework for building agents and services
+- [micro/go-micro](https://github.com/micro/go-micro) - A framework for agents, tools and services
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, and most secure way to access and protect all of your infrastructure.
 - [isacikgoz/tldr](https://github.com/isacikgoz/tldr) - fast and interactive tldr client written with  go
@@ -1008,7 +1008,7 @@
 - [datarhei/restreamer](https://github.com/datarhei/restreamer) - The Restreamer is a complete streaming server solution for self-hosting. It has a visually appealing user interface and no ongoing license costs. Upload your live stream to YouTube, Twitch, Facebook, 
 - [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
 - [pamelafox/presentation-writeups](https://github.com/pamelafox/presentation-writeups) - Skills and tools to turn my presentations into writeups
-- [tw93/Kami](https://github.com/tw93/Kami) - 👩‍🚒 Good content deserves good paper.
+- [tw93/Kami](https://github.com/tw93/Kami) - 👩‍🚒 Paper-inspired typography for elegant reading on screen. Good content deserves good paper.
 - [htekdev/copilot-visual-studio-guide](https://github.com/htekdev/copilot-visual-studio-guide) - Comprehensive guide to GitHub Copilot in Visual Studio - docs, presentations, code samples
 - [Manavarya09/design-extract](https://github.com/Manavarya09/design-extract) - Extract any website's complete design system with one command. DTCG tokens, semantic+primitive+composite, MCP server for Claude Code/Cursor/Windsurf, multi-platform emitters (iOS SwiftUI, Android Comp
 - [ksimback/hermes-ecosystem](https://github.com/ksimback/hermes-ecosystem) - Hermes Atlas — the decision layer for Hermes Agent: install guidance, mode & skill picks, and a curated catalog of 240+ ecosystem tools with live GitHub data
@@ -1031,6 +1031,7 @@
 - [DanWahlin/ai-repo-adventures](https://github.com/DanWahlin/ai-repo-adventures) - A fun, Model Context Protocol (MCP) server and/or HTML generator that transforms code repositories into interactive adventures!
 - [BenjaminAster/CSS-Minecraft](https://github.com/BenjaminAster/CSS-Minecraft) - A Minecraft clone made with pure HTML & CSS – no JavaScript.
 - [thomast1906/github-copilot-metric-viewer](https://github.com/thomast1906/github-copilot-metric-viewer) - 
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Open-source foundation of ToolJet AI - the enterprise app generation platform for internal tools, dashboards, business applications, workflows and AI agents. Build visually, from a prompt, or from Cla
 - [openshifttips/web](https://github.com/openshifttips/web) - Hugo content for the openshift.tips blog
 - [dag-andersen/argocd-diff-preview](https://github.com/dag-andersen/argocd-diff-preview) - Tool for rendering manifest changes on pull requests.
 - [codetocloudorg/platform-engineering](https://github.com/codetocloudorg/platform-engineering) - A centralized hub for platform engineering teams, providing resources, best practices, and automation tools. Includes IaC templates, blueprints, and operational guides to help build scalable, secure, 
@@ -1217,6 +1218,7 @@
 
 ## JavaScript 
 
+- [gr8rstudio/gr8r-studio](https://github.com/gr8rstudio/gr8r-studio) - Gr8r Studio: a calm, structured project management workspace. Vite + plain ES modules.
 - [rochydev/net-sim](https://github.com/rochydev/net-sim) - Simulador de red
 - [arnaucanet/request-journey](https://github.com/arnaucanet/request-journey) - El viaje de una petición web en 3D: DNS, CDN, balanceador, EC2, Redis y base de datos en AWS, con las averías típicas de producción
 - [deors/agent-skills](https://github.com/deors/agent-skills) - Production-grade engineering skills for AI coding agents.
@@ -1265,7 +1267,7 @@
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [decolua/9router](https://github.com/decolua/9router) - Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
 - [OpenTechEvents/opentechevents-spec](https://github.com/OpenTechEvents/opentechevents-spec) - Open specification for publishing tech community events in a portable, machine-readable format.
-- [byoungd/up](https://github.com/byoungd/up) - 中英双语终身学习指南：英语学习、AI 协作、真实项目与成长证据。A bilingual guide to English learning and AI-era growth.
+- [byoungd/up](https://github.com/byoungd/up) - 人生进阶指南 韩先凯的人生进阶指南 英语学习指南 离谱的人生 AI时代终身学习：AI、学习、创业与成长。
 - [jrubiosainz/copilot-spaces-iac](https://github.com/jrubiosainz/copilot-spaces-iac) - Infrastructure as Code for GitHub Copilot Spaces - define, plan, and sync Spaces via YAML
 - [getnao/sylph](https://github.com/getnao/sylph) - The open-source company brain. Run your entire company with AI agents, skills, and a self-improving context.
 - [spr-networks/super](https://github.com/spr-networks/super) - One wifi password per device. Ad Blocking & Privacy Blocklists. Policy Based Network Access
@@ -1364,7 +1366,6 @@
 - [pullpo-io/conventional-comments](https://github.com/pullpo-io/conventional-comments) - Chrome and Firefox extension for Conventional Comments in GitHub UI.
 - [skills/integrate-mcp-with-copilot](https://github.com/skills/integrate-mcp-with-copilot) - Learn how to use MCP Servers with GitHub Copilot
 - [github/audit-actions-workflow-runs](https://github.com/github/audit-actions-workflow-runs) - Audit your GitHub Actions workflow runs to see exactly which Actions were downloaded
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Open-source foundation of ToolJet AI - the enterprise app generation platform for internal tools, dashboards, business applications, workflows and AI agents. Build visually, from a prompt, or from Cla
 - [AndreaGriffiths11/school-calendar-script](https://github.com/AndreaGriffiths11/school-calendar-script) - Google Apps Script automatically extracts events from your school's emails and adds them to a shared Google Calendar, making it easier to keep track of important school dates and events.
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [anvaka/map-of-github](https://github.com/anvaka/map-of-github) - Inspirational Mapping
@@ -2059,7 +2060,7 @@
 - [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
 - [ellerbrock/docker-security-images](https://github.com/ellerbrock/docker-security-images) - :closed_lock_with_key: Docker Container for Penetration Testing & Security
 - [styfle/awesome-online-ide](https://github.com/styfle/awesome-online-ide) - 🌩️ A list of awesome online development environments
-- [dipakkr/A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - ✅  Curated list of resources for developers
+- [dipakkr/awesome-ai-engineering](https://github.com/dipakkr/awesome-ai-engineering) - 🚀 A curated collection of AI engineering resources, roadmaps, tools, and projects covering LLMs, RAG, AI Agents, MCP, fine-tuning, evaluations, and production AI systems.
 - [manuparra/PracticasCC](https://github.com/manuparra/PracticasCC) - Guión de prácticas de Cloud Computing -  Máster en Ingeniería Informática - www.ugr.es
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [Twipped/InterviewThis](https://github.com/Twipped/InterviewThis) - An open source list of developer questions to ask prospective employers
@@ -2153,7 +2154,6 @@
 
 - [passbolt/passbolt_api](https://github.com/passbolt/passbolt_api) - Passbolt Community Edition (CE) API. The JSON API for the open source password manager for teams!
 - [Qloapps/QloApps](https://github.com/Qloapps/QloApps) - QloApps is a Free and Open-source hotel management and reservation system to take a hotel business online. QloApps offers a Property Management System (PMS), a Booking Engine, and an attractive Hotel 
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 - [InvoiceShelf/InvoiceShelf](https://github.com/InvoiceShelf/InvoiceShelf) - Open Source Invoicing Solution for Individuals & Businesses
 - [grokability/snipe-it](https://github.com/grokability/snipe-it) - A free open source IT asset/license management system
 - [kimai/kimai](https://github.com/kimai/kimai) - Kimai is the #1 open-source time-tracking application. From freelancers to companies and organisations - everyone can manage timesheets, generate reports, create invoices and so much more... Web-based
@@ -2221,6 +2221,8 @@
 
 ## Python 
 
+- [tigerless-labs/autoharness](https://github.com/tigerless-labs/autoharness) - Autoharness — a self-learning skill layer for Claude Code — distills skills from your real sessions, updates them as you work, and prunes the ones that stop getting used. No daemon, no benchmark.
+- [visser23/promo-video-generator](https://github.com/visser23/promo-video-generator) - A set of tools which an AI can use to built short promo videos
 - [InditexTech/kumoss](https://github.com/InditexTech/kumoss) - Kumoss is an application designed to manage infrastructure based on AI and covering any custom best practices, security and guardrails by default.
 - [yibie/awesome-jev](https://github.com/yibie/awesome-jev) - A curated list of public projects, integrations, and discussions built on Jev — TypeSafe AI's System One model for typed decisions.
 - [yosnap/eventarium](https://github.com/yosnap/eventarium) - Plataforma open source de registro y gestión de eventos, multi-organización y con branding propio por organizador
@@ -2467,7 +2469,7 @@
 - [ansible/pytest-ansible](https://github.com/ansible/pytest-ansible) - A pytest plugin that enables the use of ansible in tests, enables the use of pytest as a collection unit test runner, and exposes molecule scenarios through a pytest fixture.
 - [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi
 - [dryeab/mcp-telegram](https://github.com/dryeab/mcp-telegram) - MCP Server for Telegram
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Air gapped, privacy focused open source NotebookLM alternative. Join our Discord: https://discord.gg/ejRNvftDp9
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Air-gapped, privacy-focused, open-source NotebookLM alternative. AI agent that researches, transforms, and edits your documents (PDF, DOCX, XLSX, PPTX, etc.). Join our Discord: https://discord.gg/ejRN
 - [HollowMan6/sarif4reviewdog](https://github.com/HollowMan6/sarif4reviewdog) - Static Analysis Results Interchange Format (SARIF) support for reviewdog by converting it into Reviewdog Diagnostic Format (RDFormat)
 - [surajverma/homehub](https://github.com/surajverma/homehub) - A private, lightweight, no-login, self-hosted family utility for your home and it comes with no config PWA.
 - [Goekdeniz-Guelmez/Local-NotebookLM](https://github.com/Goekdeniz-Guelmez/Local-NotebookLM) - Googles NotebookLM but local
@@ -2955,7 +2957,7 @@
 - [pmaojo/vord](https://github.com/pmaojo/vord) - A static analysis platform in Rust — a guardrail that judges an AI agent's write before it reaches disk, and a coding agent of its own that is judged by that same guardrail. One static binary, 24 lang
 - [block/buzz](https://github.com/block/buzz) - A hive mind communication platform
 - [0ximu/mu](https://github.com/0ximu/mu) - MCP server that gives AI assistants deep codebase understanding. Semantic graph, BM25 search, impact analysis, code review.
-- [yuezk/GlobalProtect-openconnect](https://github.com/yuezk/GlobalProtect-openconnect) - A GlobalProtect VPN client for Linux, written in Rust, based on OpenConnect and Tauri, supports SSO with MFA, YubiKey, and client certificate authentication, etc.
+- [yuezk/GlobalProtect-openconnect](https://github.com/yuezk/GlobalProtect-openconnect) - A GlobalProtect VPN client for Linux and macOS, written in Rust, based on OpenConnect and Tauri, supports SSO with MFA, YubiKey, and client certificate authentication, etc.
 - [agrinman/tunnelto](https://github.com/agrinman/tunnelto) - Expose your local web server to the internet with a public URL.
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees
 - [govctl-org/govctl](https://github.com/govctl-org/govctl) - A governance harness for AI coding.
@@ -3018,7 +3020,7 @@
 - [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) - Production-grade Rust-native trading engine with deterministic event-driven architecture
 - [samwho/spacer](https://github.com/samwho/spacer) - CLI tool to insert spacers when command output stops
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
-- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any website into a tiny, fast desktop app.
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
 - [PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless) - jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data.
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your network traffic 🕵️‍♂️
@@ -3161,7 +3163,7 @@
 - [jcesarperez/claude-em](https://github.com/jcesarperez/claude-em) - 
 - [microsoft/azure-skills](https://github.com/microsoft/azure-skills) - Official agent plugin providing skills and MCP server configurations for Azure scenarios.
 - [ericboy0224/learn-docker-and-k8s](https://github.com/ericboy0224/learn-docker-and-k8s) - Interactive AI-driven game to learn Docker, Linux, networking & Kubernetes. Open in Claude Code or Cursor, type 'let's play'.
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac app.
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Keep your Mac clean, light, and running like new. Fast open-source CLI, plus a native Mac app.
 - [DUBSOpenHub/copilot-cli-quickstart](https://github.com/DUBSOpenHub/copilot-cli-quickstart) - 🚀 Interactive Copilot CLI tutor skill — learn by doing. This is a Copilot CLI quickstart skill with an accompanying agent to run/teach it.
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a
 - [addyosmani/web-quality-skills](https://github.com/addyosmani/web-quality-skills) - Agent Skills for optimizing web quality based on Lighthouse and Core Web Vitals.
@@ -3423,6 +3425,10 @@
 
 ## TypeScript 
 
+- [CharanMunur/stargazer](https://github.com/CharanMunur/stargazer) - Turn your GitHub stargazers into cinematic 1600x900 social cards and 60fps MP4 loops directly in your browser.
+- [pablostanley/yoinks](https://github.com/pablostanley/yoinks) - yoink any video from your terminal. no shady ads.
+- [lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas) - Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.
+- [ArlindNocaj/copilot-sdk-ag-ui-frontend-demo](https://github.com/ArlindNocaj/copilot-sdk-ag-ui-frontend-demo) - GitHub Copilot SDK agents with a CopilotKit frontend via the AG-UI protocol: Dojo use cases + realistic showcases (Python/uv and TypeScript)
 - [cartesiancs/map3d](https://github.com/cartesiancs/map3d) - 🗺️ Generate City 3D map with R3F. Include building and road information.
 - [borjaperfra/beatdeck](https://github.com/borjaperfra/beatdeck) - Talks as beats, not slides: a fixed 1920×1080 React stage where one click is one beat. Offline, deterministic, presenter view, and a Claude Code skill.
 - [caipe-io/ai-platform-engineering](https://github.com/caipe-io/ai-platform-engineering) - CAIPE is an open-source AI platform for building, governing, and operating AI agents and agentic workflows for platform engineering and beyond.
@@ -3541,7 +3547,7 @@
 - [tamasi17/musicBox](https://github.com/tamasi17/musicBox) - 
 - [silvertakana/worldwideview](https://github.com/silvertakana/worldwideview) - 
 - [Conway-Research/automaton](https://github.com/Conway-Research/automaton) - The first AI that can earn its own existence, replicate, and evolve — without needing a human
-- [arcasilesgroup/ai-engineering](https://github.com/arcasilesgroup/ai-engineering) - The governance floor for AI coding agents: install, guard, prove. Guards, git hooks, an executable contract and a receipt per run — no hosted control plane, no provider lock-in.
+- [arcasilesgroup/ai-engineering](https://github.com/arcasilesgroup/ai-engineering) - Developer-centered AI engineering: build software with security, quality and governance. One local binary under the agent you already run
 - [21st-dev/agent-elements](https://github.com/21st-dev/agent-elements) - 
 - [prasadhonrao/ghcp-cli-cheatsheet](https://github.com/prasadhonrao/ghcp-cli-cheatsheet) - Searchable GitHub Copilot CLI cheatsheet built with React, Vite, and TypeScript.
 - [VERT-sh/VERT](https://github.com/VERT-sh/VERT) - The next-generation file converter. Open source, fully local* and free forever.
@@ -3682,7 +3688,7 @@
 - [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 - [invoicerr-app/invoicerr](https://github.com/invoicerr-app/invoicerr) - Invoicerr is a freelance-focused invoicing app that lets you create quotes, generate invoices, track payments, and collect secure signatures.
-- [RookieEnough/Orion-Store](https://github.com/RookieEnough/Orion-Store) - The ultimate home for modded apps. OrionStore offers instant access to YouTube Morphe, YT Music Morphe, and essential open-source tools without the clutter. No servers, no tracking, just a beautiful, 
+- [RookieEnough/Orion-Store](https://github.com/RookieEnough/Orion-Store) - The ultimate home for Open Source and Cleaned apps. OrionStore offers instant access to YouTube Morphe, YT Music Morphe, and essential open-source tools without the clutter. No servers, no tracking, j
 - [modelcontextprotocol/ext-apps](https://github.com/modelcontextprotocol/ext-apps) - Official repo for spec & SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served by MCP servers
 - [digitarald/mcp-apps-playground](https://github.com/digitarald/mcp-apps-playground) - 
 - [microsoft/DebugMCP](https://github.com/microsoft/DebugMCP) - Gift your VS Code agent a real debugger: breakpoints, stepping, inspection.
@@ -3819,6 +3825,7 @@
 - [Nutlope/billsplit](https://github.com/Nutlope/billsplit) - Split your restaurant bills easily
 - [anthropics/claude-code-action](https://github.com/anthropics/claude-code-action) - 
 - [0GiS0/demos-codemotion-2025](https://github.com/0GiS0/demos-codemotion-2025) - Este repo contiene las demos que mostré durante el evento Codemotion Madrid 2025
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more
 - [Lin-jun-xiang/vscode-prompts-chat-extension](https://github.com/Lin-jun-xiang/vscode-prompts-chat-extension) - An extension to connect to prompts.chat and add prompt templates for VSCode Github Copilot.
 - [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Visualize any GitHub codebase: free interactive architecture diagrams and one-minute explainer videos. Replace 'hub' with 'diagram' in any GitHub URL.
 - [Nutlope/self.so](https://github.com/Nutlope/self.so) - LinkedIn -&gt; personal site generator
@@ -3866,7 +3873,7 @@
 - [cline/cline](https://github.com/cline/cline) - Autonomous coding agent as an SDK, IDE extension, or CLI assistant.
 - [undb-io/undb](https://github.com/undb-io/undb) - Archived. Moved to Teable.
 - [elizaOS/eliza](https://github.com/elizaOS/eliza) - Open source agentic operating system
-- [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene) - GUI Agent for E2E Testing
+- [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene) - See interfaces like a human. E2E testing in natural language.
 - [kturung/cogent](https://github.com/kturung/cogent) - 
 - [al1abb/invoify](https://github.com/al1abb/invoify) - An invoice generator app built using Next.js, Typescript, and Shadcn
 - [microsoft/GitHub-Copilot-for-Azure](https://github.com/microsoft/GitHub-Copilot-for-Azure) - GitHub Copilot for Azure
