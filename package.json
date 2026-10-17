@@ -1,6 +1,7 @@
 {
   "name": "svg153-awesome-stars",
   "dependencies": {
+    "brace-expansion": "^1.1.16",
     "stargazed": "github:abhijithvijayan/stargazed"
   }
 }
