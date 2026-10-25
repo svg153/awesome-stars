@@ -1012,7 +1012,6 @@
 - [olivomarco/github-copilot-token-optimization](https://github.com/olivomarco/github-copilot-token-optimization) - Techniques to optimize token usage on GitHub Copilot
 - [nexu-io/html-video](https://github.com/nexu-io/html-video) - Programmatic video for coding agents — HTML to video on your laptop. Turn HTML, CSS & data into real MP4s with pluggable render engines, 21 templates, AI soundtrack. Apache-2.0, no per-render fees. An
 - [alfredoperez/speckit-companion](https://github.com/alfredoperez/speckit-companion) - VS Code extension for spec-driven development — manage specs, workflows, and steering docs for AI CLI tools (Claude Code, Gemini CLI, Copilot CLI)
-- [manufosela/karajan-code](https://github.com/manufosela/karajan-code) - Your AI writes the code; Karajan governs how it happens: TDD-first method, cross-AI review on every commit and git gates that make a false green impossible. Works with Claude, Codex, Gemini, OpenCode 
 - [nexu-io/html-anything](https://github.com/nexu-io/html-anything) - ✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed pre
 - [githubnext/repo-assist-impact](https://github.com/githubnext/repo-assist-impact) - Repo-assist impact analysis for F# open source repositories
 - [datarhei/restreamer](https://github.com/datarhei/restreamer) - The Restreamer is a complete streaming server solution for self-hosting. It has a visually appealing user interface and no ongoing license costs. Upload your live stream to YouTube, Twitch, Facebook, 
@@ -1142,7 +1141,7 @@
 - [karatelabs/karate](https://github.com/karatelabs/karate) - Test Automation Made Simple
 - [alibaba/atlas](https://github.com/alibaba/atlas) - A powerful Android Dynamic Component Framework.
 - [GumTreeDiff/gumtree](https://github.com/GumTreeDiff/gumtree) - An awesome code differencing tool
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Event Driven Orchestration & Scheduling Platform for Mission Critical Applications
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Orchestrate everything, everywhere. The open-source control plane for workflows across data, infrastructure, business processes and AI agents. Declarative YAML, event-driven, any language, Git-version
 - [ghas-bootcamp/ghas-bootcamp](https://github.com/ghas-bootcamp/ghas-bootcamp) - This bootcamp is designed to familiarize you with GitHub Advanced Security (GHAS) so that you can better understand how to use it in your own repositories.
 - [strimzi/strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator) - Apache Kafka® running on Kubernetes
 - [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
@@ -1284,11 +1283,12 @@
 - [danielmeppiel/finops-workshop](https://github.com/danielmeppiel/finops-workshop) - Minimalist, speaker-driven 1-hour workshop on controlling GitHub Copilot agentic-coding cost (FinOps): deck, demos, and a stdlib-only session cost meter.
 - [plugin87/ux-ui-agent-skills](https://github.com/plugin87/ux-ui-agent-skills) - Turn Claude into a senior design architect: DTCG tokens, 52 components, WCAG 2.2 AA-AAA, 138 design systems, any-framework code, and 50 objective gates that fail the build instead of faking success.
 - [Forward-Future/loopy](https://github.com/Forward-Future/loopy) - A library of practical AI-agent loops and an installable skill for finding, adapting, and designing repeatable agent workflows.
-- [ulsklyc/yuvomi](https://github.com/ulsklyc/yuvomi) - Self-hosted family planner - tasks, calendars, shopping, meals, budget. Your data, your server.
+- [ulsklyc/yuvomi](https://github.com/ulsklyc/yuvomi) - One home instead of many subscriptions. Yuvomi is a self-hosted family planner: tasks, calendar, budget, meals, shopping, health and more in one PWA on your own server or NAS. Docker, Podman, TrueNAS,
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [decolua/9router](https://github.com/decolua/9router) - Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
 - [OpenTechEvents/opentechevents-spec](https://github.com/OpenTechEvents/opentechevents-spec) - Open specification for publishing tech community events in a portable, machine-readable format.
 - [byoungd/up](https://github.com/byoungd/up) - 韩先凯的人生进阶指南 AI时代 中英双语终身学习指南：英语学习、AI 协作、真实项目与成长证据。
+- [manufosela/karajan-code](https://github.com/manufosela/karajan-code) - Your AI writes the code; Karajan governs how it happens: TDD-first method, cross-AI review on every commit and git gates that make a false green impossible. Works with Claude, Codex, Gemini, OpenCode 
 - [jrubiosainz/copilot-spaces-iac](https://github.com/jrubiosainz/copilot-spaces-iac) - Infrastructure as Code for GitHub Copilot Spaces - define, plan, and sync Spaces via YAML
 - [getnao/sylph](https://github.com/getnao/sylph) - The open-source company brain. Run your entire company with AI agents, skills, and a self-improving context.
 - [spr-networks/super](https://github.com/spr-networks/super) - One wifi password per device. Ad Blocking & Privacy Blocklists. Policy Based Network Access
@@ -1562,7 +1562,6 @@
 - [awalgarg/cv-maker](https://github.com/awalgarg/cv-maker) - simple elegant markdown based resumes
 - [google/tie](https://github.com/google/tie) - 
 - [santa-land/secret-santa](https://github.com/santa-land/secret-santa) - Secret Santa :santa: is a Western Christmas tradition in which members of a group or community :family:are randomly assigned a person to whom they anonymously :alien: give a gift :gift:. This is a MEA
-- [MobSF/Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) - Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and 
 - [GioBonvi/GoogleContactsEventsNotifier](https://github.com/GioBonvi/GoogleContactsEventsNotifier) - Receive automatic email notifications before your Google Contacts birthday and other events!
 - [minimalchat/client](https://github.com/minimalchat/client) - Client library for Minimal Chat
 - [denysdovhan/bash-handbook](https://github.com/denysdovhan/bash-handbook) - :book: For those who wanna learn Bash
@@ -1678,6 +1677,7 @@
 - [utkarshdalal/GameNative](https://github.com/utkarshdalal/GameNative) - Native PC gaming with Steam, Epic, GOG and Amazon integrations on Android
 - [iamgio/quarkdown](https://github.com/iamgio/quarkdown) - 🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases.
 - [MetrolistGroup/Metrolist](https://github.com/MetrolistGroup/Metrolist) - YouTube Music client for Android
+- [RookieEnough/Orion-Store](https://github.com/RookieEnough/Orion-Store) - The ultimate home for Open Source and Cleaned apps. OrionStore offers instant access to YouTube Morphe, YT Music Morphe, and essential open-source tools without the clutter. No servers, no tracking, j
 - [komi-store/komi-store](https://github.com/komi-store/komi-store) - 🩵 A free, open-source app store for developers' releases on GitHub, Codeberg & Forgejo — browse, discover, and install apps with one click. Formerly GitHub Store.
 - [mhss1/MyBrain](https://github.com/mhss1/MyBrain) - All-in-one productivity app and AI assistant with Tasks, Notes, Calendar, Diary and Bookmarks.
 - [societe-generale/github-crawler](https://github.com/societe-generale/github-crawler) - a utility to crawl all your repositories and find the information you need - now also working for Gitlab !
@@ -1734,7 +1734,6 @@
 ## Makefile 
 
 - [mario-ezquerro/sre-platform-cloud](https://github.com/mario-ezquerro/sre-platform-cloud) - SRE for the rest of humans [Logs, opentelemetry, docker, proxy, etc]
-- [githubnext/agentics](https://github.com/githubnext/agentics) - A sample pack of GitHub Agentic Workflows!
 - [deepseek-ai/DeepSeek-LLM](https://github.com/deepseek-ai/DeepSeek-LLM) - DeepSeek LLM: Let there be answers
 - [cncf/people](https://github.com/cncf/people) - Stores the data that will populate the various people listings on cncf.io
 - [lyz-code/blue-book](https://github.com/lyz-code/blue-book) - My personal knowledge repository
@@ -2454,7 +2453,7 @@
 - [kdeldycke/repomatic](https://github.com/kdeldycke/repomatic) - 🏭 Automate repository maintenance, releases, and CI/CD workflows
 - [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) - Personal memory across agents
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps
-- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,600+ agentic skills. Includes CLI, local MCP, catalo
+- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,750+ agentic skills. Includes CLI, local MCP, catalo
 - [agentskills/agentskills](https://github.com/agentskills/agentskills) - Specification and documentation for Agent Skills
 - [BquantFinance/licitaciones-espana](https://github.com/BquantFinance/licitaciones-espana) - 
 - [infobyte/faraday](https://github.com/infobyte/faraday) - Open-source and AI-powered cybersecurity tools for offensive security, vulnerability management, and autonomous pentesting. Built by hackers in Latin America, used worldwide.
@@ -2528,6 +2527,7 @@
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC (no affiliatio
 - [obsei/obsei](https://github.com/obsei/obsei) - Open source, privacy-first Voice of Customer analytics. A self-hosted alternative to Enterpret and Unwrap that strips PII from feedback before any LLM sees it.
 - [someengineering/fixinventory](https://github.com/someengineering/fixinventory) - Fix Inventory helps you identify and remove the most critical risks in AWS, GCP, Azure and Kubernetes.
+- [githubnext/agentics](https://github.com/githubnext/agentics) - A sample pack of GitHub Agentic Workflows!
 - [nottelabs/notte](https://github.com/nottelabs/notte) - Cloud browser infrastructure and web automation platform for your AI and coding agents
 - [arben-adm/mcp-sequential-thinking](https://github.com/arben-adm/mcp-sequential-thinking) - Local MCP work notes with persistent sessions, decisions, evidence and resumable tasks.
 - [CodeUpdaterBot/ClickUi](https://github.com/CodeUpdaterBot/ClickUi) - The best way to use AI is on your own computer. Use local or paid API models, and ctrl+k to show/hide the chat UI. Experience the future of AI, and help build it too!
@@ -2878,6 +2878,7 @@
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [secdev/scapy](https://github.com/secdev/scapy) - Scapy: the Python-based interactive packet manipulation program & library.
 - [idanr1986/cuckoo-droid](https://github.com/idanr1986/cuckoo-droid) - CuckooDroid - Automated Android Malware Analysis with Cuckoo Sandbox.
+- [MobSF/Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) - Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and 
 - [grafov/plantuml2mysql](https://github.com/grafov/plantuml2mysql) - This utility parses PlantUML class diagram and generates SQL DDL for MySQL
 - [n4xh4ck5/wh01p](https://github.com/n4xh4ck5/wh01p) - Tool to obtain information about IP or domain: Geolocation, network, whois and opened ports.
 - [fourdollars/quick](https://github.com/fourdollars/quick) - Quick is an installation helper to download and install binary packages from Internet to ~/.local
@@ -3734,7 +3735,6 @@
 - [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 - [invoicerr-app/invoicerr](https://github.com/invoicerr-app/invoicerr) - Invoicerr is a freelance-focused invoicing app that lets you create quotes, generate invoices, track payments, and collect secure signatures.
-- [RookieEnough/Orion-Store](https://github.com/RookieEnough/Orion-Store) - The ultimate home for Open Source and Cleaned apps. OrionStore offers instant access to YouTube Morphe, YT Music Morphe, and essential open-source tools without the clutter. No servers, no tracking, j
 - [modelcontextprotocol/ext-apps](https://github.com/modelcontextprotocol/ext-apps) - Official repo for spec & SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served by MCP servers
 - [digitarald/mcp-apps-playground](https://github.com/digitarald/mcp-apps-playground) - 
 - [microsoft/DebugMCP](https://github.com/microsoft/DebugMCP) - Gift your VS Code agent a real debugger: breakpoints, stepping, inspection.
