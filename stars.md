@@ -182,6 +182,8 @@
 
 ## C# # 
 
+- [jamesmontemagno/tiny-clips](https://github.com/jamesmontemagno/tiny-clips) - A lightweight macOS & Windows menu bar app for capturing screenshots (PNG), video (MP4), and animated GIFs of a selected screen region.
+- [jamesmontemagno/clipboard-next](https://github.com/jamesmontemagno/clipboard-next) - Queue demo commands; every Command-V puts the next one on your clipboard. macOS menu bar app.
 - [dotnet/skills](https://github.com/dotnet/skills) - Repository for skills to assist AI coding agents with .NET and C#
 - [Redth/mobile-canvas-ghcp](https://github.com/Redth/mobile-canvas-ghcp) - Mobile iOS / Android Canvas extension for GitHub Copilot App
 - [Greedeks/GTweak](https://github.com/Greedeks/GTweak) - Portable Tool for an Ideal Windows Setup
@@ -1128,6 +1130,7 @@
 ## Java 
 
 - [techgenius1/tvOS-Launcher](https://github.com/techgenius1/tvOS-Launcher) - A fast, lightweight tvOS 26 & macOS–inspired launcher for Android TV with a Liquid Glass dock, rotating depth scenes, universal Control Panel overlay, Recent Apps switcher, 1x/2x/3x button mapper, and
+- [piermark/omarchytv](https://github.com/piermark/omarchytv) - Omarchy-styled tiling launcher ecosystem for Android TV, Google TV, LG webOS, Android Mobile & Linux/macOS/Omarchy PCs
 - [freeplane/freeplane](https://github.com/freeplane/freeplane) - Application for Mind Mapping, Knowledge Management, Project Management. Develop, organize and communicate your ideas and knowledge in the most effective way.
 - [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) - Learn System Design concepts and prepare for interviews using free resources.
 - [floci-io/floci-az](https://github.com/floci-io/floci-az) - Light, fluffy, and always free - Local Azure Emulator
@@ -1244,14 +1247,12 @@
 - [QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html) - Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。
 - [microlinkhq/skills](https://github.com/microlinkhq/skills) - Microlink's official collection of agent skills
 - [jrubiosainz/octovox](https://github.com/jrubiosainz/octovox) - Push-to-talk voice panel for the GitHub Copilot app: ask your sessions how they're going, dictate prompts and hear answers with MAI-Voice.
-- [piermark/omarchytv](https://github.com/piermark/omarchytv) - Omarchy-styled tiling launcher ecosystem for Android TV, Google TV, LG webOS, Android Mobile & Linux/macOS/Omarchy PCs
 - [amirmushichge/interactive-garment-starter](https://github.com/amirmushichge/interactive-garment-starter) - Build an interactive clothing website from product photos with your coding agent. Includes two animated garments, prompts, and a video-to-UI pipeline.
 - [zz85/slop-cities](https://github.com/zz85/slop-cities) - spreading slop to different cities
 - [midudev/runonweb.ai](https://github.com/midudev/runonweb.ai) - SDK to use local models on web easy
 - [mrdoob/slop-newyork](https://github.com/mrdoob/slop-newyork) - 
 - [xavidop/dash](https://github.com/xavidop/dash) - Open-source ambient smart display for a wall tablet or kiosk: weather, calendar, news, markets, live sports with full-screen scoreboards and playoff brackets, Spotify with synced lyrics, cooking mode,
 - [Yani3rt/homeview](https://github.com/Yani3rt/homeview) - A kitchen-wall home screen in the style of Apple's HomeView, for inexpensive Android photo frames: standby clocks, weather, calendars, meal planning from TheMealDB, Sonos and Spotify.
-- [atlassian/atlassian-mcp-server](https://github.com/atlassian/atlassian-mcp-server) - Official remote MCP server for Atlassian. Securely connect Jira, Confluence, Jira Service Management, Bitbucket, and Compass to Claude, ChatGPT, Cursor, VS Code, and other AI tools using OAuth 2.1 or 
 - [alchaincyf/huashu-art-motion](https://github.com/alchaincyf/huashu-art-motion) - 艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。
 - [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) - An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.
 - [gr8rstudio/gr8r-studio](https://github.com/gr8rstudio/gr8r-studio) - Gr8r Studio: a calm, structured project management workspace. Vite + plain ES modules.
@@ -1312,7 +1313,7 @@
 - [vinitshahdeo/github-stars-feed](https://github.com/vinitshahdeo/github-stars-feed) - Get the latest feed of GitHub Stars out there! 🌟  ⭐  ✨
 - [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses) - A list of /uses pages detailing developer setups, gear, software and configs.
 - [SamurAIGPT/Vibe-Workflow](https://github.com/SamurAIGPT/Vibe-Workflow) - Free, open-source alternative to Weavy AI, Krea Nodes, Freepik Spaces & FloraFauna AI — node-based AI workflow builder for generative image & video pipelines
-- [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) - Uncensored Open-source alternative to AI video platforms — Free AI image & video generation studio with 600+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.
+- [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) - Uncensored Open-source alternative to AI video platforms — Free AI image & video generation studio with 800+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.
 - [jrubiosainz/squad-budget-tokens-extension](https://github.com/jrubiosainz/squad-budget-tokens-extension) - Token budget guard for GitHub Copilot CLI Squad sessions. Local dashboard + per-agent live token consumption (input/output/cached) + autopilot kill-switch.
 - [darkzOGx/youtube-automation-agent](https://github.com/darkzOGx/youtube-automation-agent) - 🎬 Open-source, self-hosted AI agent that runs a YouTube channel end to end: researches topics, writes scripts, generates narration, visuals and video, optimizes SEO, and publishes after your approval,
 - [derek-larson14/obsidian-claude-anywhere](https://github.com/derek-larson14/obsidian-claude-anywhere) - Your Mac's Claude Code, from your phone or tablet
@@ -1322,7 +1323,7 @@
 - [DamianEdwards/copilot-cli-cost](https://github.com/DamianEdwards/copilot-cli-cost) - Copilot CLI extension that shows real-time estimated session cost.
 - [Z1Code/gcp-oauth-automator](https://github.com/Z1Code/gcp-oauth-automator) - Automate Google OAuth 2.0 Web Client ID creation in GCP using Playwright on macOS
 - [bergside/design-md-chrome](https://github.com/bergside/design-md-chrome) - Chrome extension to extract styles from any website and generate DESIGN.md files and design skills for AI based on TypeUI
-- [mksglu/context-mode](https://github.com/mksglu/context-mode) - Free, local plugin that keeps tool output out of your coding agent's context window. Sandbox and SQLite FTS5 search, 99% fewer bytes in context. Works with Claude Code, Codex, Pi, OpenCode, Gemini CLI
+- [mksglu/context-mode](https://github.com/mksglu/context-mode) - Free, local plugin that keeps tool output out of your coding agent's context window. Sandbox and SQLite FTS5 search, 99% fewer bytes in context. Works with Claude Code, Codex, Pi, OMP, OpenCode, Gemin
 - [jcarlosrodicio/opencode-agent-orchestration-kit](https://github.com/jcarlosrodicio/opencode-agent-orchestration-kit) - Open-source multi-agent orchestration harness for OpenCode — specialized agents, durable workflows, research, planning, implementation, review, and validation.
 - [addyosmani/agentic-seo](https://github.com/addyosmani/agentic-seo) - Agentic SEO / Agentic Engine Optimization (AEO) tools
 - [haflidif/squad-on-aca](https://github.com/haflidif/squad-on-aca) - Squad agents on Azure Container App Jobs — event-driven, serverless agent orchestration
@@ -1696,7 +1697,6 @@
 - [RookieEnough/Orion-Store](https://github.com/RookieEnough/Orion-Store) - The ultimate home for Open Source and Cleaned apps. OrionStore offers instant access to YouTube Morphe, YT Music Morphe, and essential open-source tools without the clutter. No servers, no tracking, j
 - [komi-store/komi-store](https://github.com/komi-store/komi-store) - 🩵 A free, open-source app store for developers' releases on GitHub, Codeberg & Forgejo — browse, discover, and install apps with one click. Formerly GitHub Store.
 - [mhss1/MyBrain](https://github.com/mhss1/MyBrain) - All-in-one productivity app and AI assistant with Tasks, Notes, Calendar, Diary and Bookmarks.
-- [societe-generale/github-crawler](https://github.com/societe-generale/github-crawler) - a utility to crawl all your repositories and find the information you need - now also working for Gitlab !
 - [team-spotube/spotube](https://github.com/team-spotube/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 - [thoughtworks/metrik](https://github.com/thoughtworks/metrik) - An easy-to-use, cross-platform measurement tool that pulls data out of CD pipelines and analysis the four key metrics for you.
 - [mobile-dev-inc/Maestro](https://github.com/mobile-dev-inc/Maestro) - Painless E2E Automation for Mobile and Web
@@ -2290,6 +2290,7 @@
 - [github/agentfinder-catalog](https://github.com/github/agentfinder-catalog) - 
 - [felipebasurto/viajante](https://github.com/felipebasurto/viajante) - Flight and hotel search for the terminal, Python, and AI assistants.
 - [BenjaMartinezV/Mousecli](https://github.com/BenjaMartinezV/Mousecli) - Convierte tu teléfono en un control de presentaciones: diapositivas, puntero láser, volumen, mouse y timer.
+- [atlassian/atlassian-mcp-server](https://github.com/atlassian/atlassian-mcp-server) - Official remote MCP server for Atlassian. Securely connect Jira, Confluence, Jira Service Management, Bitbucket, and Compass to Claude, ChatGPT, Cursor, VS Code, and other AI tools using OAuth 2.1 or 
 - [wesbos/photo-frame-dashboard](https://github.com/wesbos/photo-frame-dashboard) - Getting ADB, root, backups and custom apps onto locked-down Android photo frames (Skylight Calendar, BIUFRAME)
 - [roryclear/clearcam](https://github.com/roryclear/clearcam) - Add object detection, tracking, mobile notifications, and search to any security camera.
 - [tigerless-labs/autoharness](https://github.com/tigerless-labs/autoharness) - Building the self-learning layer next-gen agents will ship with, learning skills from real work.
@@ -2316,7 +2317,7 @@
 - [rub3n88/orca-nan](https://github.com/rub3n88/orca-nan) - Tu suscripción de NaN (nan.builders) dentro de Orca: script nan + plugin NaN Usage
 - [bhimrazy/receipt-ocr](https://github.com/bhimrazy/receipt-ocr) - An efficient OCR engine for receipt image processing.
 - [XMihura/Kanvas](https://github.com/XMihura/Kanvas) - Manage projects visually with humans and AI agents
-- [SenteLabsAI/OpenExecutive](https://github.com/SenteLabsAI/OpenExecutive) - AI-powered virtual executive team — a single coherent executive persona backed by 8 specialist agents (FastAPI + Next.js).
+- [ForeactLabs/OpenExecutive](https://github.com/ForeactLabs/OpenExecutive) - AI-powered virtual executive team — a single coherent executive persona backed by 8 specialist agents (FastAPI + Next.js).
 - [graphdeco-inria/gaussian-splatting](https://github.com/graphdeco-inria/gaussian-splatting) - Original reference implementation of "3D Gaussian Splatting for Real-Time Radiance Field Rendering"
 - [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken) - FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.
 - [potalora/strand](https://github.com/potalora/strand) - Local-first, self-hosted personal health records. Ingests FHIR, Epic EHI, and CDA/XDM exports plus scanned PDFs/RTF/TIFF into one FHIR timeline, with de-identified AI summaries. HIPAA-informed control
@@ -2815,7 +2816,7 @@
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [pawelrychlik/jira-dependency-graph](https://github.com/pawelrychlik/jira-dependency-graph) - Graph visualizer for JIRA tickets' dependencies
 - [lra/mackup](https://github.com/lra/mackup) - Backup and keep your application settings in sync.
-- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
+- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — The agent-native framework for data apps and dashboards.
 - [wireviz/WireViz](https://github.com/wireviz/WireViz) - Easily document cables and wiring harnesses.
 - [robotframework/robotframework](https://github.com/robotframework/robotframework) - Generic automation framework for acceptance testing and RPA
 - [behave/behave](https://github.com/behave/behave) - BDD, Python style.
@@ -3092,7 +3093,7 @@
 - [jhk0530/showmaker](https://github.com/jhk0530/showmaker) - Markdown to Slide
 - [dacort/s3grep](https://github.com/dacort/s3grep) - CLI tool for searching logs and unstructured content in Amazon S3 buckets
 - [ferriskey/ferriskey](https://github.com/ferriskey/ferriskey) - FerrisKey is an open-source IAM solution designed for modern cloud-native environments, high-performance and written in Rust.
-- [meta/pyrefly](https://github.com/meta/pyrefly) - A fast type checker and language server for Python
+- [pyrefly-org/pyrefly](https://github.com/pyrefly-org/pyrefly) - A fast type checker and language server for Python
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [fastrepl/anarlog](https://github.com/fastrepl/anarlog) - Open source Granola AI Alternative
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
@@ -3100,7 +3101,7 @@
 - [theopfr/somo](https://github.com/theopfr/somo) - A human-friendly alternative to netstat for socket and port monitoring on Linux and macOS.
 - [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
 - [lapce/lapdev](https://github.com/lapce/lapdev) - Seamless dev environments for Kubernetes
-- [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy-first AI meeting note taker for Windows and macOS. Free, open source (MIT). On-device Whisper/Parakeet transcription and speaker diarization, no meeting bot. Open-source alternative to Granola
+- [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy-first AI meeting note taker for Windows, macOS and Linux. Free, open source (MIT). On-device Whisper/Parakeet transcription and speaker diarization, no meeting bot. Open-source alternative to 
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [medialab/xan](https://github.com/medialab/xan) - The CSV magician
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
@@ -3245,7 +3246,7 @@
 - [verkyyi/github-agent-runner](https://github.com/verkyyi/github-agent-runner) - Claude Code plugin to discover and install GitHub agentic workflows (gh-aw) into your repo
 - [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) - Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.
 - [TheMorpheus407/RepoLens](https://github.com/TheMorpheus407/RepoLens) - Multi-lens code audit tool — 280 expert AI agents for code review, security testing, and infrastructure auditing
-- [jcesarperez/claude-em](https://github.com/jcesarperez/claude-em) - 
+- [jcesarperez/claude-em](https://github.com/jcesarperez/claude-em) - Turns Claude Code into an Engineering Manager operating system: your team's context plus skills for planning, epics, 1:1s and performance reviews.
 - [microsoft/azure-skills](https://github.com/microsoft/azure-skills) - Official agent plugin providing skills and MCP server configurations for Azure scenarios.
 - [ericboy0224/learn-docker-and-k8s](https://github.com/ericboy0224/learn-docker-and-k8s) - Interactive AI-driven game to learn Docker, Linux, networking & Kubernetes. Open in Claude Code or Cursor, type 'let's play'.
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Open-source Mac and PC cleaner. Keep your machine clean, light, and running like new. Fast CLI, plus native Mac and Windows apps.
@@ -3511,6 +3512,8 @@
 
 ## TypeScript 
 
+- [kuehn-lars/CouchCourt](https://github.com/kuehn-lars/CouchCourt) - Living-room tennis where your iPhone is the racket. Scan a QR code, swing to hit. No app, no account.
+- [githubnext/ace](https://github.com/githubnext/ace) - A tool for building software with your team, locally.
 - [vercel-labs/issue-graph](https://github.com/vercel-labs/issue-graph) - Find related issues, competing changes, and unresolved follow-ups before you start work.
 - [diegomarino/marplanner](https://github.com/diegomarino/marplanner) - Self-hosted family planner for a wall tablet: shared calendar, chores with streaks, meals, reminders and a printed morning briefing for every kid. API-first, EN/ES.
 - [vercel-labs/eve-software-factory-template](https://github.com/vercel-labs/eve-software-factory-template) - Meet Foreman, an eve Software Factory.
@@ -3555,7 +3558,7 @@
 - [Gimanh/taskview-community](https://github.com/Gimanh/taskview-community) - TaskView is a self-hosted project and task management platform focused on clarity, ownership, and control. TaskView is built for teams that want a transparent, self-hosted alternative to SaaS task man
 - [ilkerzg/storycast](https://github.com/ilkerzg/storycast) - Type a topic. Get a story.
 - [every-app/open-seo](https://github.com/every-app/open-seo) - Open source alternative to Semrush and Ahrefs
-- [CopilotKit/openmuse](https://github.com/CopilotKit/openmuse) - A personal agent with a browser, terminal, files, and work that keeps going built with CopilotKit and AG-UI.
+- [CopilotKit/openfuse](https://github.com/CopilotKit/openfuse) - A personal agent with a browser, terminal, files, and work that keeps going built with CopilotKit and AG-UI.
 - [ai-sdlc-framework/ai-sdlc](https://github.com/ai-sdlc-framework/ai-sdlc) - Declarative governance framework for AI-augmented software development lifecycles
 - [CTNicholas/jev-workflow-builder](https://github.com/CTNicholas/jev-workflow-builder) - 
 - [westpoint-io/mimik](https://github.com/westpoint-io/mimik) - 🎬 A browser extension and desktop app that turns your clicks into step-by-step guides with annotated screenshots 📖
@@ -3577,7 +3580,7 @@
 - [totec448-spec/chat-on-steroids](https://github.com/totec448-spec/chat-on-steroids) - Cross-platform local MCP capabilities for ChatGPT with Chrome integration, Goal, Compact & Resume, and durable multi-agent workflows.
 - [DarelShroo/tapo-camera](https://github.com/DarelShroo/tapo-camera) - 
 - [coldteadotai/pr-lens](https://github.com/coldteadotai/pr-lens) - The fastest way to understand code
-- [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector) - Open-source auth gateway connecting 1500+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.
+- [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector) - Open-source auth gateway connecting 1700+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.
 - [cryskai/crysk](https://github.com/cryskai/crysk) - Multi-agent PR review engine for Claude Code and OpenCode: parallel specialty hunters, an adversarial refuter that challenges every severe finding, and deterministic blocking/advisory tiers. High prec
 - [ashemag/human-atlas](https://github.com/ashemag/human-atlas) - Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.
 - [anomalyco/models.dev](https://github.com/anomalyco/models.dev) - An open-source database of AI models.
@@ -4250,7 +4253,7 @@
 - [inovector/mixpost](https://github.com/inovector/mixpost) - 📅 Schedule, 📢 publish, and ⚡ manage your social media content on your server. No subscriptions, no limits. (Buffer alternative)
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
-- [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
+- [homer-dashboard/homer](https://github.com/homer-dashboard/homer) - A very simple static homepage for your server.
 - [zhangxin840/tomato5](https://github.com/zhangxin840/tomato5) - Tomato5 is a real-time collaboration tool.
 - [salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever) - :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
 - [labex-labs/python-cheatsheet](https://github.com/labex-labs/python-cheatsheet) - A comprehensive Python cheat sheet with code examples, built-in functions, module references, and hands-on labs by LabEx.
